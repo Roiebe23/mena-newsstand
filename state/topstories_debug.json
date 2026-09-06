@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T06:29:37.994561+00:00",
+  "updated": "2026-09-06T07:02:58.026356+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,21 +167,22 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T06:27:53.848179+00:00"
+      "headlines_updated": "2026-09-06T07:01:11.762718+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 14,
-        "title_snippet": 33,
-        "title_translated": 1,
+        "dropped_stale": 15,
+        "title_snippet": 23,
+        "title_translated": 2,
         "title_native": 84,
+        "dropped_no_english": 8,
         "in": 132,
-        "kept": 118
+        "kept": 109
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 33,
+        "requested": 31,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -205,6 +206,11 @@
         {
           "source": "Jordan Times",
           "title": "RCJA warns Israeli curriculum threatens East Jerusalem’s Arab-Palestinian identity",
+          "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "\"سرايا القدس\" تشتبك مع ميليشيات بخانيونس حاولت اختطاف أحد المقاومين قبل اغتياله",
           "reason": "stale (older than 48h)"
         },
         {
@@ -256,12 +262,52 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "فرنسا: تظاهرة في باريس تطالب بفرض عقوبات على \"إسرائيل\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "«سرايا القدس» تشتبك مع «ميليشيات عميلة» في خان يونس",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "الرئيس الصيني يعتزم اصطحاب رجال أعمال إلى واشنطن",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "حزب الله: العدو يدوس «إطار» السلطة... والإفراج عن أسرى لا يبرّر الاستمرار في مسار أثبت فشله",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "موسكو توقف هجماتها على كييف لثلاثة أيام... وتدعو واشنطن لمراعاة الواقع في أيّ تسوية",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "من صوماليلاند شرقاً إلى الكاميرون غرباً: «حزام إسرائيلي» يشقّ أفريقيا",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Manar",
+          "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:3",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "هل يعالج مونجارو انقطاع النفس النومي؟ دراسة توضح",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 118,
-      "kept": 72,
+      "in": 109,
+      "kept": 65,
       "dropped": [
         {
           "source": "Kan 11",
@@ -370,13 +416,6 @@
         },
         {
           "source": "Al Mayadeen",
-          "title": "An Israeli poll indicates that 83% hold Netanyahu responsible for the failures on October 7th.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al Mayadeen",
           "title": "Putin met with Trump envoys Witkoff and Kushner in Moscow.",
           "sec": 0,
           "off": 0,
@@ -460,20 +499,6 @@
           "reason": "disaster/accident with no conflict dimension"
         },
         {
-          "source": "Al-Akhbar",
-          "title": "The Chinese President intends to bring businessmen to Washington.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al-Akhbar",
-          "title": "An 'Israeli corridor' is extending across Africa, from Somaliland in the east to Cameroon in the west.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
           "source": "Al Manar",
           "title": "Lebanese MP Dr.",
           "sec": 0,
@@ -489,14 +514,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "An 'Israeli' poll shows 83% hold Netanyahu responsible for the failure on October 7th.",
+          "title": "Cuba's Foreign Ministry called on Israel to stop killing civilians in Lebanon.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "Cuba's Foreign Ministry called on Israel to stop killing civilians in Lebanon.",
+          "title": "Current Events",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -584,14 +609,21 @@
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "TRT World",
+          "title": "Israel considers new 'security zone' up to 4 km inside Lebanon — report",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
         }
       ]
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 47,
+      "clusters": 42,
       "sizes": [
-        7,
+        6,
         5,
         5,
         3,
@@ -601,11 +633,6 @@
         2,
         2,
         2,
-        2,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -649,14 +676,13 @@
           "selected_rank": 1,
           "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
           "rank_key": {
-            "outlets": 7,
+            "outlets": 6,
             "camps": 3,
             "newest": "2026-09-05T22:56+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
             "Al Jazeera",
-            "Al-Akhbar",
             "Anadolu Agency",
             "Daily Sabah",
             "SANA",
@@ -667,7 +693,7 @@
             "levant",
             "turkish"
           ],
-          "members": 7,
+          "members": 6,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -683,17 +709,12 @@
             "passed_over": [
               {
                 "source": "Al Jazeera",
-                "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
                 "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Al Arabiya",
                 "title": "Putin meets US envoys for Ukraine war talks",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al-Akhbar",
-                "title": "Moscow halted its attacks on Kyiv for three days and called on Washington to con",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -812,6 +833,44 @@
         },
         {
           "selected_rank": 4,
+          "headline": "IRGC hits US aircraft carrier, destroyer with missiles",
+          "rank_key": {
+            "outlets": 3,
+            "camps": 2,
+            "newest": "2026-09-06T05:53+00:00"
+          },
+          "outlet_names": [
+            "Anadolu Agency",
+            "IRNA",
+            "Mehr News"
+          ],
+          "camps": [
+            "iranian",
+            "turkish"
+          ],
+          "members": 3,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "Mehr News",
+            "title": "IRGC hits US aircraft carrier, destroyer with missiles",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "state/partisan outlet (last resort)",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Anadolu Agency",
+                "title": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 5,
           "headline": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
           "rank_key": {
             "outlets": 3,
@@ -819,9 +878,9 @@
             "newest": "2026-09-06T04:48+00:00"
           },
           "outlet_names": [
-            "Al-Akhbar",
             "Kan 11",
-            "L'Orient Today"
+            "L'Orient Today",
+            "N12"
           ],
           "camps": [
             "israeli",
@@ -845,17 +904,12 @@
                 "source": "L'Orient Today",
                 "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
                 "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al-Akhbar",
-                "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and r",
-                "rejected_by": "loaded/partisan wording"
               }
             ]
           }
         },
         {
-          "selected_rank": 5,
+          "selected_rank": null,
           "headline": "Gaza death toll rises to 73,651 since October 2023",
           "rank_key": {
             "outlets": 3,
@@ -885,49 +939,6 @@
               "outlet's own English headline"
             ],
             "passed_over": []
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "The IDF attacked targets in southern Lebanon, including a Hezbollah underground complex, in response",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-06T03:00+00:00"
-          },
-          "outlet_names": [
-            "Al Manar",
-            "N12"
-          ],
-          "camps": [
-            "israeli",
-            "levant"
-          ],
-          "members": 3,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "N12",
-            "title": "The IDF attacked targets in southern Lebanon, including a Hezbollah underground complex, in response to a…",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah_south)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "The Israeli enemy carried out several attacks in southern Lebanon.",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Manar",
-                "title": "The Israeli occupation army continued its aggression in southern Lebanon, carryi",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
           }
         },
         {
@@ -1001,52 +1012,15 @@
         },
         {
           "selected_rank": null,
-          "headline": "IRGC denies reports of attack on nuclear facilities in Isfahan",
+          "headline": "Israeli drone strike kills two in southern Lebanon",
           "rank_key": {
             "outlets": 2,
             "camps": 1,
-            "newest": "2026-09-05T14:36+00:00"
+            "newest": "2026-09-04T18:48+00:00"
           },
           "outlet_names": [
-            "IRNA",
-            "Iran International"
-          ],
-          "camps": [
-            "iranian"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "IRNA",
-            "title": "IRGC denies reports of attack on nuclear facilities in Isfahan",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (nuclear)",
-              "state/partisan outlet (last resort)",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Iran International",
-                "title": "INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Saraya Al-Quds engaged in clashes with 'agent militias' in Khan Yunis.",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": "2026-09-04T09:54+00:00"
-          },
-          "outlet_names": [
-            "Al-Akhbar",
-            "Falastin al-Youm"
+            "Al Manar",
+            "WAFA News"
           ],
           "camps": [
             "levant"
@@ -1055,16 +1029,41 @@
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Al-Akhbar",
-            "title": "Saraya Al-Quds engaged in clashes with 'agent militias' in Khan Yunis.",
-            "title_source": "snippet",
+            "source": "WAFA News",
+            "title": "Israeli drone strike kills two in southern Lebanon",
+            "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hezbollah_south)",
               "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
+              "outlet's own English headline"
             ],
-            "passed_over": []
+            "passed_over": [
+              {
+                "source": "Al Manar",
+                "title": "The Israeli enemy carried out several attacks in southern Lebanon.",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
           }
+        },
+        {
+          "selected_rank": null,
+          "headline": "Iran FM holds phone talks with Saudi, Turkish counterparts",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T06:30+00:00"
+          },
+          "outlet_names": [
+            "IRNA"
+          ],
+          "camps": [
+            "iranian"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
@@ -1079,24 +1078,6 @@
           ],
           "camps": [
             "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T05:53+00:00"
-          },
-          "outlet_names": [
-            "IRNA"
-          ],
-          "camps": [
-            "iranian"
           ],
           "members": 1,
           "qualified": false,
@@ -1169,24 +1150,6 @@
           ],
           "camps": [
             "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T23:28+00:00"
-          },
-          "outlet_names": [
-            "Anadolu Agency"
-          ],
-          "camps": [
-            "turkish"
           ],
           "members": 1,
           "qualified": false,
@@ -1283,7 +1246,25 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "25 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "selected_rank": null,
+          "headline": "Iran's armed forces will deliver more severe strikes against US warships in the region than previous",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T19:27+00:00"
+          },
+          "outlet_names": [
+            "Al Mayadeen"
+          ],
+          "camps": [
+            "panarab"
+          ],
+          "members": 2,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "note": "21 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1301,7 +1282,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T06:31:24.686859+00:00",
+    "last_success": "2026-09-06T07:03:21.310442+00:00",
     "last_failure": null
   },
   "ok": true

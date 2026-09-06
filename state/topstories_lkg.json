@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T09:04:36.007418+00:00",
+  "updated": "2026-09-06T09:39:59.914957+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -68,8 +68,8 @@
           "published": ""
         }
       ],
-      "summary": "Putin held sixth round of Ukraine war talks with US envoys.",
-      "summary_he": "פוטין קיים סבב שיחות שישי בנוגע למלחמת אוקראינה עם שליחי ארה\"ב."
+      "summary": "Kremlin says Putin held 'extremely frank' Ukraine war talks with US envoys.",
+      "summary_he": "הקרמלין מוסר כי פוטין קיים שיחות 'כנות ביותר' על המלחמה באוקראינה עם שליחי ארה\"ב."
     },
     {
       "rank": 2,
@@ -130,8 +130,8 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador called violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי השקט בגדה המערבית."
+      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' בצל אי-שקט בגדה המערבית."
     },
     {
       "rank": 3,
@@ -189,65 +189,13 @@
           "title_he": "",
           "url": "https://iranintl.com/en/202609048845",
           "published": ""
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609042909",
-          "published": ""
         }
       ],
-      "summary": "IRGC attacked a US unmanned vessel in the Strait of Hormuz.",
-      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב במצר הורמוז."
+      "summary": "IRGC attacks US unmanned vessel seeking access to the Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב שניסה להיכנס למצר הורמוז."
     },
     {
       "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "israeli",
-        "levant"
-      ],
-      "rep": {
-        "source": "N12",
-        "category": "israeli",
-        "title": "Following a drone launch, the Israeli military is conducting strikes in southern Lebanon targeting…",
-        "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
-        "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
-        "published": "2026-09-06T03:00:00+00:00"
-      },
-      "members": [
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "Following a drone launch, the Israeli military is conducting strikes in southern Lebanon targeting…",
-          "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
-          "published": "2026-09-06T03:00:00+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes reportedly targeting specific…",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
-          "published": ""
-        }
-      ],
-      "summary": "Israeli military is conducting strikes in southern Lebanon following a drone launch.",
-      "summary_he": "צבא ישראל עורך תקיפות בדרום לבנון בעקבות שיגור כטב\"ם."
-    },
-    {
-      "rank": 5,
       "outlets": 3,
       "categories": [
         "iranian",
@@ -287,8 +235,44 @@
           "published": "2026-09-05T15:41:26+00:00"
         }
       ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023, health ministry says.",
-      "summary_he": "משרד הבריאות בעזה מדווח כי מניין ההרוגים עלה ל-73,651 מאז אוקטובר 2023."
+      "summary": "Gaza death toll rises to 73,651 since October 2023.",
+      "summary_he": "מספר ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
+    },
+    {
+      "rank": 5,
+      "outlets": 2,
+      "categories": [
+        "panarab",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
+        "published": "2026-09-06T07:35:03+00:00"
+      },
+      "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
+          "published": "2026-09-06T07:35:03+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "NATO will not tolerate hybrid actions against members, US envoy says",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/nato-will-not-tolerate-hybrid-actions-against-members-us-envoy-says",
+          "published": "2026-09-05T15:15:00+00:00"
+        }
+      ],
+      "summary": "US envoy says NATO will not tolerate hybrid attacks against allies.",
+      "summary_he": "שליח ארה\"ב אומר כי נאט\"ו לא תסבול התקפות היברידיות נגד בעלות בריתה."
     }
   ]
 }

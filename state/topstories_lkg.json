@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:19:46.853582+00:00",
+  "updated": "2026-09-06T12:51:24.016240+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -23,7 +23,7 @@
         {
           "source": "N12",
           "category": "israeli",
-          "title": "The United States conducted a secret operation in the Strait of Hormuz, involving divers and advanced…",
+          "title": "The United States recently concluded a covert operation in the Strait of Hormuz focused on clearing naval…",
           "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
           "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
           "published": "2026-09-06T11:40:00+00:00"
@@ -69,12 +69,12 @@
           "published": ""
         }
       ],
-      "summary": "United States conducted a secret operation in the Strait of Hormuz.",
-      "summary_he": "ארצות הברית ערכה מבצע חשאי במצר הורמוז."
+      "summary": "United States concludes covert naval operation in Strait of Hormuz after Iran hit a US drone.",
+      "summary_he": "ארצות הברית השלימה מבצע ימי חשאי במצר הורמוז לאחר שאיראן פגעה במל\"ט אמריקאי."
     },
     {
       "rank": 2,
-      "outlets": 5,
+      "outlets": 6,
       "categories": [
         "gulf",
         "panarab",
@@ -82,14 +82,22 @@
         "turkish"
       ],
       "rep": {
-        "source": "Jordan Times",
+        "source": "Falastin al-Youm",
         "category": "levant",
-        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+        "title": "Settlers have raided the Al-Aqsa Mosque.",
         "title_he": "",
-        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-        "published": "2026-09-05T14:56:07+00:00"
+        "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+        "published": "2026-09-06T10:30:00+00:00"
       },
       "members": [
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Settlers have raided the Al-Aqsa Mosque.",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+          "published": "2026-09-06T10:30:00+00:00"
+        },
         {
           "source": "SANA",
           "category": "levant",
@@ -131,11 +139,62 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע המהומות בגדה המערבית."
+      "summary": "Settlers raided Al-Aqsa Mosque.",
+      "summary_he": "מתנחלים פשטו על מסגד אל-אקצא."
     },
     {
       "rank": 3,
+      "outlets": 4,
+      "categories": [
+        "levant"
+      ],
+      "rep": {
+        "source": "SANA",
+        "category": "levant",
+        "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340780/",
+        "published": "2026-09-06T10:52:43+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
+          "published": ""
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon.",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1152587/",
+          "published": ""
+        }
+      ],
+      "summary": "Israeli strikes on Nabatieh, southern Lebanon, killed four and injured 20.",
+      "summary_he": "תקיפות ישראליות בנבטיה, דרום לבנון, הרגו ארבעה ופצעו 20."
+    },
+    {
+      "rank": 4,
       "outlets": 3,
       "categories": [
         "panarab",
@@ -176,52 +235,8 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "Putin held Ukraine war talks with US envoys, Kremlin describes as 'frank'.",
-      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחי ארה\"ב, הקרמלין תיארן כ'גלויות מאוד'."
-    },
-    {
-      "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Daily Sabah",
-        "category": "turkish",
-        "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
-        "title_he": "",
-        "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
-        "published": "2026-09-06T10:54:00+00:00"
-      },
-      "members": [
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
-          "published": "2026-09-06T10:54:00+00:00"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "The bodies of 100 martyrs, recovered from under the rubble in the Zeitoun neighborhood, were laid to rest.",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/image/gallery/9926/%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%AC%D8%AB%D8%A7%D9%85%D9%8A%D9%86-100-%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%86%D8%AA-%D8%B4%D9%84%D8%AA",
-          "published": "2026-09-06T09:23:40+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Gaza holds funeral for 100 Palestinians recovered from rubble of destroyed homes",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
-          "published": "2026-09-06T09:06:08+00:00"
-        }
-      ],
-      "summary": "Gaza holds funeral for 100 crushed under homes destroyed by Israel.",
-      "summary_he": "עזה קיימה הלוויה ל-100 שנהרגו תחת בתים שנהרסו על ידי ישראל."
+      "summary": "Putin held Ukraine war talks with US envoys.",
+      "summary_he": "פוטין קיים שיחות מלחמת אוקראינה עם שליחי ארה\"ב."
     },
     {
       "rank": 5,
@@ -264,8 +279,8 @@
           "published": "2026-09-06T05:00:48+00:00"
         }
       ],
-      "summary": "Iran's IRGC says US blockade could cost Washington more than Tehran.",
-      "summary_he": "משמרות המהפכה באיראן אומרים כי המצור האמריקאי יעלה לוושינגטון יותר מאשר לטהראן."
+      "summary": "Iran’s IRGC says US blockade could cost Washington more than Iran.",
+      "summary_he": "משמרות המהפכה של איראן טוענים כי מצור אמריקאי עלול לעלות לוושינגטון יותר מאיראן."
     }
   ]
 }

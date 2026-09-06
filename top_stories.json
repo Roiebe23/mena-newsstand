@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T15:00:05.575058+00:00",
+  "updated": "2026-09-06T15:31:42.588341+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 7,
+      "outlets": 6,
       "categories": [
         "panarab",
         "levant",
@@ -68,14 +68,6 @@
           "published": "2026-09-05T20:49:00+00:00"
         },
         {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Moscow has halted its attacks on Kyiv for three days and called on Washington to consider the reality in any…",
-          "title_he": "",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
-          "published": "2026-09-05T11:03:00+00:00"
-        },
-        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -84,12 +76,12 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for second leg of Ukraine diplomacy.",
-      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לשלב השני של המאמץ הדיפלומטי באוקראינה."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace diplomacy.",
+      "summary_he": "שליחי ארה\"ב וויטקוף וקושנר הגיעו לקייב לדיפלומטיה לשלום באוקראינה."
     },
     {
       "rank": 2,
-      "outlets": 6,
+      "outlets": 5,
       "categories": [
         "gulf",
         "panarab",
@@ -97,22 +89,14 @@
         "turkish"
       ],
       "rep": {
-        "source": "Falastin al-Youm",
+        "source": "Jordan Times",
         "category": "levant",
-        "title": "Settlers stormed Al-Aqsa Mosque.",
+        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
         "title_he": "",
-        "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
-        "published": "2026-09-06T10:30:00+00:00"
+        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+        "published": "2026-09-05T14:56:07+00:00"
       },
       "members": [
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "Settlers stormed Al-Aqsa Mosque.",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
-          "published": "2026-09-06T10:30:00+00:00"
-        },
         {
           "source": "SANA",
           "category": "levant",
@@ -154,15 +138,14 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Settlers stormed Al-Aqsa Mosque.",
-      "summary_he": "מתנחלים הסתערו על מסגד אל-אקצא."
+      "summary": "US ambassador labels violent Israeli settlers in West Bank as 'terrorists'.",
+      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים בגדה המערבית 'טרוריסטים'."
     },
     {
       "rank": 3,
-      "outlets": 5,
+      "outlets": 4,
       "categories": [
         "israeli",
-        "gulf",
         "iranian"
       ],
       "rep": {
@@ -191,14 +174,6 @@
           "published": "2026-09-06T06:00:23+00:00"
         },
         {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
           "source": "Mehr News",
           "category": "iranian",
           "title": "IRGC Navy issues stark warning to vessels in Hormuz",
@@ -215,104 +190,97 @@
           "published": ""
         }
       ],
-      "summary": "Financial Times revealed a US-led operation in the Strait of Hormuz.",
-      "summary_he": "הפייננשל טיימס חשף מבצע בהובלת ארה\"ב במצר הורמוז."
+      "summary": "Financial Times reveals a US-led complex operation in the Strait of Hormuz.",
+      "summary_he": "ה\"פייננשל טיימס\" חושף מבצע מורכב בהובלת ארה\"ב במצר הורמוז."
     },
     {
       "rank": 4,
       "outlets": 3,
       "categories": [
-        "israeli",
-        "levant"
+        "panarab",
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "A senior official from the National Security Council warned that Iran, Hezbollah, and Hamas are enhancing…",
-        "title_he": "גורם בכיר במל\"ל מזהיר: איראן, חיזבאללה וחמאס משפרים את יכולתיהם לפעול בחו\"ל נגד ישראלים",
-        "url": "https://kan.org.il/content/kan-news/local/1096454/",
-        "published": "2026-09-06T14:49:29+00:00"
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+        "published": "2026-09-06T13:14:20+00:00"
       },
       "members": [
         {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "A senior official from the National Security Council warned that Iran, Hezbollah, and Hamas are enhancing…",
-          "title_he": "גורם בכיר במל\"ל מזהיר: איראן, חיזבאללה וחמאס משפרים את יכולתיהם לפעול בחו\"ל נגד ישראלים",
-          "url": "https://kan.org.il/content/kan-news/local/1096454/",
-          "published": "2026-09-06T14:49:29+00:00"
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+          "published": "2026-09-06T13:14:20+00:00"
         },
         {
-          "source": "Al-Akhbar",
+          "source": "Jordan Times",
           "category": "levant",
-          "title": "Hezbollah stated that the enemy is trampling the framework of authority, and the release of prisoners does…",
+          "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
           "title_he": "",
-          "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
-          "published": "2026-09-05T11:57:09+00:00"
+          "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
+          "published": "2026-09-05T23:02:37+00:00"
         },
         {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "Hezbollah stated that the continued pursuit of this \"absurd, illegal, and unconstitutional path\" by the…",
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "5 , How significant are the Yemeni government’s military gains against Houthis?",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1154622/",
+          "url": "https://aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis",
           "published": ""
         }
       ],
-      "summary": "Senior National Security Council official warned Iran, Hezbollah, Hamas are enhancing capabilities.",
-      "summary_he": "בכיר במועצה לביטחון לאומי הזהיר שאיראן, חיזבאללה וחמאס מתחזקים."
+      "summary": "Yemeni government forces claim inflicting heavy losses on Houthis in Taiz.",
+      "summary_he": "כוחות הממשלה התימנית טוענים שהסבו אבדות כבדות לחות'ים בטאעז."
     },
     {
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "panarab",
-        "levant"
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "Al Arabiya",
-        "category": "panarab",
-        "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+        "source": "Egypt Independent",
+        "category": "levant",
+        "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
         "title_he": "",
-        "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-        "published": "2026-09-06T09:30:08+00:00"
+        "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+        "published": "2026-09-06T13:02:11+00:00"
       },
       "members": [
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
-          "title_he": "",
-          "url": "https://sana.sy/en/international/2340834/",
-          "published": "2026-09-06T13:36:50+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "published": "2026-09-06T10:52:43+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-          "published": "2026-09-06T09:30:08+00:00"
-        },
-        {
           "source": "WAFA News",
           "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "published": "2026-09-06T13:53:45+00:00"
+        },
+        {
+          "source": "Egypt Independent",
+          "category": "levant",
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+          "title_he": "",
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+          "published": "2026-09-06T13:02:11+00:00"
+        },
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Türkiye, 7 nations condemn Israeli ministers' calls to displace Palestinians from Gaza",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/turkiye/turkiye-7-nations-condemn-israeli-ministers-calls-to-displace-palestinians-from-gaza/4048804",
+          "published": "2026-09-06T11:17:57+00:00"
         }
       ],
-      "summary": "Israeli strikes destroyed a hospital in southern Lebanon.",
-      "summary_he": "תקיפות ישראליות הרסו בית חולים בדרום לבנון."
+      "summary": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza.",
+      "summary_he": "שמונה מדינות מגנות קריאות שרים ישראלים לעקירת פלסטינים מעזה."
     }
   ]
 }

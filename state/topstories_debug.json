@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T08:39:36.036343+00:00",
+  "updated": "2026-09-06T09:04:16.157067+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -139,7 +139,7 @@
         "Al-Masirah": {
           "headlines": 2,
           "lang": "ar",
-          "stale": true,
+          "stale": false,
           "error": null
         },
         "Anadolu Agency": {
@@ -167,7 +167,7 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T08:37:19.490808+00:00"
+      "headlines_updated": "2026-09-06T09:02:21.402221+00:00"
     },
     "normalize": {
       "stats": {
@@ -251,32 +251,25 @@
     },
     "relevance": {
       "in": 120,
-      "kept": 76,
+      "kept": 73,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Following a joint statement, Saglovich stated that individuals make personal decisions based on the political…",
+          "title": "Hili Tropper and Yoaz Hendel officially announced their separation, stating that personal decisions were made…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "A worker, approximately 30 years old, sustained serious injuries while working in Arraba.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Kan 11",
-          "title": "Swastikas were spray-painted at a school in Pardes Hanna, and the art classroom was broken into and…",
+          "title": "A worker, approximately 30 years old, sustained severe injuries while working in Arava.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "Egyptian television presenter Sarah Khalifa and eleven others have been sentenced to death by hanging for…",
+          "title": "Egyptian television presenter Sarah Khalifa and 11 others have been sentenced to death by hanging in Egypt…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -290,35 +283,42 @@
         },
         {
           "source": "Channel 13",
-          "title": "This entry is a placeholder for news about 'The Voice', season 6, episode 25, featuring the finale.",
+          "title": "This entry refers to Episode 25, the finale of Season 6 of \"The Voice.\"",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Emma Ziza Cohen's semi-final performance has been lauded, with comments suggesting she is deserving of a…",
+          "title": "Emma Ziza Cohen's semi-final performance on \"The Voice\" received praise, with comments suggesting she is…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Tair Amram Shmuel's semi-final performance has been praised for her adherence to her truth throughout the…",
+          "title": "Tair Amram Shmuel's semi-final performance on \"The Voice\" was highlighted for her adherence to her own truth…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Tamar Sari's semi-final performance was described as being of international quality.",
+          "title": "Tamar Sari's semi-final performance on \"The Voice\" was described as being of international caliber.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
+          "title": "2 , Egyptian TV presenter sentenced to death in drugs case",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "5 , Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -353,14 +353,21 @@
         },
         {
           "source": "Al Mayadeen",
-          "title": "An Israeli poll indicates that 83% of respondents hold Netanyahu responsible for the failures on October 7th.",
+          "title": "An Israeli poll indicates that 83% hold Netanyahu responsible for the failures related to the events of…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Mayadeen",
-          "title": "Putin met with Trump envoys, including Ghaith Pharaon and Jared Kushner, in Moscow.",
+          "title": "President Putin met with envoys including Trump, Blinken, and Kushner in Moscow.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "At least 37 people have died in Nigeria during an attempt to siphon oil from a pipeline.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -430,42 +437,56 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "The Chinese President intends to bring businessmen to Washington, according to Al Akhbar.",
+          "title": "The Chinese President intends to bring businessmen to Washington.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al-Akhbar",
-          "title": "An 'Israeli belt' stretches across Africa from Somaliland in the east to Cameroon in the west, according to…",
+          "title": "Reports suggest an 'Israeli belt' is stretching across Africa, from Somaliland in the east to Cameroon in the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Lebanese MP Dr.",
+          "title": "Member of Parliament Dr.",
+          "sec": 0,
+          "off": 1,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Al Manar",
+          "title": "Reports question the Israeli narrative of controlling the Ali Taher hills in southern Lebanon, suggesting it…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A bill penalizes American universities that boycott 'Israel', according to paltoday.ps.",
+          "title": "A proposed law would penalize American universities that boycott 'Israel.'",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "An Israeli poll indicates 83% hold Netanyahu responsible for the failure on October 7th, according to…",
+          "title": "An Israeli poll indicates that 83% hold Netanyahu responsible for the failures of October 7.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A study is examining whether Mounjaro treats sleep apnea, according to paltoday.ps.",
+          "title": "Kite flying events were held in 11 Dutch cities in solidarity with the children of Gaza.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "The Follow-up Committee warned that family problems and the resort to weapons threaten social peace.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -502,7 +523,7 @@
           "source": "Daily Sabah",
           "title": "Robert Pattinson plays creepy TV host in ‘Primetime’ at Venice",
           "sec": 0,
-          "off": 1,
+          "off": 2,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -570,15 +591,15 @@
         6,
         6,
         5,
-        4,
+        3,
         3,
         2,
         2,
         2,
         2,
         2,
-        2,
-        2,
+        1,
+        1,
         1,
         1,
         1,
@@ -661,7 +682,7 @@
             "passed_over": [
               {
                 "source": "Al Jazeera",
-                "title": "5 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+                "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -671,7 +692,7 @@
               },
               {
                 "source": "Al-Akhbar",
-                "title": "Moscow has halted attacks on Kyiv for three days and called on Washington to con",
+                "title": "Moscow has halted attacks on Kyiv for three days and urged Washington to conside",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -794,48 +815,43 @@
         },
         {
           "selected_rank": 4,
-          "headline": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+          "headline": "Following a drone launch, the Israeli military is conducting strikes in southern Lebanon targeting…",
           "rank_key": {
-            "outlets": 4,
+            "outlets": 3,
             "camps": 2,
-            "newest": "2026-09-06T06:01+00:00"
+            "newest": "2026-09-06T03:00+00:00"
           },
           "outlet_names": [
             "Al Manar",
-            "Al-Akhbar",
-            "L'Orient Today",
-            "N12"
+            "N12",
+            "WAFA News"
           ],
           "camps": [
             "israeli",
             "levant"
           ],
-          "members": 4,
+          "members": 3,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "L'Orient Today",
-            "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
-            "title_source": "native",
+            "source": "N12",
+            "title": "Following a drone launch, the Israeli military is conducting strikes in southern Lebanon targeting…",
+            "title_source": "snippet",
             "why": [
-              "names 1 of the story's dominant entities (hezbollah)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hezbollah_south)",
+              "neutral-by-default outlet",
+              "derived from the outlet's English snippet"
             ],
             "passed_over": [
               {
-                "source": "N12",
-                "title": "Concerns are high for potential attacks during the day commemorating the October",
-                "rejected_by": "loaded/partisan wording"
-              },
-              {
-                "source": "Al-Akhbar",
-                "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and r",
-                "rejected_by": "loaded/partisan wording"
+                "source": "WAFA News",
+                "title": "Israeli drone strike kills two in southern Lebanon",
+                "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Al Manar",
-                "title": "Hezbollah stated that the continued pursuit of an absurd, illegitimate, and unco",
+                "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes repo",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -914,44 +930,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "In response to drone launches, the IDF is conducting a wave of strikes in southern Lebanon.",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-06T03:00+00:00"
-          },
-          "outlet_names": [
-            "N12",
-            "WAFA News"
-          ],
-          "camps": [
-            "israeli",
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "N12",
-            "title": "In response to drone launches, the IDF is conducting a wave of strikes in southern Lebanon.",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah_south)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": [
-              {
-                "source": "WAFA News",
-                "title": "Israeli drone strike kills two in southern Lebanon",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Fresh Yemen clashes kill more than 60- military, medical sources",
           "rank_key": {
             "outlets": 2,
@@ -984,43 +962,6 @@
                 "source": "Arab News",
                 "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
                 "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "An oil tanker was subjected to a missile attack near Kharg Island, according to paltoday.ps.",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-05T09:22+00:00"
-          },
-          "outlet_names": [
-            "Al Mayadeen",
-            "Falastin al-Youm"
-          ],
-          "camps": [
-            "panarab",
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Falastin al-Youm",
-            "title": "An oil tanker was subjected to a missile attack near Kharg Island, according to paltoday.ps.",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "state/partisan outlet (last resort)",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Mayadeen",
-                "title": "According to Tasnim, a US aggression targeted an Iranian oil tanker near Kharg I",
-                "rejected_by": "loaded/partisan wording"
               }
             ]
           }
@@ -1088,37 +1029,61 @@
         },
         {
           "selected_rank": null,
-          "headline": "A security forces member, David Hovir Amrani, aged 20, was killed in Netanya.",
+          "headline": "Hezbollah stated that the enemy is disregarding the framework of authority, and prisoner releases do",
           "rank_key": {
             "outlets": 2,
             "camps": 1,
-            "newest": "2026-09-05T19:58+00:00"
+            "newest": "2026-09-05T11:57+00:00"
           },
           "outlet_names": [
-            "Kan 11",
-            "N12"
+            "Al Manar",
+            "Al-Akhbar"
           ],
           "camps": [
-            "israeli"
+            "levant"
           ],
           "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Kan 11",
-            "title": "A security forces member, David Hovir Amrani, aged 20, was killed in Netanya.",
+            "source": "Al-Akhbar",
+            "title": "Hezbollah stated that the enemy is disregarding the framework of authority, and prisoner releases do not…",
             "title_source": "snippet",
             "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hezbollah)",
               "neutral-by-default outlet",
               "derived from the outlet's English snippet"
             ],
-            "passed_over": []
+            "passed_over": [
+              {
+                "source": "Al Manar",
+                "title": "Hezbollah stated that the continuation of the current path by the authority prov",
+                "rejected_by": "loaded/partisan wording"
+              }
+            ]
           }
         },
         {
           "selected_rank": null,
-          "headline": "Yan Shamla's detention has been extended in connection with the case of poisoning fruit purée for in",
+          "headline": "Despite a separation from Hili Tropper, sources close to Yoaz Hendel stated he would not withdraw fr",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T08:58+00:00"
+          },
+          "outlet_names": [
+            "Kan 11"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "The detention of Yan Shamla, suspected of poisoning infant formula with the drug Prinox, has been ex",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1226,7 +1191,25 @@
         },
         {
           "selected_rank": null,
-          "headline": "The IDF has launched a surprise drill to assess readiness for a multi-front, sudden escalation scena",
+          "headline": "Iran and Hezbollah are reportedly expanding terror efforts against Israelis abroad, raising concerns",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T06:01+00:00"
+          },
+          "outlet_names": [
+            "N12"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "The Israeli military has launched a surprise drill to assess its readiness for a multi-front scenari",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1297,43 +1280,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "selected_rank": null,
-          "headline": "Israeli forces ram Palestinian vehicle in Tulkarm",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:42+00:00"
-          },
-          "outlet_names": [
-            "WAFA News"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Algerian boy trapped in well for days found dead",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:18+00:00"
-          },
-          "outlet_names": [
-            "Gulf News"
-          ],
-          "camps": [
-            "gulf"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "note": "26 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "28 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1351,7 +1298,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T08:39:50.224497+00:00",
+    "last_success": "2026-09-06T09:04:36.008464+00:00",
     "last_failure": null
   },
   "ok": true

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:28:58.759355+00:00",
+  "updated": "2026-09-06T19:46:31.011739+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -63,72 +63,29 @@
     },
     {
       "rank": 2,
-      "outlets": 4,
+      "outlets": 5,
       "categories": [
         "panarab",
         "levant",
         "turkish"
       ],
       "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+        "source": "The New Arab",
+        "category": "panarab",
+        "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
         "title_he": "",
-        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
-        "published": "2026-09-06T17:28:50+00:00"
+        "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+        "published": "2026-09-06T12:16:22+00:00"
       },
       "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
-          "published": "2026-09-06T17:28:50+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174416",
-          "published": "2026-09-06T15:39:18+00:00"
-        },
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Two martyrs, including a child, were injured in an Israeli bombing that targeted a car west of Gaza.",
+          "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
           "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
-          "published": "2026-09-06T14:22:00+00:00"
+          "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
+          "published": "2026-09-06T15:37:00+00:00"
         },
-        {
-          "source": "Middle East Eye",
-          "category": "panarab",
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "outlets": 4,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Al Arabiya",
-        "category": "panarab",
-        "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
-        "title_he": "",
-        "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-        "published": "2026-09-06T09:30:08+00:00"
-      },
-      "members": [
         {
           "source": "TRT World",
           "category": "turkish",
@@ -172,21 +129,30 @@
       ]
     },
     {
-      "rank": 4,
-      "outlets": 3,
+      "rank": 3,
+      "outlets": 4,
       "categories": [
+        "israeli",
         "panarab",
         "iranian"
       ],
       "rep": {
-        "source": "Mehr News",
-        "category": "iranian",
-        "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
-        "title_he": "",
-        "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
-        "published": "2026-09-06T04:25:04+00:00"
+        "source": "Kan 11",
+        "category": "israeli",
+        "title": "Iran announced it would declare a restricted navigation zone outside the Strait of Hormuz and impose…",
+        "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
+        "url": "25879e070efa4476b10ec7e5c810f9a7",
+        "published": "2026-09-06T19:13:12+00:00"
       },
       "members": [
+        {
+          "source": "Kan 11",
+          "category": "israeli",
+          "title": "Iran announced it would declare a restricted navigation zone outside the Strait of Hormuz and impose…",
+          "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
+          "url": "25879e070efa4476b10ec7e5c810f9a7",
+          "published": "2026-09-06T19:13:12+00:00"
+        },
         {
           "source": "Mehr News",
           "category": "iranian",
@@ -222,44 +188,96 @@
       ]
     },
     {
-      "rank": 5,
-      "outlets": 3,
+      "rank": 4,
+      "outlets": 4,
       "categories": [
-        "iranian",
-        "levant"
+        "panarab",
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "SANA",
-        "category": "levant",
-        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
         "title_he": "",
-        "url": "https://sana.sy/en/middle-east/2340621/",
-        "published": "2026-09-05T19:22:55+00:00"
+        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+        "published": "2026-09-06T17:28:50+00:00"
       },
       "members": [
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340621/",
-          "published": "2026-09-05T19:22:55+00:00"
-        },
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Gaza death toll rises to 73,651, health ministry says",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "published": "2026-09-05T17:05:27+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+          "published": "2026-09-06T17:28:50+00:00"
         },
         {
           "source": "WAFA News",
           "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
-          "published": "2026-09-05T15:41:26+00:00"
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "published": "2026-09-06T15:39:18+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Two martyrs, including a child, and injuries were reported in an Israeli bombing that targeted a car west of…",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "published": "2026-09-06T14:22:00+00:00"
+        },
+        {
+          "source": "Middle East Eye",
+          "category": "panarab",
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "outlets": 3,
+      "categories": [
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "The New Arab",
+        "category": "panarab",
+        "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+        "title_he": "",
+        "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+        "published": "2026-09-06T16:26:40+00:00"
+      },
+      "members": [
+        {
+          "source": "The New Arab",
+          "category": "panarab",
+          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+          "title_he": "",
+          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+          "published": "2026-09-06T16:26:40+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340625/",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/8101083f41cd",
+          "published": "2026-09-05T18:24:25+00:00"
         }
       ]
     }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T18:57:00.784141+00:00",
+  "updated": "2026-09-06T19:28:58.759355+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 5,
       "categories": [
         "panarab",
         "levant",
@@ -44,28 +44,12 @@
           "published": "2026-09-06T12:42:00+00:00"
         },
         {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
-          "published": "2026-09-06T11:21:10+00:00"
-        },
-        {
           "source": "TRT World",
           "category": "turkish",
           "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "title_he": "",
           "url": "https://www.trtworld.com/article/bd664ce317c3",
           "published": "2026-09-05T22:56:52+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
-          "title_he": "",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "published": "2026-09-05T20:49:00+00:00"
         },
         {
           "source": "Al Arabiya",
@@ -162,12 +146,12 @@
           "published": "2026-09-06T13:36:50+00:00"
         },
         {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Israeli airstrikes completely destroyed hospital in southern Lebanon: Health Ministry",
+          "source": "The New Arab",
+          "category": "panarab",
+          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry/4048808",
-          "published": "2026-09-06T11:22:14+00:00"
+          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+          "published": "2026-09-06T12:16:22+00:00"
         },
         {
           "source": "SANA",
@@ -192,41 +176,48 @@
       "outlets": 3,
       "categories": [
         "panarab",
-        "levant",
-        "turkish"
+        "iranian"
       ],
       "rep": {
-        "source": "The New Arab",
-        "category": "panarab",
-        "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+        "source": "Mehr News",
+        "category": "iranian",
+        "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
         "title_he": "",
-        "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-        "published": "2026-09-06T16:26:40+00:00"
+        "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+        "published": "2026-09-06T04:25:04+00:00"
       },
       "members": [
         {
-          "source": "The New Arab",
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+          "published": "2026-09-06T04:25:04+00:00"
+        },
+        {
+          "source": "Al Jazeera",
           "category": "panarab",
-          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+          "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
           "title_he": "",
-          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-          "published": "2026-09-06T16:26:40+00:00"
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "published": ""
         },
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": ""
         },
         {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/8101083f41cd",
-          "published": "2026-09-05T18:24:25+00:00"
+          "url": "https://iranintl.com/en/202609048845",
+          "published": ""
         }
       ]
     },
@@ -234,41 +225,41 @@
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "israeli",
+        "iranian",
         "levant"
       ],
       "rep": {
-        "source": "N12",
-        "category": "israeli",
-        "title": "Hezbollah is attempting to demonstrate strength without escalating conflict and is facing criticism that…",
-        "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
-        "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
-        "published": "2026-09-06T14:00:00+00:00"
+        "source": "SANA",
+        "category": "levant",
+        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340621/",
+        "published": "2026-09-05T19:22:55+00:00"
       },
       "members": [
         {
-          "source": "N12",
-          "category": "israeli",
-          "title": "Hezbollah is attempting to demonstrate strength without escalating conflict and is facing criticism that…",
-          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
-          "published": "2026-09-06T14:00:00+00:00"
+          "source": "SANA",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340621/",
+          "published": "2026-09-05T19:22:55+00:00"
         },
         {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Hezbollah stated, \"The enemy tramples 'the framework' of the authority...",
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "Gaza death toll rises to 73,651, health ministry says",
           "title_he": "",
-          "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
-          "published": "2026-09-05T11:57:09+00:00"
+          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+          "published": "2026-09-05T17:05:27+00:00"
         },
         {
-          "source": "Al Manar",
+          "source": "WAFA News",
           "category": "levant",
-          "title": "Hezbollah issued a statement saying, \"The continuation of the authority's pursuit of this absurd…",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1154622/",
-          "published": ""
+          "url": "https://english.wafa.ps/Pages/Details/174384",
+          "published": "2026-09-05T15:41:26+00:00"
         }
       ]
     }

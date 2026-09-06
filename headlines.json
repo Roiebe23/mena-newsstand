@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:54:52.249904+00:00",
+  "updated": "2026-09-06T19:26:50.920336+00:00",
   "regions": {
     "Israel": [
       {
@@ -14,6 +14,14 @@
             "published": "2026-09-05T19:58:45+00:00",
             "snippet": "A border police fighter, 20-year-old David Houvier Amrani, was killed in Netanya. He opened fire on the city streets with a long weapon and was neutralized by police, later dying from his wounds.",
             "title_he": "הותר לפרסום: ‏סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה",
+            "snippet_he": ""
+          },
+          {
+            "title": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
+            "url": "25879e070efa4476b10ec7e5c810f9a7",
+            "published": "2026-09-06T19:13:12+00:00",
+            "snippet": "",
+            "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
             "snippet_he": ""
           },
           {
@@ -39,14 +47,6 @@
             "snippet": "מפלגת הימין הקיצוני AfD גרפה עד כה 48% מהקולות במדגמים. שגריר ישראל בגרמניה התייחס לעלייתן של המפלגות הקיצוניות במדינה: \"אני חרד לחיים היהודיים כאן שנמצאים תחת איום ממשי\"",
             "title_he": "מפלגת \"אלטרנטיבה לגרמניה\" גרפה עד כה 48% מהקולות במחוז סקסוניה-אנהלט",
             "snippet_he": ""
-          },
-          {
-            "title": "מפלגת ישראל ביתנו פרסמה את רשימתה לבחירות",
-            "url": "https://kan.org.il/content/kan-news/politic/live-1096404/liveid-1096889/",
-            "published": "2026-09-06T18:12:55+00:00",
-            "snippet": "",
-            "title_he": "מפלגת ישראל ביתנו פרסמה את רשימתה לבחירות",
-            "snippet_he": ""
           }
         ],
         "error": null,
@@ -67,6 +67,14 @@
             "snippet_he": ""
           },
           {
+            "title": "האסון שמטלטל את אלג'יריה: איוב בן ה-10 נפל לבור עמוק - ונמצא מת",
+            "url": "https://www.mako.co.il/news-world/2026_q3/Article-d3917beddc670a1026.htm",
+            "published": "2026-09-06T18:03:00+00:00",
+            "snippet": "מדינה שלמה התפללה להצלתו של איוב, שנפל לבאר בעומק של כ-80 מטרים • במשך ארבעה ימים נמשך המרוץ נגד הזמן, עד להגעת הבשורה הקשה: איוב נמצא ללא רוח חיים • הטרגדיה באלג'יריה מחזירה את הזיכרונות מהאסון של ריאן במרוקו",
+            "title_he": "האסון שמטלטל את אלג'יריה: איוב בן ה-10 נפל לבור עמוק - ונמצא מת",
+            "snippet_he": ""
+          },
+          {
             "title": "תלמידה הותקפה בבית הספר - וטוענת: \"ההנהלה מנעה את חקירת המשטרה\"",
             "url": "https://www.mako.co.il/news-israel/2026_q3/Article-ec8fef3819670a1027.htm",
             "published": "2026-09-06T15:50:00+00:00",
@@ -75,27 +83,19 @@
             "snippet_he": ""
           },
           {
+            "title": "אימה באוויר: צעירה הותקפה מינית בזמן טיסה לאחר שאיבדה הכרה",
+            "url": "https://www.mako.co.il/news-world/2026_q3/Article-eb457dbaf4770a1027.htm",
+            "published": "2026-09-06T15:42:00+00:00",
+            "snippet": "האירוע החריג התרחש בזמן טיסה ממלטה לעיר נאנט שבצרפת. גבר בן 39 חשוד שניצל את המצב הרפואי של הצעירה בת ה-22, שאף איבדה את הכרתה, והטריד אותה מינית. לבסוף הוא נעצר יותר מחודש לאחר מכן, כשהגיע לצרפת בטיסה אחרת. משפטו צפוי להתחיל בקרוב",
+            "title_he": "אימה באוויר: צעירה הותקפה מינית בזמן טיסה לאחר שאיבדה הכרה",
+            "snippet_he": ""
+          },
+          {
             "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
             "published": "2026-09-06T15:30:00+00:00",
             "snippet": "David Ben Lulu, a 23-year-old from Jerusalem with French citizenship, died in a motorcycle accident in Vietnam. He was reportedly traveling alone at the time of the crash. Efforts are underway to arrange for the transportation of his body from hundreds of kilometers away for burial in Israel.",
             "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
-            "snippet_he": ""
-          },
-          {
-            "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
-            "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
-            "published": "2026-09-06T14:42:00+00:00",
-            "snippet": "Argentina's President Javier Milei has announced sanctions against companies involved in an oil project in the Falkland Islands region, including Israeli companies. Milei stated that Argentina will not stand idly by, which has caused significant anger in Great Britain.",
-            "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
-            "snippet_he": ""
-          },
-          {
-            "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
-            "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
-            "published": "2026-09-06T14:00:00+00:00",
-            "snippet": "Hezbollah is attempting to demonstrate strength without escalating conflict and is facing criticism that civilians are paying the price. Following the loss of the strategic Al-Tahir Ridge, the group has avoided addressing the loss of the site, instead projecting presence through explosive drone launches. Reports suggest Tehran has given Hezbollah a green light for an evacuation.",
-            "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
             "snippet_he": ""
           }
         ],
@@ -125,14 +125,6 @@
             "snippet_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם 13tv.co.il"
           },
           {
-            "title": "רננה חובב על העבודה עם רייכל: \"כמו כפפה ליד, הכי מדויק עבורי\"",
-            "url": "https://13tv.co.il/item/entertainment/the-voice/season-06/articles/n575b-905346531/",
-            "published": "2026-09-06T14:35:33+00:00",
-            "snippet": "רננה חובב על העבודה עם רייכל: \"כמו כפפה ליד, הכי מדויק עבורי\" 13tv.co.il",
-            "title_he": "רננה חובב על העבודה עם רייכל: \"כמו כפפה ליד, הכי מדויק עבורי\"",
-            "snippet_he": ""
-          },
-          {
             "title": "חוץ מזה לא צריך כלום: הדג נחש חגגה 30 במופע ענק של פעם בחיים",
             "url": "https://13tv.co.il/item/entertainment/music/qqvk0-905346316/",
             "published": "2026-09-06T14:33:36+00:00",
@@ -146,6 +138,14 @@
             "published": "2026-09-06T14:17:08+00:00",
             "snippet": "רגע לפני הגמר – פיינליסטית \"דה וויס\" מתוודה: \"מטורף שאני בת 17 וחווה את כל זה עכשיו\" 13tv.co.il",
             "title_he": "רגע לפני הגמר – פיינליסטית \"דה וויס\" מתוודה: \"מטורף שאני בת 17 וחווה את כל זה עכשיו\"",
+            "snippet_he": ""
+          },
+          {
+            "title": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\"",
+            "url": "https://13tv.co.il/item/news/politics/politics/w9eqn-905346091/",
+            "published": "2026-09-06T12:13:35+00:00",
+            "snippet": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\" 13tv.co.il",
+            "title_he": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\"",
             "snippet_he": ""
           }
         ],
@@ -161,10 +161,10 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "1 , Iran says response to new attacks will be ‘faster, heavier, more painful’",
+            "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
             "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
             "published": "",
-            "snippet": "Iran's parliament speaker stated that new attacks on the country will \"meet a faster, heavier, and more painful response.\"",
+            "snippet": "Secretary ​of Iran's ​Supreme National Security Council Mohsen Rezaei said ⁠the ​zone ⁠will include ⁠areas in the Gulf.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -311,6 +311,14 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+            "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+            "published": "2026-09-06T12:16:22+00:00",
+            "snippet": "Israeli strikes kill four, destroy hospital in southern Lebanon The New Arab",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Senior US military staff subjected to polygraphs over Iran leaks",
             "url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
             "published": "2026-09-05T12:52:29+00:00",
@@ -339,14 +347,6 @@
             "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
             "published": "2026-09-05T17:05:54+00:00",
             "snippet": "Calls are mounting for Miliband to halt arms sales to Israel following a plea regarding Gaza.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Deadly attack and drought emergency underline S.Sudan challenges",
-            "url": "https://www.newarab.com/news/deadly-attack-and-drought-emergency-underline-ssudan-challenges",
-            "published": "2026-09-05T15:30:13+00:00",
-            "snippet": "A deadly attack and a drought emergency are highlighting the challenges faced by South Sudan.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -573,14 +573,6 @@
             "snippet_he": ""
           },
           {
-            "title": "RCJA warns Israeli curriculum threatens East Jerusalem’s Arab-Palestinian identity",
-            "url": "https://jordantimes.com/news/local/rcja-warns-israeli-curriculum-threatens-east-jerusalems-arab-palestinian-identity",
-            "published": "2026-09-02T19:12:59+00:00",
-            "snippet": "The RCJA warns that the Israeli curriculum threatens the Arab-Palestinian identity of East Jerusalem.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Prime minister reviews measures to maintain supply chains amid regional tensions",
             "url": "https://jordantimes.com/news/local/prime-minister-reviews-measures-to-maintain-supply-chains-amid-regional-tensions",
             "published": "2026-09-06T13:34:59+00:00",
@@ -589,18 +581,26 @@
             "snippet_he": ""
           },
           {
-            "title": "Safadi holds talks in Paris, The Hague on bilateral ties, regional developments",
-            "url": "https://jordantimes.com/news/local/safadi-holds-talks-in-paris-the-hague-on-bilateral-ties-regional-developments",
-            "published": "2026-09-05T23:44:27+00:00",
-            "snippet": "Safadi is holding talks in Paris and The Hague on bilateral relations and regional developments.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
             "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
             "published": "2026-09-05T14:47:31+00:00",
             "snippet": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ Jordan Times",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Digital spokesperson ‘Farah’ to offer English-language version",
+            "url": "https://jordantimes.com/news/local/digital-spokesperson-farah-to-offer-english-language-version",
+            "published": "2026-09-04T15:45:00+00:00",
+            "snippet": "Digital spokesperson ‘Farah’ to offer English-language version Jordan Times",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
+            "url": "https://jordantimes.com/news/local/safadi-austrian-foreign-minister-discuss-bilateral-relations-regional-developments",
+            "published": "2026-09-03T18:44:36+00:00",
+            "snippet": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments Jordan Times",
             "title_he": "",
             "snippet_he": ""
           }
@@ -673,14 +673,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-            "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-            "published": "2026-09-06T13:20:46+00:00",
-            "snippet": "US envoy Steve Witkoff and Jared Kushner traveled to Kyiv after concluding talks in Moscow, renewing U.S. efforts to end the war in Ukraine.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Without Charlie Kirk, Turning Point is building a future for his movement — and for JD Vance",
             "url": "https://www.egyptindependent.com/without-charlie-kirk-turning-point-is-building-a-future-for-his-movement-and-for-jd-vance/",
             "published": "2026-09-06T13:40:26+00:00",
@@ -693,6 +685,14 @@
             "url": "https://www.egyptindependent.com/parents-of-san-diego-mosque-gunman-say-a-mental-health-facility-failed-to-heed-fbi-warning/",
             "published": "2026-09-06T13:27:09+00:00",
             "snippet": "Parents of a San Diego mosque gunman claim a mental health facility failed to heed an FBI warning about their son's concerning comments.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+            "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+            "published": "2026-09-06T13:20:46+00:00",
+            "snippet": "US envoy Steve Witkoff and Jared Kushner traveled to Kyiv after concluding talks in Moscow, renewing U.S. efforts to end the war in Ukraine.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -765,14 +765,6 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "النائب الموسوي ادان بنوداً ارسلتها وزارة الخارجية ضمن مشروع حول لبنان الى جامعة الدولة العربية 22:21",
-            "url": "https://www.almanar.com.lb/article/1153227/",
-            "published": "",
-            "snippet": "MP Moussaoui condemned clauses sent by the Ministry of Foreign Affairs within a project on Lebanon to the League of Arab States.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:35",
             "url": "https://www.almanar.com.lb/article/1154622/",
             "published": "",
@@ -801,6 +793,14 @@
             "url": "https://www.almanar.com.lb/article/1156872/",
             "published": "",
             "snippet": "عرض الاعلام الحربي اليمني مشاهد ضربة صاروخية دقيقة استهدفت اجتماع عدد من قيادات التحشيدات السعودية ب",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "العدو الاسرائيلي يواصل اعتداءاته على لبنان 14:00",
+            "url": "https://www.almanar.com.lb/article/1154512/",
+            "published": "",
+            "snippet": "واصل العدو الاسرائيلي اعتداءاته على لبنان في انتهاك فاضح لكل القوانين والمواثيق الدولية، وللسيادة ال",
             "title_he": "",
             "snippet_he": ""
           }
@@ -915,42 +915,42 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-            "url": "https://sana.sy/en/international/2340834/",
-            "published": "2026-09-06T13:36:50+00:00",
-            "snippet": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector سانا",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
             "url": "https://sana.sy/en/middle-east/2340780/",
             "published": "2026-09-06T10:52:43+00:00",
-            "snippet": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon سانا",
+            "snippet": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest - سانا",
+            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+            "url": "https://sana.sy/en/international/2340834/",
+            "published": "2026-09-06T13:36:50+00:00",
+            "snippet": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector sana.sy",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
             "url": "https://sana.sy/en/middle-east/2340625/",
             "published": "2026-09-05T19:35:16+00:00",
-            "snippet": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest سانا",
+            "snippet": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023 - سانا",
+            "title": "Gaza death toll rises to 73,651 since October 2023",
             "url": "https://sana.sy/en/middle-east/2340621/",
             "published": "2026-09-05T19:22:55+00:00",
-            "snippet": "Gaza death toll rises to 73,651 since October 2023 سانا",
+            "snippet": "Gaza death toll rises to 73,651 since October 2023 sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-            "url": "https://sana.sy/en/politics/2340663/",
-            "published": "2026-09-05T20:49:00+00:00",
-            "snippet": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks سانا",
+            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue",
+            "url": "https://sana.sy/en/international/2340880/",
+            "published": "2026-09-06T18:44:00+00:00",
+            "snippet": "Death toll from Nepal floods rises to 1,341 as rescue operations continue sana.sy",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1049,10 +1049,10 @@
             "snippet_he": ""
           },
           {
-            "title": "5 talking points from fifth round of Saudi Pro League Season",
-            "url": "https://www.arabnews.com/saudi-pro-league/5-talking-points-from-fifth-round-of-saudi-pro-league-season-3000686",
-            "published": "2026-09-06T13:28:30+00:00",
-            "snippet": "5 talking points from fifth round of Saudi Pro League Season Arab News",
+            "title": "French and Jordanian military chiefs discuss regional stability",
+            "url": "https://www.arabnews.com/middle-east/french-and-jordanian-military-chiefs-discuss-regional-stability-3000699",
+            "published": "2026-09-06T17:25:32+00:00",
+            "snippet": "French and Jordanian military chiefs discuss regional stability Arab News",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1071,14 +1071,6 @@
             "url": "https://gulfnews.com/world/americas/eu-backs-us-led-economic-campaign-to-pressure-iran-1.500662755",
             "published": "2026-09-04T03:11:20+00:00",
             "snippet": "The EU backs the U.S.-led economic campaign to pressure Iran.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Is Iran planning an October 7-style multi-front attack on Israel?",
-            "url": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041",
-            "published": "2026-09-06T13:57:16+00:00",
-            "snippet": "Is Iran planning an October 7-style multi-front attack on Israel? Gulf News",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1103,6 +1095,14 @@
             "url": "https://gulfnews.com/sport/football/watch-ronaldinho-spotted-playing-footvolley-in-dubai-1.500664809",
             "published": "2026-09-06T08:16:28+00:00",
             "snippet": "Ronaldinho was spotted playing footvolley in Dubai.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Vaibhav Sooryavanshi’s fearless assault on Mohammed Siraj wows fans",
+            "url": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshis-fearless-assault-on-mohammed-siraj-wows-fans-1.500664763",
+            "published": "2026-09-06T07:07:39+00:00",
+            "snippet": "Vaibhav Sooryavanshi’s fearless assault on Mohammed Siraj wows fans Gulf News",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1155,6 +1155,14 @@
             "snippet_he": ""
           },
           {
+            "title": "AfD hails 'historic' Saxony-Anhalt election victory",
+            "url": "https://www.aa.com.tr/en/europe/afd-hails-historic-saxony-anhalt-election-victory/4049075",
+            "published": "2026-09-06T18:53:04+00:00",
+            "snippet": "AfD Leader says vote is ‘very clear mandate to govern’",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
             "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
             "published": "2026-09-06T17:28:50+00:00",
@@ -1163,26 +1171,18 @@
             "snippet_he": ""
           },
           {
-            "title": "Israeli airstrikes completely destroyed hospital in southern Lebanon: Health Ministry",
-            "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry/4048808",
-            "published": "2026-09-06T11:22:14+00:00",
-            "snippet": "Israeli airstrikes have completely destroyed a hospital in southern Lebanon, according to the Health Ministry.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
-            "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
-            "published": "2026-09-06T11:21:10+00:00",
-            "snippet": "U.S. envoys Witkoff and Kushner have arrived in Kyiv for Ukraine peace talks and are expected to meet President Zelenskyy.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "US envoy Witkoff says Washington sees progress on Ukraine peace",
             "url": "https://www.aa.com.tr/en/russia-ukraine-war/us-envoy-witkoff-says-washington-sees-progress-on-ukraine-peace/4049042",
             "published": "2026-09-06T18:13:12+00:00",
             "snippet": "Washington wants to return to Russia-Ukraine-US format for peace negotiations, Kushner says",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Trump administration asks Supreme Court to reinstate mail-in ballot rules",
+            "url": "https://www.aa.com.tr/en/americas/trump-administration-asks-supreme-court-to-reinstate-mail-in-ballot-rules/4048990",
+            "published": "2026-09-06T16:53:27+00:00",
+            "snippet": "Justice Department argues US Postal Service authority over ballot mail does not violate state election powers",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1313,6 +1313,14 @@
             "snippet_he": ""
           },
           {
+            "title": "Nepal-China border floods death toll climbs to 1,385 as thousands remain missing",
+            "url": "https://www.trtworld.com/article/1744a5f3c9cd",
+            "published": "2026-09-06T15:48:34+00:00",
+            "snippet": "Nepal-China border floods death toll climbs to 1,385 as thousands remain missing TRT World",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Germans vote in Saxony-Anhalt election that could bring far-right AfD to power",
             "url": "https://www.trtworld.com/article/f6c716fa3c52",
             "published": "2026-09-06T07:03:53+00:00",
@@ -1325,14 +1333,6 @@
             "url": "https://www.trtworld.com/article/bd664ce317c3",
             "published": "2026-09-05T22:56:52+00:00",
             "snippet": "Putin held 'extremely frank' Ukraine war talks with U.S. envoys, according to the Kremlin.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
-            "url": "https://www.trtworld.com/article/8101083f41cd",
-            "published": "2026-09-05T18:24:25+00:00",
-            "snippet": "Israeli violence continues despite the U.S. ambassador labeling illegal settlers in the West Bank as 'terrorists'.",
             "title_he": "",
             "snippet_he": ""
           }

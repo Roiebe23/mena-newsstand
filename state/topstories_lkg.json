@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:25:34.708261+00:00",
+  "updated": "2026-09-06T18:57:00.784141+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -19,6 +19,14 @@
         "published": "2026-09-06T12:42:00+00:00"
       },
       "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "US envoy Witkoff says Washington sees progress on Ukraine peace",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/us-envoy-witkoff-says-washington-sees-progress-on-ukraine-peace/4049042",
+          "published": "2026-09-06T18:13:12+00:00"
+        },
         {
           "source": "Egypt Independent",
           "category": "levant",
@@ -67,13 +75,11 @@
           "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
           "published": "2026-09-05T08:39:00+00:00"
         }
-      ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for second leg of diplomacy push.",
-      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר מגיעים לקייב לשלב השני של המהלך הדיפלומטי."
+      ]
     },
     {
       "rank": 2,
-      "outlets": 5,
+      "outlets": 4,
       "categories": [
         "panarab",
         "levant",
@@ -95,14 +101,6 @@
           "title_he": "",
           "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
           "published": "2026-09-06T17:28:50+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/521d65457169",
-          "published": "2026-09-06T16:13:34+00:00"
         },
         {
           "source": "WAFA News",
@@ -128,13 +126,11 @@
           "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
           "published": ""
         }
-      ],
-      "summary": "Israeli strike kills two Palestinians, including child, in Gaza despite ceasefire.",
-      "summary_he": "תקיפה ישראלית בעזה הורגת שני פלסטינים, בהם ילד, למרות הפסקת אש."
+      ]
     },
     {
       "rank": 3,
-      "outlets": 5,
+      "outlets": 4,
       "categories": [
         "panarab",
         "levant",
@@ -188,18 +184,8 @@
           "title_he": "",
           "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
           "published": "2026-09-06T09:30:08+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
         }
-      ],
-      "summary": "Israeli air strikes completely destroy a hospital in southern Lebanon.",
-      "summary_he": "תקיפות אוויר ישראליות הורסות כליל בית חולים בדרום לבנון."
+      ]
     },
     {
       "rank": 4,
@@ -242,9 +228,7 @@
           "url": "https://www.trtworld.com/article/8101083f41cd",
           "published": "2026-09-05T18:24:25+00:00"
         }
-      ],
-      "summary": "Netanyahu orders removal of illegal West Bank settler outposts.",
-      "summary_he": "נתניהו מורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
+      ]
     },
     {
       "rank": 5,
@@ -286,9 +270,7 @@
           "url": "https://www.almanar.com.lb/article/1154622/",
           "published": ""
         }
-      ],
-      "summary": "Hezbollah attempts to demonstrate strength without escalation, faces criticism.",
-      "summary_he": "חיזבאללה מנסה להפגין כוח ללא הסלמה, ומתמודד עם ביקורת."
+      ]
     }
   ]
 }

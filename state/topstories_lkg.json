@@ -1,80 +1,10 @@
 {
-  "updated": "2026-09-06T13:57:02.454471+00:00",
+  "updated": "2026-09-06T14:28:31.826057+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
-      "categories": [
-        "gulf",
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Falastin al-Youm",
-        "category": "levant",
-        "title": "Settlers stormed Al-Aqsa Mosque.",
-        "title_he": "",
-        "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
-        "published": "2026-09-06T10:30:00+00:00"
-      },
-      "members": [
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "Settlers stormed Al-Aqsa Mosque.",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
-          "published": "2026-09-06T10:30:00+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/8101083f41cd",
-          "published": "2026-09-05T18:24:25+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T14:56:07+00:00"
-        },
-        {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "published": "2026-09-05T14:45:13+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T10:49:00+00:00"
-        }
-      ],
-      "summary": "Settlers stormed Al-Aqsa Mosque.",
-      "summary_he": "מתנחלים הסתערו על מסגד אל-אקצא."
-    },
-    {
-      "rank": 2,
-      "outlets": 6,
+      "outlets": 7,
       "categories": [
         "panarab",
         "levant",
@@ -132,7 +62,7 @@
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Moscow has halted its attacks on Kyiv for three days and is calling on Washington to consider the reality in…",
+          "title": "Moscow has halted attacks on Kyiv for three days and urged Washington to consider reality in any settlement.",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
           "published": "2026-09-05T11:03:00+00:00"
@@ -144,118 +74,91 @@
           "title_he": "",
           "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
           "published": "2026-09-05T08:39:00+00:00"
+        },
+        {
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "6 , US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
+          "title_he": "",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "published": ""
         }
       ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks.",
-      "summary_he": "שליחי ארה\"ב וויטקוף וקושנר הגיעו לקייב לשיחות שלום באוקראינה."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for diplomacy push after Putin talks.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לדחיפה דיפלומטית לאחר שיחות עם פוטין."
     },
     {
-      "rank": 3,
-      "outlets": 4,
+      "rank": 2,
+      "outlets": 6,
       "categories": [
-        "israeli",
         "gulf",
-        "iranian"
-      ],
-      "rep": {
-        "source": "IRNA",
-        "category": "iranian",
-        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-        "title_he": "",
-        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-        "published": "2026-09-06T06:00:23+00:00"
-      },
-      "members": [
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "Report: The secret operation of the United States in the Strait of Hormuz - with divers and advanced vessels.",
-          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
-          "published": "2026-09-06T11:40:00+00:00"
-        },
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
-        },
-        {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        }
-      ],
-      "summary": "IRGC attacked US vessel, as report details secret US operation in Hormuz.",
-      "summary_he": "משמרות המהפכה תקפו כלי שיט אמריקאי, כשדיווח מפרט מבצע סודי של ארה\"ב במיצרי הורמוז."
-    },
-    {
-      "rank": 4,
-      "outlets": 3,
-      "categories": [
         "panarab",
-        "levant"
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "Al Arabiya",
-        "category": "panarab",
-        "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+        "source": "Falastin al-Youm",
+        "category": "levant",
+        "title": "Settlers have stormed the Al-Aqsa Mosque.",
         "title_he": "",
-        "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-        "published": "2026-09-06T09:30:08+00:00"
+        "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+        "published": "2026-09-06T10:30:00+00:00"
       },
       "members": [
         {
-          "source": "SANA",
+          "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+          "title": "Settlers have stormed the Al-Aqsa Mosque.",
           "title_he": "",
-          "url": "https://sana.sy/en/international/2340834/",
-          "published": "2026-09-06T13:36:50+00:00"
+          "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+          "published": "2026-09-06T10:30:00+00:00"
         },
         {
           "source": "SANA",
           "category": "levant",
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "published": "2026-09-06T10:52:43+00:00"
+          "url": "https://sana.sy/en/middle-east/2340625/",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/8101083f41cd",
+          "published": "2026-09-05T18:24:25+00:00"
+        },
+        {
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "title_he": "",
+          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T14:56:07+00:00"
+        },
+        {
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
+          "published": "2026-09-05T14:45:13+00:00"
         },
         {
           "source": "Al Arabiya",
           "category": "panarab",
-          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
           "title_he": "",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-          "published": "2026-09-06T09:30:08+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Israeli strikes destroyed a hospital in southern Lebanon.",
-      "summary_he": "תקיפות ישראליות הרסו בית חולים בדרום לבנון."
+      "summary": "Settlers stormed the Al-Aqsa Mosque.",
+      "summary_he": "מתנחלים פרצו למסגד אל-אקצא."
     },
     {
-      "rank": 5,
+      "rank": 3,
       "outlets": 3,
       "categories": [
         "levant",
@@ -295,8 +198,95 @@
           "published": "2026-09-06T10:04:45+00:00"
         }
       ],
-      "summary": "Eight countries condemn Israeli ministers' Gaza displacement proposals.",
-      "summary_he": "שמונה מדינות מגנות הצעות שרים ישראלים לעקירת עזתים."
+      "summary": "Egypt and seven allies condemn Israeli ministers’ Gaza displacement proposals.",
+      "summary_he": "מצרים ושבע בעלות ברית מגנות הצעות שרים ישראלים לעקירת עזתים."
+    },
+    {
+      "rank": 4,
+      "outlets": 3,
+      "categories": [
+        "iranian",
+        "levant"
+      ],
+      "rep": {
+        "source": "SANA",
+        "category": "levant",
+        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340621/",
+        "published": "2026-09-05T19:22:55+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340621/",
+          "published": "2026-09-05T19:22:55+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+          "published": "2026-09-05T17:05:27+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174384",
+          "published": "2026-09-05T15:41:26+00:00"
+        }
+      ],
+      "summary": "Gaza death toll rises to 73,651 since October 2023.",
+      "summary_he": "מניין ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
+    },
+    {
+      "rank": 5,
+      "outlets": 3,
+      "categories": [
+        "iranian"
+      ],
+      "rep": {
+        "source": "IRNA",
+        "category": "iranian",
+        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+        "title_he": "",
+        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+        "published": "2026-09-06T06:00:23+00:00"
+      },
+      "members": [
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "published": "2026-09-06T06:00:23+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
+          "published": ""
+        }
+      ],
+      "summary": "IRGC attacks US unmanned vessel in Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה תקפו כלי שיט בלתי מאויש של ארה\"ב במצר הורמוז."
     }
   ]
 }

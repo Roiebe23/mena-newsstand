@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:27:20.721550+00:00",
+  "updated": "2026-09-06T16:58:25.770067+00:00",
   "total_headlines": 133,
   "terms": [
     {
@@ -7,13 +7,6 @@
       "term_he": "ישראלי",
       "count": 25,
       "headlines": [
-        {
-          "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע"
-        },
         {
           "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
           "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
@@ -43,9 +36,21 @@
           "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון"
         },
         {
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
           "title": "Calls for Adidas boycott after brand features Israeli soldier",
           "url": "https://www.newarab.com/news/calls-adidas-boycott-after-brand-features-israeli-soldier",
           "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
+          "url": "https://www.almayadeen.net/news/politics/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
@@ -85,8 +90,8 @@
           "region": "Levant"
         },
         {
-          "title": "تقارير خاصة | تلال علي الطاهر ورواية الاحتلال عن السيطرة لا تقنع الأوساط الصهيونية 13:26",
-          "url": "https://www.almanar.com.lb/article/1154467/",
+          "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:35",
+          "url": "https://www.almanar.com.lb/article/1154622/",
           "source": "Al Manar",
           "region": "Levant"
         },
@@ -103,14 +108,14 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli aggression on Lebanon has so far killed 4,362 and injured 12,378 - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174417",
+          "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
           "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
           "source": "WAFA News",
           "region": "Levant"
         },
@@ -125,19 +130,13 @@
           "url": "https://sana.sy/en/middle-east/2340625/",
           "source": "SANA",
           "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
         }
       ]
     },
     {
       "term": "Gaza",
       "term_he": "עזה",
-      "count": 13,
+      "count": 16,
       "headlines": [
         {
           "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
@@ -150,6 +149,12 @@
           "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
           "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
           "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
+          "url": "https://www.almayadeen.net/news/politics/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
@@ -189,6 +194,12 @@
           "region": "Levant"
         },
         {
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
           "title": "تحذيرات حقوقية من طمس أدلة الإبادة وتدمير رفات آلاف المفقودين تحت ركام غزة",
           "url": "https://paltoday.ps/ar/post/543644/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%A3%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%A5",
           "source": "Falastin al-Youm",
@@ -197,6 +208,12 @@
         {
           "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
           "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "مؤسسة هُدائي التركية تُكرم 303 حافظ وحافظة للقرآن الكريم في غزة",
+          "url": "https://paltoday.ps/ar/post/543645/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D9%87-%D8%AF%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA",
           "source": "Falastin al-Youm",
           "region": "Levant"
         },
@@ -221,92 +238,16 @@
       ]
     },
     {
-      "term": "Israel",
-      "term_he": "ישראל",
-      "count": 12,
-      "headlines": [
-        {
-          "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע"
-        },
-        {
-          "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13",
-          "url": "https://13tv.co.il/news/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13"
-        },
-        {
-          "title": "מגמה מדאיגה: כ-1,370 רופאים עזבו את ישראל ב-3 השנים האחרונות - רשת 13",
-          "url": "https://13tv.co.il/item/news/domestic/health/doctors-905345096/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "מגמה מדאיגה: כ-1,370 רופאים עזבו את ישראל ב-3 השנים האחרונות - רשת 13"
-        },
-        {
-          "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
-          "url": "https://middleeasteye.net/trending/ben-gvir-deletes-ai-video-showing-emaciated-palestinian-prisoners-after-backlash",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
-          "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "\"هآرتس\": \"إسرائيل\" في زقاق مظلم",
-          "url": "https://www.almayadeen.net/press/-%D9%87%D8%A2%D8%B1%D8%AA%D8%B3----%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D9%81%D9%8A-%D8%B2%D9%82%D8%A7%D9%82-%D9%85%D8%B8%D9%84%D9%85",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
-          "url": "https://today.lorientlejour.com/article/1546646/military-operation-or-secret-arrangement-inside-israels-takeover-of-ali-taher.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
-          "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
-          "url": "https://paltoday.ps/ar/post/543573/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Lebanon",
       "term_he": "לבנון",
-      "count": 12,
+      "count": 11,
       "headlines": [
+        {
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
           "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
@@ -316,12 +257,6 @@
         {
           "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
           "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "SOCIAL PROTECTION Crisis-era retirees: Proposal to restore 50% of end-of-service indemnities Stephanie Bechara",
-          "url": "https://today.lorientlejour.com/article/1546619/crisis-era-retirees-proposal-to-restore-50-of-end-of-service-indemnities.html",
           "source": "L'Orient Today",
           "region": "Levant"
         },
@@ -332,8 +267,14 @@
           "region": "Levant"
         },
         {
-          "title": "النائب الموسوي ادان بنوداً ارسلتها وزارة الخارجية ضمن مشروع حول لبنان الى جامعة الدولة العربية 22:21",
-          "url": "https://www.almanar.com.lb/article/1153227/",
+          "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:35",
+          "url": "https://www.almanar.com.lb/article/1154622/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "تقارير خاصة | تلال علي الطاهر ورواية الاحتلال عن السيطرة لا تقنع الأوساط الصهيونية 13:26",
+          "url": "https://www.almanar.com.lb/article/1154467/",
           "source": "Al Manar",
           "region": "Levant"
         },
@@ -341,12 +282,6 @@
           "title": "العدو الاسرائيلي يواصل اعتداءاته على لبنان 14:00",
           "url": "https://www.almanar.com.lb/article/1154512/",
           "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli aggression on Lebanon has so far killed 4,362 and injured 12,378 - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174417",
-          "source": "WAFA News",
           "region": "Levant"
         },
         {
@@ -372,66 +307,130 @@
           "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
           "source": "Arab News",
           "region": "Gulf"
-        },
-        {
-          "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
-          "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "war",
-      "term_he": "היה",
-      "count": 8,
+      "term": "Israel",
+      "term_he": "ישראל",
+      "count": 9,
       "headlines": [
         {
-          "title": "3 , US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-          "url": "https://aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
-          "source": "Al Jazeera",
+          "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע"
+        },
+        {
+          "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
+          "url": "https://middleeasteye.net/trending/ben-gvir-deletes-ai-video-showing-emaciated-palestinian-prisoners-after-backlash",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
-          "source": "Al Jazeera",
+          "title": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online",
+          "url": "https://middleeasteye.net/trending/israeli-soldiers-pose-next-blindfolded-palestinian",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "תמונה של חיילים ישראלים מצטלמים לצד פלסטינים עם עיניים מכוסות מזינה את הכעס ברשת"
+        },
+        {
+          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
+          "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Putin meets US envoys for Ukraine war talks",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "source": "Al Arabiya",
+          "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
+          "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran sets up economic war task force amid fighting with US",
-          "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "\"هآرتس\": \"إسرائيل\" في زقاق مظلم",
+          "url": "https://www.almayadeen.net/press/-%D9%87%D8%A2%D8%B1%D8%AA%D8%B3----%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D9%81%D9%8A-%D8%B2%D9%82%D8%A7%D9%82-%D9%85%D8%B8%D9%84%D9%85",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
+          "url": "https://today.lorientlejour.com/article/1546646/military-operation-or-secret-arrangement-inside-israels-takeover-of-ali-taher.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
+          "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
+          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Palestinians",
+      "term_he": "פלסטינים",
+      "count": 9,
+      "headlines": [
+        {
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
+        },
+        {
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
           "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-          "source": "Daily Sabah",
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174400",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
+          "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Türkiye, 7 nations condemn Israeli ministers' calls to displace Palestinians from Gaza",
+          "url": "https://www.aa.com.tr/en/turkiye/turkiye-7-nations-condemn-israeli-ministers-calls-to-displace-palestinians-from-gaza/4048804",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "US envoys make first Kiev visit amid Ukraine war peace push",
-          "url": "https://www.trtworld.com/article/12a699504550",
-          "source": "TRT World",
+          "title": "Gaza holds funeral for 100 Palestinians recovered from rubble of destroyed homes",
+          "url": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
@@ -492,63 +491,13 @@
       ]
     },
     {
-      "term": "Palestinians",
-      "term_he": "פלסטינים",
+      "term": "war",
+      "term_he": "היה",
       "count": 7,
       "headlines": [
         {
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
-        },
-        {
-          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174401",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174400",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
-          "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Türkiye, 7 nations condemn Israeli ministers' calls to displace Palestinians from Gaza",
-          "url": "https://www.aa.com.tr/en/turkiye/turkiye-7-nations-condemn-israeli-ministers-calls-to-displace-palestinians-from-gaza/4048804",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Gaza holds funeral for 100 Palestinians recovered from rubble of destroyed homes",
-          "url": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Putin",
-      "term_he": "פוטין",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+          "title": "3 , US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+          "url": "https://aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -559,64 +508,27 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A8%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "Iran sets up economic war task force amid fighting with US",
+          "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
         },
         {
           "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
           "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
           "source": "Egypt Independent",
           "region": "Levant"
-        },
-        {
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Kyiv",
-      "term_he": "קייב",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "موسكو توقف هجماتها على كييف لثلاثة أيام... وتدعو واشنطن لمراعاة الواقع في أيّ تسوية - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
-          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         },
         {
           "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
           "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
           "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
           "region": "Turkey"
         },
         {
@@ -671,76 +583,154 @@
       ]
     },
     {
-      "term": "Witkoff",
-      "term_he": "",
+      "term": "Tehran",
+      "term_he": "טהראן",
       "count": 5,
       "headlines": [
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "נתניהו: \"סופו של המשטר בטהראן קרב\"",
+          "url": "118939afed694c2eba8a5e01d944a301",
+          "source": "Kan 11",
+          "region": "Israel",
+          "title_he": "נתניהו: \"סופו של המשטר בטהראן קרב\""
         },
         {
-          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A8%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\""
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
+          "title": "Tehran, Baku stress expansion of infrastructure cooperation",
+          "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "4 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "url": "https://iranintl.com/en/202609048845",
+          "source": "Iran International",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "oil",
+      "term_he": "נפט",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
+        },
+        {
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
+          "url": "https://www.almanar.com.lb/article/1154792/",
+          "source": "Al Manar",
           "region": "Levant"
         },
         {
-          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
-          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
+          "title": "OPEC+ keeps oil production goals for October unchanged",
+          "url": "https://www.dailysabah.com/business/energy/opec-keeps-oil-production-goals-for-october-unchanged",
           "source": "Daily Sabah",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Kushner",
-      "term_he": "קושנר",
+      "term": "conflict",
+      "term_he": "סכסוך",
       "count": 5,
       "headlines": [
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+          "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\""
+        },
+        {
+          "title": "3 , US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+          "url": "https://aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A8%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88",
+          "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
+          "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "نيويورك تايمز: إيران تخرج من الحرب أكثر ثقة وترامب يواجه الاستنزاف",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2--%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A3%D9%83%D8%AB%D8%B1-%D8%AB%D9%82%D8%A9-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%A7",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
+          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
+          "url": "https://www.almanar.com.lb/article/1154792/",
+          "source": "Al Manar",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "term_he": "מצר הורמוז",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "3 , US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+          "url": "https://aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
-          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
-          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-          "source": "Daily Sabah",
-          "region": "Turkey"
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "4 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "url": "https://iranintl.com/en/202609048845",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+          "source": "Gulf News",
+          "region": "Gulf"
         }
       ]
     },
@@ -782,39 +772,39 @@
       ]
     },
     {
-      "term": "Iranian",
-      "term_he": "איראני",
+      "term": "strikes",
+      "term_he": "שביתות",
       "count": 5,
       "headlines": [
         {
-          "title": "Tehran, Baku stress expansion of infrastructure cooperation",
-          "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         },
         {
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
+          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
+          "url": "https://sana.sy/en/international/2340834/",
+          "source": "SANA",
+          "region": "Levant"
         },
         {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
+          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
           "source": "Arab News",
           "region": "Gulf"
-        },
-        {
-          "title": "US claims strikes on three Iranian tankers, threatens to destroy Tehran's oil fleet",
-          "url": "https://www.trtworld.com/article/7690e9ebb14d",
-          "source": "TRT World",
-          "region": "Turkey"
         }
       ]
     },
@@ -856,106 +846,37 @@
       ]
     },
     {
-      "term": "oil",
-      "term_he": "נפט",
+      "term": "Kyiv",
+      "term_he": "קייב",
       "count": 5,
       "headlines": [
         {
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
-          "url": "https://www.almanar.com.lb/article/1154792/",
-          "source": "Al Manar",
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "موسكو توقف هجماتها على كييف لثلاثة أيام... وتدعو واشنطن لمراعاة الواقع في أيّ تسوية - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         },
         {
-          "title": "OPEC+ keeps oil production goals for October unchanged",
-          "url": "https://www.dailysabah.com/business/energy/opec-keeps-oil-production-goals-for-october-unchanged",
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
+          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
+          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
           "source": "Daily Sabah",
           "region": "Turkey"
         },
         {
-          "title": "US claims strikes on three Iranian tankers, threatens to destroy Tehran's oil fleet",
-          "url": "https://www.trtworld.com/article/7690e9ebb14d",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "strikes",
-      "term_he": "שביתות",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
-          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
-          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "US claims strikes on three Iranian tankers, threatens to destroy Tehran's oil fleet",
-          "url": "https://www.trtworld.com/article/7690e9ebb14d",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Tehran",
-      "term_he": "טהראן",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\""
-        },
-        {
-          "title": "Tehran, Baku stress expansion of infrastructure cooperation",
-          "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "4 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "url": "https://iranintl.com/en/202609048845",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "US claims strikes on three Iranian tankers, threatens to destroy Tehran's oil fleet",
-          "url": "https://www.trtworld.com/article/7690e9ebb14d",
+          "title": "US envoys make first Kiev visit amid Ukraine war peace push",
+          "url": "https://www.trtworld.com/article/12a699504550",
           "source": "TRT World",
           "region": "Turkey"
         }
@@ -994,6 +915,38 @@
       ]
     },
     {
+      "term": "election",
+      "term_he": "בחירה",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Israeli election campaign billboards in Cyprus spark debate",
+          "url": "https://middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון"
+        },
+        {
+          "title": "Germany's far-right AfD set for record win in Saxony-Anhalt vote",
+          "url": "https://www.aa.com.tr/en/europe/germanys-far-right-afd-set-for-record-win-in-saxony-anhalt-vote/4048983",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Türkiye’s AK Party leads opinion polls 2 years before election",
+          "url": "https://www.dailysabah.com/politics/elections/turkiyes-ak-party-leads-opinion-polls-2-years-before-election",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Germans vote in Saxony-Anhalt election that could bring far-right AfD to power",
+          "url": "https://www.trtworld.com/article/f6c716fa3c52",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Trump",
       "term_he": "טראמפ",
       "count": 4,
@@ -1005,8 +958,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A8%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88",
+          "title": "نيويورك تايمز: إيران تخرج من الحرب أكثر ثقة وترامب يواجه الاستنزاف",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2--%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A3%D9%83%D8%AB%D8%B1-%D8%AB%D9%82%D8%A9-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%A7",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -1021,37 +974,6 @@
           "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Moscow",
-      "term_he": "מוסקבה",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "موسكو لا تستبعد عقد اجتماع ثلاثي روسي أميركي صيني خلال قمة \"أبيك\"",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF-%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B5%D9%8A%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D9%82%D9%85%D8%A9",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A8%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "موسكو توقف هجماتها على كييف لثلاثة أيام... وتدعو واشنطن لمراعاة الواقع في أيّ تسوية - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
-          "source": "Al-Akhbar",
-          "region": "Levant"
         }
       ]
     },
@@ -1087,34 +1009,8 @@
       ]
     },
     {
-      "term": "Women",
-      "term_he": "",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
-          "url": "https://kan.org.il/content/kan-news/local/1096412/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין"
-        },
-        {
-          "title": "Women expose jobs-for-sex scheme of former CHP mayor in Türkiye’s Antalya",
-          "url": "https://www.dailysabah.com/politics/women-expose-jobs-for-sex-scheme-of-former-chp-mayor-in-turkiyes-antalya/news",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Infantino attends U-20 Women’s World Cup amid FIFA scrutiny",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXNRTVVKSThwS0pRdWRxcnpRbVZUek4zanNxbzgyRFBqTmlZQnByM2J0cVpsdEhSZlV6VFlPcVZxMldobkszTG5aV2tGTWZFTmNNU3BXblNtZl93aVJpRHk1Q2dQNEplR3V4Z0I2WHFOS19NcVI4ZkMxTVY5aG1LRDFGMm54SlZSNmFEVWFIVk5LVjd6UmxvS2xHbTVLcXBSS1VV?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Border",
-      "term_he": "גבול",
+      "term": "David",
+      "term_he": "דיוויד",
       "count": 3,
       "headlines": [
         {
@@ -1132,10 +1028,11 @@
           "title_he": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה"
         },
         {
-          "title": "Nepal-China border floods death toll climbs to 1,385 as thousands remain missing",
-          "url": "https://www.trtworld.com/article/1744a5f3c9cd",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע"
         }
       ]
     },
@@ -1193,76 +1090,77 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "term_he": "מצר הורמוז",
+      "term": "Lebanese",
+      "term_he": "לבנוני",
       "count": 3,
       "headlines": [
         {
-          "title": "3 , US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-          "url": "https://aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\""
         },
         {
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "SOCIAL PROTECTION Crisis-era retirees: Proposal to restore 50% of end-of-service indemnities Stephanie Bechara",
+          "url": "https://today.lorientlejour.com/article/1546619/crisis-era-retirees-proposal-to-restore-50-of-end-of-service-indemnities.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "4 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "url": "https://iranintl.com/en/202609048845",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "النائب الموسوي ادان بنوداً ارسلتها وزارة الخارجية ضمن مشروع حول لبنان الى جامعة الدولة العربية 22:21",
+          "url": "https://www.almanar.com.lb/article/1153227/",
+          "source": "Al Manar",
+          "region": "Levant"
         }
       ]
     },
     {
-      "term": "Steve",
+      "term": "Saxony-Anhalt",
       "term_he": "",
       "count": 3,
       "headlines": [
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+          "title": "6 , Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Germany's far-right AfD set for record win in Saxony-Anhalt vote",
+          "url": "https://www.aa.com.tr/en/europe/germanys-far-right-afd-set-for-record-win-in-saxony-anhalt-vote/4048983",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         },
         {
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-          "source": "Daily Sabah",
+          "title": "Germans vote in Saxony-Anhalt election that could bring far-right AfD to power",
+          "url": "https://www.trtworld.com/article/f6c716fa3c52",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Jared",
-      "term_he": "",
+      "term": "Putin",
+      "term_he": "פוטין",
       "count": 3,
       "headlines": [
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
-          "source": "Al Jazeera",
+          "title": "Putin meets US envoys for Ukraine war talks",
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
           "region": "Levant"
         },
         {
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-          "source": "Daily Sabah",
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -1318,6 +1216,31 @@
       ]
     },
     {
+      "term": "strike",
+      "term_he": "שביתה",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/09/04/trump-says-us-may-hit-iran-s-pickaxe-mountain-soon",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "2 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
+          "url": "https://iranintl.com/en/202609054820",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "attack",
       "term_he": "התקפה",
       "count": 3,
@@ -1339,6 +1262,32 @@
           "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Turkish",
+      "term_he": "טורקית",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran FM holds phone talks with Saudi, Turkish counterparts",
+          "url": "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "مؤسسة هُدائي التركية تُكرم 303 حافظ وحافظة للقرآن الكريم في غزة",
+          "url": "https://paltoday.ps/ar/post/543645/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D9%87-%D8%AF%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Top 29 must-try Turkish street foods Türkiye is frequently described as a paradise when it comes to cuisine.",
+          "url": "https://hurriyetdailynews.com/photo-top-29-must-try-turkish-street-foods-135578",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey",
+          "title_he": "29 מאכלי הרחוב הטורקיים שחובה לטעום – טורקיה מתוארת לעיתים קרובות כגן עדן בכל הנוגע למטבח."
         }
       ]
     },
@@ -1368,6 +1317,31 @@
       ]
     },
     {
+      "term": "Iranian",
+      "term_he": "איראני",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "crisis",
       "term_he": "משבר",
       "count": 3,
@@ -1393,91 +1367,84 @@
       ]
     },
     {
-      "term": "Rabbi",
+      "term": "Witkoff",
       "term_he": "",
-      "count": 2,
+      "count": 3,
       "headlines": [
         {
-          "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
-          "url": "https://kan.org.il/content/kan-news/local/1096412/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין"
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13",
-          "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/um905-905345828/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13"
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
+          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
+          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Moshe",
-      "term_he": "",
-      "count": 2,
+      "term": "Kushner",
+      "term_he": "קושנר",
+      "count": 3,
       "headlines": [
         {
-          "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
-          "url": "https://kan.org.il/content/kan-news/local/1096412/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין"
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13",
-          "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/um905-905345828/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13"
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
+          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
+          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Yizdani",
-      "term_he": "",
-      "count": 2,
+      "term": "Assad",
+      "term_he": "אסד",
+      "count": 3,
       "headlines": [
         {
-          "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
-          "url": "https://kan.org.il/content/kan-news/local/1096412/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין"
+          "title": "The Libyan odyssey: For Syrians stranded in Libya, Assad’s fall has not ended their journey home",
+          "url": "https://syriadirect.org/the-libyan-odyssey-for-syrians-stranded-in-libya-assads-fall-has-not-ended-their-journey-home/",
+          "source": "Syria Direct",
+          "region": "Levant"
         },
         {
-          "title": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13",
-          "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/um905-905345828/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13"
+          "title": "Syria’s wells run dry, old grievances run deep",
+          "url": "https://syriadirect.org/syrias-wells-run-dry-old-grievances-run-deep/",
+          "source": "Syria Direct",
+          "region": "Levant",
+          "title_he": "בארות סוריה מתייבשות, הטענות הישנות עמוקות"
+        },
+        {
+          "title": "Rushed justice won’t bury Syria’s past",
+          "url": "https://syriadirect.org/rushed-justice-wont-bury-syrias-past/",
+          "source": "Syria Direct",
+          "region": "Levant",
+          "title_he": "צדק מזורז לא יקבור את עברה של סוריה"
         }
       ]
     },
     {
-      "term": "David",
-      "term_he": "דיוויד",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "הותר לפרסום: ‏סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה",
-          "url": "https://kan.org.il/content/kan-news/local/1096319/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "הותר לפרסום: ‏סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה"
-        },
-        {
-          "title": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה",
-          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-11402b4107270a1026.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה"
-        }
-      ]
-    },
-    {
-      "term": "Hoyer",
+      "term": "Howir",
       "term_he": "",
       "count": 2,
       "headlines": [
@@ -1498,7 +1465,7 @@
       ]
     },
     {
-      "term": "Amarani",
+      "term": "Amrani",
       "term_he": "",
       "count": 2,
       "headlines": [
@@ -1540,28 +1507,49 @@
       ]
     },
     {
-      "term": "sanctions",
-      "term_he": "עונשים",
+      "term": "Netanyahu",
+      "term_he": "נתניהו",
       "count": 2,
       "headlines": [
         {
-          "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
-          "source": "N12",
+          "title": "נתניהו: \"סופו של המשטר בטהראן קרב\"",
+          "url": "118939afed694c2eba8a5e01d944a301",
+          "source": "Kan 11",
           "region": "Israel",
-          "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
+          "title_he": "נתניהו: \"סופו של המשטר בטהראן קרב\""
         },
         {
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
+          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
         }
       ]
     },
     {
-      "term": "conflict",
-      "term_he": "סכסוך",
+      "term": "Al-Taher",
+      "term_he": "",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\"",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים - וסופג ביקורת: \"התושבים משלמים את המחיר\""
+        },
+        {
+          "title": "تقارير خاصة | تلال علي الطاهر ورواية الاحتلال عن السيطرة لا تقنع الأوساط الصهيونية 13:26",
+          "url": "https://www.almanar.com.lb/article/1154467/",
+          "source": "Al Manar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "United",
+      "term_he": "יונייטד",
       "count": 2,
       "headlines": [
         {
@@ -1571,29 +1559,29 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
-          "url": "https://www.almanar.com.lb/article/1154792/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "2 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
+          "url": "https://iranintl.com/en/202609054820",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "diplomacy",
-      "term_he": "דיפלומטיה",
+      "term": "Germany",
+      "term_he": "גרמניה",
       "count": 2,
       "headlines": [
         {
-          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+          "title": "6 , Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Germany's far-right AfD set for record win in Saxony-Anhalt vote",
+          "url": "https://www.aa.com.tr/en/europe/germanys-far-right-afd-set-for-record-win-in-saxony-anhalt-vote/4048983",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -1658,22 +1646,22 @@
       ]
     },
     {
-      "term": "election",
-      "term_he": "בחירה",
+      "term": "ceasefire",
+      "term_he": "הפסקת אש",
       "count": 2,
       "headlines": [
         {
-          "title": "Israeli election campaign billboards in Cyprus spark debate",
-          "url": "https://middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
           "source": "Middle East Eye",
           "region": "Pan-Arab",
-          "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון"
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
         },
         {
-          "title": "Türkiye’s AK Party leads opinion polls 2 years before election",
-          "url": "https://www.dailysabah.com/politics/elections/turkiyes-ak-party-leads-opinion-polls-2-years-before-election",
-          "source": "Daily Sabah",
-          "region": "Turkey"
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
+          "region": "Levant"
         }
       ]
     }

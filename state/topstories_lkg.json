@@ -1,79 +1,10 @@
 {
-  "updated": "2026-09-06T07:03:21.309745+00:00",
+  "updated": "2026-09-06T07:34:44.733000+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
       "outlets": 6,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-        "title_he": "",
-        "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-        "published": "2026-09-05T17:37:45+00:00"
-      },
-      "members": [
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
-          "published": "2026-09-05T22:56:52+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
-          "title_he": "",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "published": "2026-09-05T20:49:00+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-          "published": "2026-09-05T17:37:45+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
-          "published": "2026-09-05T13:00:00+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "Putin meets US envoys for Ukraine war talks",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "published": "2026-09-05T08:39:00+00:00"
-        },
-        {
-          "source": "Al Jazeera",
-          "category": "panarab",
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "title_he": "",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "published": ""
-        }
-      ],
-      "summary": "Kremlin says Putin held 'extremely frank' Ukraine war talks with US envoys.",
-      "summary_he": "הקרמלין מסר: פוטין קיים שיחות 'כנות ביותר' על מלחמת אוקראינה עם שליחי ארה\"ב."
-    },
-    {
-      "rank": 2,
-      "outlets": 5,
       "categories": [
         "gulf",
         "panarab",
@@ -128,13 +59,21 @@
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609042909",
+          "published": ""
         }
       ],
       "summary": "IRGC attacks US unmanned vessel in Strait of Hormuz.",
-      "summary_he": "משמרות המהמהפכה האיראניים תקפו כלי שיט אמריקאי בלתי מאויש במצר הורמוז."
+      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב במצר הורמוז."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "outlets": 5,
       "categories": [
         "gulf",
@@ -192,8 +131,69 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי שקט בגדה המערבית."
+      "summary": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים \"טרוריסטים\" בצל המהומות בגדה המערבית."
+    },
+    {
+      "rank": 3,
+      "outlets": 5,
+      "categories": [
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "TRT World",
+        "category": "turkish",
+        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+        "title_he": "",
+        "url": "https://www.trtworld.com/article/bd664ce317c3",
+        "published": "2026-09-05T22:56:52+00:00"
+      },
+      "members": [
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "published": "2026-09-05T22:56:52+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
+          "title_he": "",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "published": "2026-09-05T20:49:00+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
+          "published": "2026-09-05T13:00:00+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "Putin meets US envoys for Ukraine war talks",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
+          "published": "2026-09-05T08:39:00+00:00"
+        },
+        {
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "title_he": "",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "published": ""
+        }
+      ],
+      "summary": "Putin held \"extremely frank\" Ukraine war talks with US envoys, Kremlin says.",
+      "summary_he": "פוטין קיים \"שיחות גלויות ביותר\" על מלחמת אוקראינה עם שליחי ארה\"ב, אומר הקרמלין."
     },
     {
       "rank": 4,
@@ -236,52 +236,52 @@
           "published": "2026-09-05T23:28:18+00:00"
         }
       ],
-      "summary": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack.",
+      "summary": "IRGC attacks US aircraft carrier and destroyer with ballistic missiles.",
       "summary_he": "משמרות המהפכה האיראניים תקפו נושאת מטוסים ומשחתת אמריקאיות בטילים בליסטיים."
     },
     {
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "israeli",
+        "iranian",
         "levant"
       ],
       "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
-        "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
-        "url": "https://kan.org.il/content/kan-news/global/1096407/",
-        "published": "2026-09-06T04:48:20+00:00"
+        "source": "SANA",
+        "category": "levant",
+        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340621/",
+        "published": "2026-09-05T19:22:55+00:00"
       },
       "members": [
         {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
-          "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
-          "url": "https://kan.org.il/content/kan-news/global/1096407/",
-          "published": "2026-09-06T04:48:20+00:00"
-        },
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "The IDF attacked targets in southern Lebanon, including a Hezbollah underground complex, in response to a…",
-          "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
-          "published": "2026-09-06T03:00:00+00:00"
-        },
-        {
-          "source": "L'Orient Today",
+          "source": "SANA",
           "category": "levant",
-          "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
           "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546654/when-hezbollah-questions-its-decision-to-back-joseph-aoun-for-president.html",
-          "published": ""
+          "url": "https://sana.sy/en/middle-east/2340621/",
+          "published": "2026-09-05T19:22:55+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+          "published": "2026-09-05T17:05:27+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174384",
+          "published": "2026-09-05T15:41:26+00:00"
         }
       ],
-      "summary": "A senior Lebanese official opposing Hezbollah received threats, raising safety concerns.",
-      "summary_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים, שהעלו חששות לשלומו."
+      "summary": "Gaza death toll rises to 73,651 since October 2023.",
+      "summary_he": "מניין ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
     }
   ]
 }

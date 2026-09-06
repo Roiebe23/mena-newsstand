@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:01:11.762718+00:00",
+  "updated": "2026-09-06T07:32:42.164820+00:00",
   "regions": {
     "Israel": [
       {
@@ -8,6 +8,26 @@
         "lang": "he",
         "url": "https://www.kan.org.il",
         "coverage": [
+          {
+            "title": "משרד הבריאות הלבנוני: 4 הרוגים ו-20 פצועים בתקיפות חיל האוויר הבוקר בדרום לבנון",
+            "url": "0218df89058c448eabf530afb591f016",
+            "published": "2026-09-06T07:20:34+00:00"
+          },
+          {
+            "title": "בן 9 מאושפז במצב קשה לאחר ששחה בכינרת ונדבק ב\"אמבה אוכלת מוח\" נדירה",
+            "url": "https://kan.org.il/content/kan-news/local/1096477/",
+            "published": "2026-09-06T07:19:16+00:00"
+          },
+          {
+            "title": "חיילת מילואים נעצרה בנתב\"ג בדרך לירח הדבש שלה: \"שינוי מדיניות לא ראוי\"",
+            "url": "https://kan.org.il/content/kan-news/defense/1096450/",
+            "published": "2026-09-06T07:07:34+00:00"
+          },
+          {
+            "title": "דיווח סעודי: חיזבאללה קיבל מאיראן \"אור ירוק\" לצאת מרכס עלי טאהר",
+            "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
+            "published": "2026-09-06T07:07:21+00:00"
+          },
           {
             "title": "המל\"ל פרסם יעדים מסוכנים לשהיית ישראלים בחו\"ל לקראת חגי תשרי: \"עלייה במוטיבציה לטרור\"",
             "url": "https://kan.org.il/content/kan-news/local/1096454/",
@@ -37,11 +57,6 @@
             "title": "אישה כבת 70 נפצעה קשה מירי בקלנסווה",
             "url": "a748d0c92da744ed816c5b7853a14d97",
             "published": "2026-09-06T03:54:27+00:00"
-          },
-          {
-            "title": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
-            "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-            "published": "2026-09-06T03:30:54+00:00"
           },
           {
             "title": "\"עלות השחר 2.0\": צה\"ל פתח בתרגיל פתע בהנחיית הרמטכ\"ל",
@@ -157,11 +172,6 @@
             "title": "בן 67 מאריזונה נעצר לאחר שהשתולל במהלך טיסה - ואילץ את המטוס לבצע נחיתת חירום בבולטימור",
             "url": "f2a52bd9c6b2466d825bcebae0d00e01",
             "published": "2026-09-05T08:37:06+00:00"
-          },
-          {
-            "title": "עקב הפעילות ברכס עלי טאהר: בצה\"ל נערכים לימים רגישים בגזרה הצפונית",
-            "url": "https://kan.org.il/content/kan-news/defense/1096246/",
-            "published": "2026-09-05T07:18:36+00:00"
           }
         ]
       },
@@ -171,6 +181,16 @@
         "lang": "he",
         "url": "https://www.mako.co.il",
         "coverage": [
+          {
+            "title": "גזר הדין שמסעיר את מצרים: מגישת הטלוויזיה שנידונה למוות בתלייה בגלל סחר בסמים",
+            "url": "https://www.mako.co.il/news-world/2026_q3/Article-22a3f6b5c5570a1027.htm",
+            "published": "2026-09-06T06:27:00+00:00"
+          },
+          {
+            "title": "החשש העיקרי: ניסיונות פיגועים ביום לציון טבח 7 באוקטובר",
+            "url": "https://www.mako.co.il/news-military/2026_q3/Article-a1e08b9724570a1026.htm",
+            "published": "2026-09-06T06:01:00+00:00"
+          },
           {
             "title": "צה\"ל פתח בתרגיל פתע: \"בחינת המוכנות לתרחיש רב-זירתי מתפרץ\"",
             "url": "https://www.mako.co.il/news-military/2026_q3/Article-d6589e45e9470a1027.htm",
@@ -312,11 +332,6 @@
             "published": "2026-09-04T08:45:00+00:00"
           },
           {
-            "title": "דונלד טראמפ אירח את אדמו\"רי סאטמר: \"פגישה היסטורית\" לקראת הבחירות",
-            "url": "https://www.mako.co.il/news-world/2026_q3/Article-4f388a1144960a1027.htm",
-            "published": "2026-09-04T08:07:00+00:00"
-          },
-          {
             "title": "מכתב האזהרה של ראשי התעשיות הביטחוניות לרה\"מ: \"פגיעה ביכולות צה\"ל\"",
             "url": "https://www.mako.co.il/news-military/2026_q3/Article-f5b43c233a860a1026.htm",
             "published": "2026-09-04T06:00:00+00:00"
@@ -365,11 +380,6 @@
             "title": "בת 90 נותרה ללא חשמל בביתה כבר כמה ימים: \"זו סכנת נפשות\"",
             "url": "https://www.mako.co.il/news-israel/2026_q3/Article-5d3f48c302460a1026.htm",
             "published": "2026-09-03T13:30:00+00:00"
-          },
-          {
-            "title": "אחרי חודשיים של מחאות סוערות וונדליזם: קפה \"בסמטה\" בירושלים לא ייפתח יותר בשבת",
-            "url": "https://www.mako.co.il/news-israel/2026_q3/Article-e0c4758f65760a1026.htm",
-            "published": "2026-09-03T13:02:00+00:00"
           }
         ]
       },
@@ -465,11 +475,6 @@
             "published": "2026-09-05T04:23:47+00:00"
           },
           {
-            "title": "מחריג לנורמה: האם הפך תסריט הבגידה ב-7.10 למקובל בציבור? - רשת 13",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRmtyNUVBd3hTdk8zdjZpcjdCZEZSY2xOV29HREVEU2pMOVk2c0RYMGROY0ZxNmgzQUNrRjRvSE0zTWpxS0x5Yl9uQktOUU4wbGdFV194aXpGZWxheFhCTTdpNi1vRkhMVUhJOFE3SE4?oc=5",
-            "published": "2026-09-04T18:01:13+00:00"
-          },
-          {
             "title": "אחרי כשלון המגעים עם גנץ: ארדן הודיע שמפלגתו לא תרוץ בבחירות - רשת 13",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50amJsT1ZBeDlFZl9sWFFXdjRzLU8xRDlTRXhrTk1KeTA1MVQ4SGlndDl5YWc4MEtrMU5mcTNPN1RCRVY3al9STTJKR0pmNlNDU0laaFN3YjRtMlJLYko2V2E2SVAxaEZNczJVRzE4VFo?oc=5",
             "published": "2026-09-04T14:43:43+00:00"
@@ -513,11 +518,6 @@
             "title": "איתמר בן גביר בריאיון מיוחד: \"ניסו לרצוח אותי 10 פעמים, אני השר הכי מאוים בישראל\" - רשת 13",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbVp3d0pnVk5DZ2VIN0J5VU9uQXYtZzhRQUQwRGRZQ3dKb1VaZkhMZlp4OW1LQmxhQkc4MERJX1RRRFJUbzc5TDBwN1h2UDk1ZThrRXg4TXJ3SnhJTzJWWFZ4UFlqNlFGZU5YdllwSm9PX29ybVlFYkZueHZ1WDByQm13?oc=5",
             "published": "2026-09-03T12:37:44+00:00"
-          },
-          {
-            "title": "עוד פרישה: קארין אלהרר לא תתמודד ביש עתיד בבחירות - רשת 13",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tUDJKNTd2d3M1aFZfVUFjRlM0NEdnTVptX0w3NWxJaU9mRWVCdktqY284Z3JkZmNCNEw4M0RNYi1sTS1tRExDOVM4ajN2OWhlUlExMjdoUEJRYVlhUTctc2NUWDV5aUtvcHlVb3otdWY?oc=5",
-            "published": "2026-09-03T12:20:15+00:00"
           },
           {
             "title": "החבובות ממשיכות לגלם את כל שאיפותינו גם 50 שנה לאחר פריצתן הגדולה - רשת 13",
@@ -578,6 +578,16 @@
             "title": "עם כמיליון וחצי צופים: סדרת הרשת שהפכה לתופעת אינסטגרם - רשת 13",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDYwNS1HZUpQM1BwekE4Wml0cElkQnVpMWxuZVA1azRPNVRfYi1lR2RsYWxCUy1uYUozUFlqa3U4eW1EckZ3QlMwRF9qRERzNVgxdS1wR2xNU2p5YmtabVZmci1YTk1kcVI5bW1GQlI0ZDB0RHl0aFgzbTdFdTFqcklB?oc=5",
             "published": "2026-09-02T18:25:40+00:00"
+          },
+          {
+            "title": "הלום הקרב שלא הצליח ללוות את בנו לכיתה א': \"החלום שלי זה להיות אבא לילדים שלי\" - רשת 13",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KU2YwZFh2bWg1ZWZOTXVWMEM4N0x5Ukl0S1NKMUY3S0NuSlBUckxTLUc0TWc2SzRXX1ZkNW44cENfcmlNYmdZcFlycVN4b2ZaX1ZlSE1vN1czaGdQN1IzYms3cmlkekZ1WGRoNFV1LU9lekl6NkhB?oc=5",
+            "published": "2026-09-02T18:19:30+00:00"
+          },
+          {
+            "title": "שוויון דרמטי במפת הגושים: איזנקוט נחלש, נתניהו מתחזק - רשת 13",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1INmJFbDgxYXZQX0ZkSUlJRlR1OXAzczU5dlk0UE1nRFIxaFBZREx3d2p3clhvOE1udUZ5RXVMa05yY1ZUeTU4MFdDUFVLZVJCdXVhYzhNTnBVaEZVQW0zNlRsY0tITVd2cWV1Z0VwaXhSZw?oc=5",
+            "published": "2026-09-02T18:00:07+00:00"
           }
         ]
       }
@@ -589,6 +599,11 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "coverage": [
+          {
+            "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
+            "published": "2026-09-06T06:52:23+00:00"
+          },
           {
             "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
@@ -615,7 +630,7 @@
             "published": "2026-09-06T04:31:45+00:00"
           },
           {
-            "title": "German voters head to polls as far-right AfD party eyes historic state win",
+            "title": "Germans vote in eastern state as far-right AfD eyes power",
             "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
             "published": "2026-09-06T04:12:18+00:00"
           },
@@ -645,7 +660,7 @@
             "published": "2026-09-06T00:53:23+00:00"
           },
           {
-            "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+            "title": "Iran war live: IRGC, US trade fire, attack oil tankers in Hormuz",
             "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
             "published": "2026-09-06T00:00:00+00:00"
           },
@@ -698,16 +713,6 @@
             "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
             "url": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
             "published": "2026-09-05T19:19:52+00:00"
-          },
-          {
-            "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
-            "published": "2026-09-05T19:13:29+00:00"
-          },
-          {
-            "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
-            "published": "2026-09-05T18:57:56+00:00"
           }
         ]
       },
@@ -866,6 +871,11 @@
             "published": "2026-09-05T10:49:00+00:00"
           },
           {
+            "title": "Chinese Man Rescued After 10 Days in Nepal Tunnel",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFBKa2ZpMkUtRG5QN3ZYRVpsRnRmdlRWcG9mSHNfZ1JWS3FZbWZfVC0zRUhqSHMteVlPVnNRS3MxeEl0V0Jla0ZjdjFKLWVhZUFmQUlnRXM1ZTU4alJIcmVLbzZac3hMel8ybjdDV1czNFNqMUlTelRzV3ZSQ3ZHMl9tdXBBUWU3dVA2YXg0V2pPWnZRMGdacHZXQkZkVmo1ajFtUHpQM2R1Z9IBqgFBVV95cUxOMFBKa2ZpMkUtRG5QN3ZYRVpsRnRmdlRWcG9mSHNfZ1JWS3FZbWZfVC0zRUhqSHMteVlPVnNRS3MxeEl0V0Jla0ZjdjFKLWVhZUFmQUlnRXM1ZTU4alJIcmVLbzZac3hMel8ybjdDV1czNFNqMUlTelRzV3ZSQ3ZHMl9tdXBBUWU3dVA2YXg0V2pPWnZRMGdacHZXQkZkVmo1ajFtUHpQM2R1Zw?oc=5",
+            "published": "2026-09-05T10:45:13+00:00"
+          },
+          {
             "title": "Residents Clear Rubble After Israeli Demolitions in West Bank",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUNTNXB1Z2xwMlphM2RiUU5rNzRLOU9wQmxJeVE3anFFYzNKblZkd1ZCajlDa0dQSDdQZDRDMUdPTDBsbEpVODhjZmJzMDZTcnFXRE91V196Tk1XT2luMVF1elp0dnRpS1lWV1BuNEVHX3d6QVBWeWRNbURTSEYtZE1OQ2RnV1M0QUxDa1BhQXRzYXk5a2RadklYSzBZS3FDajF1TEhHdUJHQjlxRjJ3NHdEWVlNYk9NMGpZ0gG7AUFVX3lxTE9xQ1M1cHVnbHAyWmEzZGJRTms3NEs5T3BCbEl5UTdqcUVjM0puVmR3VkJqOUNrR1BIN1BkNEMxR09MMGxsSlU4OGNmYnMwNlNycVdET3VXX3pOTVdPaW4xUXV6WnR2dGlLWVZXUG40RUdfd3pBUFZ5ZE1tRFNIRi1kTU5DZGdXUzRBTENrUGFBdHNheTlrZFp2SVhLMFlLcUNqMXVMSEd1QkdCOXFGMnc0d0RZWU1iT00walk?oc=5",
             "published": "2026-09-05T09:40:21+00:00"
@@ -874,6 +884,11 @@
             "title": "Trump: Canada Won’t Survive Without US Trade",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSE5UdDZ5eGR6T1pnb095S2I5QnhTcXZwUW9YSmRxY1dURHkzZUdobFVOM3dGRG1sX1VrNVoyWXNQMVZEYzFWY0pjU1gycTFrVTJiRHllSXJXdW5KX2lDR1c4cHJINEUwM2hNOHQ2bHhWYUdPOTlkc215eDduVDR0SE92Mkd2UkNwYW9EeU5pcDJVT0VqRWw2bVlOZ0l0bUR0cWfSAaIBQVVfeXFMUEhOVHQ2eXhkek9aZ29PeUtiOUJ4U3F2cFFvWEpkcWNXVER5M2VHaGxVTjN3RkRtbF9VazVaMllzUDFWRGMxVmNKY1NYMnExa1UyYkR5ZUlyV3VuSl9pQ0dXOHBySDRFMDNoTTh0Nmx4VmFHTzk5ZHNteXg3blQ0dEhPdjJHdlJDcGFvRHlOaXAyVU9FakVsNm1ZTmdJdG1EdHFn?oc=5",
             "published": "2026-09-05T09:39:51+00:00"
+          },
+          {
+            "title": "Powerful Waves Sweep Cars Away in Laguna Beach",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjJBVXhFcS0zQnlGWk5ROTRnWlBGaGNfN2NIcVRVdzlKTW5INE9IM0pObUtkVFAtUWVaTGZteXBrcVVGZWxTbXJtQWd3RFlnUm85MUVmeWY5bFhmOFJTNl9Dc2Yzb25TaXczVXdua1FnRjB0WjVaRmhveUE5RmxWanRJWG94MjZyTmdvanVQOGVRLUNNbzNHSVFHa1dUUDlRa3J2d2wxRdIBpwFBVV95cUxQVjJBVXhFcS0zQnlGWk5ROTRnWlBGaGNfN2NIcVRVdzlKTW5INE9IM0pObUtkVFAtUWVaTGZteXBrcVVGZWxTbXJtQWd3RFlnUm85MUVmeWY5bFhmOFJTNl9Dc2Yzb25TaXczVXdua1FnRjB0WjVaRmhveUE5RmxWanRJWG94MjZyTmdvanVQOGVRLUNNbzNHSVFHa1dUUDlRa3J2d2wxRQ?oc=5",
+            "published": "2026-09-05T09:29:40+00:00"
           },
           {
             "title": "Moment Explosion Rocks Bolivia Military Base",
@@ -1014,16 +1029,6 @@
             "title": "Range Rover’s first EV is built for desert heat",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVNrZHRzb3VCVTh4ZXF1S2ZyamZEaTJqb3VxWnN1ZkczbVpUSzRObXhHNUtMMlhpNWctNm9WR3ZvMUZkOU5POXJfTi04M28tb1J1NkxzV0NBQS1jU0R4eUFYYkk3RjZnU2tuWW53YjN6Y3FQSTZtb2ZTSGJocG1GUS1kck5IbHRNTV9PU25JMXZPSGwteF9GUHF1clgtRjFoS3N6VmhGb1J1SVBCc0VNUTBxMDBzanVT0gG4AUFVX3lxTE5tU2tkdHNvdUJVOHhlcXVLZnJqZkRpMmpvdXFac3VmRzNtWlRLNE5teEc1S0wyWGk1Zy02b1ZHdm8xRmQ5Tk85cl9OLTgzby1vUnU2THNXQ0FBLWNTRHh5QVhiSTdGNmdTa25ZbndiM3pjcVBJNm1vZlNIYmhwbUZRLWRyTkhsdE1NX09Tbkkxdk9IbC14X0ZQcXVyWC1GMWhLc3pWaEZvUnVJUEJzRU1RMHEwMHNqdVM?oc=5",
             "published": "2026-09-04T12:07:00+00:00"
-          },
-          {
-            "title": "Will Israel vs Turkey drag Syria into war?",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXlBWW0ycUNUZW5oRWx1YUNDZTZNeW1HMWdFeFpNUTljWGt3Y3A3RzRvOFVtZFFfbkdtbU9URUdQZHRRX2U1ekVhX3Vjb0xfR2M1VHZCSjFNS3hqM2NFTWNpUFp0MW5feE80WjRWeVBNcHZjMURZQmhQX0p2X2JmTlYtQ3ZYTC1JdENKeVZOSUNYX2tudTN6ZExHWXRMZHcwdW1FUzhvcWVCUnVVUFBMcFhvQm9GMjjSAbcBQVVfeXFMTy15QVltMnFDVGVuaEVsdWFDQ2U2TXltRzFnRXhaTVE5Y1hrd2NwN0c0bzhVbWRRX25HbW1PVEVHUGR0UV9lNXpFYV91Y29MX0djNVR2QkoxTUt4ajNjRU1jaVBadDFuX3hPNFo0VnlQTXB2YzFEWUJoUF9Kdl9iZk5WLUN2WEwtSXRDSnlWTklDWF9rbnUzemRMR1l0TGR3MHVtRVM4b3FlQlJ1VVBQTHBYb0JvRjI4?oc=5",
-            "published": "2026-09-04T12:03:00+00:00"
-          },
-          {
-            "title": "Putin says Ukraine peace deal is possible: Is this a new path to peace?",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmRGSDRDQmhBTjVqWWNGNzV6eXpGZHZxQzRmakJ4UW9kMFF5eTVWTGRVank1UERHcUpnQVVvbEg0ckhXVHR5ZTdGWFF6c1Fsbi1GSVZWaDU2dEprSFl4NXBvcTFZd25ORll0QzdyVUhsSTNMQ19PVlhrMnBpV1IwTUpLcjB5b01EY1JNQUxmbVhuMmhvQm1qT0dYSkl2S3hIdHRCUTN1Z1N3V3BPZDdpTFFUdmlyejZvT1lBYl9nd3M0VFVHQlJKVHo4aUhmQdIBzgFBVV95cUxPYmRGSDRDQmhBTjVqWWNGNzV6eXpGZHZxQzRmakJ4UW9kMFF5eTVWTGRVank1UERHcUpnQVVvbEg0ckhXVHR5ZTdGWFF6c1Fsbi1GSVZWaDU2dEprSFl4NXBvcTFZd25ORll0QzdyVUhsSTNMQ19PVlhrMnBpV1IwTUpLcjB5b01EY1JNQUxmbVhuMmhvQm1qT0dYSkl2S3hIdHRCUTN1Z1N3V3BPZDdpTFFUdmlyejZvT1lBYl9nd3M0VFVHQlJKVHo4aUhmQQ?oc=5",
-            "published": "2026-09-04T11:59:00+00:00"
           }
         ]
       },
@@ -1382,11 +1387,6 @@
             "published": "2026-09-03T22:53:44+00:00"
           },
           {
-            "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
-            "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPUDZMV09QVGNNb1hLT2Rpa0NGNFJoellZN0czbWtfQVUtV1k0bHZHaWR1LWpqbXJGQURraTRHMWNObXRPNzhoc2NieVNmajVYOF9QQmZqMVZCcG0tUGFsSEJSSUk3TDVlS0E2NjhBYlNxamVjN3ZCanBDQXVRWjZtUUNBZkl5cVg4SFI1NnozYy1BSHZfZ2hHR19qNjkxZ0l5UEFPSDNRUW5Ybjh6REpBS21wVnBjUzc3MEdXb3VjMjh6ZGQ4MFJMUlJqWkQ1VXhaaTQ3RUVCcHBJTTRMWWVUT05JT09LM2JUZXg2WXVuc1pQTk1teTJUWE1GUGVtQlZfUHBzcUtFMGloS2hfLVpUSUhEczZXUmhXdGhXRS1YRUhuTWFsVnNVa0dDd0ZITzEwM2hadlQxV1B6X0hXcWgtclcyckQzTElnM0RQZlh1OFROVC1kRFFMYk1YOGNneXljcTNfcEMtVWRyUDNYb3J0QU8zelFDdTk3RlB0cnVYbjdwcmhNYTJJV1VGZGpYQV8zM3RHMU1RalV4Z08tT250Ym9RdlUtaUtjdGhQSldoNXFrWm9lRldwUmlUajdWb0VFN1RNY1B3c2p6NmZKLXRpQ2g5WFJZTm43aDZ0aGNQTHJzMGRaTk5ZR2QtYVNPS2It?oc=5",
-            "published": "2026-09-03T22:35:28+00:00"
-          },
-          {
             "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
             "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZ2FsazJXbUZaa2VkWjRQSGVtMGtZYnhEcWJVSlhGQkgyNlJVWkdVZjQ1YUZ5clJ0VUlfOXY3N3VjS2ZqekFhVVBxdTN5ck5KdzlIWGN2QnlCNE9OWVlyRTB3Z3BwN3J4WUsySTFiRVBqVVVURWI1ak1neEdVWmZ2LVpPYmJ1ZlEwZkRranc3ZXY3cDdwVEZRUi0yVVFUa2x6b2xscGV2dEpjakplMGFDcmpaNUpDMU9KakJwdk5ZVXFWRzctNXNMZnJGRWM4ZVg4WWJPdHVKTU9VV0wtOW9Oa3EweUVGX0RBWU5QX1gwQ21qOVREWkVFdHpRWV9lb0s0SVIxUzRaVHhTdnQ4XzQwbzRTMXM4dTVrZlc1UGtoVGFlWkludWg3NXJ4NHVmTnRjOTlZZXFiMy1OWGE5QTR5T3JkTzREZWVzZEFvVGJ3TjZlRmRRNS1ObDFPQjlBTmo3MFBWTHFQWk1YOU1rUWgwdlN3amVQRG9lLWJyWE1SOFNCcTNsak1QOXlsOGxXT05WSWFyck05RTBHbktMR21ybnJTbnRUQ0Yyc0J4MG53M0otRDJKLUtIdnNVTWIybkliRmk5Z1BXc256NFpLNHUwV2Rac2hTYnRKQ2k4QkNIczBKNElHbVRrNmFVWG82ZFnSAfMDQVVfeXFMTnJGdzJ4VXlSN2lNcDBwN1pXclpNcnBwWUNQYnp6QnU5WjB6MFcxeGl1Sm92Mk1JYzh5VTQzQnlrelk3Tk5qU1pHWkdHYklUd2ItSEJhRlp0dnZMd2hZYXg1SW92bkx0MHRMTDNHc19GcTg2Y29BZlNvZ19lSzJyeGN3NXZMdTJMRXo1QnZVdHNlX2Ewb3BVS1Zkd0JqdV81QkFBTUEwc2tXcUQzT21YQVZBY3k1UjJnOG9jbkhZZlpjQnVtZmVyWTlNbUc0SlRMVHFRQjNYVHJqQ2xjdi1OZzQtU0dzYk5ORFFSMW5lWTlLQkRXZmFTb3BYQkZ3d2RLUWFER1hrZm93MEpPbGZfaUpfamE1VHZJclJBWlVxM1NnRmhHbk1tTU9RODFvc3h1Y2hxcXRocHE3YUVFTURtUnM5N3lDQ2c5TThDNGFOTDVqZ3A5UUdkS0FSeXg1SGZDMHJvUk1KQTBjTzdSMGhGa0YzODh1MG15dXVTUWRZWkdvbHkyRTFDaDJnMzFRRWJUTmktd2dlcTkwRE1nMG1ZeU56Wnptc05wdmRWTk9lNGFacHJnT1dMQzBuREoyM0NrdXFTXzBQRGZXM1pSZlZwYms1b3FON3NJbEVNMUVyT1ZHeTFRd2RsUWFOZ1lYYUdSbndScw?oc=5",
             "published": "2026-09-03T20:59:45+00:00"
@@ -1440,6 +1440,11 @@
             "title": "ألمانيا توافق على تصدير معدات عسكرية لـ\"إسرائيل\" بقيمة 800 مليون يورو",
             "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOUG1qZl9mQjdBTnA0SXVOVVMyMnBQei1OV1p1VHpCVEZ6RDNlMG1lRk9pTlcxQkx6djUzTkRaNUU3YVJWcFYzeWJtQ3ZwVlhxa3hzb1Rta0lncngtQzZ2ZDZIUFhjQ29QUDdiSWtDbURuWFA4VGpFU3FwaDhjTUItQXZIYTVlY240WU1FRTJXMTBOcVJsVEtzWXFVaDBlRGZDYi1XSHdQNW50TFNjSXNUT3MxNWN3dUxYc3Y3R1dCbUZmXy1TSV9qeUJEeWMwNVlvQXVwbEo3cHFyVnN2a1FPTmtjOEFPTUV0b2RXYm9PdkwxbVlCTEtvWmEzYmxrN2pGVWNBWWdTb3R1SksxZ0c4cDk5dF95cTJITGZGQXBRV1pJbUZjcEFnWEpqVmJ3SUVYaDNVZFlQZE5hS0poQ0pzZEZncmJQQjM0S3FtbldEVTFZWjR0ZlR0OUhibWFRODV5aGFhWlBtQU84VjhsWC1VeVp5eUNPaWN5T3dPVlFocmRyc1Y2Z245LU5XUlE0SFlDQmljTnR4WXRRbHNGbzFGY2swX09lVUwzZS0tNVJ0bEZUSTFQZDJmQlM2aHpkaVAxelpUZjNfUWZJRUZZSFFELTdrc0s2Z9IB2gNBVV95cUxNZHhsV2xTYllWd2l3NWg1LXNyVTRmRl9EMWpSY214QWNpcnFKMV9ZbEtjVkFUUTcyTDlIbmVEekxYRWM0S0xNcUMtVTFHLTNESEo2aklrTE9qdGgzVFBSeWZwUzVWWVhBbVBYRVZCNFNieWNjNXo3bzBuQnViXzhoVFdXNk43Nm04Z24ya0Y3b0MxM0ZzN3lxRy0zdC0tbDVWTzh0OFhYTGt4UFJoc3ZEZmhCdFo1enlyWFZZbXpzWDJITk0tZWJ0Z2pHZGtkR2tUd1RYd3hJZTZ0aXBRUG9mMXBZdjdYSTZURXZwRDNUc3VwNEJLbG5iVTJSSVFsYWMxOHJJYXdhYVlTNGtDMHcwUnZVMXMxNVJueWJFTHIteDBjajVaS2wwM1dyQlBacFU1WVNzM2s0dk9IQ243a2ZBQUwtNkVhUEdoUFNsSzJVaTFCZGlNTnF4RlJNWkhsRjljNzR0M2ZyQVM1MDFlVUJ5SjAzNTVHMUlwU0NreU02Z3VfZTZsTTNlQWVNdVc0OXl2S1ZzYnZRQldGWThjSkM2YTdBcEU1dEx6cDdVN1B3RHFkdmRwdWJJdlJaMllhd2QzTUh5TWZPNU1EYnJvNkE5YnlrQU5ERkQzVkE?oc=5",
             "published": "2026-09-03T07:19:06+00:00"
+          },
+          {
+            "title": "كييف: اشتباك مسلح بين الأمن والاستخبارات الأوكرانية ووقوع إصابات",
+            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNVVotTWVVQ2k2YjFwSVJ2bmRyekYtbUJXSDA0T2c4QVdUdnNTemNMVFlDbnllX2JPeGp2ZE9YYlpsUXBJTjNFYlJYOVBXazNIakJoZUltdk9DS0MtakszRkJsWUR4NS1oMkJrcXRyczU5OHlDRElxeWpjT0VlNWEyMFc3aGNLR3U2QmY2aVFlQXZfR0NTSzY2WGl6Nnc1XzdfZFVZRVUwMFlpMDl4Wl9jNG5UZVpMQ0Q4aThVVnA2czROZUFKZWtFYXgzRFYteHhsbjhEUW04cG5PUGp1ZGZ5dlBLNThqdE94bVpvRlZWM1U4SWpmcHNYWnpOLTFyYXdSQ2FrcTk5eGZ5alRqX3dKMFAtdHNpRW5mWG1BSDBGc0RySmpaenphajdaN29CS1dFenRKUVE1eXhVdE11QzRraHVoNGI1VXhuOThYOWRXaEk3Z2RNc0d0aE1EeXU4ZWVaT3RSSWpNNGRBVVpjSjAzVDJWZlZUUEVkY2MyTDhZN2xkRUtIYTEwd0diN0xDRk9YZ0czM0J4ek5tSng1Zjg0QUtMdVBydm9lSnJkcmRqYjdpenBZVTVkUzhJOW5uVS1PZ1paMW5VcTBaM09Kc2IxRlI0YkZvQmJFaVVKTDR5R1l6WkFsWnhPYnpEeTZrVXpVWHlMNnY1QdIB-wNBVV95cUxOSnNaTzc1aE1udFpVcnBSU2ZYWEtlNHExSXRKc05xeGVZQ2l2NEQ0UnVZMDNLSjlfUzVNVGVNai1MTElKUU9XanBERDdacXlKaHQ1TzB3U3l2OFFidnJoNzFwTm1KX3BzcDNHYnlUd2pCclcza3JoQkhpZ2RtZjJKMTVCTURENjhQTm1kM1VncEJ5TjRiZ1dOdndiN1BXVjR6QmI5Xy1zbWMzSGlwcVJKQmlJcWRQbmg2VTV3bnRVM2RfckJGWjJTTFp6TFBiVXhqaVJta1EyMVZyX2w1ZkhIczBpVXRMcUg4UUIyandaV1Y3Rzltb0w3QXBrT3FtVWNPQ2o0M1oyV1p6VTc0c1VmT3UxNk1MVUEtQzZXR1kyNU9oTlJqY3ZnVk5xZk1JY3gteVlhMEJGYUZCUzNpMUNpUUY4QWVxWnpTeDFoRTZaeWEzdWxydktPRFBGdVpTMVMtYmZzaG5lZUFOclZVODVCZEswcEFqZ2REd2k2Szd2cGpMbGk3NTdRN2hWX1MwYXFsSmFJcDFIWkNoQmNuakRjYkNRMVFXa0JhejhtVUFxNjAzVFE0Ry1ITHhrTkd4TzMtMXlMaVdOODlpQkxnNDU1djU2Y2hXWmFJWS1EY0d2VXVZdldoVjJKbkxZT1pmVVdLNTZuZWF1UUh2eUU?oc=5",
+            "published": "2026-09-03T06:33:58+00:00"
           }
         ]
       }
@@ -1451,6 +1456,11 @@
         "lang": "en",
         "url": "https://en.irna.ir",
         "coverage": [
+          {
+            "title": "In photos: Entrepreneurship festival held in Iran",
+            "url": "https://en.irna.ir/photo/86256134/In-photos-Entrepreneurship-festival-held-in-Iran",
+            "published": "2026-09-06T07:14:04+00:00"
+          },
           {
             "title": "Iran FM holds phone talks with Saudi, Turkish counterparts",
             "url": "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
@@ -1595,11 +1605,6 @@
             "title": "FM Araghchi reacts to remarks by Jordanian counterpart about Iran’s right to respond",
             "url": "https://en.irna.ir/news/86254672/FM-Araghchi-reacts-to-remarks-by-Jordanian-counterpart-about",
             "published": "2026-09-04T10:30:01+00:00"
-          },
-          {
-            "title": "Iran demonstrated strategic resilience despite US attacks, says Judiciary chief",
-            "url": "https://en.irna.ir/news/86254637/Iran-demonstrated-strategic-resilience-despite-US-attacks-says",
-            "published": "2026-09-04T09:44:33+00:00"
           }
         ]
       },
@@ -1609,6 +1614,21 @@
         "lang": "en",
         "url": "https://en.mehrnews.com",
         "coverage": [
+          {
+            "title": "VIDEO: An old woman found alive in Nepal flood after 10 days",
+            "url": "https://en.mehrnews.com/news/247483/VIDEO-An-old-woman-found-alive-in-Nepal-flood-after-10-days",
+            "published": "2026-09-06T07:26:05+00:00"
+          },
+          {
+            "title": "2 dead, 2 injured after small plane crashes in US California",
+            "url": "https://en.mehrnews.com/news/247481/2-dead-2-injured-after-small-plane-crashes-in-US-California",
+            "published": "2026-09-06T07:20:05+00:00"
+          },
+          {
+            "title": "Iran sets up economic war task force amid fighting with US",
+            "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
+            "published": "2026-09-06T07:11:39+00:00"
+          },
           {
             "title": "VIDEO: Israeli forces destructed Bani Hayyan town, Lebanon",
             "url": "https://en.mehrnews.com/news/247479/VIDEO-Israeli-forces-destructed-Bani-Hayyan-town-Lebanon",
@@ -1743,21 +1763,6 @@
             "title": "Guests visit Guangdong ahead of Asia-Pacific Media Forum",
             "url": "https://en.mehrnews.com/news/247454/Guests-visit-Guangdong-ahead-of-Asia-Pacific-Media-Forum",
             "published": "2026-09-05T10:49:14+00:00"
-          },
-          {
-            "title": "Asia-Pacific Media Forum to be held in China's Guangdong",
-            "url": "https://en.mehrnews.com/news/247453/Asia-Pacific-Media-Forum-to-be-held-in-China-s-Guangdong",
-            "published": "2026-09-05T10:34:30+00:00"
-          },
-          {
-            "title": "Sanctions or illusion? US claim on Iran’s financial lifeline",
-            "url": "https://en.mehrnews.com/news/247452/Sanctions-or-illusion-US-claim-on-Iran-s-financial-lifeline",
-            "published": "2026-09-05T10:19:34+00:00"
-          },
-          {
-            "title": "World grasped out nuclear club was nothing more than a lie",
-            "url": "https://en.mehrnews.com/news/247451/World-grasped-out-nuclear-club-was-nothing-more-than-a-lie",
-            "published": "2026-09-05T09:55:00+00:00"
           }
         ]
       },
@@ -1878,11 +1883,6 @@
             "published": "2026-09-05T00:51:43+00:00"
           },
           {
-            "title": "Sanders challenges Vance over calling Iran conflict ‘not a war’",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ESzllRnZBYWtsWlFUVUtNRkMwR1E5VlZsaTNfZHhEMjZZZVFtVm44U1ZzTkVEY1ZUaEdjQmR4TkpHSnhJY2VJY2ZOYWI?oc=5",
-            "published": "2026-09-04T23:42:50+00:00"
-          },
-          {
             "title": "US sanctions Turkish bank as Iran financial crackdown widens",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40MV9GZHZhY1YtZU42OWxPYUpqWTllV2dHUzU5ZF80ZGpZa1NEbXh4cUhhd0N5UjJJMWVmWWFlWHY5R3BHVlBOcUN0N19rOWVTNUE?oc=5",
             "published": "2026-09-04T19:58:08+00:00"
@@ -1966,6 +1966,11 @@
             "title": "Trump’s call for an Iranian uprising runs into a trust problem",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lYWFYY3Q5dzdrUUZES19xMHBmTjNoeURwelozRVlUSTR6QVRMdTFwNVVLUnVra0xxOVE3Rmx5RDZyb09kcmQwQXBKYTRhd2VObVE?oc=5",
             "published": "2026-09-04T01:17:59+00:00"
+          },
+          {
+            "title": "Five years ago, Iran’s planners put today’s crisis on paper",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9veGk1dTVuVUFZZl9PREFLNmVJZ25wcWJZNzZwRmZ2WENzZDYyM1ZNa3FtVVBCNXl0Zm8wTmpsb1J2QWx3bUlybDl5R1owNm5XR2c?oc=5",
+            "published": "2026-09-03T23:43:00+00:00"
           }
         ]
       }
@@ -2440,6 +2445,31 @@
         "url": "https://www.almanar.com.lb",
         "coverage": [
           {
+            "title": "بالفيديو | فرق الإنقاذ تواصل البحث عن ناجين بين أنقاض منزل آل حنجول",
+            "url": "https://www.almanar.com.lb/article/1156352/",
+            "published": "2026-09-06T07:28:00+00:00"
+          },
+          {
+            "title": "بالصور | تشييع 100 شهيد انتُشلت جثامينهم من تحت أنقاض المنازل في غزة",
+            "url": "https://www.almanar.com.lb/article/1156327/",
+            "published": "2026-09-06T07:26:06+00:00"
+          },
+          {
+            "title": "بالفيديو | ثوران بركان أناك كراكاتوا في إندونيسيا",
+            "url": "https://www.almanar.com.lb/article/1156312/",
+            "published": "2026-09-06T07:14:38+00:00"
+          },
+          {
+            "title": "بالفيديو | تمشيط إسرائيلي بالأسلحة الرشاشة يستهدف بلدة المنصوري جنوب لبنان",
+            "url": "https://www.almanar.com.lb/article/1156297/",
+            "published": "2026-09-06T07:06:34+00:00"
+          },
+          {
+            "title": "بالفيديو | قصف مدفعي إسرائيلي على بلدة بني حيّان جنوب لبنان",
+            "url": "https://www.almanar.com.lb/article/1156277/",
+            "published": "2026-09-06T07:02:06+00:00"
+          },
+          {
             "title": "شريفة: لبنان يحتاج إلى الحوار لا إلى التهديد والقطيعة",
             "url": "https://www.almanar.com.lb/article/1156272/",
             "published": "2026-09-06T07:00:08+00:00"
@@ -2463,31 +2493,6 @@
             "title": "قوات الاحتلال الإسرائيلي تقصف محيط قرية الصمدانية الشرقية في ريف القنيطرة الأوسط في سوريا بقذيفة مدفعية",
             "url": "https://www.almanar.com.lb/article/1156232/",
             "published": "2026-09-06T06:54:15+00:00"
-          },
-          {
-            "title": "تقرير مصور | احتفال قرآني في ذكرى ولادة الرسول الأكرم (ص).. والمفتي قبلان: حماية الجنوب جزء من حماية بيروت وبعبدا",
-            "url": "https://www.almanar.com.lb/article/1156177/",
-            "published": "2026-09-06T06:48:11+00:00"
-          },
-          {
-            "title": "التعليم في غزة يدخل عامه الرابع تحت الإبادة.. مطالبة حقوقية بتدخل دولي عاجل لوقف تدمير المعرفة",
-            "url": "https://www.almanar.com.lb/article/1156202/",
-            "published": "2026-09-06T06:31:12+00:00"
-          },
-          {
-            "title": "تخللها اعتقالات وإصابات.. الاحتلال يشن حملة مداهمات في الضفة",
-            "url": "https://www.almanar.com.lb/article/1156182/",
-            "published": "2026-09-06T06:27:35+00:00"
-          },
-          {
-            "title": "تقرير مصور | ندوة قرآنية في بعلبك إحياءً لذكرى ولادة الرسول الأكرم (ص).. والمقداد يدعو للتراجع عن مسار التفاوض",
-            "url": "https://www.almanar.com.lb/article/1156147/",
-            "published": "2026-09-06T06:24:41+00:00"
-          },
-          {
-            "title": "ألمانيا تحقق في محاولتي تخريب استهدفتا منشآت كهربائية",
-            "url": "https://www.almanar.com.lb/article/1156157/",
-            "published": "2026-09-06T06:24:22+00:00"
           }
         ]
       },
@@ -2498,202 +2503,202 @@
         "url": "https://english.wafa.ps",
         "coverage": [
           {
-            "title": "Israeli forces and colonists prevent teacher and children from reaching school in Qusra",
+            "title": "Israeli forces and colonists prevent teacher and children from reaching school in Qusra - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45MHF4NFlOb3lkbXZycFlYQVpuYzRkcDVucThnMlhtdUkydVJpZ0pKc2tmalhmUmZHNG1UT1RvQTJaNmQyRFN5R2dlMERMMGpzMW8xOHphOA?oc=5",
             "published": "2026-09-06T06:26:21+00:00"
           },
           {
-            "title": "Israeli forces raid two schools in Nablus and demand removal of Palestinian flag",
+            "title": "Israeli forces raid two schools in Nablus and demand removal of Palestinian flag - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1TWhiMmxIMXlXaHIyclE0d1FNRmNiOGo3Z2lQUENKS2loTXViOHR5clhEQnVxWWhPbVlFSlNYZFk2cGo1M0t3R2Y2NzA4UDY0RkZtc3Z3SQ?oc=5",
             "published": "2026-09-06T06:02:41+00:00"
           },
           {
-            "title": "Around 846,000 students begin 2026/2027 school year in West Bank",
+            "title": "Around 846,000 students begin 2026/2027 school year in West Bank - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rSWJoNWJGYk1Zem1lV1VkN2JNdFhiTXVwUzRWY1lrdmYyR0lka0ZtdmZIeldLTUY1d0liOTRMQXRkemdsNkQ5c3FmLUVDaUtHZkVGWEJNQQ?oc=5",
             "published": "2026-09-06T05:32:21+00:00"
           },
           {
-            "title": "Israeli forces detain nine Palestinians during raid on Aqqaba near Tubas",
+            "title": "Israeli forces detain nine Palestinians during raid on Aqqaba near Tubas - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d2ZTTldzNHdreEhXUVhSVTloaWpLT3FNYkY1Q1Vwc0dFUFJqOWpPbHpzSURFMzZhdTUxdEdCOFBxMG5ndEtIdmhsOVR4aDUzTkNObE1TWQ?oc=5",
             "published": "2026-09-06T05:08:38+00:00"
           },
           {
-            "title": "Palestinian man injured by Israeli gunfire in Jenin",
+            "title": "Palestinian man injured by Israeli gunfire in Jenin - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qMXdXdU5feURsTkZOS0UtbjF4U3pyRmM0OWFzRVFJZk5sM09qTDhKWmVsTEdka3NPeGswdTF2UEFjaXV1UGNrVlR2MWlkcFJPWXpSTm9BSQ?oc=5",
             "published": "2026-09-06T04:47:09+00:00"
           },
           {
-            "title": "Child injured by Israeli gunfire in Qalqilya",
+            "title": "Child injured by Israeli gunfire in Qalqilya - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUHpWQzljZnFfdFBPT1pPeWFXN0hkY3dPdzJoTUl6TlVDeF9iWlJBMlIybzJOYXA1NExjdjNFdWxrZFktVmYybXlaa0QzdE1QMk1XeFMxdw?oc=5",
             "published": "2026-09-06T04:46:11+00:00"
           },
           {
-            "title": "Israeli forces ram Palestinian vehicle in Tulkarm",
+            "title": "Israeli forces ram Palestinian vehicle in Tulkarm - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBS2RwMnUwa29INlFxd3R1NXBUZzFiR1FldjBrdlp3LTBZUmpLZVU2NWdKN2FTZ3BhMG9EQ2dTeEFWMVhWeVp4WUN3bExzemNjZllUcjdPMA?oc=5",
             "published": "2026-09-05T20:42:06+00:00"
           },
           {
-            "title": "Three Palestinians wounded in Israeli airstrike on Gaza City's Tuffah neighborhood",
+            "title": "Three Palestinians wounded in Israeli airstrike on Gaza City's Tuffah neighborhood - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxQTN6U2pEOHcyaUw1Uml0X0JUdUV3V2JBbGNhM0pkRnhPNE5nWWdQTmd4Z2cxYmd3SVZDMmpmNFU2M0RmQl9Ca1MzQWVMaEVwMGZieUNYUQ?oc=5",
             "published": "2026-09-05T18:46:25+00:00"
           },
           {
-            "title": "Occupation authorities force Palestinian to self-demolish home in Jabal al-Mukaber",
+            "title": "Occupation authorities force Palestinian to self-demolish home in Jabal al-Mukaber - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95VE9QdlNJdTVYMDZkTkduNGlUV2pJUk1XZFhvemNqa2NPbE9QSWUxWlJnRmtiaFpraHh5WFNzZVlzMVdYaTNZYjBCdU4tckNaTklOMjV0VQ?oc=5",
             "published": "2026-09-05T18:11:44+00:00"
           },
           {
-            "title": "Colonists attack Palestinian children and women with dogs in Hebron",
+            "title": "Colonists attack Palestinian children and women with dogs in Hebron - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92VTNsaE9ZaGNnTXB0M3dCUUFxVktLMnhTaGVjWmw1bHFNQ3ZuLUZoV2xST1o5UkgzVzFIVnRXbUlTcjVld2pxcUNUMVh5V1pMaWtndWYyYw?oc=5",
-            "published": "2026-09-05T17:51:51+00:00"
+            "published": "2026-09-05T17:55:12+00:00"
           },
           {
-            "title": "Israeli colonists raid outskirts of al-Mughayyir and Burqa near Ramallah",
+            "title": "Israeli colonists raid outskirts of al-Mughayyir and Burqa near Ramallah - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01bGJtX01JTXNRT3V6Z2pPa1JVR2I4d21PUkFNd1hZb0paQ3ZwVmVBVjlYX0wzeXNIaHdXQ00wcFplcEVvWjUzY3J5Y1VLbF9mMjR3QXBzVQ?oc=5",
             "published": "2026-09-05T16:55:08+00:00"
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023",
+            "title": "Gaza death toll rises to 73,651 since October 2023 - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDhhcTdfU3lja0tuWnFRd3RnbHZ4MjBwTkxQRFB4eVAtaS00Mlhwb0NoQ3dBamdNOVBlU1ktRDNSelEtcFVTck5ESTVRakt1Tk1ZMFBnTQ?oc=5",
             "published": "2026-09-05T15:41:26+00:00"
           },
           {
-            "title": "Israeli colonists steal water barrels in northern Jordan Valley",
+            "title": "Israeli colonists steal water barrels in northern Jordan Valley - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tRG1EMktsZDRQaEU3Und4NTQzSkJSUDk0ZjJCUVl3Ykt5TU4yajQyYk9ZTlRQVnlSZV92ZnVCbnZZN2RSTTREbHpfX3BzWVdSbGR1Z1o1dw?oc=5",
             "published": "2026-09-05T15:41:25+00:00"
           },
           {
-            "title": "Palestine U-20 team completes preparations for decisive North Korea clash",
+            "title": "Palestine U-20 team completes preparations for decisive North Korea clash - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UQUkwMlktTVN3VUVlOVVQYWFxS210ZWZ1RnE0UVFoYTdLdTI0RXppaXYxdmVyTW1QdXlxZlNoZkNzUXBSNWhyNElCaVJXQ1F2RGc5SWpiTQ?oc=5",
             "published": "2026-09-05T15:09:58+00:00"
           },
           {
-            "title": "Rescue teams recover remains of 55 Palestinians from destroyed home in Gaza",
+            "title": "Rescue teams recover remains of 55 Palestinians from destroyed home in Gaza - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jZWYwcHFTN2dTSnB3dHp2cUNjSExKYlFXOTUwMUpDQU5BeG1wemZ5VHdBbHZwdEoyVmcwR3RHRURDZ0Vqc2QzQUdyQWdublllaHFVX2Z3OA?oc=5",
             "published": "2026-09-05T11:34:35+00:00"
           },
           {
-            "title": "Two Israeli colonists raid Turmus'ayya during U.S ambassador's visit",
+            "title": "Two Israeli colonists raid Turmus'ayya during U.S ambassador's visit - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iWlF1cWx2Nm9RRUVNV0V2MUhxd0FYNEpXZWRnamFiRlB3TkdBSlFNeWl2TEMzSXFzcEZYSGJ2R01ZNkg1UGRyNWRtYzFpd0tKMkwtOUM1SQ?oc=5",
             "published": "2026-09-05T10:30:57+00:00"
           },
           {
-            "title": "Israeli forces detain several Palestinian residents in eastern Tubas",
+            "title": "Israeli forces detain several Palestinian residents in eastern Tubas - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MTld1ZGNqV1V2MHlBZlNGRFFsSVhTSmNadWhkYVEyVmZlTGRMV0xzMTd5UUN3by1rcE0zUTZ6WEZoQTVKWEh1RnZVYThSVmpGemNpRW1Ybw?oc=5",
             "published": "2026-09-05T09:34:50+00:00"
           },
           {
-            "title": "Palestinian child wounded by Israeli forces in northern Gaza Strip",
+            "title": "Palestinian child wounded by Israeli forces in northern Gaza Strip - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13NzJXNnpUZ0VBbWxDajFCNnZLYmVTd1llalhmWGpabll3ZkdjaG1KRTdUcURZUzd0dTFHXzAwNmw4YVV5R1FyMk40RWpucFNLbGdjZXZlYw?oc=5",
             "published": "2026-09-05T09:29:02+00:00"
           },
           {
-            "title": "Israeli forces detain Palestinian resident as colonist vandalizes property near Bethlehem",
+            "title": "Israeli forces detain Palestinian resident as colonist vandalizes property near Bethlehem - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Xa1VhR04ySjk3eEdjbDJyTmtid0VZU185anZWdWlTbUlrZHNkT1EzbTlJbzd3MVhmTFNnUUJZSzdsemdoaG1lY2lYa0hhRWNtYzZOWGhYRQ?oc=5",
             "published": "2026-09-05T05:27:11+00:00"
           },
           {
-            "title": "Israeli drone strike kills two in southern Lebanon",
+            "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yTFoyM2FQeUszaVVfcEJZVGdZQnRRTkRZYUYxcmJucG5Pb2doTTRqYWw0bGFDYkx1ZW9Dd3JEYUNBOHFLRjh6SGdPSWxaSVRUWVF6U3FGWQ?oc=5",
             "published": "2026-09-04T18:48:26+00:00"
           },
           {
-            "title": "Several suffocate due to colonist attack south of Bethlehem",
+            "title": "Several suffocate due to colonist attack south of Bethlehem - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fOFFvMzZVV1RraXNlQUhfUEZiUFc4YnB6VUwtdlNHV2tjSUlyRDNOUWhkZ2RydEpteTlrVXFYUkNrSTlkRUM5eFdaeXB0V1RtVmpFSElkdw?oc=5",
             "published": "2026-09-04T16:52:02+00:00"
           },
           {
-            "title": "EU slams Israeli ministers’ remarks on forced displacement of Gazans as “unacceptable”",
+            "title": "EU slams Israeli ministers’ remarks on forced displacement of Gazans as “unacceptable” - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ncmpkWE1BU0hrWkJMRW9jTXk2S1BoTjBJbFNCX1lWMTUtM05WRnk5T1gzWXJVSldSd3ZhY3BBNndUOUJ0R0hwUzNyaV9QbHpkYUJHWDJPOA?oc=5",
             "published": "2026-09-04T16:01:22+00:00"
           },
           {
-            "title": "Israel seizes 7.498 dunams of land in Qabatiya under urgent military order",
+            "title": "Israel seizes 7.498 dunams of land in Qabatiya under urgent military order - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXYXNSMnltZUN6Q3VRaEttaVNjQ0tLYUppZlh1dHBPZTJpRkZaWFd1M2dxeW1zZzA5Um1ObTYzaF9PcE5hczZRN3ZvUzZpWmoxVnRqRXlySQ?oc=5",
             "published": "2026-09-04T14:11:10+00:00"
           },
           {
-            "title": "UN report: Israel forcibly displaced more than 33,000 Palestinians from three West Bank refugee camps",
+            "title": "UN report: Israel forcibly displaced more than 33,000 Palestinians from three West Bank refugee camps - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMXB0VUoxLVRqZFIwSHpZZV9JekdncHZCZUtVUGNUdEN6dEZ0b3o3MDRoZVFWS2JqYzdkaUtqUXZEd2tRMjVMUjVfN0poY3lSTC14T1dCSQ?oc=5",
             "published": "2026-09-04T12:11:01+00:00"
           },
           {
-            "title": "Israeli colonists set up tent near homes in Umm Safa, northwest of Ramallah",
+            "title": "Israeli colonists set up tent near homes in Umm Safa, northwest of Ramallah - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FWVd0YkVnVlEzV2JINW1xMVEweno2cDM4MUdhX1NxMGlZSF85R1VoUTMwRk5MN1NhSTJteDdFUHBLY1owQ1JYc3R2S2pRUE5CSEtDM2JGVQ?oc=5",
             "published": "2026-09-04T11:35:10+00:00"
           },
           {
-            "title": "Warnings over erosion of international legal order amid efforts to isolate ICC",
+            "title": "Warnings over erosion of international legal order amid efforts to isolate ICC - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWOTFDN1pNbEJ0S2dnVXJUa1g0aWZtSTNEbV9UcUR3Q2FGSWE3STFVRzJqVkpBT2dqSndmTU9pUXpkcHFocFN0QkhGeEs0WWNoWnNXa0pqTQ?oc=5",
             "published": "2026-09-04T08:10:30+00:00"
           },
           {
-            "title": "Palestinian security forces rescue police officer kidnapped by organized crime gang",
+            "title": "Palestinian security forces rescue police officer kidnapped by organized crime gang - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZeF9ScnFWUHVNMUlDTUlUOVFHaWc1Z01ua3lwblF3Mlk2aFhTVmQyc2ZWQlo1Wmh3eTZMS1NJTnlScTB0ZUdXT0h6Y3RsOXNzU3BKX3dlbw?oc=5",
             "published": "2026-09-04T07:40:25+00:00"
           },
           {
-            "title": "Third fatal shooting in two hours: Young man killed in Nazareth",
+            "title": "Third fatal shooting in two hours: Young man killed in Nazareth - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8teWZCLXEzaHRvY01ZcnNUVUhBSi1Iem54TXkyRzNlU3pyb3QtR09IWndwY0U1aWktRW9uVW1vamM4YXJMZER4bFNKcmc0Ri1iUWw3d0NMYw?oc=5",
             "published": "2026-09-04T06:34:23+00:00"
           },
           {
-            "title": "Palestinian killed, three injured by Israeli gunfire in Khan Younis",
+            "title": "Palestinian killed, three injured by Israeli gunfire in Khan Younis - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55cWR3RnN1aDJpbC1MRjFFS1RjU2VEM0hjTWRjRkM4cXhwR0Q3clcxeFJDN1I1bEZrb2p2d3E4djc5MHpLOW9aOUhwdUhicGdSRUh1TTNLQQ?oc=5",
             "published": "2026-09-04T05:50:32+00:00"
           },
           {
-            "title": "Israeli forces close main entrance to al-Mughayyir, restrict movement",
+            "title": "Israeli forces close main entrance to al-Mughayyir, restrict movement - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GU29IVHFsZ05hQnppMVZ2MXdYcXN2ajlnd1Y4V0NlQkcwX0VNbFg3MEVhcDFIYm54enBZUHhFdm1ScXhSejhSUE03dWZRRzlRem1zak5PRQ?oc=5",
             "published": "2026-09-04T05:50:08+00:00"
           },
           {
-            "title": "Palestinian youth killed by Israeli police gunfire near Damascus Gate in Jerusalem",
+            "title": "Palestinian youth killed by Israeli police gunfire near Damascus Gate in Jerusalem - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EU3BkWFZac0x2cUpWYkpuaUY1T2RVLTB3X2dEeGphX2VlWjh2eFhYMlVZVDRFNGRoaGVXVUlMVFJNMTV3TUlqbG52SVdpNDVvQksyWGZJWQ?oc=5",
             "published": "2026-09-04T05:16:10+00:00"
           },
           {
-            "title": "Two Palestinian children injured by Israeli gunfire in Beit Fajjar",
+            "title": "Two Palestinian children injured by Israeli gunfire in Beit Fajjar - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3aHBqNEpOdnhwOTlPZHZ4TVFLTHFmWGo2RGNCZ05HbGk1S3IyMnFXRkxIaXRXS0M3eU5fLTBRc2c4a2V0ZzBURDctMEZpREdxWlo4R0ItNA?oc=5",
             "published": "2026-09-03T19:19:32+00:00"
           },
           {
-            "title": "Amnesty says Israel's land seizures reflect expanding annexation agenda in occupied West Bank",
+            "title": "Amnesty says Israel's land seizures reflect expanding annexation agenda in occupied West Bank - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUW9WZjJaVlNTUUlhNUY4OEdMNTJWY2JudU1rZzZFeG5XRzFObklFUDFobGNZZDZYYjRfdFl5RmFwZHF6MDZNNzd0ZTJjcGlsOFhDeWJ5QQ?oc=5",
             "published": "2026-09-03T18:18:13+00:00"
           },
           {
-            "title": "Israeli strike kills Palestinian, wounds several others west of Gaza",
+            "title": "Israeli strike kills Palestinian, wounds several others west of Gaza - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQkNZNVhLMTNINUthVWNiYzZ6eV9QM3lGSTVmYXlDaE5LSUlxN25qeFVaMC1PYWhvc0F4T0JJaUdENGFJbDh6LXpKanpKSDNyOUlyUGFOVQ?oc=5",
             "published": "2026-09-03T15:49:27+00:00"
           },
           {
-            "title": "Israeli forces continue land leveling, tree uprooting near Jenin",
+            "title": "Israeli forces continue land leveling, tree uprooting near Jenin - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RTmw5RUE3czZTUkRfV1NYTnRjQlU5czEweF9mNTdNRlphaEkwdDBRY1ZCQmVuTWVCeU9QREN4SFF3TVZIWFZDNXVLaGhxWDBEMll1QXZvVQ?oc=5",
             "published": "2026-09-03T15:48:53+00:00"
           },
           {
-            "title": "Israel issues demolition and construction-stop orders against four homes in Arraba",
+            "title": "Israel issues demolition and construction-stop orders against four homes in Arraba - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbmItVGJmWTloS0dHUzRnbFFFT3RQdUYwX3JBSWRlMnROVVRXU1dQbmZ4RzduOXFIMXdxelhkazNNb1hSRTRaRUxDa0h5WVQ4QlFXb3FpNA?oc=5",
             "published": "2026-09-03T12:03:28+00:00"
           },
           {
-            "title": "Civil Affairs Authority receives slain youth's body killed by Israel after it'd been held since November",
+            "title": "Civil Affairs Authority receives slain youth's body killed by Israel after it'd been held since November - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wV0tPTUwwZk1VZGtFeGNwWHVMT3ZpVm9jcUlDSGxDWkFSZkljekNCZjFWb2pCTndWanRIbGxGdFpKX284b1k2ZDRrQkJFVmtYRU1ZY0J5Yw?oc=5",
             "published": "2026-09-03T11:43:41+00:00"
           },
           {
-            "title": "Weather: Hot conditions today, with gradual decline in temperatures in coming days",
+            "title": "Weather: Hot conditions today, with gradual decline in temperatures in coming days - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GaklZZC02TFR6MUYzbnMxZ0FQcUVtTjV0d0dpc01pX253X0lTV0VBSkVHSWkydWVhZ0oxd01DWS0ycjhhcEpsS21fQm5RQWNtR19YU28xWQ?oc=5",
             "published": "2026-09-03T11:43:13+00:00"
           },
           {
-            "title": "Civil Affairs Authority receives slain youth's body killed by Israel after it'd been held since November",
+            "title": "Civil Affairs Authority receives slain youth's body killed by Israel after it'd been held since November - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GbnFrOVpzRTU1cHEzNU5QNjVkbGVkMGZwc05ZbkJuZXRBSFZOakVROG4xLTJGNVVnaGxsYTdqYTBBZE1iYzZGcldwUGdEQmhqUjgwOHp0cw?oc=5",
             "published": "2026-09-03T11:37:26+00:00"
           },
           {
-            "title": "PM Mustafa discusses joint efforts with Japan’s assistant Foreign Minister for Gaza Reconstruction and Humanitarian Recovery",
+            "title": "PM Mustafa discusses joint efforts with Japan’s assistant Foreign Minister for Gaza Reconstruction and Humanitarian Recovery - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZNEdiUk1LSGZvOWhzUFdMeldyVXJ1YXVjakRIYWZvbkh2Y1Nfb0ZSakMwc3cxak9RaGFxZTNKaUVBV1VTbmZuTEhzNndNRzI4Sm1Rd0Zpdw?oc=5",
             "published": "2026-09-03T11:37:26+00:00"
           }
@@ -2711,14 +2716,19 @@
             "published": "2026-09-06T06:07:00+00:00"
           },
           {
+            "title": "مناورة مفاجئة لجيش الاحتلال وتحليق مكثف للطيران في قطاع غزة",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRl8xYVJoM204LTViQUtWQTJUWGx2UmRhOURlWjRyYU1yX3YtWTNpVzVxN25CdDB1dEZhemlJODZUMV9yS1JjTXF0eGQ0bV81SWN3ZmVRaENxNldBVE5HT1YyMHl5M1pSa2lqc09IM1pRSlBrYzJpblFNaFNwX2VSYTlJdHFTMnR1NzR0UjFtQlBJZWI2SklPci1WeEt2NmRYQXNjZEtTMWNCS2sxSUNnR1hSNFNzZXFfeVJsNUstZzNEMWtFaGd4eFlqMmdKZ0hQaHFIWUFvWXIzUFhxX1I3SnBWQzNVaXN5SWgzTlNIcmhDZG92V05pbXhRMnptV3M4R1NUQ3pQRzd2TWlGQzBoMWpjSldOaEJrRDVCMmlMN2s?oc=5",
+            "published": "2026-09-06T05:23:00+00:00"
+          },
+          {
+            "title": "سعر صرف الدولار مقابل الشيكل في فلسطين",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVHQ2S0ZRdnRPREozRFdfNktuZlZ0a3pmSzNMLXBvaXlQMF95M2cxM29CNUVLdGJZUU1Uc0VGSDhjbWtCLXVKalpfM2tfYTBRd1VrV282aURmYmYtT29CQ3hydjFnQ2Z6eVMxQWFSN2psZ05pV0ZSZDNlaGpuTE9GQWdNTDBDSS1VajBGaVZnZjVVOGUzaGwxTmhSd0oyYzAxbmVhaVRyaHVKT0pEeHRnUklMVDFVeHRyS05GZ205WUR1THk4cW1ZbjhfdXMyMXJlaHExVnJTblJlRk9GRjMyN0xUYVFHdjhFNWFFVHYxU015Z0VHX0hwbUI1dWFGRUVsVnQ3b3Eta0pXTDJrR2ZzYldKZWRZRTNXM1E?oc=5",
+            "published": "2026-09-06T05:04:00+00:00"
+          },
+          {
             "title": "خارجية كوبا: على إسرائيل التوقف عن قتل المدنيين في لبنان",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPb0NleWdVQnRYZG80Z0FDRzJxRTdVZHNmVGZ0aVQtV3NqX2tlTk9lRXpSZW5LazRKMUJ5eGNMS0lWbXpmUzdmakZMRGh2czF0d0l4WjMxMkRRQlU1NHN6Z3YwZjVzR2s1cDFEWndESllDTnJwcEktQ0J2YmtvVnpTMW9fUkY3dzRTRTQ4TXd5NFI0Y3gzc2ZyQTBCaGY2ZTlNazhWOHkwZzhfZXNUWXNtS181cFNnTllvTWhZZHRrSzBwSW45VVc0SWUzWTRfdDZ2WVdZWlRSU3NMY0llUGZXQVFfV0d2U19pOW5KeHNQMlVmYzAxb0FwTkxiZ2VRWFFhdGhDcGlHWmduVVR6ajJZMXp2Z1dpRnkySlJPT201V1M?oc=5",
             "published": "2026-09-05T15:28:00+00:00"
-          },
-          {
-            "title": "أحداث الساعة",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZG12a3JWQk9lcVMzTHhlaEIzaHJQLWh3ZzVGZ0UyNlNEbUVUUGZrQkNDb2pVdi15SVVsSy1HYllTaG4tSmV5Zi01T3JqcWRIMTU1U0VpOVl5VEZ4QmFQaG5KbjBUMU9BMmprTFFLZ2wtbzdYbzY2cTdHLVd6dVN6RS1RWjZEdGtzbnRRMllmM0YxbVpTRFUzNVA3VHVHeTBOazFtS0dQOFprRDJJT3h2Smt2NUotYjA?oc=5",
-            "published": "2026-09-05T14:33:53+00:00"
           },
           {
             "title": "\"الفدائي\" على بُعد خطوة من تأهل تاريخي إلى كأس آسيا تحت 20 عامًا",
@@ -2766,9 +2776,19 @@
             "published": "2026-09-05T10:39:00+00:00"
           },
           {
+            "title": "قوات الاحتلال تعتقل شابيْن شمال طولكرم",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWjFHWm1LSFZxTHVCOHRHQ1BXeVVXdmZzRTdnZ2NIV2xqWTBNYVl0dEJUWlBDSVRROW92anlBbDMzZXRMa3hGdGZFa3FLWUU3Zm1GY3NOX1pCejQxczNmQk5WZ3BScGpPZ21vbG1waFprVnhrVjQ5WnpIWXZ5bGRVYkw3WmJRQlVGbjlZYXhjNVVSQWtqdy05ZkcwSnFVU1l2cFJFSjBsdGFqclYtMW1fZ1BzaGMwQ056VXFhVVlBZzg3OExCVW9kdW5rVlo3MXR4bTY4cHhsRnFjVEp6Q1hsQldJNjhpalZfdjdvZThScEIyYl9DLVJzYmhVQzlUb25USmc2MzE5R2Jtb0tBakwzWGctTWxfOWUwTHc?oc=5",
+            "published": "2026-09-05T10:17:00+00:00"
+          },
+          {
             "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU2JEUGFEcTJPVWVXczZTZzEyV0pYMFlFekRCUnZEdnM5NERaTS0zM19nd3g2cXJ3MDVQMFpzR0ZVbGMtY2FhRkpBRXNLQThEd3lkVDVkQnNkanBqYWNPS1IydlJQZjdiLXRwbkthR3BvbjBMT3ctaVZaZk5EZmJkaGNYNkt6a0tkdmhyU1lyMFNlSDI2YjY2bUJoRnNkdVdSQzZ0VFZzRzNydnp6eklXWE1xR1ZJb1piZXFfQkdaaEd0R0p6aFZlX1NXaVV0VG9HZERkdVZlVmtMcEV0Y2dTN0RyZ3V0aFBIMjNOMVRaUGFrZFdqSl9ibnBwYnpSZWlvX1lFVkVkSmp6c2U4VVVaX0JfaEU3bWkyQVRjSkl4THI?oc=5",
             "published": "2026-09-05T09:27:00+00:00"
+          },
+          {
+            "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM29aUHB2R3l4TG1KYllGMVhPbUpTMDcxT0duS0RTck5kdmxfdEVya3JIVXpqUEE1R1JTNjJPTXdzV25GQ2doYUNwLU40bnBqcWtZOFlkNEJyU0lacGdLbXFrX3NQcUZFSnZxZlRFUmRUY1ZjcFpFTndLaFdidHFwTDJ0Y3R2NXlsLURDVHVIWENRZ1JST1FQZTlrSnJ0bzJQaWxqWG13aXJWTlp0NmMzVER6ZTh4bGtTeG9CUGZ2VUczSDgtZThMUFBIMTB2TGY4S2QxelNqQkswMC1RVWRpYUVBZC1GdVh5UzNNREF1YkhlcjdtcEVlenZCYVBISG5XaGx0dWpla2ZnVUlWMXBHMUltOA?oc=5",
+            "published": "2026-09-05T09:05:00+00:00"
           },
           {
             "title": "بقيمة 5 مليارات دولار...صفقة ذخائر لتعزز قدرات الدفاع الجوي\" السعودية من واشنطن",
@@ -2811,6 +2831,11 @@
             "published": "2026-09-05T05:05:00+00:00"
           },
           {
+            "title": "قوات الاحتلال تقتحم النزلة الشرقية وقفين شمال طولكرم",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRE9LVDNNM0RIcEE3bjNHOGtHRFgxX2xyTjRtV3ZTWmpYUDVKS2ctQTVPbjJ1eWo5U3Y4aDl6OEFBc3BvV0pwc2F0WlFsdmNUdEM2Ri1lQndFZUt5djRjcFZNWVhnejRJZW5rUjB2cEdvbGNPV3hEQ1ZBN1JLall0T1A2SzJ1aTIzYnFKMW5JSWRZSGp5SWVsbm96WjhROXpfVl9ONEFkMzY0b0NLdl84WThGaDNHaXhUUzRyaklpSFFLVkhINmpGdi16ZmViVmlUb3FBSHZrdWQ2cDRsYmNOblBFNTl4ck9nQWlsMGxXcV91bHc3cXgtbFduQ1lIREl6MFRTNEJEN1RDZkhBOFVJdkgtM0doU2Fza3ZSV0NMUGM?oc=5",
+            "published": "2026-09-05T05:04:00+00:00"
+          },
+          {
             "title": "\"اقرأ الخيرية\" تكرّم الفائزين في مسابقة جيل الوحي القرآني بدير البلح",
             "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMXNPcU02SE5zYmFIMUYwN3MtdXlPM2ZUbFNybVZRcjhCZmp2UHZodTFuMWZudjBtMmJuS1EyRlBBVFNudXJwWnA1ZGVEV09pZ3FvcEV2a2czWXlQOGsycmZpY2I4b3hwdTI0YktXMjA3STM3dTdmZkxScXcxU2piNmpWVkZiMDk0UHBFTm5BTlBsYVRDdkZQaTU3Z2RHTk5aTWdQXzRaM0VlRG1lMk5faVlJenNPUWlJdDk4T1VIQ0o3Y2E5NUs0UFVjTWh0S3RPM2doTVVvSlQtMEJNcTJqQklzUEpJelBtVjJLdWIteDN0SzMtQ3VXTkNpWUt2NVA3Y244U0RsMjcyVnE2SGVES3V3SzB6dDdBMWc?oc=5",
             "published": "2026-09-04T14:56:00+00:00"
@@ -2819,6 +2844,11 @@
             "title": "إصابة طفل في اعتداء للمستوطنين بمسافر يطا جنوب الخليل",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSXhTQktRYnlNR2xweVA4WWktOTJnakNQRFc3SUV4M2ItMTNBN0FlU1BEbU9Gc2VLR3JILXlaWkR0Y0d4YmdyTmVjN3RyajEtcEliUTUzWDNfYTRlOXRaV21NbDVPNkVlb2lTX2FGRzkycnc2RmtJNlY0M05FUm8xQVVBblpzcnVOUHBFRHFXU3l2VUlMRTcyUHhyM1VhRkQza0ROcjhkTkxsSXBxRFBRZ0NUMWU1Wk1iejQ2MGVkYjdmaGJlaUFia3ctN0Nra2ZQb3lOZTBodENrU1lFWklVZk45QWpCeWtESk5NVzg2Q1UwMnR4NW9CSWVyRFYwN3BPY3hGZ2lrNkg5ZHpLbWpFYjNpTmM1NWFuLTF0WEpqblU?oc=5",
             "published": "2026-09-04T14:48:00+00:00"
+          },
+          {
+            "title": "إصابة مسعف في اعتداء للمستوطنين عليه شمال شرق رام الله",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTmR4Um5MYnFReXpwc3NIdmxvTU9kVWJyLUdzY0FOSDBIcHlsSzI2TVZUMWp6LVY4UDNWX2RMMm43NU1OVGlZMEFNZ3JpUl9yYlAwazhCb1V2MHlFZEppVlNRN05Nb0VPa3JWVzN6MjlHRS1jZjJiLWFaMXBVYWhnZ3BNUHRLUHEwWkZaemZ1djVzX1pXaTVpTlJvV3NnMDhzVGQxUk9jbjZQRDRoVWZIVXU1bkJlOWktSnhiTzBtaXVfR2s3X0ZTN3luNmYtQ0xELVMta1UxbTk3ZGdfOUo2M2lRUEtTdnU0Y3AzS0hrX05EZVVDTl90R0xBd09ST2gxRTJVR1E0TXBGb2x6d2JLZDc3Y0ZOUTZpVzB2dnVOSXg?oc=5",
+            "published": "2026-09-04T14:47:00+00:00"
           },
           {
             "title": "صحيفة تكشف تفاصيل عملية اختطاف مسؤول بارز في \"حماس\"",
@@ -2861,6 +2891,11 @@
             "published": "2026-09-04T06:03:00+00:00"
           },
           {
+            "title": "رسالة من داخل السجون عن د. أبو صفية: يتعرض لتعذيب نفسي وجسدي",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmFGNmFIM3ZnYkJPZC11bjlpcFFoV0xrc3pvTXBpQk90VUttT0VPY2tOOE1nbmRmcEZMbG9DMm5yelZ3dGZyUnZJY1JXMFlCZWZSa05XVVNHWHFIOHdORUdESk1LTWRyUm1RUE5abmxCVjMwMklDbWVXRGpiUmMwT0Z6OWFFbE5INXRLeXg1M1U0Z1FjdE80U3dlWDN5QmVObzlORENJRi1uQUtrVms3RExITFpVSkJGOEpiTkpxcU9zNFUzYWZOQWx5ejBJUHFJbFVWb25VdTlETVp2VXdqVzhzZXVIRGRrUTRoeGlUTEtSTzRhTm1LbnFPYWd2UTR5SFgzNFluOUd3WUE?oc=5",
+            "published": "2026-09-04T05:52:00+00:00"
+          },
+          {
             "title": "إصابات بينها طفلتان جراء إطلاص نار تجاه خيام النازحين بخانيونس",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWGJZbGNZRXM5MzBSUHZySzZTNTh6OVNSX2NTUlJ6bkJaNXVTTktIYnJxUmt6a1l1ZV8tTHh4UmFaSlh2ZXJ4cVZBVnRIVVRySE85Xzd6MGZqV2thZDhEOTc5OGNRd2tnYmNaa2ZHYzNMTUVJWWRzeGYxZmJzTGVzS1MtNVlEcFpmdUlKd2kzSHRCbzVNUDE1bWZtMmM0Zl94TnYyc3FTTl95OWE5blktWGJUVjFXS0J5TFF4SnBNNDZQald6WE40aGNIcjFDZXdCVU5EZ2MzX2RVdGtXZE5CS0I5WE95OXota0JLRjNUUTZOT2hoZXlxRXllTHFHaTQ4azRqWU1GVXNrTjM3bTNFV19DMUhaWWJ0ZG9BMW9acEo?oc=5",
             "published": "2026-09-04T05:48:00+00:00"
@@ -2874,36 +2909,6 @@
             "title": "مصطفى يؤكد على أهمية تنسيق الجهود المبذولة في قطاع غزة",
             "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQU0hGampwNmNEN3lNVERJcmhHVHVBNFJacFRjLWJ5UzF6RC1BWVdMZlNOZUIxNDVlZV9LWmhEYVV5V0JkSklmU1NINDd3dlgtWmYyRXkxX1RZMlY3ZFFQakVpSUg0SDZtc3F3MnZVYW9iYVFtUG1iYXhXcFZRU09aUGZHVlVmb21kaW84WXhJQWtmZ3ZOOHVNanpyNy1KUnRpMU1MRVVmYXg3Znd4c3kyckZvb18wVEtiZzNHOFZubGpDXzRtUHhfT1ZZbVdOXzlwcGNybloxTkZ0MGowa2NueGM4OG5ROUI3UUdMTWxPSTlXR3BjWHpwalIyVTF5X2paSTlCMzRxR3F6THI5MmNSdC1BZXZjNmFjU2c?oc=5",
             "published": "2026-09-03T11:30:00+00:00"
-          },
-          {
-            "title": "بالتنسيق مع الولايات المتحدة.. توقعات بإفراج \"إسرائيل\" عن 5 أسرى لبنانيين",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUXlvcEVwNDhOM2VNNWpzYTFweGlGdWgzWW1Ua1U3OGN6NnNfYy05T0wySmcxRUdGWDNIR0RfU3JEc1RBYVE0dzJEaklsdk1hQW1wZmZUVmVtc1ZwenQzemVsbkFBa3pfSGwyOGdfd0NkVVAwOWx2YWd4UEtWN2F0RHdTX0NEQjJNQmdsdFZqQ2FYaWEwMmhPbi0yWVNJYmhDZkxDRkM2VDctTFBEc1VDcjBzMlpJZFU2bkV6RjZIaDQ4Vk9tMDNGWGxnTDgzc2dBMThDcVJUUG1sck9RRVUwTl85LXdWVGdKc3VvNzNBM1A3SlBaOXY0aGdvcXpsNXB2ejJYR3V5NVJDRnFtbk9kX2hUZ1ktalVoanpBMWd3Q0Y?oc=5",
-            "published": "2026-09-03T10:52:00+00:00"
-          },
-          {
-            "title": "وفد \"حماس\" يختتم زيارة لإيران لبحث التطورات الفلسطينية",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObVhCbUdiX21udlE0M1JvTjdjQzc0amtmQkpfSTFWOU9aYTB1bEMxaXhRb2h0SGtBanRxRXNoYUFMYWU3d3p1WEtMblpHSDhka1VJYWlZT0Iza1JvZWYyVFFXYTBFZTZPUU9kZVVnSklfZkZuUEx4Z1c1U1R6dy1DYTJQeFhOVnB3Y2VEUUcydVp0d0R4cjAteEMxWjdHaVhuMDQ5eFJqZEVsSVROY2ZiQl9aYnl3M1RFOTlCN0gwRGxHTlV1azVMTHJkUXktcGVVbHRSYV85cjNneG1pWVNJTGhXNGdfQjVEOFdyTVMzX0ZtT2Zkck1lQ0NMM19SaTJkOGNDM2stTEliNjQwOXE2UndlMjlrLUZfeHc?oc=5",
-            "published": "2026-09-03T10:40:00+00:00"
-          },
-          {
-            "title": "104 مستوطن يقتحمون الأقصى وينظمون جوالات استفزازية في باحاته",
-            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYlRHYjlveGthRHJGNGhGUXFYWmpRelZpWGZjSmMwT0Y0S1RiVUxfcFhFQ1FXTXJwLVFjNmRBSllFYzRUN1ByU0tHSVdTbFVtMjAxWDB1Mm9CUUd0cW13YUpUdjQ1RzhWeXZsNDY1R25EMTBha29FMDExYjZiNzMta0tXOTBYTEtSVHhNUmhZdkVDODBBRTI4elNrNWRFbXNveWltSXZaOEprM3pjVmp3d0syRWxKVDVtdWhrelRGT3dnTThkUWlYVmRfTWxWa0xNMmV0NHZ4cnBwekNSd3BjOE0tSlNUVEdjSGVKTm1FV1B4cEdaREJpSHZ3TnVTZXJmdDZvVG9pUTFSRE5G?oc=5",
-            "published": "2026-09-03T10:16:00+00:00"
-          },
-          {
-            "title": "مستعمرون يقتحمون أراضي المواطنين شرق بيت لحم ويتلفون أشجار الزيتون",
-            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRl8xbFNFTW43ZnNTcU9pYlRTSnVWTDgyVDlxMHUzYXJqUGh5blFYZ25hLXl4Q3JpcXFvLW9jVWVZdnkxWk45Y2Rfa0RwdTBPeWpPVzlNWHU2WVRiVUNidHA5YUVMdjdxckZrR3dRQldSdTYyS1o1cE92a29mc3pFTGpYQ1NLWl9lN1V6YU9oZy13Z1I2UnpMRVUxeXF0S0lTQ2UtSXduMHl4dTBKd244UzNKdzZzbGFFTGNwY3pLd3dLaUxSekVFOU1zM0pZNnNtalVSbDg0b2FybzE2dmMyQWV5NXN3UWhHT2plZGxVbDk4Wkc2ek9WdTFyYmpuaVNlZXprSUV5OUVsaEtrRTBQZmFROExQQ2dUS2VRQmdyMG5NNVFFUkdF?oc=5",
-            "published": "2026-09-03T08:43:00+00:00"
-          },
-          {
-            "title": "أحداث الساعة",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkRCR0VWZUpCMFNVQkhQSlEzNUh5X24zV0hVWjE0VDNRWndyRk9xWXRlNGh1TVZJTUF1YVhrMEZHMTg1VDZVRVZsV3BCbEtvdTVLZVFndXFyRlZNQnhtZ19CRmJPZHlVTDk0WEZMekFhbWJYY0dkSl9pXzAwaVNhTVdRam1hLTByTFBvWTNDZ3JEck5hZ0dqeWRfd3hFWUktcjdrbDQzU0pCMjBTRmxGMm9IN3lDSThL?oc=5",
-            "published": "2026-09-03T08:31:42+00:00"
-          },
-          {
-            "title": "الرياضة",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNlJueFM4dWZpakpVRmhDV2U1Wm1xUWNTaTJSOWVVek1YTkxQZzI3SjhhSWtNd0Y1ZzhUcUNrc011SlYtcUJkRmItcVdFYkVTWGRkRVN0SGg4UGRFVHppLWFQTkFpT2RZLTNYakRjcjZTbjdMOHZiaEt1azcyS2FMYmZ0aEZ0WnR4RU9ReERIbEpnOVl3OW9v?oc=5",
-            "published": "2026-09-03T08:06:28+00:00"
           }
         ]
       },
@@ -2914,202 +2919,202 @@
         "url": "https://sana.sy/en",
         "coverage": [
           {
-            "title": "Israeli occupation forces shell Damascus, Quneitra countryside",
+            "title": "More than 5.2 million students return to school as new academic year begins in Syria - سانا",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNjJteVlrSFBfWF81eGNhMVlMcTk4WTNxdXBfR2JfOTN6NmdpSDJBdi1SRVFidjRLVjNUOXQ0N2NkYmhnVlhRM2FSOTlMZw?oc=5",
+            "published": "2026-09-06T07:11:08+00:00"
+          },
+          {
+            "title": "Israeli occupation forces shell Damascus, Quneitra countryside - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2cnpYdnp1WE9oSEhHQi1hOUZwUkt6QzdKOXpRQ1NDZFY0NlpBUFdKRTFoMTRwSXVRZmJXSE94Z3kxdXBLYThObg?oc=5",
             "published": "2026-09-05T21:31:01+00:00"
           },
           {
-            "title": "Internal Security Forces arrest former regime major general for war crimes",
+            "title": "Internal Security Forces arrest former regime major general for war crimes - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YbUJyUlhVQThGQ0FSdkd4RDBjY2U0VU0xVVlxMG15YnZvRGNaMUFIN2tGNXI0bjl4YlA0MG15ckJvQWpLVTI3WQ?oc=5",
             "published": "2026-09-05T20:59:12+00:00"
           },
           {
-            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
+            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fSTZYcEdhb1NTeDVjVHBfdFhUbktyclpwcUg0bldmOGtGT0VlRG9qOTFHeFpqLTFsZGZsOGFCY0FGRTJzVUVtX3EzVzA?oc=5",
             "published": "2026-09-05T20:49:00+00:00"
           },
           {
-            "title": "Hama Spring Festival 2026 kicks off and draws strong turnout on inauguration day",
+            "title": "Hama Spring Festival 2026 kicks off and draws strong turnout on inauguration day - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50ckw0eGpNNGtTVVFNZmVQRHNrTzdQcU9mVUU4UHRONVNpanhDVTJ6dUhjeWoxeW9Kc2RuVWlzWTlTU3B2SEZxZ2pn?oc=5",
             "published": "2026-09-05T20:29:23+00:00"
           },
           {
-            "title": "Syria wins Arab meteorology committee presidency in Cairo",
+            "title": "Syria wins Arab meteorology committee presidency in Cairo - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTVFnMjFEUzRTT1N4THhubkd0cV9XVXRPR1NVYUNLR2tpTjNkbmpQZHFDV2FEMmNXYWw5LXZSaHJ1WW9lVmhXenJCa3YzUWpH?oc=5",
             "published": "2026-09-05T19:45:15+00:00"
           },
           {
-            "title": "Damascus International Fair records $1 billion in economic output, 1.4 million visitors",
+            "title": "Damascus International Fair records $1 billion in economic output, 1.4 million visitors - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zRUhHY1E2TWQzV2UzOWptV05uLTdHSC1zS3dhS2dBVzI1a0otYUxZYUw4cTBLNWNrekVfQlJhc3YtNW1nZF9YZW5vbWU?oc=5",
             "published": "2026-09-05T19:42:50+00:00"
           },
           {
-            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QcnFfWlFJbGtveGRLWHVNU0dmUHJKYk5zaU9iZVRiZHQ2SkRORkd3QkQ2cTZ1MGU4OW80ZWRCUWFCRmVvbHZxWklrU0R4WUlj?oc=5",
             "published": "2026-09-05T19:35:16+00:00"
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023",
+            "title": "Gaza death toll rises to 73,651 since October 2023 - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueGlkRnlFc0k1TnBYM1RDMVVOeW50WFhvUFIxV2N3TzFmWE0xd3BEeWVBQUxjRmhYOXNlQ1JaOEpNMkQ3ZmJOZ0VfbEU5TEd2?oc=5",
             "published": "2026-09-05T19:22:55+00:00"
           },
           {
-            "title": "ISF detain six over al-Zir village unrest in Deir Ezzor",
+            "title": "ISF detain six over al-Zir village unrest in Deir Ezzor - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MMGxfUGs1b0hYQTFIcnFENnZqN0k2MWVsUkdfcm5iTktFT3NKd0V1T0ZEcUdpRFRucElXcVdkXzFsRTdZY3NsZg?oc=5",
             "published": "2026-09-05T19:07:13+00:00"
           },
           {
-            "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships",
+            "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNG5DazNKUzdBcmxqLXJtbzRZcDczbUFtVV9MTWRZTF9DdE5IcmtoMGJaYnJERENROWVGa1d2anU1anl2YnhqMHNiTEhTNFhkN19Z?oc=5",
             "published": "2026-09-05T18:28:26+00:00"
           },
           {
-            "title": "Jeddah to host first edition of Syrian Industries “SYRIX” Expo",
+            "title": "Jeddah to host first edition of Syrian Industries “SYRIX” Expo - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAya0lTY29YYUhmQjk3TF9NQ2ViRlNiRGl5TUU2QThIMjNnYm1IWkdIM0liMGp1NGctaHN5TmEwZE5wQUV3MkFYZA?oc=5",
             "published": "2026-09-05T18:11:48+00:00"
           },
           {
-            "title": "Syria joins Digital Cooperation Organization to boost digital economy, transformation",
+            "title": "Syria joins Digital Cooperation Organization to boost digital economy, transformation - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ocENNRVdoRG5IWHdFTXc2aXdKSXZUWVZtNG5jZThyRXNkWWxIWDZqd1dGbFBFcUdQLXJKVjJZczNBX24zdFBVeg?oc=5",
             "published": "2026-09-05T15:37:07+00:00"
           },
           {
-            "title": "UN adopts Syrian resolution on International Day for Women Searching for the Missing",
+            "title": "UN adopts Syrian resolution on International Day for Women Searching for the Missing - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QTmNERmdwamJOdEZhdXNMaHRKQzIzMW13c3NPODN0Q1dueXRnS1lhUC0tLW1zOFhaaEVZRzM0VTdWZkUyWVlyTQ?oc=5",
             "published": "2026-09-05T15:06:20+00:00"
           },
           {
-            "title": "Interpol cancels international alert on 24,511 Syrian passports",
+            "title": "Interpol cancels international alert on 24,511 Syrian passports - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XZ3V1U2FKY19kNWh2YzVKVXktYmdXMkVFQVJDVDBLTG51T1V4YkRFeE1hRjJXemUzSFV0a0JBazdiUXFZY2FUag?oc=5",
             "published": "2026-09-05T14:24:00+00:00"
           },
           {
-            "title": "Syria, Islamic Development Bank Group discuss cooperation to support recovery",
+            "title": "Syria, Islamic Development Bank Group discuss cooperation to support recovery - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MM0tNVTlRdXN3T3Vjc2d0cXJJT29mdFVoelA5MDBEai1XYnZFTW1qcWwzLW5EbktiaUZUOHJlYlcwdnV3bV91Rw?oc=5",
             "published": "2026-09-05T13:42:54+00:00"
           },
           {
-            "title": "Gold prices fall in Syrian market",
+            "title": "Gold prices fall in Syrian market - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1cjRNbF9rTDZFMm5lZkY5ek5jT0hJamN3aUNJZ05kUk5GQmRsbGp1UGkydF9vMGlqakx3dGZodlBHQXNHSXJrbTlDWG4?oc=5",
             "published": "2026-09-05T10:27:29+00:00"
           },
           {
-            "title": "One dead, 32 injured in traffic accidents, fires across Syria",
+            "title": "One dead, 32 injured in traffic accidents, fires across Syria - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NQ3djQTdWTHdkRzZjSV9DaE5uWklCRmRVcDFVbzdyZWxUUnJGUU1IejlGdGVwTlJZQ24tQnJ5aXhhOGhWdTJkQw?oc=5",
             "published": "2026-09-05T09:49:48+00:00"
           },
           {
-            "title": "Four killed in Russian airstrike on southeastern Ukraine",
+            "title": "Four killed in Russian airstrike on southeastern Ukraine - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WbjlMa01RbzN3WDhGc1JYakJfQlZPSWtiVHUyYTNiWDhnTWZyX2RfMFREUnhzdWhoaVA5bVZwNUt5UVlwdG1TUTVpcDg1VVRNMnhz?oc=5",
             "published": "2026-09-05T08:54:06+00:00"
           },
           {
-            "title": "Hackers publish stolen data from Berlin government After refusal to pay ransom",
+            "title": "Hackers publish stolen data from Berlin government After refusal to pay ransom - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kZU15cE4tdV9ZdXNGUTY2a3dlNXczTWtCVTdReG9RVnNMOFQyd0tOQlZyZWRaSjl1dEE1YlFsNlRfSTZmVDhCcTBpNEx5T3dPM1Zr?oc=5",
             "published": "2026-09-05T08:49:29+00:00"
           },
           {
-            "title": "Al-Sadd sign Romagnoli on deal through 2029",
+            "title": "Al-Sadd sign Romagnoli on deal through 2029 - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45eTdiQW9kZzcyMlR6OUYxLWRWaWhCNkJfUGZkYWsyQ0ZHbFlaUzJKRDNsbEhKUHRHSDJRcXZBVEdEOFNJMzFSOQ?oc=5",
             "published": "2026-09-05T08:40:52+00:00"
           },
           {
-            "title": "Sydney records unprecedented spring heatwave, raising bushfire risk",
+            "title": "Sydney records unprecedented spring heatwave, raising bushfire risk - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rVFNheGZpVWMtUlFscGlEekE3aWExQnowV081cVdadGRqeVdmcG9GUndkVVI5a0ZiUkNvaENKamhLNG5pZlVobjU1WGtLbVhONHJn?oc=5",
             "published": "2026-09-05T08:35:55+00:00"
           },
           {
-            "title": "Two killed, Dozens Injured, in Explosion at Military Base in Western Bolivia",
+            "title": "Two killed, Dozens Injured, in Explosion at Military Base in Western Bolivia - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BWXRWNGl5eEtBQ0Z6SnR1TUdBa016bk02MUNTb1BTQ0VNajZvWVlsbkJ0b0xSUEE0NmFPd2M5a0k0OWdqR3VveWJ5NVVYc21KMTFj?oc=5",
             "published": "2026-09-05T07:00:21+00:00"
           },
           {
-            "title": "US Military shoots down over 300 drug cartel drones on the Mexican Border",
+            "title": "US Military shoots down over 300 drug cartel drones on the Mexican Border - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qQncxLV9UTnhpdE1yZm1DemlJRkgyczYzc1lBYXZ5WDJHcVgxb2JkTHVvSWRqM2c5LVluN2ZlQUxiQlI2T0dMUnRSck53dkVlZ0NF?oc=5",
             "published": "2026-09-05T06:44:05+00:00"
           },
           {
-            "title": "Safadi warns of repercussions of Israeli escalation on regional Security",
+            "title": "Safadi warns of repercussions of Israeli escalation on regional Security - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5WWJqemdDUkpURzVpMElvMkR5R0ZQaDZCSnlZRDloeXJXbDVGQ0xfSVduTElRdWZzR0M3Tmthemg3dmtWUloxRXJ5Y2U?oc=5",
             "published": "2026-09-05T06:32:13+00:00"
           },
           {
-            "title": "The Closing Ceremony of the 63rd Damascus International Fair",
+            "title": "The Closing Ceremony of the 63rd Damascus International Fair - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KNnhqYy1vUGs0aEFickFFYk9lTkx0VGJ4ZmtucUdnS0EwU041dDFfT2Z3UHFadHN5MkhEekp3UUY2YThVYnBPbDFR?oc=5",
             "published": "2026-09-05T06:19:12+00:00"
           },
           {
-            "title": "Trump acknowledges alternative routes to Hormuz, points to oil shipments through Syria",
+            "title": "Trump acknowledges alternative routes to Hormuz, points to oil shipments through Syria - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SZkhYZ2RIVnRGd2VOb2VobnZ1ODA3c0Q4ZVpGaElDbUhLTHB4SVk5ZzJYY2ZBbzFKLXU0MGVtSVhod1Y3VTVBRURpdXVFQzlz?oc=5",
             "published": "2026-09-04T21:59:37+00:00"
           },
           {
-            "title": "UAE, Türkiye discuss regional developments, de-escalation efforts",
+            "title": "UAE, Türkiye discuss regional developments, de-escalation efforts - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOWFBqWktvZ3dwLTNzbHB3ZE8tRlhhU0c1Snp6YXhSdzFYRGxpTGlJYURiaW9Hbk1ZajZpNlR0MFJ2NEdvYnBsQ0NjbWg?oc=5",
             "published": "2026-09-04T20:44:00+00:00"
           },
           {
-            "title": "UN: West Bank killings surpass 1,100 as ethnic cleansing fears mount",
+            "title": "UN: West Bank killings surpass 1,100 as ethnic cleansing fears mount - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aNmVZcER1WnZ5c3A1US1oZEVxa2E1Z25IS1VmVVcwenJOOW13SFZzeVFtYlpOVUJ6OTg0MnVOY0NQVWEyNHdSb0NVeWZfWHdZ?oc=5",
             "published": "2026-09-04T20:36:00+00:00"
           },
           {
-            "title": "Syria builds SME ecosystem to boost entrepreneurship, attract international partners",
+            "title": "Syria builds SME ecosystem to boost entrepreneurship, attract international partners - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2TnVHMUNvbDJsY0t5LXloc0xsUlI0MW1YeEdjbmZKdGpDaGl2M3puQTFhSkNvT04wRXhzYlZTdXhZSjhWWFR2SG1WRFA?oc=5",
             "published": "2026-09-04T19:23:00+00:00"
           },
           {
-            "title": "Syrian delegation in Amman to boost regional anti-narcotics efforts",
+            "title": "Syrian delegation in Amman to boost regional anti-narcotics efforts - سانا",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KckxrUHNId2g1Mk0tYXlwMGVmR2VnQktCQkVFM3hsOWZpSDctT1didE5iOHZKMTJIcC1vVFowNVJDOUF6RTltdg?oc=5",
             "published": "2026-09-04T17:26:00+00:00"
           },
           {
-            "title": "Anjrani details plan for 4,000-plot industrial zone in Raqqa",
+            "title": "Anjrani details plan for 4,000-plot industrial zone in Raqqa - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94NzF2TUN2X0dHTnFSbVktaFl0RlQyNVJYUzFHQVJ0OU5rSXRDVHNTTUdTVk1PbVJkblNESlJjUG9SYnZYX3BLU1ZtQ0U?oc=5",
             "published": "2026-09-04T15:31:01+00:00"
           },
           {
-            "title": "Arab League condemns Iranian attacks on Kuwait, backs sovereignty",
+            "title": "Arab League condemns Iranian attacks on Kuwait, backs sovereignty - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xbGVzbWxwQzFYcWRVMVJGanhFS1BWd0oxOVFVZzlOZXFyVGNZR1AyZE9PeEpBc3lTZDdJcDZCdzZDSnZHTFd5QVltX3RYOUZM?oc=5",
             "published": "2026-09-04T12:33:05+00:00"
           },
           {
-            "title": "Russia threatens Western weapons plants in Ukraine would be legitimate targets",
+            "title": "Russia threatens Western weapons plants in Ukraine would be legitimate targets - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2RGU5NWVvWEFoN2ltMmpWb0lzd29sbl9pNXBWSXRhaUZQVmZ5eklwOGYwcllNVTNBeWI2STh4dzUzU3FSM3BidGlNS05EX2lUTGVV?oc=5",
             "published": "2026-09-04T11:49:42+00:00"
           },
           {
-            "title": "Female artisans showcase economic empowerment model at 63rd Damascus International Fair",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbFNIZkYyX2RWVjBtSmxsY1MwQXRkcndGU0JVazljZXlYMmRQS0FtZjNGNkJnRmdmalROT3JqWkJVOXMyMHJ2T1RjTWs?oc=5",
-            "published": "2026-09-04T11:46:58+00:00"
-          },
-          {
-            "title": "Oil prices climb as European shares slip ahead of U.S. jobs data",
+            "title": "Oil prices climb as European shares slip ahead of U.S. jobs data - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIaFJGT09RUkc1TjlEQkFoWGVyOWxPOEZyenNXNm9ldWMtd3VkOFpCZGE4U3NCNUR1TFNaSHNZRVBZZ0xzNFowcFhaaGU?oc=5",
             "published": "2026-09-04T11:14:52+00:00"
           },
           {
-            "title": "Global food prices hit highest level since 2022, FAO says",
+            "title": "Global food prices hit highest level since 2022, FAO says - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yeTVMdHZSQ1B4UVNpVWR5QS1pQWdwQ0hSSmFJc2E5TnBVVkpZQ2doV291UjNhZ1NCeHdsYVBYMnhRUFRUQmRBb2h3OG8?oc=5",
             "published": "2026-09-04T10:57:07+00:00"
           },
           {
-            "title": "France records around 7,000 excess deaths during summer heatwaves",
+            "title": "France records around 7,000 excess deaths during summer heatwaves - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40RjVUR2VlTGh4UWdESTZkRG1vYU5JdEJwcjFUYXdoM0h4VEEzT1RkMlZBVlk1emZCQWVlTkd1a3R5MWtNSGhKQ3EwZHJVZFZjR2hV?oc=5",
             "published": "2026-09-04T10:25:47+00:00"
           },
           {
-            "title": "Dark cherry compounds may slow aggressive breast cancer growth, study finds",
+            "title": "Dark cherry compounds may slow aggressive breast cancer growth, study finds - سانا",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RUkFQSlNwbGR1MHNEMl8yaFpxc0YtUUM4YkExakJhOEJMOTJYYkNKUHJ1UU1TbVktUDM3NEdVMTE5TE0xUmEyMlZZbmFUOFViVVQw?oc=5",
             "published": "2026-09-04T09:43:22+00:00"
           },
           {
-            "title": "Brazil threatens reciprocal measures over EU restrictions on animal products",
+            "title": "Brazil threatens reciprocal measures over EU restrictions on animal products - سانا",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ISlByQVFIM1h6aGdtbzFVRnhiTGYzNThWaG9NMU9SbmFyN3pYaXNiNEMxUmdYcVFWQkJyTkotcFlaMjg3MjBoMFY0RkM?oc=5",
             "published": "2026-09-04T09:37:36+00:00"
           },
           {
-            "title": "Palestinian killed, three wounded by Israeli occupation fire in Gaza",
+            "title": "Palestinian killed, three wounded by Israeli occupation fire in Gaza - سانا",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40OF9HNjNmZW51bVZxbXFLUDRnQzZDNDQzb3RSZWctdWNTd0xGR2dSclkzR0VuRHIxMFF0b3U2WXIxa29BU2Z6UEJUbkw0Y05D?oc=5",
             "published": "2026-09-04T08:49:31+00:00"
           }
@@ -3185,6 +3190,11 @@
             "title": "Ilenikhena brace ends Ange honeymoon as Al-Ittihad down Al-Nassr",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEVkRk1WSmQ4eGZKeWxiWUo1cFhhX0ItZUhfWG9QNHRENzhTUFNDN1lnVzhxTkdfemo5cmdMcmpLVGpFR21yTnNYVnVfb1hjT0hqT0JKWmdqQmpka0YxRy1PcHpZc0luRlk4dGo3SE5TVkQzU1dCMGFZLWN6YXBZT1EzNTA0aE8tVjF6X2xzNHBLSDhwRTVCNmFDLXRfa0hxZkROZlE0aV9FVS1memlGSm1IYVI?oc=5",
             "published": "2026-09-05T20:41:22+00:00"
+          },
+          {
+            "title": "Egypt sentences TV presenter, 11 others to death in drugs case",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSW44elZCY3RsZXJ0dlVJLWNRcVpONmJsMHU0cXV5UWE5TnpvVHVVWlZoZTJfM0VQbUR4U3R1ZC1zR2d0d3p0UGxxWkdIMkhXeVVkT1V1d1VlckRFalMzMlhUc0NsdFA4WXhTYnBVTk04WXVjcHV1clAxNjIyRFBZdk80UVNWZFc3SzQtSmVVWS0wVWUwWnk4ZGwxTkgyS1BneUxmV3YxT3hzQQ?oc=5",
+            "published": "2026-09-05T17:30:43+00:00"
           },
           {
             "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
@@ -3300,11 +3310,6 @@
             "title": "Saudi Pro League’s Capital Derby moves to King Fahd Sports City Stadium",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHUtMXI0MU1UcnQzMThhVXIyLS04Xy02ai14MndkM01QWG1MLV9lSGFaZGM1cXJVNnRoS2lKWUdkYzlyN3VBM19BM2FxTTF4X2R4LVUwSkRaa0RqNG5tNW5DODloR0lfbHNsU2VBLTRGZGpRdUU2cVNRYjJTNDdrZnZuVkc1Y3J1OHM5d0F5SklqU3BuZXBBVkt6eWlITmtDaWM4YVFGQlVONGk4QW45cEtCN2hzOENPRGc?oc=5",
             "published": "2026-09-03T11:30:44+00:00"
-          },
-          {
-            "title": "Historical highlights from the Kingdom on display at Abu Dhabi Book Fair",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2x4V2NvMzlRY0p3WGJjeDI1LXhjM0hsR3JyS0UtSEVXUE1rSzdxTGQ3MG9CQ0R6eTI3MEVrdWtBblNZaDNwcEpkaGxuaGRRRnpteGRFU0pHOGZEX3B2WkQzYjdJVWYzRTNmREVlOTQxQnZRTWFoTW43anVWM2hqWUVjVTZTWUt3NzF2SFp5UEdEazRZRzhyZjZTbkhQOURDbXMza096WmY2dUJsOVBYYkdxRTRZdw?oc=5",
-            "published": "2026-09-03T07:42:44+00:00"
           },
           {
             "title": "Egypt's petroleum and mining exports jump 73% in H1",
@@ -3450,9 +3455,9 @@
             "published": "2026-09-05T04:59:04+00:00"
           },
           {
-            "title": "Scientists bent diamond and discovered it can generate electricity",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2NiRE5EQUV2WENEY0kwaFVxUVhuVlEyZV9VMnVDQm9wcTZOWjYtZG5GeGhFaERkbXFWMWViLUxJaEVvUjBhcHhnUGYwbkp5clBCWktmV0NWWUdjLVczeXJTTWhCaHhXa3QydjhSY2xPekNDeENvSGgwNkxudmctMzJoSEp1SXhra3NHZ1RGay1oYnRHRnFrcHUxZWpNMFJycmxYcFpxTnNSVUxZNHfSAb4BQVVfeXFMTWFvU2NlN2RJaUVtXzlrTHM5Q2RvWXRUNmxaalVlN2VFQTRWLVRVSm1adkZfMDV4bDhPTTR1M05tZG9TelMxQUZ6b2g4eFprNzJUR1h1YUk1ZlhoWWtuX0E5aWw4ZE9JaDZGRVRySmZWd0pId3haWTdMaXpfY1U2YjhScG1FTVE5S2NWeTJyd1JvVzRleUdNcjJuYl9vLWJjRC1ZNlNUVktLdllJX3dNOXViWkY3VTZLSmpJdGJlZw?oc=5",
-            "published": "2026-09-04T15:04:42+00:00"
+            "title": "UAE investment boom: FDI hits record as AIM Congress returns to Dubai",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ25ocFV5clJLZFc2UG5IVUdLeUVmdWhKVWF5Zm90TmJLRnZ3YnR5ZEtBZ3laUE9vMEpWR1BOOFd6Q1h4cGtXZzlTdTgyS1ZoZEhGeDlKelZ1Q0pyTlkxWjcwbUFHNm8xNmpnY1FwMkZtemVnajhIX1RDTHdxUXJKbldYZ2pjTXdhOUlCaHFmcFlyLS16UzA0V2t6UUhwaG10ZzBoQllIeERua081MEJ30gG_AUFVX3lxTFBGenFSTEUzSmJvUE5reHNHbFQzM3c4R3c2U29HdEIzTFZyeC1EekdYVS1panpDOTZPTnB5bDlEM0tjbkdCbzRvRG9vRnlLaTY0N2hjbFN4dDUwY0pQQjJwVnlfcmFIVktoQzV6QlY2M2ZXMkN3eGk5M1BVM3g0VWx0ZFdDdHduYkpfa0RXVExGVG9YdTJHQnQ0aml3WGhSdk9WSWRkcW5IX2tuRmM5WENnN0FSQWRZSkwzWVNYU180?oc=5",
+            "published": "2026-09-04T10:37:54+00:00"
           },
           {
             "title": "Dubai Police identifies 28 forces shaping the region’s future",
@@ -3503,6 +3508,11 @@
             "title": "Khorfakkan Port receives one of world’s largest container ships",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWZMdzVRZ0tGc01kMnJveFhFbDFjeFFHX3kwYU9UUVc3aXhrX1p4dDdoX09WYkFNV0hmdllCOFpBSjZaamlWMWhrRkhQRkFGVzBxcktXNkhZUmxHRHNQRXhMX1d6RFJjeGlBNVpYaUVOUDRteEx5ZXNJb240MWV6UURvcU44alVzUVByOTZJTjZjSFRLRFV2Z3hySWd0V3o0OE9vRVlGU2lHWXZhczN4WDMxOTnSAccBQVVfeXFMT1FsdXgtVmtmZzhwOC1OZFF1Q25saDBjTGYyM2ZrYWU5QjRuZkY5MzcxZXFZQXZmSHJQZ3BIVU5JMzlJRkw1UEJvRjZqRl9ZX3NvUE8zWU5OclZjZzZXYjByVTBNOGdDT1RJTmMtZFBsOHpNZmpfdkdCTWtlcnB3ZmxFZ1lrckxrak40eUQwRHd0aEF1bnJ1WDllVjBoR2RiN0o3NFlXYW1ua2JwRVB1MjRfRFQ3TjBZZktXRG1VN21rZVVuUkhLQQ?oc=5",
             "published": "2026-09-03T12:05:51+00:00"
+          },
+          {
+            "title": "Carrefour enters India with Apparel Group, opening 50,000-sq-ft flagship hypermarket in Greater Noida",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTVvMnA5YVctRUVwUnhhLTFpVWJxdnNkdGhsQ2NtbkVram1veG1jVUZmbENMVHdtZWRMTW1JZG1zeFoteDNxc3owWXZmb0lUOTQzdWxqVnV6ajIyUWp3S2RQcXp0MUF6SVJFV25oMVJiU1hEc2RKVU1ja085UXFVMUc4TzdUNWI0dEhCUy1XTUxoS09aNGFVTFZmMzdRTWNPZWxqLVc2WG82UDh5MmFWQjJ4QmRsUGdwcWhpR3h3SWNIYUZKQlpDOW85RWxxNnF3bHBfS2xBd0UyTU1RNEU4aVVR0gH0AUFVX3lxTE1feXoxV2xQVnV1N2otNVZfX1h1Rkg1NWxpZEg3SEtvbzI0ekJUWm40Z3lVRDVXdjNfZ3ltVkZpRjlBdXN6clEzd3FvYm9SNGhJOEZVUHQxLXp6SmFFUElTcGczdWk3ZGk4OE16TzFsOFhsdEhrclNFSmd5SW1SU1owdGZYOUlMeUI0NGg3NVNKakJaUjFmUVdSVjBVcVN6bXJxaWcwSERYY3lQOWdXSUtVdVVreU5BdlQ0T3lQZzNLRDIxdmVneGFaaXdwdmVrSnl1UmozTmJFUEtISU50aVc1eVU5cmtsaVFZaDFhRWZXamlrejc?oc=5",
+            "published": "2026-09-03T11:47:16+00:00"
           },
           {
             "title": "Dubai artist Adeel Saeed on his journey to live caricatures: ‘I want to make my living from art’",
@@ -3573,11 +3583,6 @@
             "title": "Phantom traffic jams: Why UAE roads can grind to a halt without an accident",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTRCWHdMTXBHRG5RejRBaGRmc1dMWktJNG1HQUZzQkdONE41X2JuVkhhQ29QWXM3RTFwb3dYSVZEQ2QxbEtucHYyWWFEY3VaMWt1dXdrUkVLUWcyWXAyME9pSFJRTmJTejlwNjFZY3o5MkthYnNjYXJBWmRxMWhpMFlrT3o1dW1PMWxrNzZIM2tYLXEwWlNN0gGqAUFVX3lxTE5fQjFaSl9lQUFrcy1VaEs4OVNVMWdNaExJX2JjcWtWQ0thdERKN19vT05tVUlZYXFHekxMaEJMWDNFT0h6RklteURDR2djTVZCWW5QUU4wNHhTSTNsZGdxNkthYmpEZmNLT3k1c1k3b0hPbjBMVE11OGl6QXA2TUU4SEhlaEJrVEg4VjhzVUdteWx1OHZJM0N4dG03ajVzc2ZQT3YycTlELUtn?oc=5",
             "published": "2026-09-03T02:00:00+00:00"
-          },
-          {
-            "title": "Dh30m UAE Lottery: Winning numbers announced – see the latest results",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXhTMnVEZWcxdXlSYnowNWxHQ29FT1dBQkVuR3pLLVBKTnBoZUZWMDdCSlQ1S2NZN1FlbDFIeXRRcVFZZk9fVjZjTGlfT0Q1YkRfMWVIdUtTVXdhVTdOQXBoQVNUNm5MWFFiTTFCbU1XSFB3dmJGS2VvX00weGlfel8xeHAwYTFYemJYcjdaQWxPaDZzY2dqeEw1ZXZnaXhtZ0d2azhR0gG2AUFVX3lxTE5SQUlfUFc5U0NVbU1PRG4yZ2hXWXNmaTRnS05TZTlDeDJBaVIzQVZIN2V0d1hwaE5DZHJYNnI5LU5CUXpRV1JkT0tRd3F2dzR2dG5mMF9YUVpvdEN6bllRMXFIRUxEZDNEYzlSU3ZGVks1dVVCR19YUC13Ul9vUF9FeFdxaFFSSGo2cUkzaXpTdVVtQm5aQmp0bk9JTDFDaXpVMkxSS0NYbEpQajc5U2hPeF9STHNB?oc=5",
-            "published": "2026-09-02T17:41:58+00:00"
           }
         ]
       }
@@ -3609,6 +3614,21 @@
         "lang": "en",
         "url": "https://www.aa.com.tr/en",
         "coverage": [
+          {
+            "title": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
+            "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-us-economic-blockade-could-cost-washington-more-than-tehran/4048542",
+            "published": "2026-09-06T07:09:35+00:00"
+          },
+          {
+            "title": "Airports shut, dozens of flights cancelled in Indonesia as volcanic ash spreads",
+            "url": "https://www.aa.com.tr/en/asia-pacific/airports-shut-dozens-of-flights-cancelled-in-indonesia-as-volcanic-ash-spreads/4048539",
+            "published": "2026-09-06T07:06:37+00:00"
+          },
+          {
+            "title": "Russia says 1 killed, 4 injured in Ukraine's overnight attack",
+            "url": "https://www.aa.com.tr/en/eurasia/russia-says-1-killed-4-injured-in-ukraines-overnight-attack/4048537",
+            "published": "2026-09-06T07:04:13+00:00"
+          },
           {
             "title": "German voters elect Saxony-Anhalt parliament as far-right AfD seeks historic win",
             "url": "https://www.aa.com.tr/en/europe/german-voters-elect-saxony-anhalt-parliament-as-far-right-afd-seeks-historic-win/4048514",
@@ -3743,21 +3763,6 @@
             "title": "Pro-Palestine demonstrators march in Paris",
             "url": "https://www.aa.com.tr/en/europe/pro-palestine-demonstrators-march-in-paris/4048369",
             "published": "2026-09-05T17:44:22+00:00"
-          },
-          {
-            "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-            "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-            "published": "2026-09-05T17:37:45+00:00"
-          },
-          {
-            "title": "Kites flown across 11 Dutch cities in solidarity with children in Gaza",
-            "url": "https://www.aa.com.tr/en/world/kites-flown-across-11-dutch-cities-in-solidarity-with-children-in-gaza/4048360",
-            "published": "2026-09-05T17:24:37+00:00"
-          },
-          {
-            "title": "Thousands rally against far-right AfD party in Germany ahead of Saxony-Anhalt state elections",
-            "url": "https://www.aa.com.tr/en/europe/thousands-rally-against-far-right-afd-party-in-germany-ahead-of-saxony-anhalt-state-elections/4048352",
-            "published": "2026-09-05T17:12:32+00:00"
           }
         ]
       },
@@ -3938,11 +3943,6 @@
             "published": "2026-09-02T11:21:00+00:00"
           },
           {
-            "title": "Families hold symbolic funerals for thousands missing in Nepal floods",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmVjSllfbFdoUFJTWU40NDRncVJ0M3NKcjdYMThHSXJHQmtET0p0cEVpVlpaaXhBUkZrTElMTmF1LUFOZGRFdWp4TEFOMnpBZlBuT1d4ZklBdzlMUU5OM0ZQckplaXB6NDhwcGkyYjBIdWJMVXdwam45dklWeGRYMnFlYVVrVWFOM1FfclpsSFdRMExnM3UtMGdCLUVKeTFFOXNDeTl3c2dqc1VMMHJrMXFfTEVCZw?oc=5",
-            "published": "2026-09-02T10:32:00+00:00"
-          },
-          {
             "title": "Türkiye to make basic AI training mandatory for public employees",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0d3M2dFeFRUVGtmZXUwQTVIdzRHaTdlaWw4R0ZndXBLeEtqejBRN2E4aW9OSE1Wdm40eGhjT2d6QmFOLUNXNldDaWJyc3k4R2NMX3JjYURBNWNjOS16dWpuZ1F5bkgwbFlGV2t1Y3NIUDNiV1N1N3dBbGp2dlJ1OFNfRGxScE5CQWROOXRZMFl5TGhFODlaLWhiNUdUQmVQbkRXcWMyc18?oc=5",
             "published": "2026-09-02T10:10:00+00:00"
@@ -3965,6 +3965,11 @@
           {
             "title": "Sultans of Net lock horns with Germany for EuroVolley semis spot",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzFfc0IweEFtMmk5d2ZXVldPTlNiMmVUYUZ1MzQyN1YyRGlVRHQyV2VqVmI3YzVtdFlyeW9QbTdvNFlwbnZjb0ZsVW1YQUtya04xMWxJVV8wcFZBRHhJMmtnaV9vWVlGS0dkUV83LUFSUS1vUEw4RXVQbnFQMTkzaFNNWnRwdmM3X3pvdGhBdWpVbHRMN2h1dThHbV81dkZPQm9LTHJ3?oc=5",
+            "published": "2026-09-02T09:00:00+00:00"
+          },
+          {
+            "title": "Tour of Istanbul kicks off with 165-kilometer opening stage",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzVrMHYtTmdYalpSUnltSHFYallSMXgtZjZwYjU1R0xCbGRuQmx0UlhNR1A5aUhKVkNFbFZIdV9WZFVBdDJOaDZGVUNvQ1RVSXA2TFNQWXQ4NTZOVGtHTXd3alYtSE54dGEzNTBBWG9JbmhNOFJvU3V5cjBEWjR6dzV2b0VzOHQtRWtoSk16ZlhWcjcxMGhpekFtVzRJSFU?oc=5",
             "published": "2026-09-02T09:00:00+00:00"
           }
         ]
@@ -3989,6 +3994,11 @@
             "title": "Iran claims missile strikes on US carrier, destroyer",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0JPeGJHcDBMQzdFTzIwOHludmk1REdrLW13U2NuNS02bTNta2U1cHkzMHJjOTloRkdxUzk3YnhoSTBvc2hUb0wydVh0Y2Q2a0xiUENHdzQwLUdjX0p0QU1JQzFvRV94d2pQNGM1ZTFOUzZpa2RLZzc2anNYX0xIRXA1VFVMaWh4WWdlZ3p0TDFfNVh6TzZJWlFCTVY?oc=5",
             "published": "2026-09-06T00:49:42+00:00"
+          },
+          {
+            "title": "Air China Latest News, Top Stories - All news & analysis about Air China",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DNVA2R3J6cXRiWXUyaDlGX2pIUFlpR3owemtwS2E5ZzBTanJ2bTA4UHFzTkFUR2lEU3lNY005c0tvU2Q2YlRrbmhkYzFOT2RXSUFMakY0c2FfWmNCQjhoZFNzS05uRFE?oc=5",
+            "published": "2026-09-05T12:25:12+00:00"
           },
           {
             "title": "US envoys head to Moscow, Kiev with new Ukraine peace plan",
@@ -4136,11 +4146,6 @@
             "published": "2026-09-04T01:54:00+00:00"
           },
           {
-            "title": "Machine Latest News, Top Stories - All news & analysis about Machine",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xX291bmxnMkxTOEhxZ09ua1gzNldwWVEzQjRqYWV2SkJhS01CU3JHLXJ6OXczYjZRai1hdUFGWHJESHVxNXV1YTZQZlZaT25KZnlySURXUVBFcHFza2dRZ2VKRQ?oc=5",
-            "published": "2026-09-03T16:00:36+00:00"
-          },
-          {
             "title": "Syria begins SDF heavy weapons handover",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDZ1U0xMSVlsUWN3WGxfbFlnaTd1djZIV0Vob05DSnF3d29mSjBGTlBwOVU1RklsMTRDRVl5MlFMQmVEeklYeEwzbnVoSm5qUnN2X25ObEZ1eW1POGMtQWNITjBhMlU5QTdBQ3BQVDZkcXdxTk1HQ0ZpQ2RjYjZyYWNNYmd0cnZFaERfXw?oc=5",
             "published": "2026-09-03T10:26:17+00:00"
@@ -4149,11 +4154,6 @@
             "title": "Parents of school shooter face trial over deadly April attack in Kahramanmaraş",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanBSM0IxUUptLS1sbldQMHdabFFXZWhqMjVmOVZHSlA0RzFRazRqWXZRLU9BVGpGZlYtSXd1b1BjYXRYYld3Zjd5aWROY1d3cXN5YUJSdGs5em1jck9DcVBIYlo1LU1UZU9nLVJMSWFqUlZtTF9VNXk1Z3dYZU55a0FFNW9LY1hibmZFd3pEV0NRX0JDUDNicUp2OWN6OGNPX05fdGRiUjAtanJfcVhNNnM5UFZ3X0YtTEUw?oc=5",
             "published": "2026-09-03T09:25:29+00:00"
-          },
-          {
-            "title": "Moderate Latest News, Top Stories - All news & analysis about Moderate",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nbGUta2xNN2pGVkViLU5lUjlMWTBaNXNabEk3SDlYeGtObWppQ01IY0ZqM2RxREpPd1BjN2JNMkJPSFZuMmw1bnBnWnRPck40dzFTaXBhd1VjUHhxWG85bWphX1Y?oc=5",
-            "published": "2026-09-03T09:24:41+00:00"
           },
           {
             "title": "MHP leader urges against provocations targeting ‘terror-free Türkiye’ bid",
@@ -4174,6 +4174,11 @@
             "title": "Autistic Turkish swimmer conquers Catalina Channel",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMERFU2NjUGZvZzZKU3BqSkJPLWZLY3NlbHREZVQ4U0VmYVp4QkI2eV9xNnd0YWpPT2p2YkFBV3oxeS1oZWwwVHJ0MVVIUGZKS2ZKaU1OVkZ4Zm5rbHg2UlNwY2xTTHEzLXd4d1pkaEpFczdmMm5zQUJaNGl1anFHSEJxdTZUajVkWXUyRkdmbWF2S01HdWc?oc=5",
             "published": "2026-09-03T07:40:16+00:00"
+          },
+          {
+            "title": "Russia to close German cultural centers",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlRJeFNCdW5oNUJRQ3lnMmc0UVRsUmpuOWlHQTFKUGItNlEyTlFzb0VicmptUkdYckdsTEtWOW5CaUVUb0I0UlJPZW1NajVxQkR2NGxKX3hRMmRQUDlSemJfVzkzcm1ubWRUZE4wM1NLVVZYMkxoRW5mMlhtbmZfU0M4UndLMDg?oc=5",
+            "published": "2026-09-03T07:29:07+00:00"
           }
         ]
       },
@@ -4222,6 +4227,11 @@
             "title": "Türkiye bring home laurels with double gold at Mediterranean Games",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qRGRVNWpPZnFKRlRraXdRVEItN3ZkTWQ5b0FrMy02VG1OODNIVEdPcHp2eWhYekYtNkFvYXZ3WVRDa0diNVBQc1F0azFSRjFId2dQUlEzNGE?oc=5",
             "published": "2026-09-05T16:01:18+00:00"
+          },
+          {
+            "title": "US claims strikes on three Iranian tankers, threatens to destroy Tehran's oil fleet",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wMWdIOUxMeng4eXAtb01hWXQ0OFRmaUtlMzFMQkp5U0NZdmlUR2l6ekVOSjJWLUdYUlNXbWl4RG1DYzk5b0RtWmJrNjRkR1hELTcwbkNFc0o?oc=5",
+            "published": "2026-09-05T14:28:44+00:00"
           },
           {
             "title": "Greek F-4 jet crashes during air show near Athens",
@@ -4304,6 +4314,11 @@
             "published": "2026-09-03T14:08:35+00:00"
           },
           {
+            "title": "Greece, the EU's spoiled child, is squandering European funds",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzZWVybVAxUFBpcDNkNlV5NG9DYzU0YzVpU2Y0cV9HNUtMNHdUUUpjZjRjRC1UZVhuN0YtTHA5azBXeTFKNkk1d1JhUXJmZTVpSTVBenMybDI?oc=5",
+            "published": "2026-09-03T14:00:43+00:00"
+          },
+          {
             "title": "Explainer: Here's what you need to know about the Russia-Europe escalation",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxMDYxeDVza0hzNTdQOXZGTGlQbHRKU2FxUFA1UUFjX1NRV04tYmY2ZVYzMFZPUkprSVBjLURETEp6OTB2VmV1c0VtM2c4eWR4Qk1uY0lZR0k?oc=5",
             "published": "2026-09-03T12:30:44+00:00"
@@ -4372,16 +4387,6 @@
             "title": "France backs sanctions on Russia over Leipzig attack, urges shadow fleet measures: Foreign Minister",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LNVNsWmU3d1YzNldYNkZzc2hmNEkxdVVOOWtjR0pDRkRqLTFFYnJlRFo2QVIzY2Rwb0h6dThLX3VmS3IxNzR5VEw5dzE1ckVkeUFB?oc=5",
             "published": "2026-09-02T10:50:39+00:00"
-          },
-          {
-            "title": "Wreckage of capsized passenger vessel found off Girne, TRNC says",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yMkRMalZ4aTk1YjdnSGNmT2pxM0JiSDk3TVVvZnk0RjExNklNU3p2SS1LakVDVDVqcFVmeTFkQjFaQU5neV9NTnNtUGcyZTVBaHNwMGlqNVk?oc=5",
-            "published": "2026-09-02T10:08:25+00:00"
-          },
-          {
-            "title": "Seven Iranian security personnel killed in fresh US strikes, authorities say",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MZUhMS1NMWm1TdnFlbkw2Q056YkxGVm9QMHcxS3ZFSzRKT291WVBDeVJmeXZKZXNKR2Vxd0dVYUY2Z09kVDZ1M1pqUGNOZ0ZmWmVHZ1ZsYkU?oc=5",
-            "published": "2026-09-02T08:59:41+00:00"
           }
         ]
       }

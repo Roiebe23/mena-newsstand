@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:02:58.026356+00:00",
+  "updated": "2026-09-06T07:34:24.392524+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,22 +167,21 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T07:01:11.762718+00:00"
+      "headlines_updated": "2026-09-06T07:32:42.164820+00:00"
     },
     "normalize": {
       "stats": {
         "dropped_stale": 15,
-        "title_snippet": 23,
-        "title_translated": 2,
+        "dropped_no_english": 32,
+        "title_translated": 1,
         "title_native": 84,
-        "dropped_no_english": 8,
         "in": 132,
-        "kept": 109
+        "kept": 85
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 31,
+        "requested": 32,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -264,8 +263,93 @@
           "reason": "stale (older than 48h)"
         },
         {
+          "source": "Kan 11",
+          "title": "הותר לפרסום: סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Kan 11",
+          "title": "משרד הבריאות הלבנוני: 4 הרוגים ו-20 פצועים בתקיפות חיל האוויר הבוקר בדרום לבנון",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Kan 11",
+          "title": "בן 9 מאושפז במצב קשה לאחר ששחה בכינרת ונדבק ב\"אמבה אוכלת מוח\" נדירה",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Kan 11",
+          "title": "חיילת מילואים נעצרה בנתב\"ג בדרך לירח הדבש שלה: \"שינוי מדיניות לא ראוי\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Kan 11",
+          "title": "דיווח סעודי: חיזבאללה קיבל מאיראן \"אור ירוק\" לצאת מרכס עלי טאהר",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "N12",
+          "title": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "N12",
+          "title": "גזר הדין שמסעיר את מצרים: מגישת הטלוויזיה שנידונה למוות בתלייה בגלל סחר בסמים",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "N12",
+          "title": "החשש העיקרי: ניסיונות פיגועים ביום לציון טבח 7 באוקטובר",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "N12",
+          "title": "צה\"ל פתח בתרגיל פתע: \"בחינת המוכנות לתרחיש רב-זירתי מתפרץ\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "N12",
+          "title": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "דה וויס, עונה 6, פרק 25: אירוע הגמר לצפייה ישירה -",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "\"אין ראויה ממך ומגיע לך להיות בגמר\": ביצוע חצי הגמר של אמה זיזה כהן",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "\"מתחילת התחרות את הולכת רק עם האמת שלך\": ביצוע חצי הגמר של תאיר עמרם שמואל",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "\"ביצוע ברמה של חו\"ל\": ביצוע חצי הגמר של תמיר סרי",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
           "source": "Al Mayadeen",
-          "title": "فرنسا: تظاهرة في باريس تطالب بفرض عقوبات على \"إسرائيل\"",
+          "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "بوتين يلتقي بمبعوثي ترامب ويتكوف وكوشنر في موسكو",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "\"خاتم الأنبياء\" محذراً السفن الحربية الأميركية: ضرباتنا ستكون أشد من السابق",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "إيران: المتحدث باسم مقر خاتم الأنبياء: ضربات القوات المسلحة الإيرانية ضد السفن الحربية الأميركية في المنطقة ستكون أشد من",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
@@ -295,48 +379,55 @@
         },
         {
           "source": "Al Manar",
+          "title": "النائب الموسوي ادان بنوداً ارسلتها وزارة الخارجية ضمن مشروع حول لبنان الى جامعة الدولة العربية 22:21",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Manar",
+          "title": "“وول ستريت جورنال”: الحرب تضرب السياحة والفنادق والفعاليات الرياضية والترفيهية والاستثمارات الضخمة في دول الخليج 14:05",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Manar",
+          "title": "العدو الصهيوني نفذ عددا من الاعتداءات في جنوب لبنان 18:47",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Manar",
           "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:3",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Manar",
+          "title": "تقرير مصور | تواصل العدوان الصهيوني على جنوب لبنان.. تفجيرات وقصف مدفعي يستهدفان قرى جنوبية 11:41",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
           "source": "Falastin al-Youm",
           "title": "هل يعالج مونجارو انقطاع النفس النومي؟ دراسة توضح",
           "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "مناورة مفاجئة لجيش الاحتلال وتحليق مكثف للطيران في قطاع غزة",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 109,
-      "kept": 65,
+      "in": 85,
+      "kept": 54,
       "dropped": [
-        {
-          "source": "Kan 11",
-          "title": "Topaz Lok, an advisor to Netanyahu, stated that the Prime Minister was the only one who functioned on October…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Kan 11",
-          "title": "Trooper Dan met with Gadi Eisenkot and Naftali Bennett to discuss potential political unions.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "N12",
-          "title": "The IDF launched a surprise drill to test its readiness for a multi-front scenario.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "N12",
-          "title": "Eitan Davidi, head of the Margaliot village council, is accused of environmental damage and land acquisition.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
         {
           "source": "Channel 13",
           "title": "News 13 | News - All the news and updates from Israel and around the world",
@@ -345,36 +436,8 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Channel 13",
-          "title": "The Voice, Season 6, Episode 25: The Grand Finale.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "Emma Ziza Cohen's semi-final performance was praised, with a comment that she is worthy of being in the final.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "Tair Amram Shmuel's semi-final performance was highlighted, noting she has stayed true to herself throughout…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "Tamar Sari's semi-final performance was described as being of international quality.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
           "source": "Al Jazeera",
-          "title": "5 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "5 , Germans vote in eastern state as far-right AfD eyes power",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -402,7 +465,7 @@
         },
         {
           "source": "Al Arabiya",
-          "title": "US Envoys Witkoff, Kushner Arrive in Moscow",
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -415,15 +478,15 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Al Mayadeen",
-          "title": "Putin met with Trump envoys Witkoff and Kushner in Moscow.",
+          "source": "Iran International",
+          "title": "1 Alamolhoda seeking presidency of Iran’s Assembly of Experts - report",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Iran International",
-          "title": "1 Alamolhoda seeking presidency of Iran’s Assembly of Experts - report",
+          "title": "INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -499,29 +562,8 @@
           "reason": "disaster/accident with no conflict dimension"
         },
         {
-          "source": "Al Manar",
-          "title": "Lebanese MP Dr.",
-          "sec": 0,
-          "off": 1,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "A bill punishing American universities that boycott Israel is being considered.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "Cuba's Foreign Ministry called on Israel to stop killing civilians in Lebanon.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "Current Events",
+          "source": "Arab News",
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -529,13 +571,6 @@
         {
           "source": "Gulf News",
           "title": "Arshdeep Singh and his girlfriend Samreen Kaur get matching tattoos",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Anadolu Agency",
-          "title": "German voters elect Saxony-Anhalt parliament as far-right AfD seeks historic win",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -609,34 +644,20 @@
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "TRT World",
-          "title": "Israel considers new 'security zone' up to 4 km inside Lebanon — report",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
         }
       ]
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 42,
+      "clusters": 35,
       "sizes": [
         6,
         5,
         5,
         3,
         3,
-        3,
         2,
         2,
-        2,
-        2,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -674,62 +695,9 @@
       "candidates": [
         {
           "selected_rank": 1,
-          "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "rank_key": {
-            "outlets": 6,
-            "camps": 3,
-            "newest": "2026-09-05T22:56+00:00"
-          },
-          "outlet_names": [
-            "Al Arabiya",
-            "Al Jazeera",
-            "Anadolu Agency",
-            "Daily Sabah",
-            "SANA",
-            "TRT World"
-          ],
-          "camps": [
-            "panarab",
-            "levant",
-            "turkish"
-          ],
-          "members": 6,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Anadolu Agency",
-            "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (ukraine)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Jazeera",
-                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Arabiya",
-                "title": "Putin meets US envoys for Ukraine war talks",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Daily Sabah",
-                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": 2,
           "headline": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
           "rank_key": {
-            "outlets": 5,
+            "outlets": 6,
             "camps": 4,
             "newest": "2026-09-06T06:00+00:00"
           },
@@ -738,6 +706,7 @@
             "Anadolu Agency",
             "Gulf News",
             "IRNA",
+            "Iran International",
             "Mehr News"
           ],
           "camps": [
@@ -746,7 +715,7 @@
             "iranian",
             "turkish"
           ],
-          "members": 5,
+          "members": 6,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -771,6 +740,11 @@
                 "rejected_by": "older than the story's newest wave"
               },
               {
+                "source": "Iran International",
+                "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
                 "source": "Anadolu Agency",
                 "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to Ame",
                 "rejected_by": "older than the story's newest wave"
@@ -779,7 +753,7 @@
           }
         },
         {
-          "selected_rank": 3,
+          "selected_rank": 2,
           "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
           "rank_key": {
             "outlets": 5,
@@ -832,6 +806,58 @@
           }
         },
         {
+          "selected_rank": 3,
+          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "rank_key": {
+            "outlets": 5,
+            "camps": 3,
+            "newest": "2026-09-05T22:56+00:00"
+          },
+          "outlet_names": [
+            "Al Arabiya",
+            "Al Jazeera",
+            "Daily Sabah",
+            "SANA",
+            "TRT World"
+          ],
+          "camps": [
+            "panarab",
+            "levant",
+            "turkish"
+          ],
+          "members": 5,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "TRT World",
+            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (ukraine)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Jazeera",
+                "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Al Arabiya",
+                "title": "Putin meets US envoys for Ukraine war talks",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Daily Sabah",
+                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
           "selected_rank": 4,
           "headline": "IRGC hits US aircraft carrier, destroyer with missiles",
           "rank_key": {
@@ -871,45 +897,6 @@
         },
         {
           "selected_rank": 5,
-          "headline": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
-          "rank_key": {
-            "outlets": 3,
-            "camps": 2,
-            "newest": "2026-09-06T04:48+00:00"
-          },
-          "outlet_names": [
-            "Kan 11",
-            "L'Orient Today",
-            "N12"
-          ],
-          "camps": [
-            "israeli",
-            "levant"
-          ],
-          "members": 3,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Kan 11",
-            "title": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": [
-              {
-                "source": "L'Orient Today",
-                "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Gaza death toll rises to 73,651 since October 2023",
           "rank_key": {
             "outlets": 3,
@@ -981,26 +968,26 @@
         },
         {
           "selected_rank": null,
-          "headline": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "headline": "Moment Explosion Rocks Bolivia Military Base",
           "rank_key": {
             "outlets": 2,
             "camps": 2,
-            "newest": "2026-09-04T20:03+00:00"
+            "newest": "2026-09-05T09:25+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
-            "Arab News"
+            "SANA"
           ],
           "camps": [
-            "gulf",
-            "panarab"
+            "panarab",
+            "levant"
           ],
           "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Arab News",
-            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+            "source": "Al Arabiya",
+            "title": "Moment Explosion Rocks Bolivia Military Base",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -1012,40 +999,21 @@
         },
         {
           "selected_rank": null,
-          "headline": "Israeli drone strike kills two in southern Lebanon",
+          "headline": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
           "rank_key": {
-            "outlets": 2,
+            "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-04T18:48+00:00"
+            "newest": "2026-09-06T07:09+00:00"
           },
           "outlet_names": [
-            "Al Manar",
-            "WAFA News"
+            "Anadolu Agency"
           ],
           "camps": [
-            "levant"
+            "turkish"
           ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "WAFA News",
-            "title": "Israeli drone strike kills two in southern Lebanon",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah_south)",
-              "neutral-by-default outlet",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "The Israeli enemy carried out several attacks in southern Lebanon.",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
@@ -1060,24 +1028,6 @@
           ],
           "camps": [
             "iranian"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "The National Security Council warned of a sharp rise in the motivation for terrorism ahead of the Je",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T06:06+00:00"
-          },
-          "outlet_names": [
-            "Kan 11"
-          ],
-          "camps": [
-            "israeli"
           ],
           "members": 1,
           "qualified": false,
@@ -1157,6 +1107,24 @@
         },
         {
           "selected_rank": null,
+          "headline": "Israeli occupiers attack journalists, Palestinian children at West Bank playground",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T23:24+00:00"
+          },
+          "outlet_names": [
+            "Anadolu Agency"
+          ],
+          "camps": [
+            "turkish"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
           "headline": "Israeli forces ram Palestinian vehicle in Tulkarm",
           "rank_key": {
             "outlets": 1,
@@ -1211,24 +1179,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "Sgt.",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T19:58+00:00"
-          },
-          "outlet_names": [
-            "Kan 11"
-          ],
-          "camps": [
-            "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
           "headline": "Iran condemns US attacks on oil tankers as violation of international law",
           "rank_key": {
             "outlets": 1,
@@ -1247,24 +1197,24 @@
         },
         {
           "selected_rank": null,
-          "headline": "Iran's armed forces will deliver more severe strikes against US warships in the region than previous",
+          "headline": "US strikes three Iranian oil tankers after IRGC attack on naval ships",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T19:27+00:00"
+            "newest": "2026-09-05T18:28+00:00"
           },
           "outlet_names": [
-            "Al Mayadeen"
+            "SANA"
           ],
           "camps": [
-            "panarab"
+            "levant"
           ],
-          "members": 2,
+          "members": 1,
           "qualified": false,
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "21 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "16 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1282,7 +1232,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T07:03:21.310442+00:00",
+    "last_success": "2026-09-06T07:34:44.734068+00:00",
     "last_failure": null
   },
   "ok": true

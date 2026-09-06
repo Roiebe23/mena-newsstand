@@ -1,140 +1,10 @@
 {
-  "updated": "2026-09-06T20:48:57.183608+00:00",
+  "updated": "2026-09-06T21:20:37.261192+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
       "outlets": 6,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Daily Sabah",
-        "category": "turkish",
-        "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-        "title_he": "",
-        "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-        "published": "2026-09-06T12:42:00+00:00"
-      },
-      "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "US envoy Witkoff says Washington sees progress on Ukraine peace",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/us-envoy-witkoff-says-washington-sees-progress-on-ukraine-peace/4049042",
-          "published": "2026-09-06T18:13:12+00:00"
-        },
-        {
-          "source": "Egypt Independent",
-          "category": "levant",
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "title_he": "",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "published": "2026-09-06T13:20:46+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
-          "published": "2026-09-06T12:42:00+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
-          "published": "2026-09-05T22:56:52+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
-          "title_he": "",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "published": "2026-09-05T20:49:00+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "Putin meets US envoys for Ukraine war talks",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "published": "2026-09-05T08:39:00+00:00"
-        }
-      ],
-      "summary": "US envoys visit Kyiv, report progress on Ukraine peace after talks.",
-      "summary_he": "שליחים אמריקאים מבקרים בקייב ומדווחים על התקדמות במאמצי שלום באוקראינה."
-    },
-    {
-      "rank": 2,
-      "outlets": 5,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
-        "title_he": "",
-        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
-        "published": "2026-09-06T17:28:50+00:00"
-      },
-      "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
-          "published": "2026-09-06T17:28:50+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/521d65457169",
-          "published": "2026-09-06T16:13:34+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174416",
-          "published": "2026-09-06T15:39:18+00:00"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "Two martyrs, including a child, and injuries were reported in an Israeli bombing that targeted a car west of…",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
-          "published": "2026-09-06T14:22:00+00:00"
-        },
-        {
-          "source": "Middle East Eye",
-          "category": "panarab",
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "published": ""
-        }
-      ],
-      "summary": "Israeli strike in Gaza kills two Palestinians, including a child, despite ceasefire.",
-      "summary_he": "תקיפה ישראלית בעזה הורגת שני פלסטינים, בהם ילד, למרות הפסקת אש."
-    },
-    {
-      "rank": 3,
-      "outlets": 5,
       "categories": [
         "panarab",
         "levant",
@@ -196,14 +66,82 @@
           "title_he": "",
           "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
           "published": "2026-09-06T09:30:08+00:00"
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+          "published": ""
         }
       ],
-      "summary": "Israeli airstrikes in southern Lebanon kill three and destroy a hospital.",
-      "summary_he": "תקיפות אוויריות ישראליות בדרום לבנון הורגות שלושה ומשמידות בית חולים."
+      "summary": "Israeli airstrikes kill three people and destroy a hospital in southern Lebanon.",
+      "summary_he": "תקיפות אוויר ישראליות הרגו שלושה בני אדם והרסו בית חולים בדרום לבנון."
     },
     {
-      "rank": 4,
+      "rank": 2,
       "outlets": 4,
+      "categories": [
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+        "published": "2026-09-06T17:28:50+00:00"
+      },
+      "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+          "published": "2026-09-06T17:28:50+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/521d65457169",
+          "published": "2026-09-06T16:13:34+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "published": "2026-09-06T15:39:18+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Two martyrs, including a girl, and injuries were reported in an Israeli bombing that targeted a car west of…",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "published": "2026-09-06T14:22:00+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "The occupation forces targeted a house in the Al-Shati camp, west of Gaza City.",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543629/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85",
+          "published": "2026-09-06T10:21:00+00:00"
+        }
+      ],
+      "summary": "Israeli strike kills two Palestinians, including a child, in Gaza despite ceasefire.",
+      "summary_he": "תקיפה ישראלית בעזה הרגה שני פלסטינים, בהם ילד, למרות הפסקת האש."
+    },
+    {
+      "rank": 3,
+      "outlets": 3,
       "categories": [
         "israeli",
         "panarab",
@@ -212,7 +150,7 @@
       "rep": {
         "source": "Kan 11",
         "category": "israeli",
-        "title": "Iran announced it would declare a restricted navigation zone outside the Strait of Hormuz and impose…",
+        "title": "Iran has announced plans to declare a restricted navigation zone outside the Strait of Hormuz.",
         "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
         "url": "25879e070efa4476b10ec7e5c810f9a7",
         "published": "2026-09-06T19:13:12+00:00"
@@ -221,7 +159,7 @@
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "Iran announced it would declare a restricted navigation zone outside the Strait of Hormuz and impose…",
+          "title": "Iran has announced plans to declare a restricted navigation zone outside the Strait of Hormuz.",
           "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
           "url": "25879e070efa4476b10ec7e5c810f9a7",
           "published": "2026-09-06T19:13:12+00:00"
@@ -241,29 +179,13 @@
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": ""
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
         }
       ],
-      "summary": "Iran announces intent to declare restricted navigation zone outside Strait of Hormuz.",
-      "summary_he": "איראן מודיעה על כוונתה להכריז על אזור ניווט מוגבל מחוץ למצר הורמוז."
+      "summary": "Iran announces plans to declare a restricted navigation zone outside the Strait of Hormuz.",
+      "summary_he": "איראן הודיעה על תוכניות להכריז על אזור ניווט מוגבל מחוץ למצר הורמוז."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "outlets": 3,
       "categories": [
         "panarab",
@@ -304,7 +226,43 @@
         }
       ],
       "summary": "Netanyahu orders removal of illegal West Bank settler outposts.",
-      "summary_he": "נתניהו מורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
+      "summary_he": "נתניהו הורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
+    },
+    {
+      "rank": 5,
+      "outlets": 2,
+      "categories": [
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+        "published": "2026-09-06T13:14:20+00:00"
+      },
+      "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+          "published": "2026-09-06T13:14:20+00:00"
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Yemeni armed forces have released video footage showing a precise missile strike targeting a meeting of…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1156872/",
+          "published": ""
+        }
+      ],
+      "summary": "Yemeni government forces claim heavy losses inflicted on Houthis in Taiz.",
+      "summary_he": "כוחות הממשלה התימניים טוענים כי הסבו אבדות כבדות לחות'ים בתעז."
     }
   ]
 }

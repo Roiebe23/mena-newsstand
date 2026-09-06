@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:51:48.923835+00:00",
+  "updated": "2026-09-06T23:12:28.153518+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,21 +167,22 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T22:50:04.781389+00:00"
+      "headlines_updated": "2026-09-06T23:10:48.748434+00:00"
     },
     "normalize": {
       "stats": {
         "dropped_stale": 15,
-        "title_snippet": 33,
+        "title_snippet": 31,
         "title_translated": 1,
-        "title_native": 83,
+        "dropped_no_english": 1,
+        "title_native": 84,
         "in": 132,
-        "kept": 117
+        "kept": 116
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 33,
+        "requested": 32,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -194,17 +195,17 @@
         },
         {
           "source": "Al Mayadeen",
+          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
+          "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Al Mayadeen",
           "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
           "reason": "stale (older than 48h)"
         },
         {
           "source": "Jordan Times",
           "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Jordan Times",
-          "title": "King receives letter from newly appointed chairman of joint chiefs of staff",
           "reason": "stale (older than 48h)"
         },
         {
@@ -261,93 +262,84 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "שיחת היום 06.09.26 - התכנית המלאה לצפייה ישירה -",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 117,
-      "kept": 60,
+      "in": 116,
+      "kept": 58,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Rabbi Moshe Yazdi, who led the \"Amudei HaShalom\" community and taught Torah to converts, was sentenced to 18…",
+          "title": "A cargo plane crashed at Miami airport, resulting in five fatalities and five injuries.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "An Amazon cargo plane crashed at Miami airport after overshooting the runway, resulting in five fatalities…",
+          "title": "The price of fuel dropped by half a shekel at midnight, with a liter of 95 octane gasoline now costing 7.75…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "Fuel prices will decrease by half a shekel at midnight, bringing the price of a liter of 95 octane gasoline…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Kan 11",
-          "title": "In the United States, a cargo plane failed to stop upon landing at Miami airport and crashed off the runway.",
+          "title": "In the U.S., a cargo plane failed to stop upon landing at Miami airport and crashed off the runway.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A 10-year-old boy named Ayoub has died after falling into a deep well in Algeria.",
+          "title": "A 10-year-old boy named Rayan, who fell into a deep well in Algeria, was found deceased after a four-day…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A 22-year-old woman was sexually assaulted on a flight from Malta to Nantes, France, after losing…",
+          "title": "A high school student in Kiryat Yam claims she was assaulted and that school management prevented a police…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "Doud Ben Lulu, a 23-year-old from Jerusalem, has died in a motorcycle accident in Vietnam.",
+          "title": "A young woman was allegedly sexually assaulted during a flight from Malta to Nantes, France, after losing…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Rabbi Moshe Yazdi has been sentenced to 18 years in prison after being convicted of sex offenses.",
+          "title": "News 13 | News",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "News 13 | News - All the news and updates from Israel and around the world",
+          "title": "This news item appears to be a headline about a proposal from Netanyahu to Winter and a closed-door…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This news item discusses an offer made by Netanyahu to Winter and a confrontation during a closed meeting…",
+          "title": "This item celebrates the 30th anniversary of the band 'HaDag Nachash' with a grand, once-in-a-lifetime…",
           "sec": 0,
-          "off": 0,
+          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This is a summary of the full \"Shihat Hayom\" program from September 06, 2026, available for direct viewing.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "The band \"HaDag Nachash\" celebrated its 30th anniversary with a grand, once-in-a-lifetime performance.",
+          "title": "This headline from 13tv.co.il is about a finalist of 'The Voice' expressing surprise at her age and…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -368,7 +360,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "5 , Can you guess the real size of each country on the new world map?",
+          "title": "4 , Can you guess the real size of each country on the new world map?",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -403,14 +395,14 @@
         },
         {
           "source": "Al Mayadeen",
-          "title": "A member of the Israeli Knesset believes that the removal of Netanyahu is an existential necessity for the…",
+          "title": "A member of the Israeli Knesset suggested that the removal of Netanyahu is an existential necessity for…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Mayadeen",
-          "title": "Israeli media reported arrests and investigations in Gaza following the discovery of a cell linked to the…",
+          "title": "Israeli media reported arrests and investigations in Gaza following the uncovering of a cell linked to the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -466,6 +458,13 @@
         },
         {
           "source": "Jordan Times",
+          "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
+          "sec": 1,
+          "off": 0,
+          "reason": "disaster/accident with no conflict dimension"
+        },
+        {
+          "source": "Jordan Times",
           "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
           "sec": 0,
           "off": 0,
@@ -494,49 +493,56 @@
         },
         {
           "source": "Egypt Independent",
-          "title": "Parents of San Diego mosque gunman say a mental health facility failed to heed FBI warning",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Egypt Independent",
           "title": "The world is about to meet Apple’s new CEO. Here are his biggest challenges",
           "sec": 0,
           "off": 2,
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Al Manar",
-          "title": "Special reports question the Israeli account of controlling the Ali Taher hills, noting that Zionist circles…",
+          "source": "Al-Akhbar",
+          "title": "A warning has been issued regarding the potential obliteration of the remains of thousands of missing…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Special reports examine the conflict over oil and gas corridors and attempts to redraw energy routes in the…",
+          "title": "Special reports suggest that the Israeli narrative of controlling the Ali Taher hills in southern Lebanon is…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf declared that Iran will defeat America in economic…",
+          "title": "Special reports discuss the conflict over oil and gas corridors and attempts to redraw energy routes in the…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "WAFA News",
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A bill is being considered that would penalize American universities for boycotting \"Israel.\"",
+          "title": "A bill is being considered that would penalize American universities that boycott 'Israel'.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "The Secretary-General of the Organization of Islamic Cooperation has warned against plans to displace…",
+          "title": "The Secretary-General of the Islamic Cooperation Organization has warned against plans to displace…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "SANA",
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -578,6 +584,13 @@
         },
         {
           "source": "Anadolu Agency",
+          "title": "Amazon cargo plane catches fire after overrunning Miami runway, prompts ground stop",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Anadolu Agency",
           "title": "AfD hails 'historic' Saxony-Anhalt election victory",
           "sec": 0,
           "off": 0,
@@ -595,6 +608,13 @@
           "title": "Women expose jobs-for-sex scheme of former CHP mayor in Türkiye’s Antalya",
           "sec": 0,
           "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Daily Sabah",
+          "title": "OPEC+ keeps oil production goals for October unchanged",
+          "sec": 0,
+          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -659,13 +679,6 @@
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "TRT World",
-          "title": "Five dead in cargo plane crash at Miami airport: US officials",
-          "sec": 1,
-          "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
         }
       ]
     },
@@ -675,7 +688,6 @@
       "sizes": [
         6,
         5,
-        3,
         2,
         2,
         2,
@@ -685,6 +697,7 @@
         2,
         2,
         2,
+        1,
         1,
         1,
         1,
@@ -808,7 +821,7 @@
               },
               {
                 "source": "Falastin al-Youm",
-                "title": "Three martyrs were reported due to an Israeli airstrike on southern Lebanon.",
+                "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
                 "rejected_by": "loaded/partisan wording"
               }
             ]
@@ -816,46 +829,39 @@
         },
         {
           "selected_rank": 3,
-          "headline": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+          "headline": "Gaza is preparing for its third mass funeral in two months.",
           "rank_key": {
-            "outlets": 3,
+            "outlets": 2,
             "camps": 2,
-            "newest": "2026-09-06T17:28+00:00"
+            "newest": "2026-09-06T21:30+00:00"
           },
           "outlet_names": [
-            "Anadolu Agency",
-            "Falastin al-Youm",
-            "WAFA News"
+            "Al-Akhbar",
+            "N12"
           ],
           "camps": [
-            "levant",
-            "turkish"
+            "israeli",
+            "levant"
           ],
-          "members": 3,
+          "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Anadolu Agency",
-            "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
-            "title_source": "native",
+            "source": "Al-Akhbar",
+            "title": "Gaza is preparing for its third mass funeral in two months.",
+            "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (gaza)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
+              "names 2 of the story's dominant entities (funeral, gaza)",
+              "neutral-by-default outlet",
+              "derived from the outlet's English snippet"
             ],
-            "passed_over": [
-              {
-                "source": "Falastin al-Youm",
-                "title": "Two martyrs, including a child, and several injured were reported in an Israeli ",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
+            "passed_over": []
           }
         },
         {
           "selected_rank": 4,
-          "headline": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces have open and",
+          "headline": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces have open ",
           "rank_key": {
             "outlets": 2,
             "camps": 2,
@@ -874,7 +880,7 @@
           "why_not": null,
           "representative": {
             "source": "Al Mayadeen",
-            "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces have open and multiple…",
+            "title": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces have open and…",
             "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -885,7 +891,7 @@
             "passed_over": [
               {
                 "source": "Al Manar",
-                "title": "Yemeni military forces displayed footage of a precise missile strike targeting a",
+                "title": "The Yemeni Armed Forces released footage of a precise missile strike targeting a",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -931,31 +937,31 @@
         },
         {
           "selected_rank": null,
-          "headline": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
+          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "rank_key": {
             "outlets": 2,
             "camps": 2,
-            "newest": "2026-09-05T20:49+00:00"
+            "newest": "2026-09-05T22:56+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
-            "SANA"
+            "TRT World"
           ],
           "camps": [
             "panarab",
-            "levant"
+            "turkish"
           ],
           "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "SANA",
-            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
+            "source": "TRT World",
+            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
               "names 1 of the story's dominant entities (ukraine)",
-              "neutral-by-default outlet",
+              "mainstream outlet phrasing",
               "outlet's own English headline"
             ],
             "passed_over": [
@@ -1032,44 +1038,14 @@
         },
         {
           "selected_rank": null,
-          "headline": "Human rights warnings have been issued regarding the potential erasure of evidence of genocide and t",
+          "headline": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood ",
           "rank_key": {
             "outlets": 2,
             "camps": 1,
-            "newest": "2026-09-06T14:15+00:00"
+            "newest": "2026-09-06T15:39+00:00"
           },
           "outlet_names": [
-            "Al-Akhbar",
-            "Falastin al-Youm"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Al-Akhbar",
-            "title": "Human rights warnings have been issued regarding the potential erasure of evidence of genocide and the…",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": []
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": "2026-09-06T13:53+00:00"
-          },
-          "outlet_names": [
-            "Egypt Independent",
+            "Falastin al-Youm",
             "WAFA News"
           ],
           "camps": [
@@ -1079,16 +1055,22 @@
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Egypt Independent",
-            "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+            "source": "WAFA News",
+            "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
               "names 1 of the story's dominant entities (gaza)",
-              "mainstream outlet phrasing",
+              "neutral-by-default outlet",
               "outlet's own English headline"
             ],
-            "passed_over": []
+            "passed_over": [
+              {
+                "source": "Falastin al-Youm",
+                "title": "Two martyrs, including a child, and several injuries were reported in an Israeli",
+                "rejected_by": "loaded/partisan wording"
+              }
+            ]
           }
         },
         {
@@ -1149,14 +1131,26 @@
               "mainstream outlet phrasing",
               "outlet's own English headline"
             ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "Hezbollah issued a statement condemning the ongoing Israeli aggression on Lebano",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
+            "passed_over": []
           }
+        },
+        {
+          "selected_rank": null,
+          "headline": "Clashes occurred in the village of Haja near Qalqilya, with Palestinian reports indicating a death f",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T23:02+00:00"
+          },
+          "outlet_names": [
+            "Kan 11"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
@@ -1178,7 +1172,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Gaza is preparing for its third mass funeral in two months.",
+          "headline": "There is a risk of the war expanding eastward, with reports suggesting Al-Burhan is seeking Eritrea'",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1196,25 +1190,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Al-Burhan is reportedly seeking Eritrea's assistance against Ethiopia, raising concerns about the ex",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T21:30+00:00"
-          },
-          "outlet_names": [
-            "Al-Akhbar"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "A fireworks explosion at a festival in Mexico has caused at least 10 deaths and 64 injuries.",
+          "headline": "A fireworks explosion at a festival in Mexico caused at least 10 deaths and 64 injuries.",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1232,7 +1208,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "There is an increase in occupation decisions to bar Jerusalemites from Al-Aqsa Mosque ahead of Jewis",
+          "headline": "There has been an increase in Israeli decisions to ban Jerusalemites from Al-Aqsa Mosque ahead of th",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1250,7 +1226,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Netanyahu has threatened Iran, stating, \"Do not mess with us,\" while the army tests its readiness fo",
+          "headline": "Netanyahu has threatened Iran, stating, \"Don't mess with us,\" while the army tests its readiness for",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1261,24 +1237,6 @@
           ],
           "camps": [
             "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "A high school student in Kiryat Yam claims she was attacked at school, and that the administration p",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T15:50+00:00"
-          },
-          "outlet_names": [
-            "N12"
-          ],
-          "camps": [
-            "israeli"
           ],
           "members": 1,
           "qualified": false,
@@ -1304,7 +1262,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Argentinian President Javier Milei has imposed sanctions on companies involved in an oil project in ",
+          "headline": "Argentine President Javier Milei has intensified the conflict over the Falkland Islands by announcin",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1340,17 +1298,17 @@
         },
         {
           "selected_rank": null,
-          "headline": "OPEC+ keeps oil production goals for October unchanged",
+          "headline": "Parents of San Diego mosque gunman say a mental health facility failed to heed FBI warning",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-06T13:48+00:00"
+            "newest": "2026-09-06T13:27+00:00"
           },
           "outlet_names": [
-            "Daily Sabah"
+            "Egypt Independent"
           ],
           "camps": [
-            "turkish"
+            "levant"
           ],
           "members": 1,
           "qualified": false,
@@ -1375,7 +1333,25 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "16 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "selected_rank": null,
+          "headline": "Human rights warnings have been issued regarding the obliteration of evidence of genocide and the de",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T13:19+00:00"
+          },
+          "outlet_names": [
+            "Falastin al-Youm"
+          ],
+          "camps": [
+            "levant"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "note": "17 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1393,7 +1369,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T22:52:02.821993+00:00",
+    "last_success": "2026-09-06T23:12:42.030366+00:00",
     "last_failure": null
   },
   "ok": true

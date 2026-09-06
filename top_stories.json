@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T03:35:28.491231+00:00",
+  "updated": "2026-09-06T04:06:32.577400+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -78,14 +78,12 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "title": "2 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
-      ],
-      "summary": "Kremlin says Putin held 'constructive' Ukraine war talks with US envoys.",
-      "summary_he": "הקרמלין דיווח כי פוטין קיים שיחות 'קונסטרוקטיביות' עם שליחי ארה\"ב על מלחמת אוקראינה."
+      ]
     },
     {
       "rank": 2,
@@ -145,88 +143,10 @@
           "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
           "published": "2026-09-05T10:49:00+00:00"
         }
-      ],
-      "summary": "US ambassador labeled violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע מהומות בגדה המערבית."
+      ]
     },
     {
       "rank": 3,
-      "outlets": 5,
-      "categories": [
-        "israeli",
-        "levant"
-      ],
-      "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "The Israeli military reported that Hezbollah launched two explosive drones toward forces in southern Lebanon…",
-        "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
-        "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-        "published": "2026-09-06T03:30:54+00:00"
-      },
-      "members": [
-        {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "The Israeli military reported that Hezbollah launched two explosive drones toward forces in southern Lebanon…",
-          "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
-          "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-          "published": "2026-09-06T03:30:54+00:00"
-        },
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "Hezbollah's underground complex beneath the Ali Taher ridge is expected to be destroyed within days.",
-          "title_he": "טיהור רכס עלי טאהר - והדריכות לתגובת חיזבאללה: \"ימים רגישים מאוד\"",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
-          "published": "2026-09-06T03:00:00+00:00"
-        },
-        {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "A Lebanese political source stated that the loss of the Ali Taher ridge is a blow to Hezbollah's image.",
-          "title_he": "גורם פוליטי בלבנון: אובדן רכס עלי טאהר",
-          "url": "https://kan.org.il/content/kan-news/defense/1096321/",
-          "published": "2026-09-05T17:10:37+00:00"
-        },
-        {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Hezbollah stated that the enemy is trampling the framework of authority and that releasing prisoners does not…",
-          "title_he": "",
-          "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
-          "published": "2026-09-05T11:57:09+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:48:26+00:00"
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, targeting areas with warplanes.",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
-          "published": ""
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Israeli occupation forces' aggression on southern Lebanon continued with explosions and artillery…",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1151682/",
-          "published": ""
-        }
-      ],
-      "summary": "Israeli military reported Hezbollah launched two explosive drones toward forces in southern Lebanon.",
-      "summary_he": "צה\"ל דיווח כי חיזבאללה שיגר שני רחפנים מתפוצצים לעבר כוחות בדרום לבנון."
-    },
-    {
-      "rank": 4,
       "outlets": 4,
       "categories": [
         "panarab",
@@ -274,9 +194,57 @@
           "url": "https://iranintl.com/en/202609042909",
           "published": ""
         }
+      ]
+    },
+    {
+      "rank": 4,
+      "outlets": 3,
+      "categories": [
+        "israeli",
+        "levant"
       ],
-      "summary": "IRGC Navy issued warning to vessels in Hormuz.",
-      "summary_he": "חיל הים של משמרות המהפכה האיראניים פרסם אזהרה לכלי שיט בהורמוז."
+      "rep": {
+        "source": "Kan 11",
+        "category": "israeli",
+        "title": "The IDF announced that Hezbollah launched two explosive drones towards forces in southern Lebanon, and the…",
+        "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
+        "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
+        "published": "2026-09-06T03:30:54+00:00"
+      },
+      "members": [
+        {
+          "source": "Kan 11",
+          "category": "israeli",
+          "title": "The IDF announced that Hezbollah launched two explosive drones towards forces in southern Lebanon, and the…",
+          "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
+          "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
+          "published": "2026-09-06T03:30:54+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:48:26+00:00"
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The \"Zionist occupation army\" continued its aggression on southern Lebanon, carrying out explosions and…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1151682/",
+          "published": ""
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The \"Zionist enemy\" carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1152587/",
+          "published": ""
+        }
+      ]
     },
     {
       "rank": 5,
@@ -318,9 +286,7 @@
           "url": "https://english.wafa.ps/Pages/Details/174384",
           "published": "2026-09-05T15:41:26+00:00"
         }
-      ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023.",
-      "summary_he": "מספר ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
+      ]
     }
   ]
 }

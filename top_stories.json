@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T08:07:56.502938+00:00",
+  "updated": "2026-09-06T08:39:50.223341+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 7,
+      "outlets": 6,
       "categories": [
         "panarab",
         "levant",
@@ -15,24 +15,16 @@
         "category": "turkish",
         "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TZmJ0YXBxYTF5U2JPUlpmaWVGQ2pESWlmekc1T0tZZm8xQjNBVTBQYUI5UlN4X043bGQxTkUyMnJlX2pqWllDbVpVN1Vsc19LV3BPWm93QUM?oc=5",
         "published": "2026-09-05T22:56:52+00:00"
       },
       "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/world/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
-          "published": "2026-09-05T23:46:44+00:00"
-        },
         {
           "source": "TRT World",
           "category": "turkish",
           "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TZmJ0YXBxYTF5U2JPUlpmaWVGQ2pESWlmekc1T0tZZm8xQjNBVTBQYUI5UlN4X043bGQxTkUyMnJlX2pqWllDbVpVN1Vsc19LV3BPWm93QUM?oc=5",
           "published": "2026-09-05T22:56:52+00:00"
         },
         {
@@ -40,7 +32,7 @@
           "category": "levant",
           "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
           "title_he": "",
-          "url": "https://sana.sy/en/politics/2340663/",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fSTZYcEdhb1NTeDVjVHBfdFhUbktyclpwcUg0bldmOGtGT0VlRG9qOTFHeFpqLTFsZGZsOGFCY0FGRTJzVUVtX3EzVzA?oc=5",
           "published": "2026-09-05T20:49:00+00:00"
         },
         {
@@ -48,15 +40,15 @@
           "category": "turkish",
           "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
           "title_he": "",
-          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnFrYW9nWnZuN3gyaEt0R3lsdmtjX09jQTJ3VlVCMlJLN3UzdkJlVmdaTU0tYVI3eEdtbFlyUVgtV0NtWld6SXpPdHNCeGdZamFHNTIzSzhoSUwzdjR5ODVZbnVFOFBBS2JuUHBZUERtdlkzelUwUnp1UjdSdUpIb1pZaFlwYWROTWtCVzJVZW1HcHEwUkx2TngtVjZ3OHJ3dE84Y3AwOA?oc=5",
           "published": "2026-09-05T13:00:00+00:00"
         },
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Moscow has halted attacks on Kyiv for three days and urged Washington to consider reality in any settlement…",
+          "title": "Moscow has halted attacks on Kyiv for three days and called on Washington to consider the reality in any…",
           "title_he": "",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOWU4tRXh4bEFRMG5SZEdDbkQzZlBwWUxPRHhwaHo3M2pJYkpBWnM1dFRMNVVhcS1PN0tPMmw3d3VZVFNMaFBLcDdDTnpmc2lVdldOV255R3lBcDc4OU9ZbFlJYUdhY3JlQVlzQXBYWFgxMjNmUU92dzBSYnZMbDBWbnQ1NE5sYWZCTlJSaWllVGJ6dlpnZm5oWE5lWGt4SVktWWcyMzRIYlBjakVTR29OOUNVU3Jxak9Gb0QyOS1WQ0ZqMGREVTVJSW5vZF9OZWw5Q0V5TDRZZzR2YUc3cUlhSHRXXzRIU09DbFNaUTBOMUhuV1ZMQXRiaV90cGk1TW04c1d0NmRuSWR5eXVnWkdWX3RaNldCM3dZNzVaa0FGXzlOalplaUplaDl2MjNJME9EV0RTZ19fcHRFWUJtM2RvS05qREZhc1EtTTUycHZrY1Z0ZXo5U2NKWFFBN01hS2hWWnlCc0x6ZHdROF92eTJobms0c2lPVlpQRmVFSDJSbVZiN0ZtNkxpZVJxMDRPODJjcHZNQXFaNGpoTGVQUUFQbXRKOUlqVUxtSVVjQ3hNVmE2ODdMazVwTGpLYmNVLW14cG9PbXc1aEtSVk9PR1U0SFpkLUF0SUx6eU5IT0k1aw?oc=5",
           "published": "2026-09-05T11:03:00+00:00"
         },
         {
@@ -64,7 +56,7 @@
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
           "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0FzUmtYMElFWWlSQVhXZzNDOTVtLVhVYW1YUFFHUVVFa3NhR2ZVN1JZdkE2bXZYRDRHUk1EOGpERkY1MjEzMUdfc0lmQlkyV2JWTUptcERwNnFqZDVDanBocllieXgxUmZjVjQ4MG5rLWZmS2lFVmpocWlSRGViSjhYWUZXa2Y2djFmQWhUYXFNb1lsQ2RVOGtIc3JHTjRmcldPc0VwelBhaHlicjIzY0Z3MmU1V1RienJTN0VKTk9KU1kyem5vZVNn0gHPAUFVX3lxTE1jZ1hfZGVEX0dKTl9tNXpGajhtcXRORXpEV0U2MmNhcVBZMDViWkFuRFIxM09tRG5nWGRpMlZRNEVRQ25jRjJmMW8wUFhVc0l3NFp6ZlVxZERFNTJmQ2tabmJDcU82MDZCUFhEUmdXZ1JlMUMxazhFdmV3d0duNi1YZGpkeXJxOGxrVE5TVGNfemVXem9SQkNUd0NldmFZWXJoTmNNQ09JMUZHZUNyZlRpT3czUnlhV0tIWHRKOGVZbHA2QnI5ekU1MHIxMUxPRQ?oc=5",
           "published": "2026-09-05T08:39:00+00:00"
         },
         {
@@ -76,24 +68,85 @@
           "published": ""
         }
       ],
-      "summary": "Kremlin says Putin's talks with US envoys on Ukraine were constructive.",
-      "summary_he": "הקרמלין מסר ששיחות פוטין עם שליחי ארה\"ב על אוקראינה היו קונסטרוקטיביות."
+      "summary": "Kremlin says Putin held 'extremely frank' Ukraine war talks with US envoys.",
+      "summary_he": "הקרמלין הודיע כי פוטין קיים שיחות 'גלויות ביותר' עם שליחי ארה\"ב על מלחמת אוקראינה."
     },
     {
       "rank": 2,
-      "outlets": 6,
+      "outlets": 5,
       "categories": [
         "gulf",
         "panarab",
-        "iranian",
+        "levant",
         "turkish"
+      ],
+      "rep": {
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+        "title_he": "",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFZUOEFGUmM5dmlLbllwMS1iSWQwdVdBbnFWX2VpXzFVMUxqanE0MGV5SmFFWTBHZTlhRWgyblRGNVZmcFVxazg3dXZ3RUM2bnlYazAwM3Jqa3BwdEhCZHBlVnN0Y2c5MXNJRnE1RFdVeHJ3UHJtMV9fdzFtbzFzcExxUTZtbUhMbTRfdVNEaVVjTTlPVDBSZy1aYWg0NDJUREwweHVvT00?oc=5",
+        "published": "2026-09-05T14:56:07+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QcnFfWlFJbGtveGRLWHVNU0dmUHJKYk5zaU9iZVRiZHQ2SkRORkd3QkQ2cTZ1MGU4OW80ZWRCUWFCRmVvbHZxWklrU0R4WUlj?oc=5",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFZUOEFGUmM5dmlLbllwMS1iSWQwdVdBbnFWX2VpXzFVMUxqanE0MGV5SmFFWTBHZTlhRWgyblRGNVZmcFVxazg3dXZ3RUM2bnlYazAwM3Jqa3BwdEhCZHBlVnN0Y2c5MXNJRnE1RFdVeHJ3UHJtMV9fdzFtbzFzcExxUTZtbUhMbTRfdVNEaVVjTTlPVDBSZy1aYWg0NDJUREwweHVvT00?oc=5",
+          "published": "2026-09-05T14:56:07+00:00"
+        },
+        {
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzFIQWdhMmhGQUtiSXp1Smx6NlRUMV8zdU1VaGtDRm5jeFdTRl9aMmlsaW10QTNVN2pXcjRYTG5UTHNtYWRHc2dodG43V2YyQ0tJVG4yOHhSME5FOFE2OXpwN2VhMU5MM2x3ekk0Y2g0YzB3WWdEbFRCdnprb2I1U3EtVGJxcEJzb21yZ3Ria3dHUUxibk96dmJtMkJ4WmxRTHZEdTJOTlVWZ0Q3em0yelByRnBkNTA3U1dWOXJCdXM5S1k4aFE?oc=5",
+          "published": "2026-09-05T14:45:13+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2FSTHI1Z0xQOGk3QVR0M3pKOHI4bkhQRGNOLUgwdHV6dUhRVDdEY2JxaGV3blljYkRnT0pUcHZKanQ2RDdZT2FRYm1iaXNFQ0lRNWg5UEhwelI4RHduTFF2aE9hMkpRQnM1ZGpRV19QYUhXY3c1ajVVMnJ2OG5tR2ZzNVlvLW9Zdm1vYllxdHdJVHVHU3ZCZGplRWpjV3dpSlE?oc=5",
+          "published": "2026-09-05T12:51:00+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFFwYnAtWWFtck9YenplMTIxeHRDQ1FjWUVUanRlVXVpYURkM1dVSG16QmR2blhBazh5YWpUUkhPRnYwbE5ZSWt6cTdxVndId0dxTFN0S0h3eXgzZU5KVGFXMkdoQV84RnQ1NjJ2Qk1sVndQeHBvS2QzZDhvYnhWVnY5Ynp4YmE3ZWh0aU94dUVRLWlGVVJUQ0x5NVhNaFAweWxqUE04cEpidGtadmFGbUptdGNZOVNoUUcxakFveXFkb2EwWXdz0gHMAUFVX3lxTE1EcVFFd0xiaXhrVWRYMThlNDc1LWVIcFNSYWk4b1F4T0pBWFZCUms4Ty1SdWlNTkE5MVhWMTBRMVktSDl6d3I3X0k3cGs3dDY4NV9IUnVvanVETjFDcEZlTnRXWXlNR2NZX3NtR1pjeXQ5UWMxMUhONGZLVWJfa2xkMDRPYWFJT2xvZWJPTGthV0JGYVdmTHdURUhWLTBuVjEyNDgxUENtc2lUb1R1YUhXUXhEWjlvZnhfWU9TVzBhdmVKQk5NbXdmNU80WQ?oc=5",
+          "published": "2026-09-05T10:49:00+00:00"
+        }
+      ],
+      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' בצל המהומות בגדה המערבית."
+    },
+    {
+      "rank": 3,
+      "outlets": 5,
+      "categories": [
+        "gulf",
+        "panarab",
+        "iranian"
       ],
       "rep": {
         "source": "Gulf News",
         "category": "gulf",
         "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
         "title_he": "",
-        "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFQ3WXJQdFl0UF9XTVU5dUktTUVWNXpUUTJjQm12ZFphWjdsRkhta1N4djViQVJDbGtmXzYwakJteGNqY2hTRkR0ZzUzc1RhTURPM2FiSjgwWmp6akVyNVp6MUtNNlA2T0xzZGlmYXZhWWdldWY2RTBKV2tidkxmRDMwS2hkSnZjRHdlcXVyck1YVFdMY29zcXRLX0ZYdk84cnRPSXFCSkIzYjVMWnNDTzZqTjFOcS02UXB5NDJDcEM2ZWxZX0NNYlB6M0tGbDRIaS1B?oc=5",
         "published": "2026-09-06T01:01:00+00:00"
       },
       "members": [
@@ -110,7 +163,7 @@
           "category": "gulf",
           "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
           "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFQ3WXJQdFl0UF9XTVU5dUktTUVWNXpUUTJjQm12ZFphWjdsRkhta1N4djViQVJDbGtmXzYwakJteGNqY2hTRkR0ZzUzc1RhTURPM2FiSjgwWmp6akVyNVp6MUtNNlA2T0xzZGlmYXZhWWdldWY2RTBKV2tidkxmRDMwS2hkSnZjRHdlcXVyck1YVFdMY29zcXRLX0ZYdk84cnRPSXFCSkIzYjVMWnNDTzZqTjFOcS02UXB5NDJDcEM2ZWxZX0NNYlB6M0tGbDRIaS1B?oc=5",
           "published": "2026-09-06T01:01:00+00:00"
         },
         {
@@ -120,14 +173,6 @@
           "title_he": "",
           "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
           "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
-          "published": "2026-09-05T20:08:33+00:00"
         },
         {
           "source": "Al Jazeera",
@@ -154,73 +199,63 @@
           "published": ""
         }
       ],
-      "summary": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz.",
-      "summary_he": "משמרות המהפכה תקפו כלי שיט אמריקאי בלתי מאויש שביקש גישה למצר הורמוז."
-    },
-    {
-      "rank": 3,
-      "outlets": 5,
-      "categories": [
-        "gulf",
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Jordan Times",
-        "category": "levant",
-        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-        "title_he": "",
-        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-        "published": "2026-09-05T14:56:07+00:00"
-      },
-      "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T14:56:07+00:00"
-        },
-        {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "published": "2026-09-05T14:45:13+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
-          "published": "2026-09-05T12:51:00+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T10:49:00+00:00"
-        }
-      ],
-      "summary": "US ambassador termed violent Israeli settlers terrorists amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים מחבלים על רקע אי-שקט בגדה המערבית."
+      "summary": "IRGC attacks US unmanned vessel in the Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש אמריקאי במצר הורמוז."
     },
     {
       "rank": 4,
+      "outlets": 4,
+      "categories": [
+        "israeli",
+        "levant"
+      ],
+      "rep": {
+        "source": "L'Orient Today",
+        "category": "levant",
+        "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+        "title_he": "",
+        "url": "https://today.lorientlejour.com/article/1546654/when-hezbollah-questions-its-decision-to-back-joseph-aoun-for-president.html",
+        "published": ""
+      },
+      "members": [
+        {
+          "source": "N12",
+          "category": "israeli",
+          "title": "Concerns are high for potential attacks during the day commemorating the October 7th massacre.",
+          "title_he": "החשש העיקרי: ניסיונות פיגועים ביום לציון טבח 7 באוקטובר",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-a1e08b9724570a1026.htm",
+          "published": "2026-09-06T06:01:00+00:00"
+        },
+        {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and releasing prisoners does not…",
+          "title_he": "",
+          "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOdVllbHYwbzhrNFFDemVXNi1KaDNCNm5nOE1UZ05ZUUxlZDlaZDVFbDBMVUJ4TlJnYlJzckNGY3BOTzNKeDBWV1ljcFdWQ1ZDb2pOamFZd0dhNkRhZmZweFE1NUVMVDRfeUlUNkdTbGtGZ3JsOXRPVXhEbE9jdTlweEVKRFdYSWZSelA2UkdHV3hMSEtFNGl3dVpLUU9BaG5pTHFQRmVEaFdpR21rV0xhb0VwcGJmRGt5eEc0SGVqVDVHNC13c0tXRWNfOWo0MDBLUTFRMXRrcWp2YXo1b3lWSHp6cFZodVUzYVRsX1Z6QVVJRTJqWmV3NnBxYXRsSTZVMGpLXzdpRGQxeVlpWTBJNGVxdklzeVNteXY2V05BTTJKcHowN1FwemlWUW41QXNmU05adTUzeDVjWEhBWTktbFhsdm5hdndYY2Y1WnVndVBobTBGbmxnY3VtTFRfazV6NTBjMGZQbWp3Q056ZzhGSl80YlVUS0g4Ymdka3RvRTdLS3FxczI0XzhnamNQSUxDMVVraERqN0I1LW5KQXVTNUhVUDVzZktaaEN0Rlp6QVM4dkdJcWFUc1ZDOUdBYUFKaVp3VjhzMzJDMkU3RUk4?oc=5",
+          "published": "2026-09-05T11:57:09+00:00"
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546654/when-hezbollah-questions-its-decision-to-back-joseph-aoun-for-president.html",
+          "published": ""
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "Hezbollah stated that the continued pursuit of an absurd, illegitimate, and unconstitutional path by the…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1154622/",
+          "published": ""
+        }
+      ],
+      "summary": "Concerns rise over potential attacks during October 7th commemoration day.",
+      "summary_he": "חשש גובר מפני פיגועים אפשריים ביום ציון טבח 7 באוקטובר."
+    },
+    {
+      "rank": 5,
       "outlets": 3,
       "categories": [
         "iranian",
@@ -231,7 +266,7 @@
         "category": "levant",
         "title": "Gaza death toll rises to 73,651 since October 2023",
         "title_he": "",
-        "url": "https://sana.sy/en/middle-east/2340621/",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueGlkRnlFc0k1TnBYM1RDMVVOeW50WFhvUFIxV2N3TzFmWE0xd3BEeWVBQUxjRmhYOXNlQ1JaOEpNMkQ3ZmJOZ0VfbEU5TEd2?oc=5",
         "published": "2026-09-05T19:22:55+00:00"
       },
       "members": [
@@ -240,7 +275,7 @@
           "category": "levant",
           "title": "Gaza death toll rises to 73,651 since October 2023",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340621/",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueGlkRnlFc0k1TnBYM1RDMVVOeW50WFhvUFIxV2N3TzFmWE0xd3BEeWVBQUxjRmhYOXNlQ1JaOEpNMkQ3ZmJOZ0VfbEU5TEd2?oc=5",
           "published": "2026-09-05T19:22:55+00:00"
         },
         {
@@ -256,48 +291,12 @@
           "category": "levant",
           "title": "Gaza death toll rises to 73,651 since October 2023",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDhhcTdfU3lja0tuWnFRd3RnbHZ4MjBwTkxQRFB4eVAtaS00Mlhwb0NoQ3dBamdNOVBlU1ktRDNSelEtcFVTck5ESTVRakt1Tk1ZMFBnTQ?oc=5",
           "published": "2026-09-05T15:41:26+00:00"
         }
       ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023.",
-      "summary_he": "מניין ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
-    },
-    {
-      "rank": 5,
-      "outlets": 2,
-      "categories": [
-        "panarab",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
-        "title_he": "",
-        "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
-        "published": "2026-09-06T07:35:03+00:00"
-      },
-      "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
-          "published": "2026-09-06T07:35:03+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "NATO will not tolerate hybrid actions against members, US envoy says",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/nato-will-not-tolerate-hybrid-actions-against-members-us-envoy-says",
-          "published": "2026-09-05T15:15:00+00:00"
-        }
-      ],
-      "summary": "US envoy says NATO will not tolerate hybrid attacks against allies.",
-      "summary_he": "שליח ארה\"ב אומר שנאט\"ו לא תסבול התקפות היברידיות נגד בעלות ברית."
+      "summary": "Gaza death toll reaches 73,651 since October 2023.",
+      "summary_he": "מניין ההרוגים בעזה הגיע ל-73,651 מאז אוקטובר 2023."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_signature": "6a2f379002322a1743f812b13c6ff93613471e406f9afdb21d46d50b5bfbce56",
-  "updated": "2026-09-06T13:25:46.405170+00:00",
+  "last_signature": "c3ad4b5b9d3fca90ad57e02605223fbb5752467fbd46cd720c64f16d6aeb068f",
+  "updated": "2026-09-06T13:57:03.089675+00:00",
   "subscribers": 3,
   "subs": {
     "10b00cd49c02a75e1e754e1862f8cc839a63b9b122c911b6f7c6321fa9968b11": {
@@ -14,8 +14,8 @@
       "interval": 180.0
     },
     "ac2853045e718e169598e1dc7cfed0f3c3bc9dcc9d3dc95d2fed7361432e74ca": {
-      "last_sent_at": "2026-09-06T13:25:46.405170+00:00",
-      "last_sig": "6a2f379002322a1743f812b13c6ff93613471e406f9afdb21d46d50b5bfbce56",
+      "last_sent_at": "2026-09-06T13:57:03.089675+00:00",
+      "last_sig": "c3ad4b5b9d3fca90ad57e02605223fbb5752467fbd46cd720c64f16d6aeb068f",
       "interval": 30.0
     }
   }

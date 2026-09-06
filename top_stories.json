@@ -1,79 +1,9 @@
 {
-  "updated": "2026-09-06T13:25:45.807839+00:00",
+  "updated": "2026-09-06T13:57:02.454471+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
-      "categories": [
-        "israeli",
-        "gulf",
-        "iranian",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Daily Sabah",
-        "category": "turkish",
-        "title": "Iran hits US naval drone in Hormuz after attacks on its tankers",
-        "title_he": "",
-        "url": "https://www.dailysabah.com/world/mid-east/iran-hits-us-naval-drone-in-hormuz-after-attacks-on-its-tankers",
-        "published": "2026-09-06T11:37:00+00:00"
-      },
-      "members": [
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "The \"Financial Times\" revealed a complex operation led by the United States in the Strait of Hormuz in recent…",
-          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
-          "published": "2026-09-06T11:40:00+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Iran hits US naval drone in Hormuz after attacks on its tankers",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/iran-hits-us-naval-drone-in-hormuz-after-attacks-on-its-tankers",
-          "published": "2026-09-06T11:37:00+00:00"
-        },
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
-        },
-        {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
-        }
-      ],
-      "summary": "Iran attacked a US naval drone in the Strait of Hormuz.",
-      "summary_he": "איראן תקפה מל\"ט ימי אמריקאי במצר הורמוז."
-    },
-    {
-      "rank": 2,
       "outlets": 6,
       "categories": [
         "gulf",
@@ -84,7 +14,7 @@
       "rep": {
         "source": "Falastin al-Youm",
         "category": "levant",
-        "title": "Settlers stormed the Al-Aqsa Mosque.",
+        "title": "Settlers stormed Al-Aqsa Mosque.",
         "title_he": "",
         "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
         "published": "2026-09-06T10:30:00+00:00"
@@ -93,7 +23,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Settlers stormed the Al-Aqsa Mosque.",
+          "title": "Settlers stormed Al-Aqsa Mosque.",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
           "published": "2026-09-06T10:30:00+00:00"
@@ -139,13 +69,14 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Settlers stormed the Al-Aqsa Mosque.",
+      "summary": "Settlers stormed Al-Aqsa Mosque.",
       "summary_he": "מתנחלים הסתערו על מסגד אל-אקצא."
     },
     {
-      "rank": 3,
-      "outlets": 4,
+      "rank": 2,
+      "outlets": 6,
       "categories": [
+        "panarab",
         "levant",
         "turkish"
       ],
@@ -175,6 +106,14 @@
           "published": "2026-09-06T13:08:30+00:00"
         },
         {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
+          "published": "2026-09-06T12:42:00+00:00"
+        },
+        {
           "source": "Anadolu Agency",
           "category": "turkish",
           "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
@@ -182,35 +121,6 @@
           "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
           "published": "2026-09-06T11:21:10+00:00"
         },
-        {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Moscow has paused its attacks on Kyiv for three days and called on Washington to consider the reality in any…",
-          "title_he": "",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
-          "published": "2026-09-05T11:03:00+00:00"
-        }
-      ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for diplomacy.",
-      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לדיפלומטיה."
-    },
-    {
-      "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "TRT World",
-        "category": "turkish",
-        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-        "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
-        "published": "2026-09-05T22:56:52+00:00"
-      },
-      "members": [
         {
           "source": "TRT World",
           "category": "turkish",
@@ -220,12 +130,12 @@
           "published": "2026-09-05T22:56:52+00:00"
         },
         {
-          "source": "SANA",
+          "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
+          "title": "Moscow has halted its attacks on Kyiv for three days and is calling on Washington to consider the reality in…",
           "title_he": "",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "published": "2026-09-05T20:49:00+00:00"
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
         },
         {
           "source": "Al Arabiya",
@@ -236,8 +146,113 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "Putin held Ukraine war talks with US envoys.",
-      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחי ארה\"ב."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks.",
+      "summary_he": "שליחי ארה\"ב וויטקוף וקושנר הגיעו לקייב לשיחות שלום באוקראינה."
+    },
+    {
+      "rank": 3,
+      "outlets": 4,
+      "categories": [
+        "israeli",
+        "gulf",
+        "iranian"
+      ],
+      "rep": {
+        "source": "IRNA",
+        "category": "iranian",
+        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+        "title_he": "",
+        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+        "published": "2026-09-06T06:00:23+00:00"
+      },
+      "members": [
+        {
+          "source": "N12",
+          "category": "israeli",
+          "title": "Report: The secret operation of the United States in the Strait of Hormuz - with divers and advanced vessels.",
+          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
+          "published": "2026-09-06T11:40:00+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "published": "2026-09-06T06:00:23+00:00"
+        },
+        {
+          "source": "Gulf News",
+          "category": "gulf",
+          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+          "title_he": "",
+          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+          "published": "2026-09-06T01:01:00+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
+        }
+      ],
+      "summary": "IRGC attacked US vessel, as report details secret US operation in Hormuz.",
+      "summary_he": "משמרות המהפכה תקפו כלי שיט אמריקאי, כשדיווח מפרט מבצע סודי של ארה\"ב במיצרי הורמוז."
+    },
+    {
+      "rank": 4,
+      "outlets": 3,
+      "categories": [
+        "panarab",
+        "levant"
+      ],
+      "rep": {
+        "source": "Al Arabiya",
+        "category": "panarab",
+        "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+        "title_he": "",
+        "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+        "published": "2026-09-06T09:30:08+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+          "title_he": "",
+          "url": "https://sana.sy/en/international/2340834/",
+          "published": "2026-09-06T13:36:50+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "published": "2026-09-06T09:30:08+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
+        }
+      ],
+      "summary": "Israeli strikes destroyed a hospital in southern Lebanon.",
+      "summary_he": "תקיפות ישראליות הרסו בית חולים בדרום לבנון."
     },
     {
       "rank": 5,
@@ -281,7 +296,7 @@
         }
       ],
       "summary": "Eight countries condemn Israeli ministers' Gaza displacement proposals.",
-      "summary_he": "שמונה מדינות גינו הצעות של שרים ישראלים לעקירת תושבי עזה."
+      "summary_he": "שמונה מדינות מגנות הצעות שרים ישראלים לעקירת עזתים."
     }
   ]
 }

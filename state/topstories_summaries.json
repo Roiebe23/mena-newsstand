@@ -1,25 +1,25 @@
 {
-  "sig": "6a944dcef864d2ff8680d1c276d472c1defe07c308be2561986496ef9e4f11a5",
+  "sig": "af34e2e96a1057fcd754bf01101f8bb7e0ffa161f9c5c2dcd041c81ab9d2785a",
   "items": [
     {
-      "en": "US envoys Witkoff and Kushner arrive in Kyiv for second leg of diplomacy push.",
-      "he": "שליחי ארה\"ב ויטקוף וקושנר מגיעים לקייב לשלב השני של המהלך הדיפלומטי."
+      "en": "US envoys visit Kyiv, report progress on Ukraine peace after talks.",
+      "he": "שליחים אמריקאים מבקרים בקייב ומדווחים על התקדמות במאמצי שלום באוקראינה."
     },
     {
-      "en": "Israeli strike kills two Palestinians, including child, in Gaza despite ceasefire.",
+      "en": "Israeli strike in Gaza kills two Palestinians, including a child, despite ceasefire.",
       "he": "תקיפה ישראלית בעזה הורגת שני פלסטינים, בהם ילד, למרות הפסקת אש."
     },
     {
-      "en": "Israeli air strikes completely destroy a hospital in southern Lebanon.",
-      "he": "תקיפות אוויר ישראליות הורסות כליל בית חולים בדרום לבנון."
+      "en": "Israeli airstrikes in southern Lebanon kill three and destroy a hospital.",
+      "he": "תקיפות אוויריות ישראליות בדרום לבנון הורגות שלושה ומשמידות בית חולים."
+    },
+    {
+      "en": "Iran announces intent to declare restricted navigation zone outside Strait of Hormuz.",
+      "he": "איראן מודיעה על כוונתה להכריז על אזור ניווט מוגבל מחוץ למצר הורמוז."
     },
     {
       "en": "Netanyahu orders removal of illegal West Bank settler outposts.",
       "he": "נתניהו מורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
-    },
-    {
-      "en": "Hezbollah attempts to demonstrate strength without escalation, faces criticism.",
-      "he": "חיזבאללה מנסה להפגין כוח ללא הסלמה, ומתמודד עם ביקורת."
     }
   ]
 }

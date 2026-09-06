@@ -1,28 +1,36 @@
 {
-  "updated": "2026-09-06T10:44:08.402450+00:00",
+  "updated": "2026-09-06T11:15:57.981647+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 5,
+      "outlets": 6,
       "categories": [
         "israeli",
         "levant",
         "turkish"
       ],
       "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "Israel Defense Forces struck Hezbollah targets in southern Lebanon in response to the launch of two explosive…",
-        "title_he": "בתגובה לשיגור שני רחפני נפץ: צה\"ל תקף מחבלי חיזבאללה בדרום לבנון",
-        "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-        "published": "2026-09-06T10:24:00+00:00"
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
+        "published": "2026-09-06T08:03:53+00:00"
       },
       "members": [
         {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "Israel Defense Forces struck Hezbollah targets in southern Lebanon in response to the launch of two explosive…",
+          "title": "Following two drone launches, the Israeli military attacked Hezbollah operatives in southern Lebanon.",
           "title_he": "בתגובה לשיגור שני רחפני נפץ: צה\"ל תקף מחבלי חיזבאללה בדרום לבנון",
           "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
           "published": "2026-09-06T10:24:00+00:00"
@@ -36,9 +44,17 @@
           "published": "2026-09-06T09:41:00+00:00"
         },
         {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
+          "published": "2026-09-06T08:03:53+00:00"
+        },
+        {
           "source": "N12",
           "category": "israeli",
-          "title": "The hospital that became a terror headquarters experienced a wave of IDF strikes in southern Lebanon in…",
+          "title": "In response to a suicide drone launch, the Israeli military conducted strikes on Hezbollah weapons depots in…",
           "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
           "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
           "published": "2026-09-06T03:00:00+00:00"
@@ -50,21 +66,74 @@
           "title_he": "",
           "url": "https://english.wafa.ps/Pages/Details/174375",
           "published": "2026-09-04T18:52:39+00:00"
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "Hezbollah issued a statement regarding the continuous Israeli aggression on Lebanon, asserting that the…",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1154622/",
-          "published": ""
         }
       ],
-      "summary": "Israel struck Hezbollah targets in southern Lebanon after two explosive launches.",
-      "summary_he": "ישראל תקפה יעדי חיזבאללה בדרום לבנון לאחר שיגור שני מטעני נפץ."
+      "summary": "Israeli strikes on southern Lebanon kill four and injure 20.",
+      "summary_he": "תקיפות ישראליות בדרום לבנון הרגו ארבעה ופצעו עשרים."
     },
     {
       "rank": 2,
+      "outlets": 5,
+      "categories": [
+        "israeli",
+        "gulf",
+        "iranian"
+      ],
+      "rep": {
+        "source": "IRNA",
+        "category": "iranian",
+        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+        "title_he": "",
+        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+        "published": "2026-09-06T06:00:23+00:00"
+      },
+      "members": [
+        {
+          "source": "N12",
+          "category": "israeli",
+          "title": "The Financial Times revealed details of a covert US operation in the Strait of Hormuz aimed at clearing mines.",
+          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
+          "published": "2026-09-06T09:47:00+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "published": "2026-09-06T06:00:23+00:00"
+        },
+        {
+          "source": "Gulf News",
+          "category": "gulf",
+          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+          "title_he": "",
+          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+          "published": "2026-09-06T01:01:00+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
+          "published": ""
+        }
+      ],
+      "summary": "Financial Times revealed details of a covert US mine-clearing operation in Hormuz.",
+      "summary_he": "ה\"פייננשל טיימס\" חשף פרטים על מבצע אמריקני חשאי לפינוי מוקשים במצר הורמוז."
+    },
+    {
+      "rank": 3,
       "outlets": 4,
       "categories": [
         "panarab",
@@ -113,11 +182,11 @@
           "published": ""
         }
       ],
-      "summary": "Putin held Ukraine war talks with US envoys.",
-      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחי ארה\"ב."
+      "summary": "Putin met US envoys for Ukraine war talks.",
+      "summary_he": "פוטין נפגש עם שליחים אמריקנים לשיחות על מלחמת אוקראינה."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "outlets": 4,
       "categories": [
         "gulf",
@@ -166,104 +235,52 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador called violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים \"טרוריסטים\" על רקע תסיסה בגדה המערבית."
-    },
-    {
-      "rank": 4,
-      "outlets": 4,
-      "categories": [
-        "gulf",
-        "iranian"
-      ],
-      "rep": {
-        "source": "Gulf News",
-        "category": "gulf",
-        "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-        "title_he": "",
-        "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-        "published": "2026-09-06T01:01:00+00:00"
-      },
-      "members": [
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
-        },
-        {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
-        }
-      ],
-      "summary": "IRGC attacked a US unmanned vessel in the Strait of Hormuz.",
-      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב במצר הורמוז."
+      "summary": "US ambassador referred to violent Israeli settlers as terrorists.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים כטרוריסטים."
     },
     {
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "iranian",
+        "levant",
         "turkish"
       ],
       "rep": {
-        "source": "TRT World",
+        "source": "Daily Sabah",
         "category": "turkish",
-        "title": "US blockade could cost Washington more than Iran, IRGC says",
+        "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/9e785eca8f2b",
-        "published": "2026-09-06T07:45:05+00:00"
+        "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
+        "published": "2026-09-06T10:54:00+00:00"
       },
       "members": [
         {
-          "source": "TRT World",
+          "source": "Daily Sabah",
           "category": "turkish",
-          "title": "US blockade could cost Washington more than Iran, IRGC says",
+          "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/9e785eca8f2b",
-          "published": "2026-09-06T07:45:05+00:00"
+          "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
+          "published": "2026-09-06T10:54:00+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "The funeral of 100 martyrs whose bodies were recovered from under the rubble in the Zeitoun neighborhood took…",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/image/gallery/9926/%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%AC%D8%AB%D8%A7%D9%85%D9%8A%D9%86-100-%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%86%D8%AA-%D8%B4%D9%84%D8%AA",
+          "published": "2026-09-06T09:23:40+00:00"
         },
         {
           "source": "Anadolu Agency",
           "category": "turkish",
-          "title": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
+          "title": "Gaza holds funeral for 100 Palestinians recovered from rubble of destroyed homes",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-us-economic-blockade-could-cost-washington-more-than-tehran/4048542",
-          "published": "2026-09-06T07:09:35+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "published": "2026-09-06T05:00:48+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
+          "published": "2026-09-06T09:06:08+00:00"
         }
       ],
-      "summary": "IRGC says US economic blockade could cost Washington more than Iran.",
-      "summary_he": "משמרות המהפכה האיראניים אומרים כי מצור כלכלי אמריקאי יעלה לארה\"ב יותר מאשר לאיראן."
+      "summary": "Gaza held a funeral for 100 people recovered from rubble.",
+      "summary_he": "עזה קיימה הלוויה למאה בני אדם שחולצו מההריסות."
     }
   ]
 }

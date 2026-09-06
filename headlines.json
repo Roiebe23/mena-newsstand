@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:52:01.081394+00:00",
+  "updated": "2026-09-06T18:23:20.814595+00:00",
   "regions": {
     "Israel": [
       {
@@ -17,6 +17,22 @@
             "snippet_he": ""
           },
           {
+            "title": "מפלגת ישראל ביתנו פרסמה את רשימתה לבחירות",
+            "url": "https://kan.org.il/content/kan-news/politic/live-1096404/liveid-1096889/",
+            "published": "2026-09-06T18:12:55+00:00",
+            "snippet": "",
+            "title_he": "מפלגת ישראל ביתנו פרסמה את רשימתה לבחירות",
+            "snippet_he": ""
+          },
+          {
+            "title": "משרד הבריאות פרסם המלצות לרוחצים בכינרת למניעת תחלואה באמבה",
+            "url": "https://kan.org.il/content/kan-news/local/1096894/",
+            "published": "2026-09-06T18:07:56+00:00",
+            "snippet": "בעקבות אשפוזו של ילד בן 9 במצב קשה לאחר שרחץ בחוף כורסי, משרד הבריאות פרסם המלצות חדשות למתרחצים שכוללות שימוש באטמי אף והימנעות מצלילה או הכנסת הראש למים.",
+            "title_he": "משרד הבריאות פרסם המלצות לרוחצים בכינרת למניעת תחלואה באמבה",
+            "snippet_he": ""
+          },
+          {
             "title": "איילת שקד לא תתמודד בבחירות",
             "url": "https://kan.org.il/content/kan-news/politic/live-1096404/",
             "published": "2026-09-06T17:06:48+00:00",
@@ -30,22 +46,6 @@
             "published": "2026-09-06T16:16:03+00:00",
             "snippet": "A man in his thirties was critically injured in a shooting incident in Jerusalem.",
             "title_he": "גבר כבן 30 נפצע קשה מירי בירושלים",
-            "snippet_he": ""
-          },
-          {
-            "title": "פרסום ראשון: בן גביר מעכב העברת מאות מיליוני שקלים לתקציב המשטרה",
-            "url": "https://kan.org.il/content/kan-news/local/1096835/",
-            "published": "2026-09-06T16:10:15+00:00",
-            "snippet": "The Minister of National Security is reportedly delaying the transfer of 333 million shekels intended for the police. This action is occurring amidst tensions with the police commissioner, with some police officials accusing the minister of using the budget as a bargaining chip.",
-            "title_he": "פרסום ראשון: בן גביר מעכב העברת מאות מיליוני שקלים לתקציב המשטרה",
-            "snippet_he": ""
-          },
-          {
-            "title": "גבר כבן 40 נהרג מנפילה מגובה במהלך עבודתו באתר בנייה באשדוד",
-            "url": "ad7fc66b3b934b44b034df65bec925d9",
-            "published": "2026-09-06T15:50:21+00:00",
-            "snippet": "A man around 40 years old died after falling from a height while working at a construction site in Ashdod.",
-            "title_he": "גבר כבן 40 נהרג מנפילה מגובה במהלך עבודתו באתר בנייה באשדוד",
             "snippet_he": ""
           }
         ],
@@ -119,7 +119,7 @@
           {
             "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13",
             "url": "https://13tv.co.il/news/",
-            "published": "2026-09-06T15:20:14+00:00",
+            "published": "2026-09-06T15:28:46+00:00",
             "snippet": "News 13 | News - All the news and updates from Israel and the world - Reshet 13",
             "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13",
             "snippet_he": ""
@@ -141,11 +141,11 @@
             "snippet_he": ""
           },
           {
-            "title": "אילן פלד ויעל פוליאקוב חוזרים בספיישל חגיגי - - רשת 13",
-            "url": "https://13tv.co.il/allshows/4564654/",
-            "published": "2026-09-06T09:23:11+00:00",
-            "snippet": "Ilan Peled and Yael Polyakov are returning in a festive special.",
-            "title_he": "אילן פלד ויעל פוליאקוב חוזרים בספיישל חגיגי - - רשת 13",
+            "title": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\" - רשת 13",
+            "url": "https://13tv.co.il/item/news/politics/politics/w9eqn-905346091/",
+            "published": "2026-09-06T12:13:35+00:00",
+            "snippet": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\" רשת 13",
+            "title_he": "בן גביר נגד המפכ\"ל: \"אין מינויים במשטרה עד אחרי הבחירות\" - רשת 13",
             "snippet_he": ""
           }
         ],
@@ -185,18 +185,18 @@
             "snippet_he": ""
           },
           {
-            "title": "4 , Can you guess the real size of each country on the new world map?",
-            "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
+            "title": "4 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+            "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
             "published": "",
-            "snippet": "This feature allows users to guess the real size of countries on a new world map, then see how they morph from Mercator to Equal Earth projection.",
+            "snippet": "Party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "5 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-            "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
+            "title": "5 , Can you guess the real size of each country on the new world map?",
+            "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
             "published": "",
-            "snippet": "The far-right AfD party has won a vote in Germany’s Saxony-Anhalt state, according to exit polls. The party is hailing the result as historic, but it is not yet clear if they can form a government.",
+            "snippet": "Pick which country is bigger, then watch it morph from Mercator to Equal Earth projection to see how close you were.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -261,18 +261,18 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-            "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-            "published": "2026-09-05T10:49:00+00:00",
-            "snippet": "The U.S. ambassador has called for \"severe consequences\" to halt violence in the West Bank.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
             "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
             "published": "2026-09-06T09:30:08+00:00",
             "snippet": "Smoke and destruction are visible in southern Lebanon following Israeli strikes.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+            "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+            "published": "2026-09-05T10:49:00+00:00",
+            "snippet": "The U.S. ambassador has called for \"severe consequences\" to halt violence in the West Bank.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -285,18 +285,18 @@
             "snippet_he": ""
           },
           {
-            "title": "Several Killed in Fire at Wedding Ceremony in DR Congo",
-            "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/several-killed-in-fire-at-wedding-ceremony-in-dr-congo",
-            "published": "2026-09-06T10:29:48+00:00",
-            "snippet": "Several people have been killed in a fire that occurred at a wedding ceremony in the Democratic Republic of Congo.",
+            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+            "url": "https://english.alarabiya.net/amp/News/middle-east/2026/09/04/trump-says-us-may-hit-iran-s-pickaxe-mountain-soon",
+            "published": "2026-09-04T19:01:00+00:00",
+            "snippet": "Trump stated that the U.S. may soon strike Iran’s Pickaxe Mountain.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Greek air force jet crashes at annual aerial show",
-            "url": "https://english.alarabiya.net/News/world/2026/09/05/greek-air-force-jet-crashes-at-annual-aerial-show",
-            "published": "2026-09-05T12:35:00+00:00",
-            "snippet": "A Greek air force jet crashed during an annual aerial show.",
+            "title": "Several Killed in Fire at Wedding Ceremony in DR Congo",
+            "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/several-killed-in-fire-at-wedding-ceremony-in-dr-congo",
+            "published": "2026-09-06T10:29:48+00:00",
+            "snippet": "Several people have been killed in a fire that occurred at a wedding ceremony in the Democratic Republic of Congo.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -327,6 +327,14 @@
             "snippet_he": ""
           },
           {
+            "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+            "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+            "published": "2026-09-06T16:26:40+00:00",
+            "snippet": "Netanyahu orders removal of illegal West Bank settler outposts The New Arab",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
             "url": "https://www.newarab.com/news/calls-grow-miliband-halt-israel-arm-sales-after-gaza-plea",
             "published": "2026-09-05T17:05:54+00:00",
@@ -339,14 +347,6 @@
             "url": "https://www.newarab.com/news/deadly-attack-and-drought-emergency-underline-ssudan-challenges",
             "published": "2026-09-05T15:30:13+00:00",
             "snippet": "A deadly attack and a drought emergency are highlighting the challenges faced by South Sudan.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "The Canary suspends operations after second bank account block",
-            "url": "https://www.newarab.com/news/canary-suspends-operations-after-second-bank-account-block",
-            "published": "2026-09-05T14:11:10+00:00",
-            "snippet": "The Canary has suspended its operations following a second blockage of its bank accounts.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -495,10 +495,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Iran sets up economic war task force amid fighting with US",
-            "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
-            "published": "2026-09-06T07:11:39+00:00",
-            "snippet": "Iran's economy ministry has established a dedicated economic war headquarters to identify wartime disruptions and find executive solutions.",
+            "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
+            "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+            "published": "2026-09-06T04:25:04+00:00",
+            "snippet": "TEHRAN, Sep. 06 (MNA) – The Islamic Revolutionary Guard Corps Navy has for the first time published footage of its surveillance and actions against non-compliant vessels in the Strait of Hormuz.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -589,18 +589,18 @@
             "snippet_he": ""
           },
           {
-            "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
-            "url": "https://jordantimes.com/news/local/bodies-of-9-jordanians-killed-in-egypt-crash-arrive-in-kingdom",
-            "published": "2026-09-06T03:17:07+00:00",
-            "snippet": "The bodies of nine Jordanians killed in a crash in Egypt have arrived in the Kingdom.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Safadi holds talks in Paris, The Hague on bilateral ties, regional developments",
             "url": "https://jordantimes.com/news/local/safadi-holds-talks-in-paris-the-hague-on-bilateral-ties-regional-developments",
             "published": "2026-09-05T23:44:27+00:00",
             "snippet": "Safadi is holding talks in Paris and The Hague on bilateral relations and regional developments.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
+            "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
+            "published": "2026-09-05T14:47:31+00:00",
+            "snippet": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ Jordan Times",
             "title_he": "",
             "snippet_he": ""
           }
@@ -797,10 +797,10 @@
             "snippet_he": ""
           },
           {
-            "title": "العدو الاسرائيلي يواصل اعتداءاته على لبنان 14:00",
-            "url": "https://www.almanar.com.lb/article/1154512/",
+            "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
+            "url": "https://www.almanar.com.lb/article/1156872/",
             "published": "",
-            "snippet": "The Israeli enemy continues its attacks on Lebanon, a flagrant violation of all international laws and conventions.",
+            "snippet": "عرض الاعلام الحربي اليمني مشاهد ضربة صاروخية دقيقة استهدفت اجتماع عدد من قيادات التحشيدات السعودية ب",
             "title_he": "",
             "snippet_he": ""
           }
@@ -915,42 +915,42 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
+            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
             "url": "https://sana.sy/en/international/2340834/",
             "published": "2026-09-06T13:36:50+00:00",
-            "snippet": "Israeli strikes have completely destroyed a hospital in southern Lebanon, further damaging the health sector.",
+            "snippet": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest - سانا",
-            "url": "https://sana.sy/en/middle-east/2340625/",
-            "published": "2026-09-05T19:35:16+00:00",
-            "snippet": "The U.S. ambassador referred to violent Israeli settlers as 'terrorists' amidst unrest in the West Bank.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
             "url": "https://sana.sy/en/middle-east/2340780/",
             "published": "2026-09-06T10:52:43+00:00",
-            "snippet": "Four people were killed and 20 injured in Israeli strikes on Nabatieh, southern Lebanon.",
+            "snippet": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023 - سانا",
+            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+            "url": "https://sana.sy/en/middle-east/2340625/",
+            "published": "2026-09-05T19:35:16+00:00",
+            "snippet": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest sana.sy",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Gaza death toll rises to 73,651 since October 2023",
             "url": "https://sana.sy/en/middle-east/2340621/",
             "published": "2026-09-05T19:22:55+00:00",
-            "snippet": "Gaza's death toll has reached 73,651 since October 2023.",
+            "snippet": "Gaza death toll rises to 73,651 since October 2023 sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks",
             "url": "https://sana.sy/en/politics/2340663/",
             "published": "2026-09-05T20:49:00+00:00",
-            "snippet": "Putin and U.S. envoys discussed ceasefire efforts in the sixth round of Ukraine talks.",
+            "snippet": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks sana.sy",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1006,8 +1006,6 @@
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T17:28:14.463586+00:00",
         "rank_method": "latest"
       }
     ],
@@ -1019,10 +1017,10 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-            "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-            "published": "2026-09-05T14:45:13+00:00",
-            "snippet": "The U.S. ambassador has called for Israel to face 'severe consequences' over violence in the West Bank.",
+            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+            "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+            "published": "2026-09-04T20:03:57+00:00",
+            "snippet": "Trump stated that the U.S. may soon strike Iran’s Pickaxe Mountain.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1051,10 +1049,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-            "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
-            "published": "2026-09-04T20:03:57+00:00",
-            "snippet": "Trump stated that the U.S. may soon strike Iran’s Pickaxe Mountain.",
+            "title": "5 talking points from fifth round of Saudi Pro League Season",
+            "url": "https://www.arabnews.com/saudi-pro-league/5-talking-points-from-fifth-round-of-saudi-pro-league-season-3000686",
+            "published": "2026-09-06T13:28:30+00:00",
+            "snippet": "5 talking points from fifth round of Saudi Pro League Season Arab News",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1077,10 +1075,18 @@
             "snippet_he": ""
           },
           {
-            "title": "Is Iran planning an October 7-style multi-front attack on Israel?",
-            "url": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041",
-            "published": "2026-09-06T13:57:16+00:00",
-            "snippet": "There are questions about whether Iran is planning an October 7-style multi-front attack on Israel.",
+            "title": "Kerala singer known for 'Udit Narayan-like' voice dies suddenly in Dubai hours before Ajman show",
+            "url": "https://gulfnews.com/uae/kerala-singer-known-for-udit-narayan-like-voice-dies-suddenly-in-dubai-hours-before-ajman-show-1.500665026",
+            "published": "2026-09-06T13:45:43+00:00",
+            "snippet": "Kerala singer known for 'Udit Narayan-like' voice dies suddenly in Dubai hours before Ajman show Gulf News",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Royal Challengers Bengaluru name won’t change, Birla confirms",
+            "url": "https://gulfnews.com/sport/cricket/ipl/royal-challengers-bengaluru-name-wont-change-birla-confirms-1.500664876",
+            "published": "2026-09-06T09:42:42+00:00",
+            "snippet": "Royal Challengers Bengaluru name won’t change, Birla confirms Gulf News",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1097,14 +1103,6 @@
             "url": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshis-fearless-assault-on-mohammed-siraj-wows-fans-1.500664763",
             "published": "2026-09-06T07:07:39+00:00",
             "snippet": "Vaibhav Sooryavanshi’s fearless assault on Mohammed Siraj has wowed fans.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Why has PCB confiscated players’ phones ahead of third Test?",
-            "url": "https://gulfnews.com/sport/cricket/why-has-pcb-confiscated-players-phones-ahead-of-third-test-1.500664741",
-            "published": "2026-09-06T06:45:32+00:00",
-            "snippet": "The PCB confiscated players' phones ahead of the third Test.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1343,6 +1341,5 @@
         "rank_method": "coverage"
       }
     ]
-  },
-  "titles_hash": "afcb884a7859af4b"
+  }
 }

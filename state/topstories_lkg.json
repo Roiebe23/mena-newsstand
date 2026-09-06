@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:53:55.044129+00:00",
+  "updated": "2026-09-06T18:25:34.708261+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -68,73 +68,11 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks.",
-      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לשיחות שלום באוקראינה."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for second leg of diplomacy push.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר מגיעים לקייב לשלב השני של המהלך הדיפלומטי."
     },
     {
       "rank": 2,
-      "outlets": 5,
-      "categories": [
-        "gulf",
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Jordan Times",
-        "category": "levant",
-        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-        "title_he": "",
-        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-        "published": "2026-09-05T14:56:07+00:00"
-      },
-      "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/8101083f41cd",
-          "published": "2026-09-05T18:24:25+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T14:56:07+00:00"
-        },
-        {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "published": "2026-09-05T14:45:13+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T10:49:00+00:00"
-        }
-      ],
-      "summary": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים 'מחבלים' על רקע אי-שקט בגדה המערבית."
-    },
-    {
-      "rank": 3,
       "outlets": 5,
       "categories": [
         "panarab",
@@ -192,10 +130,10 @@
         }
       ],
       "summary": "Israeli strike kills two Palestinians, including child, in Gaza despite ceasefire.",
-      "summary_he": "תקיפה ישראלית הרגה שני פלסטינים, בהם ילד, בעזה למרות הפסקת אש."
+      "summary_he": "תקיפה ישראלית בעזה הורגת שני פלסטינים, בהם ילד, למרות הפסקת אש."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "outlets": 5,
       "categories": [
         "panarab",
@@ -261,7 +199,52 @@
         }
       ],
       "summary": "Israeli air strikes completely destroy a hospital in southern Lebanon.",
-      "summary_he": "תקיפות אוויר ישראליות הרסו כליל בית חולים בדרום לבנון."
+      "summary_he": "תקיפות אוויר ישראליות הורסות כליל בית חולים בדרום לבנון."
+    },
+    {
+      "rank": 4,
+      "outlets": 3,
+      "categories": [
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "The New Arab",
+        "category": "panarab",
+        "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+        "title_he": "",
+        "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+        "published": "2026-09-06T16:26:40+00:00"
+      },
+      "members": [
+        {
+          "source": "The New Arab",
+          "category": "panarab",
+          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+          "title_he": "",
+          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+          "published": "2026-09-06T16:26:40+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340625/",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israeli violence unabated despite Huckabee's 'terrorist' label for illegal settlers in West Bank",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/8101083f41cd",
+          "published": "2026-09-05T18:24:25+00:00"
+        }
+      ],
+      "summary": "Netanyahu orders removal of illegal West Bank settler outposts.",
+      "summary_he": "נתניהו מורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
     },
     {
       "rank": 5,
@@ -304,8 +287,8 @@
           "published": ""
         }
       ],
-      "summary": "Hezbollah attempts to demonstrate strength without escalating conflict, facing criticism.",
-      "summary_he": "חיזבאללה מנסה להפגין כוח מבלי להסלים את הסכסוך ומתמודד עם ביקורת."
+      "summary": "Hezbollah attempts to demonstrate strength without escalation, faces criticism.",
+      "summary_he": "חיזבאללה מנסה להפגין כוח ללא הסלמה, ומתמודד עם ביקורת."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_signature": "c743547a687912b2b67facdfb2297f9dc8477847785ac37114893f1a9aab7f24",
-  "updated": "2026-09-06T00:55:33.307447+00:00",
+  "last_signature": "de87b368d90c0d1e2bb00c966fe08631a11a28ec6851edf09ed9bb27bece789b",
+  "updated": "2026-09-06T01:26:41.002530+00:00",
   "subscribers": 4,
   "subs": {
     "10b00cd49c02a75e1e754e1862f8cc839a63b9b122c911b6f7c6321fa9968b11": {
@@ -9,8 +9,8 @@
       "interval": 720.0
     },
     "1c71c1082b94165c05807e4444c6aa8d10cb647254f42c25a158ed97317ae6ba": {
-      "last_sent_at": "2026-09-06T00:55:33.307447+00:00",
-      "last_sig": "c743547a687912b2b67facdfb2297f9dc8477847785ac37114893f1a9aab7f24",
+      "last_sent_at": "2026-09-06T01:26:41.002530+00:00",
+      "last_sig": "de87b368d90c0d1e2bb00c966fe08631a11a28ec6851edf09ed9bb27bece789b",
       "interval": 30.0
     },
     "4442f5b71bf7d27a49373ee37ef1f8e8e6d633e13edda28990a8687736e221bc": {
@@ -19,8 +19,8 @@
       "interval": 180.0
     },
     "ac2853045e718e169598e1dc7cfed0f3c3bc9dcc9d3dc95d2fed7361432e74ca": {
-      "last_sent_at": "2026-09-06T00:55:33.307447+00:00",
-      "last_sig": "c743547a687912b2b67facdfb2297f9dc8477847785ac37114893f1a9aab7f24",
+      "last_sent_at": "2026-09-06T01:26:41.002530+00:00",
+      "last_sig": "de87b368d90c0d1e2bb00c966fe08631a11a28ec6851edf09ed9bb27bece789b",
       "interval": 30.0
     }
   }

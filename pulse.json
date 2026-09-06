@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T00:55:19.075157+00:00",
-  "total_headlines": 132,
+  "updated": "2026-09-06T01:26:26.648949+00:00",
+  "total_headlines": 133,
   "terms": [
     {
       "term": "Israeli",
@@ -71,14 +71,14 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "title": "Israeli forces ram Palestinian vehicle in Tulkarm - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174390",
           "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Palestinian youth killed by Israeli police gunfire near Damascus Gate in Jerusalem - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174363",
+          "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
           "source": "WAFA News",
           "region": "Levant"
         },
@@ -97,96 +97,9 @@
       ]
     },
     {
-      "term": "Iranian",
-      "term_he": "איראני",
-      "count": 13,
-      "headlines": [
-        {
-          "title": "באיראן טוענים: פגענו ב-3 מכליות נפט שקשורות לארה\"ב",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-b541913f7a270a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "באיראן טוענים: פגענו ב-3 מכליות נפט שקשורות לארה\"ב"
-        },
-        {
-          "title": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת",
-          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-94fbd531d0270a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
-        },
-        {
-          "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "4 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-          "url": "https://aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US strikes Iranian oil tanker near Kharg Island",
-          "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC dismantles US-Israeli-backed terrorist cell in SE Iran",
-          "url": "https://en.mehrnews.com/news/247459/IRGC-dismantles-US-Israeli-backed-terrorist-cell-in-SE-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "1 INSIGHT Xi snub reignites Iran’s doubts about China",
-          "url": "https://iranintl.com/en/202609030279",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "2 INSIGHT US strikes deepen Tehran debate over compromise or confrontation",
-          "url": "https://iranintl.com/en/202609041335",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "3 ANALYSIS If Britain backs US plan, Iran's London bank shuts down on October 22",
-          "url": "https://iranintl.com/en/202609045981",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "4 ANALYSIS Trump’s call for an Iranian uprising runs into a trust problem",
-          "url": "https://iranintl.com/en/202609041506",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships - سانا",
-          "url": "https://sana.sy/en/international/2340612/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Deadly strike on Iranian wedding was likely direct hit by US munitions, analysis shows",
-          "url": "https://www.arabnews.com/middle-east/deadly-strike-on-iranian-wedding-was-likely-direct-hit-by-us-munitions-analysis-shows-3000458",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Lebanon",
       "term_he": "לבנון",
-      "count": 13,
+      "count": 12,
       "headlines": [
         {
           "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
@@ -197,12 +110,6 @@
         {
           "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
           "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Katz declares",
-          "url": "https://today.lorientlejour.com/article/1546614/ali-taher-capture-buffer-zone-in-south-lebanon-is-complete-katz-declares.html",
           "source": "L'Orient Today",
           "region": "Levant"
         },
@@ -269,8 +176,8 @@
       ]
     },
     {
-      "term": "oil",
-      "term_he": "נפט",
+      "term": "Iranian",
+      "term_he": "איראני",
       "count": 11,
       "headlines": [
         {
@@ -288,20 +195,20 @@
           "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
         },
         {
-          "title": "1 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon",
+          "title": "5 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "url": "https://aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran condemns US attacks on oil tankers as violation of international law",
-          "url": "https://en.irna.ir/news/86255891/Iran-condemns-US-attacks-on-oil-tankers-as-violation-of-international",
-          "source": "IRNA",
+          "title": "US strikes Iranian oil tanker near Kharg Island",
+          "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "US strikes Iranian oil tanker near Kharg Island",
-          "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
+          "title": "IRGC dismantles US-Israeli-backed terrorist cell in SE Iran",
+          "url": "https://en.mehrnews.com/news/247459/IRGC-dismantles-US-Israeli-backed-terrorist-cell-in-SE-Iran",
           "source": "Mehr News",
           "region": "Iran"
         },
@@ -312,16 +219,22 @@
           "region": "Iran"
         },
         {
-          "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
-          "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "1 INSIGHT Xi snub reignites Iran’s doubts about China",
+          "url": "https://iranintl.com/en/202609030279",
+          "source": "Iran International",
+          "region": "Iran"
         },
         {
-          "title": "US oil deal promises a flood of investment in Venezuela. When will its people feel the benefits?",
-          "url": "https://www.egyptindependent.com/us-oil-deal-promises-a-flood-of-investment-in-venezuela-when-will-its-people-feel-the-benefits/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "2 INSIGHT US strikes deepen Tehran debate over compromise or confrontation",
+          "url": "https://iranintl.com/en/202609041335",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "3 ANALYSIS If Britain backs US plan, Iran's London bank shuts down on October 22",
+          "url": "https://iranintl.com/en/202609045981",
+          "source": "Iran International",
+          "region": "Iran"
         },
         {
           "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships - سانا",
@@ -330,16 +243,10 @@
           "region": "Levant"
         },
         {
-          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-condemns-us-strikes-on-oil-tankers-as-illegal-aggressive/4048392",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Deadly strike on Iranian wedding was likely direct hit by US munitions, analysis shows",
+          "url": "https://www.arabnews.com/middle-east/deadly-strike-on-iranian-wedding-was-likely-direct-hit-by-us-munitions-analysis-shows-3000458",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -418,9 +325,146 @@
       ]
     },
     {
+      "term": "war",
+      "term_he": "היה",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "הסוד של השריף הצפוני: מה מסתיר איתן דוידי?",
+          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-c7d872acf5270a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "הסוד של השריף הצפוני: מה מסתיר איתן דוידי?"
+        },
+        {
+          "title": "2 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "4 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "url": "https://iranintl.com/en/202609042909",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "“وول ستريت جورنال”: الحرب تضرب السياحة والفنادق والفعاليات الرياضية والترفيهية والاستثمارات الضخمة في دول الخليج 14:05",
+          "url": "https://www.almanar.com.lb/article/1152042/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "تقرير خاص | في غزة.. زراعةٌ بين الخيام وفوق الركام لمواجهة آثار الحرب 10:27",
+          "url": "https://www.almanar.com.lb/article/1151462/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "url": "https://www.aa.com.tr/en/eurasia/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Mladic's return to Serbia draws condemnation across Balkans",
+          "url": "https://www.dailysabah.com/world/europe/mladics-return-to-serbia-draws-condemnation-across-balkans",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "oil",
+      "term_he": "נפט",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "באיראן טוענים: פגענו ב-3 מכליות נפט שקשורות לארה\"ב",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-b541913f7a270a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "באיראן טוענים: פגענו ב-3 מכליות נפט שקשורות לארה\"ב"
+        },
+        {
+          "title": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת",
+          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-94fbd531d0270a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
+        },
+        {
+          "title": "2 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran condemns US attacks on oil tankers as violation of international law",
+          "url": "https://en.irna.ir/news/86255891/Iran-condemns-US-attacks-on-oil-tankers-as-violation-of-international",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "US strikes Iranian oil tanker near Kharg Island",
+          "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
+          "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US oil deal promises a flood of investment in Venezuela. When will its people feel the benefits?",
+          "url": "https://www.egyptindependent.com/us-oil-deal-promises-a-flood-of-investment-in-venezuela-when-will-its-people-feel-the-benefits/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships - سانا",
+          "url": "https://sana.sy/en/international/2340612/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
+          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "strikes",
       "term_he": "שביתות",
-      "count": 10,
+      "count": 8,
       "headlines": [
         {
           "title": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת",
@@ -428,6 +472,12 @@
           "source": "N12",
           "region": "Israel",
           "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
+        },
+        {
+          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
           "title": "إيران: المتحدث باسم مقر خاتم الأنبياء: ضربات القوات المسلحة الإيرانية ضد السفن الحربية الأميركية في المنطقة ستكون أشد من السابق",
@@ -460,145 +510,9 @@
           "region": "Levant"
         },
         {
-          "title": "Trump boasts ‘unlimited’ US ammunition, warns of more strikes as clashes with Iran flare up again",
-          "url": "https://gulfnews.com/world/americas/trump-boasts-unlimited-us-ammunition-warns-of-more-strikes-as-clashes-with-iran-flare-up-again-1.500662699",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-condemns-us-strikes-on-oil-tankers-as-illegal-aggressive/4048392",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
           "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
           "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
           "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "US launches 'large and powerful' strikes as Trump warns Iran against retaliation",
-          "url": "https://www.trtworld.com/article/517864c9205b",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "war",
-      "term_he": "היה",
-      "count": 9,
-      "headlines": [
-        {
-          "title": "הסוד של השריף הצפוני: מה מסתיר איתן דוידי?",
-          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-c7d872acf5270a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "הסוד של השריף הצפוני: מה מסתיר איתן דוידי?"
-        },
-        {
-          "title": "1 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "5 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
-          "url": "https://iranintl.com/en/202609042909",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "“وول ستريت جورنال”: الحرب تضرب السياحة والفنادق والفعاليات الرياضية والترفيهية والاستثمارات الضخمة في دول الخليج 14:05",
-          "url": "https://www.almanar.com.lb/article/1152042/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "تقرير خاص | في غزة.. زراعةٌ بين الخيام وفوق الركام لمواجهة آثار الحرب 10:27",
-          "url": "https://www.almanar.com.lb/article/1151462/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-condemns-us-strikes-on-oil-tankers-as-illegal-aggressive/4048392",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Mladic's return to Serbia draws condemnation across Balkans",
-          "url": "https://www.dailysabah.com/world/europe/mladics-return-to-serbia-draws-condemnation-across-balkans",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "term_he": "טראמפ",
-      "count": 8,
-      "headlines": [
-        {
-          "title": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת",
-          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-94fbd531d0270a1027.htm",
-          "source": "N12",
-          "region": "Israel",
-          "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
-        },
-        {
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/09/04/trump-says-us-may-hit-iran-s-pickaxe-mountain-soon",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "4 ANALYSIS Trump’s call for an Iranian uprising runs into a trust problem",
-          "url": "https://iranintl.com/en/202609041506",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "24 hours that show how preoccupied Trump is",
-          "url": "https://www.egyptindependent.com/24-hours-that-show-how-preoccupied-trump-is/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Trump boasts ‘unlimited’ US ammunition, warns of more strikes as clashes with Iran flare up again",
-          "url": "https://gulfnews.com/world/americas/trump-boasts-unlimited-us-ammunition-warns-of-more-strikes-as-clashes-with-iran-flare-up-again-1.500662699",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "US launches 'large and powerful' strikes as Trump warns Iran against retaliation",
-          "url": "https://www.trtworld.com/article/517864c9205b",
-          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -665,7 +579,7 @@
       "count": 7,
       "headlines": [
         {
-          "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
+          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -739,8 +653,8 @@
           "region": "Iran"
         },
         {
-          "title": "4 ANALYSIS Trump’s call for an Iranian uprising runs into a trust problem",
-          "url": "https://iranintl.com/en/202609041506",
+          "title": "4 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "url": "https://iranintl.com/en/202609042909",
           "source": "Iran International",
           "region": "Iran"
         },
@@ -808,6 +722,179 @@
       ]
     },
     {
+      "term": "Trump",
+      "term_he": "טראמפ",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת",
+          "url": "https://www.mako.co.il/news-israel/2026_q3/Article-94fbd531d0270a1027.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "המתיחות עם איראן עולה שלב, ממשל טראמפ מגבש תוכנית ליום שאחרי המלחמה והבחירות | חדשות השבת"
+        },
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "6 , Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+          "url": "https://aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/09/04/trump-says-us-may-hit-iran-s-pickaxe-mountain-soon",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "24 hours that show how preoccupied Trump is",
+          "url": "https://www.egyptindependent.com/24-hours-that-show-how-preoccupied-trump-is/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Putin",
+      "term_he": "פוטין",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "url": "https://www.aa.com.tr/en/eurasia/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Ukraine",
+      "term_he": "אוקראינה",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "url": "https://www.aa.com.tr/en/eurasia/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
+          "region": "Turkey"
+        },
+        {
+          "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
+          "url": "https://www.trtworld.com/article/8480dabed295",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "talks",
+      "term_he": "שיחות",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "url": "https://www.aa.com.tr/en/eurasia/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
+          "region": "Turkey"
+        },
+        {
+          "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
+          "url": "https://www.trtworld.com/article/8480dabed295",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Moscow",
       "term_he": "מוסקבה",
       "count": 5,
@@ -869,8 +956,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Palestinian youth killed by Israeli police gunfire near Damascus Gate in Jerusalem - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174363",
+          "title": "Israeli forces ram Palestinian vehicle in Tulkarm - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174390",
           "source": "WAFA News",
           "region": "Levant"
         },
@@ -993,12 +1080,43 @@
       ]
     },
     {
+      "term": "American",
+      "term_he": "אמריקאי",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "إيران: المتحدث باسم مقر خاتم الأنبياء: ضربات القوات المسلحة الإيرانية ضد السفن الحربية الأميركية في المنطقة ستكون أشد من السابق",
+          "url": "https://www.almayadeen.net/latestnews/2026/9/5/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86--%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D8%B3%D9%85-%D9%85%D9%82%D8%B1-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1--%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "\"خاتم الأنبياء\" محذراً السفن الحربية الأميركية: ضرباتنا ستكون أشد من السابق",
+          "url": "https://www.almayadeen.net/news/politics/-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1--%D9%85%D8%AD%D8%B0%D8%B1%D8%A7-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9--%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D8%AA%D9%83%D9%88%D9%86",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
+          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Tehran",
       "term_he": "טהראן",
       "count": 4,
       "headlines": [
         {
-          "title": "1 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
+          "title": "2 , Iran war updates: Tehran slams US attacks on oil tankers, vows escalation",
           "url": "https://aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1016,103 +1134,10 @@
           "region": "Iran"
         },
         {
-          "title": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-condemns-us-strikes-on-oil-tankers-as-illegal-aggressive/4048392",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Putin",
-      "term_he": "פוטין",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Ukraine",
-      "term_he": "אוקראינה",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
-          "url": "https://www.trtworld.com/article/8480dabed295",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "talks",
-      "term_he": "שיחות",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
-          "url": "https://www.trtworld.com/article/8480dabed295",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "4 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "url": "https://iranintl.com/en/202609042909",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -1236,13 +1261,13 @@
       "count": 3,
       "headlines": [
         {
-          "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
+          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "5 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "title": "4 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
           "url": "https://iranintl.com/en/202609042909",
           "source": "Iran International",
           "region": "Iran"
@@ -1251,6 +1276,31 @@
           "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
           "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
           "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Kremlin",
+      "term_he": "",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "url": "https://www.aa.com.tr/en/eurasia/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -1307,32 +1357,6 @@
       ]
     },
     {
-      "term": "ceasefire",
-      "term_he": "הפסקת אש",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
-        },
-        {
-          "title": "حماس: على مجلس السلام التركيز على تثبيت وقف إطلاق النار ووقف الخروقات",
-          "url": "https://paltoday.ps/ar/post/543582/%D8%AD%D9%85%D8%A7%D8%B3-%D8%B9%D9%84%D9%89-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2-%D8%B9",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
-          "url": "https://sana.sy/en/politics/2340663/",
-          "source": "SANA",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Explosion",
       "term_he": "פיצוץ",
       "count": 3,
@@ -1358,56 +1382,6 @@
       ]
     },
     {
-      "term": "American",
-      "term_he": "אמריקאי",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "إيران: المتحدث باسم مقر خاتم الأنبياء: ضربات القوات المسلحة الإيرانية ضد السفن الحربية الأميركية في المنطقة ستكون أشد من السابق",
-          "url": "https://www.almayadeen.net/latestnews/2026/9/5/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86--%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D8%B3%D9%85-%D9%85%D9%82%D8%B1-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1--%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "\"خاتم الأنبياء\" محذراً السفن الحربية الأميركية: ضرباتنا ستكون أشد من السابق",
-          "url": "https://www.almayadeen.net/news/politics/-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1--%D9%85%D8%AD%D8%B0%D8%B1%D8%A7-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9--%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D8%AA%D9%83%D9%88%D9%86",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Treasury",
-      "term_he": "",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "\"بلومبرغ\": سندات الخزانة الأميركية في أسوأ مسار لها منذ 2006",
-          "url": "https://www.almayadeen.net/video/-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%D8%BA---%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A3-%D9%85%D8%B3%D8%A7%D8%B1-%D9%84%D9%87%D8%A7-%D9%85%D9%86%D8%B0-2006",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Sanctions or illusion? US claim on Iran’s financial lifeline",
-          "url": "https://en.mehrnews.com/news/247452/Sanctions-or-illusion-US-claim-on-Iran-s-financial-lifeline",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "3 ANALYSIS If Britain backs US plan, Iran's London bank shuts down on October 22",
-          "url": "https://iranintl.com/en/202609045981",
-          "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Hormuz",
       "term_he": "הורמוז",
       "count": 3,
@@ -1419,7 +1393,7 @@
           "region": "Iran"
         },
         {
-          "title": "5 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "title": "4 ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
           "url": "https://iranintl.com/en/202609042909",
           "source": "Iran International",
           "region": "Iran"
@@ -1429,56 +1403,6 @@
           "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
           "source": "Anadolu Agency",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "clashes",
-      "term_he": "",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
-          "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
-          "url": "https://www.arabnews.com/middle-east/fresh-yemen-clashes-kill-more-than-60-military-medical-sources-3000584",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Trump boasts ‘unlimited’ US ammunition, warns of more strikes as clashes with Iran flare up again",
-          "url": "https://gulfnews.com/world/americas/trump-boasts-unlimited-us-ammunition-warns-of-more-strikes-as-clashes-with-iran-flare-up-again-1.500662699",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Taher",
-      "term_he": "",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
-          "url": "https://today.lorientlejour.com/article/1546646/military-operation-or-secret-arrangement-inside-israels-takeover-of-ali-taher.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
-          "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Katz declares",
-          "url": "https://today.lorientlejour.com/article/1546614/ali-taher-capture-buffer-zone-in-south-lebanon-is-complete-katz-declares.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
         }
       ]
     },
@@ -1645,7 +1569,7 @@
           "title_he": "באיראן טוענים: פגענו ב-3 מכליות נפט שקשורות לארה\"ב"
         },
         {
-          "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
+          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1677,7 +1601,7 @@
       "count": 2,
       "headlines": [
         {
-          "title": "4 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "5 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
           "url": "https://aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1686,25 +1610,6 @@
           "title": "1 INSIGHT Xi snub reignites Iran’s doubts about China",
           "url": "https://iranintl.com/en/202609030279",
           "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "tanker",
-      "term_he": "מכלית",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "6 , Fuel tanker blast in western Iran kills at least 10",
-          "url": "https://aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US strikes Iranian oil tanker near Kharg Island",
-          "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
-          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -1746,6 +1651,84 @@
           "source": "Hürriyet Daily News",
           "region": "Turkey",
           "title_he": "תמונה: המסעדות הטובות ביותר באיסטנבול, מדורגות"
+        }
+      ]
+    },
+    {
+      "term": "ICC",
+      "term_he": "ICC",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
+          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
+        },
+        {
+          "title": "Warnings over erosion of international legal order amid efforts to isolate ICC - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174366",
+          "source": "WAFA News",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "ceasefire",
+      "term_he": "הפסקת אש",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
+        },
+        {
+          "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+          "url": "https://sana.sy/en/politics/2340663/",
+          "source": "SANA",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Greek",
+      "term_he": "יוונית",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Greek air force jet crashes at annual aerial show",
+          "url": "https://english.alarabiya.net/amp/News/world/2026/09/05/greek-air-force-jet-crashes-at-annual-aerial-show",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Greek F-4 jet crashes during air show near Athens",
+          "url": "https://trtworld.com/article/5946427dbb9d?utm_source",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "sanctions",
+      "term_he": "עונשים",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/04/us-issues-new-iranrelated-sanctions-general-license",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Sanctions or illusion? US claim on Iran’s financial lifeline",
+          "url": "https://en.mehrnews.com/news/247452/Sanctions-or-illusion-US-claim-on-Iran-s-financial-lifeline",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     }

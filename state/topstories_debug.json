@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:55:19.273866+00:00",
+  "updated": "2026-09-06T01:26:26.852441+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,21 +167,22 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T00:53:41.943778+00:00"
+      "headlines_updated": "2026-09-06T01:24:44.262461+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 10,
-        "title_snippet": 34,
-        "title_translated": 2,
-        "title_native": 86,
+        "dropped_stale": 11,
+        "title_snippet": 31,
+        "title_translated": 1,
+        "title_native": 87,
+        "dropped_no_english": 2,
         "in": 132,
-        "kept": 122
+        "kept": 119
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 34,
+        "requested": 33,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -193,8 +194,23 @@
           "reason": "stale (older than 48h)"
         },
         {
+          "source": "Al Mayadeen",
+          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
+          "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
+          "reason": "stale (older than 48h)"
+        },
+        {
           "source": "Jordan Times",
           "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
+          "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Jordan Times",
+          "title": "King receives letter from newly appointed chairman of joint chiefs of staff",
           "reason": "stale (older than 48h)"
         },
         {
@@ -223,25 +239,25 @@
           "reason": "stale (older than 48h)"
         },
         {
-          "source": "Gulf News",
-          "title": "Trump boasts ‘unlimited’ US ammunition, warns of more strikes as clashes with Iran flare up again",
-          "reason": "stale (older than 48h)"
-        },
-        {
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
         },
         {
-          "source": "TRT World",
-          "title": "US launches 'large and powerful' strikes as Trump warns Iran against retaliation",
-          "reason": "stale (older than 48h)"
+          "source": "Al Mayadeen",
+          "title": "فرنسا: تظاهرة في باريس تطالب بفرض عقوبات على \"إسرائيل\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 122,
-      "kept": 68,
+      "in": 119,
+      "kept": 66,
       "dropped": [
         {
           "source": "Kan 11",
@@ -308,7 +324,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "4 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "5 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -349,20 +365,6 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Al Mayadeen",
-          "title": "Midnight Bulletin",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al Mayadeen",
-          "title": "Bloomberg reports that US Treasury bonds are on their worst trajectory since 2006.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
           "source": "IRNA",
           "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
           "sec": 0,
@@ -388,6 +390,13 @@
           "title": "ANALYSIS If Britain backs US plan, Iran's London bank shuts down on October 22",
           "sec": 0,
           "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Iran International",
+          "title": "ANALYSIS 'If I'm not happy, they'll execute me': Iran's new grammar of dissent",
+          "sec": 0,
+          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -625,9 +634,9 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 45,
+      "clusters": 42,
       "sizes": [
-        6,
+        7,
         5,
         4,
         3,
@@ -668,9 +677,6 @@
         1,
         1,
         1,
-        1,
-        1,
-        1,
         1
       ]
     },
@@ -681,59 +687,6 @@
       "candidates": [
         {
           "selected_rank": 1,
-          "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-          "rank_key": {
-            "outlets": 6,
-            "camps": 3,
-            "newest": "2026-09-05T20:49+00:00"
-          },
-          "outlet_names": [
-            "Al Jazeera",
-            "Al-Akhbar",
-            "Anadolu Agency",
-            "Daily Sabah",
-            "SANA",
-            "TRT World"
-          ],
-          "camps": [
-            "panarab",
-            "levant",
-            "turkish"
-          ],
-          "members": 6,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Anadolu Agency",
-            "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (ukraine)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Jazeera",
-                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al-Akhbar",
-                "title": "Moscow has halted attacks on Kyiv for three days and called on Washington to con",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Daily Sabah",
-                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": 2,
           "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
           "rank_key": {
             "outlets": 5,
@@ -786,6 +739,63 @@
           }
         },
         {
+          "selected_rank": 2,
+          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "rank_key": {
+            "outlets": 5,
+            "camps": 3,
+            "newest": "2026-09-05T23:46+00:00"
+          },
+          "outlet_names": [
+            "Al Jazeera",
+            "Anadolu Agency",
+            "Daily Sabah",
+            "SANA",
+            "TRT World"
+          ],
+          "camps": [
+            "panarab",
+            "levant",
+            "turkish"
+          ],
+          "members": 7,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "TRT World",
+            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (ukraine)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Jazeera",
+                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Anadolu Agency",
+                "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Daily Sabah",
+                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "TRT World",
+                "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
           "selected_rank": 3,
           "headline": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
           "rank_key": {
@@ -820,7 +830,7 @@
             "passed_over": [
               {
                 "source": "Al Jazeera",
-                "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
+                "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -866,44 +876,6 @@
         },
         {
           "selected_rank": 5,
-          "headline": "Fresh Yemen clashes kill more than 60- military, medical sources",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-05T23:02+00:00"
-          },
-          "outlet_names": [
-            "Arab News",
-            "Jordan Times"
-          ],
-          "camps": [
-            "gulf",
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Jordan Times",
-            "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (yemen)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Arab News",
-                "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
           "rank_key": {
             "outlets": 2,
@@ -1071,6 +1043,42 @@
         },
         {
           "selected_rank": null,
+          "headline": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+          "rank_key": {
+            "outlets": 2,
+            "camps": 1,
+            "newest": "2026-09-05T11:57+00:00"
+          },
+          "outlet_names": [
+            "Al-Akhbar",
+            "L'Orient Today"
+          ],
+          "camps": [
+            "levant"
+          ],
+          "members": 2,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "L'Orient Today",
+            "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
+            "title_source": "native",
+            "why": [
+              "names 1 of the story's dominant entities (hezbollah)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al-Akhbar",
+                "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and t",
+                "rejected_by": "loaded/partisan wording"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": null,
           "headline": "Israeli drone strike kills two in southern Lebanon",
           "rank_key": {
             "outlets": 2,
@@ -1124,6 +1132,24 @@
           ],
           "camps": [
             "turkish"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "Israeli forces ram Palestinian vehicle in Tulkarm",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T20:42+00:00"
+          },
+          "outlet_names": [
+            "WAFA News"
+          ],
+          "camps": [
+            "levant"
           ],
           "members": 1,
           "qualified": false,
@@ -1185,24 +1211,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "More than 10 European countries are reportedly ready to participate in a new mission to train the Le",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T18:54+00:00"
-          },
-          "outlet_names": [
-            "Al Mayadeen"
-          ],
-          "camps": [
-            "panarab"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
           "headline": "US strikes three Iranian oil tankers after IRGC attack on naval ships",
           "rank_key": {
             "outlets": 1,
@@ -1232,24 +1240,6 @@
           ],
           "camps": [
             "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T18:23+00:00"
-          },
-          "outlet_names": [
-            "Anadolu Agency"
-          ],
-          "camps": [
-            "turkish"
           ],
           "members": 1,
           "qualified": false,
@@ -1328,7 +1318,25 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "22 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "selected_rank": null,
+          "headline": "Mladic's return to Serbia draws condemnation across Balkans",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T13:13+00:00"
+          },
+          "outlet_names": [
+            "Daily Sabah"
+          ],
+          "camps": [
+            "turkish"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "note": "19 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1346,7 +1354,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T00:55:32.448714+00:00",
+    "last_success": "2026-09-06T01:26:40.125437+00:00",
     "last_failure": null
   },
   "ok": true

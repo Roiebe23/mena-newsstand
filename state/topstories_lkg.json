@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:30:42.305201+00:00",
+  "updated": "2026-09-06T17:53:55.044129+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -11,12 +11,12 @@
         "turkish"
       ],
       "rep": {
-        "source": "TRT World",
+        "source": "Daily Sabah",
         "category": "turkish",
-        "title": "US envoys make first Kiev visit amid Ukraine war peace push",
+        "title": "US envoys visit Kyiv to revive Ukraine-Russia talks to end war",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/12a699504550",
-        "published": "2026-09-06T13:08:30+00:00"
+        "url": "https://www.dailysabah.com/world/europe/us-envoys-visit-kyiv-to-revive-ukraine-russia-talks-to-end-war",
+        "published": "2026-09-06T12:42:00+00:00"
       },
       "members": [
         {
@@ -26,14 +26,6 @@
           "title_he": "",
           "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
           "published": "2026-09-06T13:20:46+00:00"
-        },
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "US envoys make first Kiev visit amid Ukraine war peace push",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/12a699504550",
-          "published": "2026-09-06T13:08:30+00:00"
         },
         {
           "source": "Daily Sabah",
@@ -75,7 +67,9 @@
           "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
           "published": "2026-09-05T08:39:00+00:00"
         }
-      ]
+      ],
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לשיחות שלום באוקראינה."
     },
     {
       "rank": 2,
@@ -135,10 +129,73 @@
           "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
           "published": "2026-09-05T10:49:00+00:00"
         }
-      ]
+      ],
+      "summary": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים 'מחבלים' על רקע אי-שקט בגדה המערבית."
     },
     {
       "rank": 3,
+      "outlets": 5,
+      "categories": [
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+        "published": "2026-09-06T17:28:50+00:00"
+      },
+      "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+          "published": "2026-09-06T17:28:50+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/521d65457169",
+          "published": "2026-09-06T16:13:34+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "published": "2026-09-06T15:39:18+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Two martyrs, including a child, were injured in an Israeli bombing that targeted a car west of Gaza.",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "published": "2026-09-06T14:22:00+00:00"
+        },
+        {
+          "source": "Middle East Eye",
+          "category": "panarab",
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "published": ""
+        }
+      ],
+      "summary": "Israeli strike kills two Palestinians, including child, in Gaza despite ceasefire.",
+      "summary_he": "תקיפה ישראלית הרגה שני פלסטינים, בהם ילד, בעזה למרות הפסקת אש."
+    },
+    {
+      "rank": 4,
       "outlets": 5,
       "categories": [
         "panarab",
@@ -202,57 +259,9 @@
           "url": "https://english.wafa.ps/Pages/Details/174375",
           "published": "2026-09-04T18:52:39+00:00"
         }
-      ]
-    },
-    {
-      "rank": 4,
-      "outlets": 4,
-      "categories": [
-        "gulf",
-        "iranian"
       ],
-      "rep": {
-        "source": "Gulf News",
-        "category": "gulf",
-        "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-        "title_he": "",
-        "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-        "published": "2026-09-06T01:01:00+00:00"
-      },
-      "members": [
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
-        },
-        {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
-        }
-      ]
+      "summary": "Israeli air strikes completely destroy a hospital in southern Lebanon.",
+      "summary_he": "תקיפות אוויר ישראליות הרסו כליל בית חולים בדרום לבנון."
     },
     {
       "rank": 5,
@@ -264,7 +273,7 @@
       "rep": {
         "source": "N12",
         "category": "israeli",
-        "title": "Hezbollah is attempting to project strength without breaking ties, but faces criticism that civilians are…",
+        "title": "Hezbollah is attempting to demonstrate strength without escalating conflict and is facing criticism that…",
         "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
         "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
         "published": "2026-09-06T14:00:00+00:00"
@@ -273,7 +282,7 @@
         {
           "source": "N12",
           "category": "israeli",
-          "title": "Hezbollah is attempting to project strength without breaking ties, but faces criticism that civilians are…",
+          "title": "Hezbollah is attempting to demonstrate strength without escalating conflict and is facing criticism that…",
           "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
           "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
           "published": "2026-09-06T14:00:00+00:00"
@@ -281,7 +290,7 @@
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority and that releasing prisoners does…",
+          "title": "Hezbollah stated, \"The enemy tramples 'the framework' of the authority...",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
           "published": "2026-09-05T11:57:09+00:00"
@@ -289,12 +298,14 @@
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "A statement issued by Hezbollah regarding the ongoing Israeli aggression on Lebanon indicated that the enemy…",
+          "title": "Hezbollah issued a statement saying, \"The continuation of the authority's pursuit of this absurd…",
           "title_he": "",
           "url": "https://www.almanar.com.lb/article/1154622/",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Hezbollah attempts to demonstrate strength without escalating conflict, facing criticism.",
+      "summary_he": "חיזבאללה מנסה להפגין כוח מבלי להסלים את הסכסוך ומתמודד עם ביקורת."
     }
   ]
 }

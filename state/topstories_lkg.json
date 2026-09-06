@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:24:24.535159+00:00",
+  "updated": "2026-09-06T00:55:32.447654+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -54,7 +54,7 @@
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Moscow has halted attacks on Kyiv for three days and is urging Washington to consider the reality in any…",
+          "title": "Moscow has halted attacks on Kyiv for three days and called on Washington to consider reality in any…",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
           "published": "2026-09-05T11:03:00+00:00"
@@ -62,7 +62,7 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "2 , Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
@@ -133,64 +133,49 @@
       "rank": 3,
       "outlets": 4,
       "categories": [
-        "gulf",
-        "levant"
+        "panarab",
+        "iranian",
+        "turkish"
       ],
       "rep": {
-        "source": "Arab News",
-        "category": "gulf",
-        "title": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
         "title_he": "",
-        "url": "https://www.arabnews.com/middle-east/has-israels-claimed-capture-of-ali-al-taher-changed-military-equation-in-south-lebanon-3000503",
-        "published": "2026-09-05T03:46:21+00:00"
+        "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
+        "published": "2026-09-05T20:08:33+00:00"
       },
       "members": [
         {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
           "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/has-israels-claimed-capture-of-ali-al-taher-changed-military-equation-in-south-lebanon-3000503",
-          "published": "2026-09-05T03:46:21+00:00"
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
         },
         {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:48:26+00:00"
+          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
+          "published": "2026-09-05T20:08:33+00:00"
         },
         {
-          "source": "L'Orient Today",
-          "category": "levant",
-          "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "2 , Iran claims new attacks on US warships enforcing blockade of Iranian ports",
           "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
         },
         {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
-          "published": ""
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Israeli occupation forces' aggression on southern Lebanon continues with explosions and artillery…",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1151682/",
-          "published": ""
-        },
-        {
-          "source": "L'Orient Today",
-          "category": "levant",
-          "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Katz declares",
-          "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546614/ali-taher-capture-buffer-zone-in-south-lebanon-is-complete-katz-declares.html",
+          "url": "https://iranintl.com/en/202609042909",
           "published": ""
         }
       ]
@@ -241,33 +226,33 @@
       "rank": 5,
       "outlets": 2,
       "categories": [
-        "iranian",
-        "turkish"
+        "gulf",
+        "levant"
       ],
       "rep": {
-        "source": "IRNA",
-        "category": "iranian",
-        "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
         "title_he": "",
-        "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
-        "published": "2026-09-05T20:24:34+00:00"
+        "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
+        "published": "2026-09-05T23:02:37+00:00"
       },
       "members": [
         {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
           "title_he": "",
-          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
-          "published": "2026-09-05T20:24:34+00:00"
+          "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
+          "published": "2026-09-05T23:02:37+00:00"
         },
         {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Yemeni army recaptures strategic positions from Houthis in Taiz",
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/82574a031fe2",
-          "published": "2026-09-05T11:34:51+00:00"
+          "url": "https://www.arabnews.com/middle-east/fresh-yemen-clashes-kill-more-than-60-military-medical-sources-3000584",
+          "published": "2026-09-05T11:05:51+00:00"
         }
       ]
     }

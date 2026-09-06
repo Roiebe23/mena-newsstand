@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T21:20:37.261192+00:00",
+  "updated": "2026-09-06T21:46:07.590855+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 5,
       "categories": [
         "panarab",
         "levant",
@@ -22,7 +22,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
+          "title": "Three martyrs were reported following an Israeli airstrike on southern Lebanon.",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
           "published": "2026-09-06T15:37:00+00:00"
@@ -66,18 +66,10 @@
           "title_he": "",
           "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
           "published": "2026-09-06T09:30:08+00:00"
-        },
-        {
-          "source": "L'Orient Today",
-          "category": "levant",
-          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
-          "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
-          "published": ""
         }
       ],
-      "summary": "Israeli airstrikes kill three people and destroy a hospital in southern Lebanon.",
-      "summary_he": "תקיפות אוויר ישראליות הרגו שלושה בני אדם והרסו בית חולים בדרום לבנון."
+      "summary": "Three reported killed after Israeli airstrike in southern Lebanon.",
+      "summary_he": "שלושה הרוגים דווחו לאחר תקיפה אווירית ישראלית בדרום לבנון."
     },
     {
       "rank": 2,
@@ -122,7 +114,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Two martyrs, including a girl, and injuries were reported in an Israeli bombing that targeted a car west of…",
+          "title": "Two martyrs, including a child, and several injuries were reported in an Israeli bombing that targeted a car…",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
           "published": "2026-09-06T14:22:00+00:00"
@@ -136,53 +128,53 @@
           "published": "2026-09-06T10:21:00+00:00"
         }
       ],
-      "summary": "Israeli strike kills two Palestinians, including a child, in Gaza despite ceasefire.",
-      "summary_he": "תקיפה ישראלית בעזה הרגה שני פלסטינים, בהם ילד, למרות הפסקת האש."
+      "summary": "Israeli strike in Gaza kills two Palestinians, including a child, despite ceasefire.",
+      "summary_he": "תקיפה ישראלית בעזה הורגת שני פלסטינים, בהם ילד, למרות הפסקת אש."
     },
     {
       "rank": 3,
       "outlets": 3,
       "categories": [
-        "israeli",
         "panarab",
-        "iranian"
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "Iran has announced plans to declare a restricted navigation zone outside the Strait of Hormuz.",
-        "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
-        "url": "25879e070efa4476b10ec7e5c810f9a7",
-        "published": "2026-09-06T19:13:12+00:00"
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+        "published": "2026-09-06T13:14:20+00:00"
       },
       "members": [
         {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "Iran has announced plans to declare a restricted navigation zone outside the Strait of Hormuz.",
-          "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
-          "url": "25879e070efa4476b10ec7e5c810f9a7",
-          "published": "2026-09-06T19:13:12+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
-          "published": "2026-09-06T04:25:04+00:00"
-        },
-        {
-          "source": "Al Jazeera",
+          "source": "Al Mayadeen",
           "category": "panarab",
-          "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
+          "title": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces' options would be…",
           "title_he": "",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+          "published": "2026-09-06T18:57:00+00:00"
+        },
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
+          "published": "2026-09-06T13:14:20+00:00"
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Yemeni media presented footage of a precise missile strike targeting a meeting of leaders in the…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1156872/",
           "published": ""
         }
       ],
-      "summary": "Iran announces plans to declare a restricted navigation zone outside the Strait of Hormuz.",
-      "summary_he": "איראן הודיעה על תוכניות להכריז על אזור ניווט מוגבל מחוץ למצר הורמוז."
+      "summary": "Yemeni source warns of potential responses if Saudi Arabia opts for comprehensive war.",
+      "summary_he": "מקור תימני מזהיר מתגובות אפשריות אם ערב הסעודית תבחר במלחמה כוללת."
     },
     {
       "rank": 4,
@@ -211,10 +203,10 @@
         {
           "source": "SANA",
           "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
+          "url": "https://sana.sy/en/international/2340763/",
+          "published": "2026-09-06T10:13:28+00:00"
         },
         {
           "source": "Al Arabiya",
@@ -225,44 +217,52 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Netanyahu orders removal of illegal West Bank settler outposts.",
-      "summary_he": "נתניהו הורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
+      "summary": "Netanyahu orders removal of illegal settler outposts in the West Bank.",
+      "summary_he": "נתניהו מורה על פינוי מאחזים בלתי חוקיים בגדה המערבית."
     },
     {
       "rank": 5,
-      "outlets": 2,
+      "outlets": 3,
       "categories": [
-        "levant",
-        "turkish"
+        "panarab",
+        "iranian"
       ],
       "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+        "source": "Mehr News",
+        "category": "iranian",
+        "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
         "title_he": "",
-        "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
-        "published": "2026-09-06T13:14:20+00:00"
+        "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+        "published": "2026-09-06T04:25:04+00:00"
       },
       "members": [
         {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
-          "published": "2026-09-06T13:14:20+00:00"
+          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+          "published": "2026-09-06T04:25:04+00:00"
         },
         {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Yemeni armed forces have released video footage showing a precise missile strike targeting a meeting of…",
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1156872/",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "published": ""
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
           "published": ""
         }
       ],
-      "summary": "Yemeni government forces claim heavy losses inflicted on Houthis in Taiz.",
-      "summary_he": "כוחות הממשלה התימניים טוענים כי הסבו אבדות כבדות לחות'ים בתעז."
+      "summary": "IRGC Navy releases footage claiming control of the Strait of Hormuz.",
+      "summary_he": "חיל הים של משמרות המהפכה מפרסם תיעוד הטוען לשליטה במצר הורמוז."
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T09:39:59.914957+00:00",
+  "updated": "2026-09-06T10:12:35.614507+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 4,
       "categories": [
         "panarab",
         "levant",
@@ -36,22 +36,6 @@
           "published": "2026-09-05T20:49:00+00:00"
         },
         {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/europe/putin-orders-72-hour-halt-to-strikes-on-kyiv-as-us-envoys-arrive",
-          "published": "2026-09-05T13:00:00+00:00"
-        },
-        {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Moscow has halted attacks on Kyiv for three days and urged Washington to consider the reality in any…",
-          "title_he": "",
-          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
-          "published": "2026-09-05T11:03:00+00:00"
-        },
-        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -68,17 +52,16 @@
           "published": ""
         }
       ],
-      "summary": "Kremlin says Putin held 'extremely frank' Ukraine war talks with US envoys.",
-      "summary_he": "הקרמלין מוסר כי פוטין קיים שיחות 'כנות ביותר' על המלחמה באוקראינה עם שליחי ארה\"ב."
+      "summary": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says.",
+      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחים אמריקאים, כך נמסר מהקרמלין."
     },
     {
       "rank": 2,
-      "outlets": 5,
+      "outlets": 4,
       "categories": [
         "gulf",
         "panarab",
-        "levant",
-        "turkish"
+        "levant"
       ],
       "rep": {
         "source": "Jordan Times",
@@ -114,14 +97,6 @@
           "published": "2026-09-05T14:45:13+00:00"
         },
         {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
-          "published": "2026-09-05T12:51:00+00:00"
-        },
-        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
@@ -131,14 +106,13 @@
         }
       ],
       "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' בצל אי-שקט בגדה המערבית."
+      "summary_he": "השגריר האמריקאי מכנה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע המהומות בגדה המערבית."
     },
     {
       "rank": 3,
-      "outlets": 5,
+      "outlets": 4,
       "categories": [
         "gulf",
-        "panarab",
         "iranian"
       ],
       "rep": {
@@ -175,14 +149,6 @@
           "published": "2026-09-05T20:45:58+00:00"
         },
         {
-          "source": "Al Jazeera",
-          "category": "panarab",
-          "title": "1 , Iran, US trade fire, attack oil tankers in Strait of Hormuz",
-          "title_he": "",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-          "published": ""
-        },
-        {
           "source": "Iran International",
           "category": "iranian",
           "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
@@ -191,8 +157,8 @@
           "published": ""
         }
       ],
-      "summary": "IRGC attacks US unmanned vessel seeking access to the Strait of Hormuz.",
-      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב שניסה להיכנס למצר הורמוז."
+      "summary": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה תוקפים כלי שיט בלתי מאויש אמריקאי שניסה להיכנס למצר הורמוז."
     },
     {
       "rank": 4,
@@ -236,43 +202,43 @@
         }
       ],
       "summary": "Gaza death toll rises to 73,651 since October 2023.",
-      "summary_he": "מספר ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
+      "summary_he": "מספר ההרוגים בעזה עולה ל-73,651 מאז אוקטובר 2023."
     },
     {
       "rank": 5,
       "outlets": 2,
       "categories": [
-        "panarab",
+        "levant",
         "turkish"
       ],
       "rep": {
-        "source": "Anadolu Agency",
+        "source": "Daily Sabah",
         "category": "turkish",
-        "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
+        "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
         "title_he": "",
-        "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
-        "published": "2026-09-06T07:35:03+00:00"
+        "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
+        "published": "2026-09-06T09:41:00+00:00"
       },
       "members": [
         {
-          "source": "Anadolu Agency",
+          "source": "Daily Sabah",
           "category": "turkish",
-          "title": "NATO will not tolerate hybrid attacks against allies, says US envoy",
+          "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/americas/nato-will-not-tolerate-hybrid-attacks-against-allies-says-us-envoy/4048564",
-          "published": "2026-09-06T07:35:03+00:00"
+          "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
+          "published": "2026-09-06T09:41:00+00:00"
         },
         {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "NATO will not tolerate hybrid actions against members, US envoy says",
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
           "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/nato-will-not-tolerate-hybrid-actions-against-members-us-envoy-says",
-          "published": "2026-09-05T15:15:00+00:00"
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
         }
       ],
-      "summary": "US envoy says NATO will not tolerate hybrid attacks against allies.",
-      "summary_he": "שליח ארה\"ב אומר כי נאט\"ו לא תסבול התקפות היברידיות נגד בעלות בריתה."
+      "summary": "Israel kills four people, including two girls, in southern Lebanon.",
+      "summary_he": "ישראל הורגת ארבעה בני אדם, כולל שתי בנות, בדרום לבנון."
     }
   ]
 }

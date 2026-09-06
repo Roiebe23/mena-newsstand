@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T04:55:26.580809+00:00",
+  "updated": "2026-09-06T05:27:08.093327+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,15 +167,15 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T04:53:28.612589+00:00"
+      "headlines_updated": "2026-09-06T05:25:11.370728+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 14,
+        "dropped_stale": 13,
         "title_snippet": 34,
-        "title_native": 84,
+        "title_native": 85,
         "in": 132,
-        "kept": 118
+        "kept": 119
       },
       "translator": {
         "configured": true,
@@ -189,11 +189,6 @@
         {
           "source": "The New Arab",
           "title": "Israeli forces demolish Palestinian homes in West Bank",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "The New Arab",
-          "title": "Israeli settlers attack Palestinian journalists",
           "reason": "stale (older than 48h)"
         },
         {
@@ -259,47 +254,54 @@
       ]
     },
     "relevance": {
-      "in": 118,
-      "kept": 73,
+      "in": 119,
+      "kept": 74,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Trooper Dan met with Yizchak and Bennett regarding potential alliances.",
+          "title": "Trooper Dan met with Eisenkot and Benet to discuss potential political unions.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "N12",
+          "title": "Eitan Davidi, chairman of the Margaliot moshav, is described as a prominent voice in the northern conflict.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "The Voice, Season 6, Episode 25: The finale event is available for live viewing on Reshet 13.",
+          "title": "The season finale of \"The Voice,\" season 6, episode 25, is available for direct viewing on Reshet 13.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "\"There is no one more deserving than you to be in the finale\": Ema Ziza Cohen's semi-final performance on…",
+          "title": "Emma Ziza Cohen's semi-final performance on \"The Voice\" was praised, with comments suggesting she is worthy…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "\"From the start of the competition, you have only followed your truth\": Tair Amram Shmuel's semi-final…",
+          "title": "Tair Amram Shmuel's semi-final performance on \"The Voice\" was highlighted for her adherence to her truth…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "\"A performance of international caliber\": Tamir Sari's semi-final performance on Reshet 13.",
+          "title": "Tamar Sari's semi-final performance on \"The Voice\" was described as being of international caliber.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "\"I am in total shock, it's a mesmerizing performance\": Osher Cohen's semi-final performance on Reshet 13.",
+          "title": "Osher Cohen's semi-final performance on \"The Voice\" left the judges in total shock, with one calling it…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -333,6 +335,13 @@
           "reason": "disaster/accident with no conflict dimension"
         },
         {
+          "source": "Al Arabiya",
+          "title": "US Envoys Witkoff, Kushner Arrive in Moscow",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
           "source": "The New Arab",
           "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
           "sec": 0,
@@ -340,15 +349,22 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Al Mayadeen",
-          "title": "Putin met with Trump envoys Witkoff and Kushner in Moscow.",
+          "source": "The New Arab",
+          "title": "The Canary suspends operations after second bank account block",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Mehr News",
-          "title": "Iran warns US citizens against debt recruitment",
+          "source": "Al Mayadeen",
+          "title": "Putin met with envoys Trump, Witkoff, and Kushner in Moscow.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "IRNA",
+          "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -432,23 +448,16 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "An 'Israeli belt' is stretching across Africa, from Somaliland in the east to Cameroon in the west.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al-Akhbar",
-          "title": "Local elections in Germany signal an early end to Merz's era.",
+          "title": "An \"Israeli corridor\" is stretching across Africa, from Somaliland in the east to Cameroon in the west.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Lebanese MP Dr.",
+          "title": "Iran's Deputy Central Bank Governor confirmed that oil revenues continue to reach the country despite…",
           "sec": 0,
-          "off": 1,
+          "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -460,21 +469,21 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A bill is being considered to penalize American universities that boycott Israel.",
+          "title": "A bill is being considered to penalize American universities that boycott \"Israel.\"",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "Cuba's Foreign Ministry calls on Israel to stop killing civilians in Lebanon.",
+          "title": "Cuba's Foreign Ministry stated that Israel must stop killing civilians in Lebanon.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "The 'Fedayeen' are close to historic qualification for the U20 Asian Cup.",
+          "title": "The \"Fida'i\" is close to historic qualification for the U20 Asian Cup.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -487,22 +496,8 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Falastin al-Youm",
-          "title": "The abduction of Al-Arabeed is described as a security operation turning into a battle of consciousness and…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
           "source": "Gulf News",
           "title": "Arshdeep Singh and his girlfriend Samreen Kaur get matching tattoos",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Gulf News",
-          "title": "Best travel pillows and flight comfort kit on amazon.ae 2026: 5 picks for long-haul flights",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -581,13 +576,12 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 48,
+      "clusters": 47,
       "sizes": [
+        9,
         7,
         5,
-        5,
         4,
-        3,
         3,
         2,
         2,
@@ -640,15 +634,16 @@
       "candidates": [
         {
           "selected_rank": 1,
-          "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "rank_key": {
-            "outlets": 6,
+            "outlets": 7,
             "camps": 3,
-            "newest": "2026-09-05T22:56+00:00"
+            "newest": "2026-09-05T23:46+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
             "Al Jazeera",
+            "Al-Akhbar",
             "Anadolu Agency",
             "Daily Sabah",
             "SANA",
@@ -659,12 +654,12 @@
             "levant",
             "turkish"
           ],
-          "members": 7,
+          "members": 9,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Anadolu Agency",
-            "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+            "source": "TRT World",
+            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -684,13 +679,13 @@
                 "rejected_by": "older than the story's newest wave"
               },
               {
-                "source": "Daily Sabah",
-                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+                "source": "Al-Akhbar",
+                "title": "Moscow halted attacks on Kyiv for three days and called on Washington to conside",
                 "rejected_by": "older than the story's newest wave"
               },
               {
-                "source": "TRT World",
-                "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
+                "source": "Anadolu Agency",
+                "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -698,6 +693,66 @@
         },
         {
           "selected_rank": 2,
+          "headline": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+          "rank_key": {
+            "outlets": 6,
+            "camps": 5,
+            "newest": "2026-09-06T04:53+00:00"
+          },
+          "outlet_names": [
+            "Al Jazeera",
+            "Al Manar",
+            "Anadolu Agency",
+            "Gulf News",
+            "Iran International",
+            "Mehr News"
+          ],
+          "camps": [
+            "gulf",
+            "panarab",
+            "iranian",
+            "levant",
+            "turkish"
+          ],
+          "members": 7,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "Gulf News",
+            "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hormuz)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Jazeera",
+                "title": "1 , Iran, US trade fire after IRGC attacks American warships over blockade",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Mehr News",
+                "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Iran International",
+                "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Iran International",
+                "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 3,
           "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
           "rank_key": {
             "outlets": 5,
@@ -750,59 +805,8 @@
           }
         },
         {
-          "selected_rank": 3,
-          "headline": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "rank_key": {
-            "outlets": 4,
-            "camps": 3,
-            "newest": "2026-09-05T20:45+00:00"
-          },
-          "outlet_names": [
-            "Al Jazeera",
-            "Anadolu Agency",
-            "Iran International",
-            "Mehr News"
-          ],
-          "camps": [
-            "panarab",
-            "iranian",
-            "turkish"
-          ],
-          "members": 5,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Anadolu Agency",
-            "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hormuz)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Jazeera",
-                "title": "1 , Iran, US trade fire after IRGC attacks American warships over blockade",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Iran International",
-                "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Iran International",
-                "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
           "selected_rank": 4,
-          "headline": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of th",
+          "headline": "A senior Lebanese political figure who opposes Hezbollah has received threats and there are concerns",
           "rank_key": {
             "outlets": 3,
             "camps": 2,
@@ -822,10 +826,11 @@
           "why_not": null,
           "representative": {
             "source": "Kan 11",
-            "title": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of the…",
+            "title": "A senior Lebanese political figure who opposes Hezbollah has received threats and there are concerns for his…",
             "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hezbollah)",
               "neutral-by-default outlet",
               "derived from the outlet's English snippet"
             ],
@@ -842,7 +847,7 @@
               },
               {
                 "source": "Al-Akhbar",
-                "title": "Hezbollah stated that the enemy is trampling the framework of authority, and rel",
+                "title": "Hezbollah stated that the enemy is disregarding the 'framework' of authority, an",
                 "rejected_by": "loaded/partisan wording"
               }
             ]
@@ -879,6 +884,44 @@
               "outlet's own English headline"
             ],
             "passed_over": []
+          }
+        },
+        {
+          "selected_rank": null,
+          "headline": "The Ali Taher ridge has been cleared, and there is high alert for a Hezbollah response, with the com",
+          "rank_key": {
+            "outlets": 2,
+            "camps": 2,
+            "newest": "2026-09-06T03:00+00:00"
+          },
+          "outlet_names": [
+            "N12",
+            "WAFA News"
+          ],
+          "camps": [
+            "israeli",
+            "levant"
+          ],
+          "members": 2,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "N12",
+            "title": "The Ali Taher ridge has been cleared, and there is high alert for a Hezbollah response, with the coming days…",
+            "title_source": "snippet",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hezbollah)",
+              "neutral-by-default outlet",
+              "derived from the outlet's English snippet"
+            ],
+            "passed_over": [
+              {
+                "source": "WAFA News",
+                "title": "Israeli drone strike kills two in southern Lebanon",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
           }
         },
         {
@@ -921,43 +964,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "Sanctions or illusion? US claim on Iran’s financial lifeline",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-05T10:19+00:00"
-          },
-          "outlet_names": [
-            "Al Arabiya",
-            "Mehr News"
-          ],
-          "camps": [
-            "panarab",
-            "iranian"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Mehr News",
-            "title": "Sanctions or illusion? US claim on Iran’s financial lifeline",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "state/partisan outlet (last resort)",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Arabiya",
-                "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Trump says US may hit Iran’s Pickaxe Mountain soon",
           "rank_key": {
             "outlets": 2,
@@ -989,49 +995,74 @@
         },
         {
           "selected_rank": null,
-          "headline": "Israeli drone strike kills two in southern Lebanon",
+          "headline": "\"Saraya al-Quds\" clashed with \"affiliate militias\" in Khan Younis.",
           "rank_key": {
             "outlets": 2,
             "camps": 1,
-            "newest": "2026-09-04T18:48+00:00"
+            "newest": "2026-09-04T09:54+00:00"
           },
           "outlet_names": [
-            "Al Manar",
-            "WAFA News"
+            "Al-Akhbar",
+            "Falastin al-Youm"
           ],
           "camps": [
             "levant"
           ],
-          "members": 3,
+          "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "WAFA News",
-            "title": "Israeli drone strike kills two in southern Lebanon",
-            "title_source": "native",
+            "source": "Al-Akhbar",
+            "title": "\"Saraya al-Quds\" clashed with \"affiliate militias\" in Khan Younis.",
+            "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah_south)",
+              "names 1 of the story's dominant entities (gaza)",
               "neutral-by-default outlet",
-              "outlet's own English headline"
+              "derived from the outlet's English snippet"
             ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, w",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Manar",
-                "title": "The occupation forces continued their aggression on southern Lebanon, with explo",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
+            "passed_over": []
           }
         },
         {
           "selected_rank": null,
-          "headline": "Police reported the discovery of a stolen Matador missile near Shfaram, with two suspects arrested.",
+          "headline": "Occupation forces carried out an explosion operation during a raid on the town of Aqaba in Tubas.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T05:11+00:00"
+          },
+          "outlet_names": [
+            "Al Manar"
+          ],
+          "camps": [
+            "levant"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "Occupation forces raided the eastern area of Nablus.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T05:10+00:00"
+          },
+          "outlet_names": [
+            "Al Manar"
+          ],
+          "camps": [
+            "levant"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "The police reported that a Matador missile, stolen from the IDF, was found near Shefar'am, and two s",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1049,35 +1080,17 @@
         },
         {
           "selected_rank": null,
-          "headline": "The Ali Taher ridge has been cleared, and there is tension regarding Hezbollah's response, with warn",
+          "headline": "The Manar correspondent reported that enemy drones targeted the area between Nabatieh and Nabatieh A",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-06T03:00+00:00"
+            "newest": "2026-09-06T04:13+00:00"
           },
           "outlet_names": [
-            "N12"
+            "Al Manar"
           ],
           "camps": [
-            "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T23:46+00:00"
-          },
-          "outlet_names": [
-            "Anadolu Agency"
-          ],
-          "camps": [
-            "turkish"
+            "levant"
           ],
           "members": 1,
           "qualified": false,
@@ -1175,24 +1188,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "Eitan Davidi, head of the Margaliot moshav, is described as a prominent voice in the northern confli",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:07+00:00"
-          },
-          "outlet_names": [
-            "N12"
-          ],
-          "camps": [
-            "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
           "headline": "Iran Guards say attacked US-linked vessels in retaliation for strikes",
           "rank_key": {
             "outlets": 1,
@@ -1211,7 +1206,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "A sergeant from the Border Police, 20-year-old David Hoyer Amrani, was killed in Netanya.",
+          "headline": "The military police soldier, David Huvayer Amrani, aged 20, was killed in Netanya.",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1246,7 +1241,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "27 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "26 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1264,7 +1259,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T04:55:43.511798+00:00",
+    "last_success": "2026-09-06T05:27:21.312261+00:00",
     "last_failure": null
   },
   "ok": true

@@ -1,24 +1,32 @@
 {
-  "updated": "2026-09-06T04:55:43.510955+00:00",
+  "updated": "2026-09-06T05:27:21.311109+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 7,
       "categories": [
         "panarab",
         "levant",
         "turkish"
       ],
       "rep": {
-        "source": "Anadolu Agency",
+        "source": "TRT World",
         "category": "turkish",
-        "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
         "title_he": "",
-        "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
-        "published": "2026-09-05T17:37:45+00:00"
+        "url": "https://www.trtworld.com/article/bd664ce317c3",
+        "published": "2026-09-05T22:56:52+00:00"
       },
       "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/world/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
+          "published": "2026-09-05T23:46:44+00:00"
+        },
         {
           "source": "TRT World",
           "category": "turkish",
@@ -60,6 +68,14 @@
           "published": "2026-09-05T13:00:00+00:00"
         },
         {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Moscow halted attacks on Kyiv for three days and called on Washington to consider the reality in any…",
+          "title_he": "",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
+        },
+        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -76,11 +92,90 @@
           "published": ""
         }
       ],
-      "summary": "Kremlin says Putin held 'extremely frank' talks with US envoys on Ukraine war.",
-      "summary_he": "הקרמלין מדווח כי פוטין קיים שיחות 'גלויות ביותר' עם שליחי ארה\"ב בנוגע למלחמת אוקראינה."
+      "summary": "Kremlin aide says Putin's talks with US envoys were constructive.",
+      "summary_he": "עוזר בקרמלין: שיחות פוטין עם שליחי ארה\"ב היו קונסטרוקטיביות."
     },
     {
       "rank": 2,
+      "outlets": 6,
+      "categories": [
+        "gulf",
+        "panarab",
+        "iranian",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Gulf News",
+        "category": "gulf",
+        "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+        "title_he": "",
+        "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+        "published": "2026-09-06T01:01:00+00:00"
+      },
+      "members": [
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Islamic Revolution Guards Corps targeted a US remote-controlled drone in the Strait of Hormuz after it…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1156052/",
+          "published": "2026-09-06T04:53:34+00:00"
+        },
+        {
+          "source": "Gulf News",
+          "category": "gulf",
+          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
+          "title_he": "",
+          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
+          "published": "2026-09-06T01:01:00+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
+        },
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
+          "published": "2026-09-05T20:08:33+00:00"
+        },
+        {
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "1 , Iran, US trade fire after IRGC attacks American warships over blockade",
+          "title_he": "",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "published": ""
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
+          "published": ""
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609042909",
+          "published": ""
+        }
+      ],
+      "summary": "IRGC targeted a US remote-controlled drone in the Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה האיראניים תקפו מל\"ט אמריקאי במצר הורמוז."
+    },
+    {
+      "rank": 3,
       "outlets": 5,
       "categories": [
         "gulf",
@@ -139,68 +234,7 @@
         }
       ],
       "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'מחבלים' על רקע המהומות בגדה המערבית."
-    },
-    {
-      "rank": 3,
-      "outlets": 4,
-      "categories": [
-        "panarab",
-        "iranian",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-        "title_he": "",
-        "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
-        "published": "2026-09-05T20:08:33+00:00"
-      },
-      "members": [
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-hit-3-oil-tankers-in-hormuz-3-us-linked-vessels-in-response-to-american-attacks/4048436",
-          "published": "2026-09-05T20:08:33+00:00"
-        },
-        {
-          "source": "Al Jazeera",
-          "category": "panarab",
-          "title": "1 , Iran, US trade fire after IRGC attacks American warships over blockade",
-          "title_he": "",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-          "published": ""
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609042909",
-          "published": ""
-        }
-      ],
-      "summary": "Iran's IRGC Navy issues stark warning to vessels in the Strait of Hormuz.",
-      "summary_he": "הצי של משמרות המהפכה האיראניים מפרסם אזהרה חמורה לכלי שיט במצר הורמוז."
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי השקט בגדה המערבית."
     },
     {
       "rank": 4,
@@ -212,7 +246,7 @@
       "rep": {
         "source": "Kan 11",
         "category": "israeli",
-        "title": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of the…",
+        "title": "A senior Lebanese political figure who opposes Hezbollah has received threats and there are concerns for his…",
         "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
         "url": "https://kan.org.il/content/kan-news/global/1096407/",
         "published": "2026-09-06T04:48:20+00:00"
@@ -221,7 +255,7 @@
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of the…",
+          "title": "A senior Lebanese political figure who opposes Hezbollah has received threats and there are concerns for his…",
           "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
           "url": "https://kan.org.il/content/kan-news/global/1096407/",
           "published": "2026-09-06T04:48:20+00:00"
@@ -229,7 +263,7 @@
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "Hezbollah is trying to downplay the importance of the Ali Taher ridge after Israel gained control.",
+          "title": "Hezbollah is trying to downplay the importance of the Ali Taher ridge after Israeli forces gained control.",
           "title_he": "גורם פוליטי בלבנון: אובדן רכס עלי טאהר",
           "url": "https://kan.org.il/content/kan-news/defense/1096321/",
           "published": "2026-09-05T17:10:37+00:00"
@@ -237,7 +271,7 @@
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Hezbollah stated that the enemy is trampling the framework of authority, and releasing prisoners does not…",
+          "title": "Hezbollah stated that the enemy is disregarding the 'framework' of authority, and prisoner releases do not…",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
           "published": "2026-09-05T11:57:09+00:00"
@@ -251,8 +285,8 @@
           "published": ""
         }
       ],
-      "summary": "Hezbollah attempts to downplay Ali Taher ridge's importance after Israel gains control.",
-      "summary_he": "חיזבאללה מנסה למזער את חשיבות רכס עלי טאהר לאחר שישראל השיגה עליו שליטה."
+      "summary": "Senior Lebanese political figure opposing Hezbollah received threats.",
+      "summary_he": "דמות פוליטית לבנונית בכירה המתנגדת לחיזבאללה קיבלה איומים."
     },
     {
       "rank": 5,
@@ -295,8 +329,8 @@
           "published": "2026-09-05T15:41:26+00:00"
         }
       ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023, health ministry says.",
-      "summary_he": "משרד הבריאות בעזה מדווח: מניין ההרוגים ברצועה עלה ל-73,651 מאז אוקטובר 2023."
+      "summary": "Gaza death toll rises to 73,651 since October 2023.",
+      "summary_he": "מספר ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
     }
   ]
 }

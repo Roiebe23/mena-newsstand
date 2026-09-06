@@ -1,9 +1,70 @@
 {
-  "updated": "2026-09-06T10:12:35.614507+00:00",
+  "updated": "2026-09-06T10:44:08.402450+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
+      "outlets": 5,
+      "categories": [
+        "israeli",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Kan 11",
+        "category": "israeli",
+        "title": "Israel Defense Forces struck Hezbollah targets in southern Lebanon in response to the launch of two explosive…",
+        "title_he": "בתגובה לשיגור שני רחפני נפץ: צה\"ל תקף מחבלי חיזבאללה בדרום לבנון",
+        "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
+        "published": "2026-09-06T10:24:00+00:00"
+      },
+      "members": [
+        {
+          "source": "Kan 11",
+          "category": "israeli",
+          "title": "Israel Defense Forces struck Hezbollah targets in southern Lebanon in response to the launch of two explosive…",
+          "title_he": "בתגובה לשיגור שני רחפני נפץ: צה\"ל תקף מחבלי חיזבאללה בדרום לבנון",
+          "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
+          "published": "2026-09-06T10:24:00+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
+          "published": "2026-09-06T09:41:00+00:00"
+        },
+        {
+          "source": "N12",
+          "category": "israeli",
+          "title": "The hospital that became a terror headquarters experienced a wave of IDF strikes in southern Lebanon in…",
+          "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
+          "published": "2026-09-06T03:00:00+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "Hezbollah issued a statement regarding the continuous Israeli aggression on Lebanon, asserting that the…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1154622/",
+          "published": ""
+        }
+      ],
+      "summary": "Israel struck Hezbollah targets in southern Lebanon after two explosive launches.",
+      "summary_he": "ישראל תקפה יעדי חיזבאללה בדרום לבנון לאחר שיגור שני מטעני נפץ."
+    },
+    {
+      "rank": 2,
       "outlets": 4,
       "categories": [
         "panarab",
@@ -52,11 +113,11 @@
           "published": ""
         }
       ],
-      "summary": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says.",
-      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחים אמריקאים, כך נמסר מהקרמלין."
+      "summary": "Putin held Ukraine war talks with US envoys.",
+      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחי ארה\"ב."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "outlets": 4,
       "categories": [
         "gulf",
@@ -105,11 +166,11 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "השגריר האמריקאי מכנה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע המהומות בגדה המערבית."
+      "summary": "US ambassador called violent Israeli settlers ‘terrorists’ amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים \"טרוריסטים\" על רקע תסיסה בגדה המערבית."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "outlets": 4,
       "categories": [
         "gulf",
@@ -157,88 +218,52 @@
           "published": ""
         }
       ],
-      "summary": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz.",
-      "summary_he": "משמרות המהפכה תוקפים כלי שיט בלתי מאויש אמריקאי שניסה להיכנס למצר הורמוז."
-    },
-    {
-      "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "iranian",
-        "levant"
-      ],
-      "rep": {
-        "source": "SANA",
-        "category": "levant",
-        "title": "Gaza death toll rises to 73,651 since October 2023",
-        "title_he": "",
-        "url": "https://sana.sy/en/middle-east/2340621/",
-        "published": "2026-09-05T19:22:55+00:00"
-      },
-      "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340621/",
-          "published": "2026-09-05T19:22:55+00:00"
-        },
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Gaza death toll rises to 73,651, health ministry says",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "published": "2026-09-05T17:05:27+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
-          "published": "2026-09-05T15:41:26+00:00"
-        }
-      ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023.",
-      "summary_he": "מספר ההרוגים בעזה עולה ל-73,651 מאז אוקטובר 2023."
+      "summary": "IRGC attacked a US unmanned vessel in the Strait of Hormuz.",
+      "summary_he": "משמרות המהפכה האיראניים תקפו כלי שיט בלתי מאויש של ארה\"ב במצר הורמוז."
     },
     {
       "rank": 5,
-      "outlets": 2,
+      "outlets": 3,
       "categories": [
-        "levant",
+        "iranian",
         "turkish"
       ],
       "rep": {
-        "source": "Daily Sabah",
+        "source": "TRT World",
         "category": "turkish",
-        "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
+        "title": "US blockade could cost Washington more than Iran, IRGC says",
         "title_he": "",
-        "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
-        "published": "2026-09-06T09:41:00+00:00"
+        "url": "https://www.trtworld.com/article/9e785eca8f2b",
+        "published": "2026-09-06T07:45:05+00:00"
       },
       "members": [
         {
-          "source": "Daily Sabah",
+          "source": "TRT World",
           "category": "turkish",
-          "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
+          "title": "US blockade could cost Washington more than Iran, IRGC says",
           "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
-          "published": "2026-09-06T09:41:00+00:00"
+          "url": "https://www.trtworld.com/article/9e785eca8f2b",
+          "published": "2026-09-06T07:45:05+00:00"
         },
         {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-us-economic-blockade-could-cost-washington-more-than-tehran/4048542",
+          "published": "2026-09-06T07:09:35+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "published": "2026-09-06T05:00:48+00:00"
         }
       ],
-      "summary": "Israel kills four people, including two girls, in southern Lebanon.",
-      "summary_he": "ישראל הורגת ארבעה בני אדם, כולל שתי בנות, בדרום לבנון."
+      "summary": "IRGC says US economic blockade could cost Washington more than Iran.",
+      "summary_he": "משמרות המהפכה האיראניים אומרים כי מצור כלכלי אמריקאי יעלה לארה\"ב יותר מאשר לאיראן."
     }
   ]
 }

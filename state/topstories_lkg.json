@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T15:31:42.588341+00:00",
+  "updated": "2026-09-06T15:56:01.393960+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 7,
       "categories": [
         "panarab",
         "levant",
@@ -74,10 +74,18 @@
           "title_he": "",
           "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
           "published": "2026-09-05T08:39:00+00:00"
+        },
+        {
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "5 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+          "title_he": "",
+          "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+          "published": ""
         }
       ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace diplomacy.",
-      "summary_he": "שליחי ארה\"ב וויטקוף וקושנר הגיעו לקייב לדיפלומטיה לשלום באוקראינה."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for the second leg of a diplomacy push.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לסבב השני של מאמץ דיפלומטי."
     },
     {
       "rank": 2,
@@ -138,8 +146,8 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador labels violent Israeli settlers in West Bank as 'terrorists'.",
-      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים בגדה המערבית 'טרוריסטים'."
+      "summary": "US ambassador labels violent Israeli settlers as ‘terrorists’ amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים \"מחבלים\" על רקע מהומות בגדה המערבית."
     },
     {
       "rank": 3,
@@ -191,55 +199,10 @@
         }
       ],
       "summary": "Financial Times reveals a US-led complex operation in the Strait of Hormuz.",
-      "summary_he": "ה\"פייננשל טיימס\" חושף מבצע מורכב בהובלת ארה\"ב במצר הורמוז."
+      "summary_he": "הפייננשל טיימס חושף מבצע מורכב בהובלת ארה\"ב במצר הורמוז."
     },
     {
       "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Anadolu Agency",
-        "category": "turkish",
-        "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
-        "title_he": "",
-        "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
-        "published": "2026-09-06T13:14:20+00:00"
-      },
-      "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-inflicted-heavy-losses-on-houthis-in-taiz/4048877",
-          "published": "2026-09-06T13:14:20+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
-          "published": "2026-09-05T23:02:37+00:00"
-        },
-        {
-          "source": "Al Jazeera",
-          "category": "panarab",
-          "title": "5 , How significant are the Yemeni government’s military gains against Houthis?",
-          "title_he": "",
-          "url": "https://aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis",
-          "published": ""
-        }
-      ],
-      "summary": "Yemeni government forces claim inflicting heavy losses on Houthis in Taiz.",
-      "summary_he": "כוחות הממשלה התימנית טוענים שהסבו אבדות כבדות לחות'ים בטאעז."
-    },
-    {
-      "rank": 5,
       "outlets": 3,
       "categories": [
         "levant",
@@ -279,8 +242,60 @@
           "published": "2026-09-06T11:17:57+00:00"
         }
       ],
-      "summary": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza.",
+      "summary": "Eight countries condemn Israeli ministers’ calls for displacement of Palestinians from Gaza.",
       "summary_he": "שמונה מדינות מגנות קריאות שרים ישראלים לעקירת פלסטינים מעזה."
+    },
+    {
+      "rank": 5,
+      "outlets": 3,
+      "categories": [
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+        "title_he": "",
+        "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
+        "published": "2026-09-06T08:03:53+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+          "title_he": "",
+          "url": "https://sana.sy/en/international/2340834/",
+          "published": "2026-09-06T13:36:50+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
+          "published": "2026-09-06T08:03:53+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
+        }
+      ],
+      "summary": "Israeli strikes destroy a hospital in southern Lebanon, damaging the health sector.",
+      "summary_he": "תקיפות ישראליות הורסות בית חולים בדרום לבנון, פוגעות במערכת הבריאות."
     }
   ]
 }

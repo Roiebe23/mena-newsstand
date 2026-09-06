@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:31:23.566807+00:00",
+  "updated": "2026-09-06T15:55:31.412495+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,17 +167,17 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T15:29:24.809155+00:00"
+      "headlines_updated": "2026-09-06T15:53:39.631400+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 12,
-        "title_snippet": 22,
-        "dropped_no_english": 11,
+        "dropped_stale": 10,
+        "title_snippet": 18,
+        "dropped_no_english": 15,
         "title_translated": 1,
-        "title_native": 86,
+        "title_native": 88,
         "in": 132,
-        "kept": 109
+        "kept": 107
       },
       "translator": {
         "configured": true,
@@ -189,11 +189,6 @@
       },
       "dropped": [
         {
-          "source": "The New Arab",
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "reason": "stale (older than 48h)"
-        },
-        {
           "source": "Al Mayadeen",
           "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
           "reason": "stale (older than 48h)"
@@ -201,11 +196,6 @@
         {
           "source": "Jordan Times",
           "title": "RCJA warns Israeli curriculum threatens East Jerusalem’s Arab-Palestinian identity",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "WAFA News",
-          "title": "Palestinian killed, three injured by Israeli gunfire in Khan Younis",
           "reason": "stale (older than 48h)"
         },
         {
@@ -250,17 +240,37 @@
         },
         {
           "source": "Kan 11",
-          "title": "בן גביר במכתב למפכ\"ל: \"נמנעת מלקדם מינויים",
+          "title": "גבר כבן 40 נהרג מנפילה מגובה במהלך עבודתו באתר בנייה באשדוד",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
           "source": "Kan 11",
-          "title": "דיווח בלבנון: שני הרוגים ופצוע בתקיפה בעיר נבטיה",
+          "title": "נתניהו: \"סופו של המשטר בטהראן קרב\"",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Kan 11",
+          "title": "בן גביר במכתב למפכ\"ל: \"נמנעת מלקדם מינויים",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
           "source": "N12",
           "title": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "מגמה מדאיגה: כ-1,370 רופאים עזבו את ישראל ב-3 השנים האחרונות",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al-Akhbar",
+          "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
@@ -284,13 +294,8 @@
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
-          "source": "Al-Akhbar",
-          "title": "من صوماليلاند شرقاً إلى الكاميرون غرباً: «حزام إسرائيلي» يشقّ أفريقيا",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
+          "source": "Al Manar",
+          "title": "العدو الاسرائيلي يواصل اعتداءاته على لبنان 14:00",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
@@ -300,14 +305,19 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "\"إنستغرام\" يصنف صورًا حقيقية على أنها مولدة بالذكاء الاصطناعي",
+          "title": "تقرير إسرائيلي يكشف تفاقم \"نزيف الأدمغة\" وهجرة قياسية للأطباء",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "بعد هجوم فدية.. برلين تحقق بتسريبات ضخمة",
           "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 109,
-      "kept": 65,
+      "in": 107,
+      "kept": 62,
       "dropped": [
         {
           "source": "Kan 11",
@@ -352,13 +362,6 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Channel 13",
-          "title": "This item appears to be a song title \"One Last Time\" by Emma Ziza Cohen.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
           "source": "Al Jazeera",
           "title": "2 , Egyptian TV presenter sentenced to death in drugs case",
           "sec": 0,
@@ -387,18 +390,18 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "The New Arab",
-          "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
+          "source": "Al Arabiya",
+          "title": "Greek air force jet crashes at annual aerial show",
           "sec": 0,
           "off": 0,
-          "reason": "no security/geopolitics signal"
+          "reason": "disaster/accident with no conflict dimension"
         },
         {
           "source": "The New Arab",
-          "title": "Deadly attack and drought emergency underline S.Sudan challenges",
-          "sec": 1,
-          "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
+          "title": "OPEC+ set to keep oil output policy unchanged on Sunday",
+          "sec": 0,
+          "off": 1,
+          "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Mayadeen",
@@ -444,10 +447,17 @@
         },
         {
           "source": "Jordan Times",
-          "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
-          "sec": 1,
+          "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
+          "sec": 0,
           "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Jordan Times",
+          "title": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
         },
         {
           "source": "L'Orient Today",
@@ -549,10 +559,10 @@
         },
         {
           "source": "Anadolu Agency",
-          "title": "Israeli occupier spits at entrance of Christian monastery in occupied East Jerusalem",
-          "sec": 0,
+          "title": "Nepal flood death toll hits 1,342, with around 5,000 still missing",
+          "sec": 1,
           "off": 0,
-          "reason": "no security/geopolitics signal"
+          "reason": "disaster/accident with no conflict dimension"
         },
         {
           "source": "Daily Sabah",
@@ -616,6 +626,13 @@
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "TRT World",
+          "title": "Nepal-China border floods death toll climbs to 1,385 as thousands remain missing",
+          "sec": 1,
+          "off": 0,
+          "reason": "disaster/accident with no conflict dimension"
         }
       ]
     },
@@ -623,16 +640,16 @@
       "method": "heuristic",
       "clusters": 40,
       "sizes": [
-        7,
+        8,
         5,
         4,
         4,
         3,
         3,
-        3,
         2,
-        2,
-        2,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -674,12 +691,13 @@
           "selected_rank": 1,
           "headline": "US envoys make first Kiev visit amid Ukraine war peace push",
           "rank_key": {
-            "outlets": 6,
+            "outlets": 7,
             "camps": 3,
             "newest": "2026-09-06T13:20+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
+            "Al Jazeera",
             "Anadolu Agency",
             "Daily Sabah",
             "Egypt Independent",
@@ -691,7 +709,7 @@
             "levant",
             "turkish"
           ],
-          "members": 7,
+          "members": 8,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -705,6 +723,11 @@
               "outlet's own English headline"
             ],
             "passed_over": [
+              {
+                "source": "Al Jazeera",
+                "title": "5 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+                "rejected_by": "older than the story's newest wave"
+              },
               {
                 "source": "Al Arabiya",
                 "title": "Putin meets US envoys for Ukraine war talks",
@@ -823,51 +846,6 @@
         },
         {
           "selected_rank": 4,
-          "headline": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
-          "rank_key": {
-            "outlets": 3,
-            "camps": 3,
-            "newest": "2026-09-06T13:14+00:00"
-          },
-          "outlet_names": [
-            "Al Jazeera",
-            "Anadolu Agency",
-            "Jordan Times"
-          ],
-          "camps": [
-            "panarab",
-            "levant",
-            "turkish"
-          ],
-          "members": 3,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Anadolu Agency",
-            "title": "Yemeni government forces say they inflicted ‘heavy losses’ on Houthis in Taiz",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (yemen)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Jazeera",
-                "title": "5 , How significant are the Yemeni government’s military gains against Houthis?",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Jordan Times",
-                "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": 5,
           "headline": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
           "rank_key": {
             "outlets": 3,
@@ -900,28 +878,28 @@
           }
         },
         {
-          "selected_rank": null,
-          "headline": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "selected_rank": 5,
+          "headline": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
           "rank_key": {
             "outlets": 3,
             "camps": 2,
             "newest": "2026-09-06T13:36+00:00"
           },
           "outlet_names": [
-            "Al Arabiya",
+            "Anadolu Agency",
             "SANA",
             "WAFA News"
           ],
           "camps": [
-            "panarab",
-            "levant"
+            "levant",
+            "turkish"
           ],
           "members": 4,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Al Arabiya",
-            "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+            "source": "Anadolu Agency",
+            "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -973,44 +951,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "A senior official from the National Security Council warned that Iran, Hezbollah, and Hamas are enha",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-06T14:49+00:00"
-          },
-          "outlet_names": [
-            "Al Manar",
-            "Kan 11"
-          ],
-          "camps": [
-            "israeli",
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Kan 11",
-            "title": "A senior official from the National Security Council warned that Iran, Hezbollah, and Hamas are enhancing…",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 2 of the story's dominant entities (gaza, hezbollah)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "Hezbollah stated that the continued pursuit of this \"absurd, illegal, and uncons",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Trump says US may hit Iran’s Pickaxe Mountain soon",
           "rank_key": {
             "outlets": 2,
@@ -1042,33 +982,21 @@
         },
         {
           "selected_rank": null,
-          "headline": "IRGC hits US aircraft carrier, destroyer with missiles",
+          "headline": "Israeli aggression on Lebanon has so far killed 4,362 and injured 12,378",
           "rank_key": {
-            "outlets": 2,
+            "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-06T05:53+00:00"
+            "newest": "2026-09-06T15:39+00:00"
           },
           "outlet_names": [
-            "IRNA",
-            "Mehr News"
+            "WAFA News"
           ],
           "camps": [
-            "iranian"
+            "levant"
           ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Mehr News",
-            "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "state/partisan outlet (last resort)",
-              "outlet's own English headline"
-            ],
-            "passed_over": []
-          }
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
@@ -1234,6 +1162,24 @@
         },
         {
           "selected_rank": null,
+          "headline": "IRGC hits US aircraft carrier, destroyer with missiles",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T04:03+00:00"
+          },
+          "outlet_names": [
+            "Mehr News"
+          ],
+          "camps": [
+            "iranian"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
           "headline": "Iran military vows ‘more severe’ reprisals if US attacks continue",
           "rank_key": {
             "outlets": 1,
@@ -1251,43 +1197,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "selected_rank": null,
-          "headline": "Safadi holds talks in Paris, The Hague on bilateral ties, regional developments",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T23:44+00:00"
-          },
-          "outlet_names": [
-            "Jordan Times"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "At least 37 people were killed in Nigeria during an attempt to siphon oil from a pipeline.",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:16+00:00"
-          },
-          "outlet_names": [
-            "Al Mayadeen"
-          ],
-          "camps": [
-            "panarab"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "note": "18 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "21 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1305,7 +1215,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T15:31:42.589422+00:00",
+    "last_success": "2026-09-06T15:56:01.394803+00:00",
     "last_failure": null
   },
   "ok": true

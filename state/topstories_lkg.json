@@ -1,32 +1,24 @@
 {
-  "updated": "2026-09-06T05:58:37.677402+00:00",
+  "updated": "2026-09-06T06:31:24.685612+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 6,
+      "outlets": 7,
       "categories": [
         "panarab",
         "levant",
         "turkish"
       ],
       "rep": {
-        "source": "TRT World",
+        "source": "Anadolu Agency",
         "category": "turkish",
-        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+        "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
-        "published": "2026-09-05T22:56:52+00:00"
+        "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+        "published": "2026-09-05T17:37:45+00:00"
       },
       "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/world/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
-          "published": "2026-09-05T23:46:44+00:00"
-        },
         {
           "source": "TRT World",
           "category": "turkish",
@@ -60,6 +52,14 @@
           "published": "2026-09-05T13:00:00+00:00"
         },
         {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Moscow halted its attacks on Kyiv for three days and called on Washington to consider the reality in any…",
+          "title_he": "",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
+        },
+        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -70,14 +70,12 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
-      ],
-      "summary": "Kremlin aide describes Putin's Ukraine war talks with US envoys as constructive.",
-      "summary_he": "עוזר בקרמלין מתאר את שיחות המלחמה של פוטין עם שליחי ארה\"ב כקונסטרוקטיביות."
+      ]
     },
     {
       "rank": 2,
@@ -97,6 +95,14 @@
         "published": "2026-09-06T01:01:00+00:00"
       },
       "members": [
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "published": "2026-09-06T06:00:23+00:00"
+        },
         {
           "source": "Gulf News",
           "category": "gulf",
@@ -124,22 +130,12 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "1 , Iran, US trade fire after IRGC attacks US warships over naval blockade",
+          "title": "1 , Iran, US trade fire, attack oil tankers in Strait of Hormuz",
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
         }
-      ],
-      "summary": "US and Iran exchange ship attacks in the Strait of Hormuz.",
-      "summary_he": "ארה\"ב ואיראן מחליפות תקיפות ספינות במצר הורמוז."
+      ]
     },
     {
       "rank": 3,
@@ -199,9 +195,7 @@
           "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
           "published": "2026-09-05T10:49:00+00:00"
         }
-      ],
-      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי שקט בגדה המערבית."
+      ]
     },
     {
       "rank": 4,
@@ -213,7 +207,7 @@
       "rep": {
         "source": "Kan 11",
         "category": "israeli",
-        "title": "A senior Lebanese political figure opposing Hezbollah has received threats, raising concerns for his safety.",
+        "title": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
         "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
         "url": "https://kan.org.il/content/kan-news/global/1096407/",
         "published": "2026-09-06T04:48:20+00:00"
@@ -222,23 +216,15 @@
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "A senior Lebanese political figure opposing Hezbollah has received threats, raising concerns for his safety.",
+          "title": "A senior Lebanese official who opposes Hezbollah received threats, raising concerns for his safety.",
           "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
           "url": "https://kan.org.il/content/kan-news/global/1096407/",
           "published": "2026-09-06T04:48:20+00:00"
         },
         {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "Hezbollah is downplaying the significance of the Ali Taher ridge after Israeli forces gained control.",
-          "title_he": "גורם פוליטי בלבנון: אובדן רכס עלי טאהר",
-          "url": "https://kan.org.il/content/kan-news/defense/1096321/",
-          "published": "2026-09-05T17:10:37+00:00"
-        },
-        {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority and that releasing prisoners does…",
+          "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and releasing prisoners does not…",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
           "published": "2026-09-05T11:57:09+00:00"
@@ -251,9 +237,7 @@
           "url": "https://today.lorientlejour.com/article/1546654/when-hezbollah-questions-its-decision-to-back-joseph-aoun-for-president.html",
           "published": ""
         }
-      ],
-      "summary": "Senior Lebanese political figure opposing Hezbollah receives threats.",
-      "summary_he": "איש פוליטי לבנוני בכיר המתנגד לחיזבאללה קיבל איומים."
+      ]
     },
     {
       "rank": 5,
@@ -295,9 +279,7 @@
           "url": "https://english.wafa.ps/Pages/Details/174384",
           "published": "2026-09-05T15:41:26+00:00"
         }
-      ],
-      "summary": "Gaza death toll reaches 73,651 since October 2023, health ministry reports.",
-      "summary_he": "משרד הבריאות בעזה מדווח על 73,651 הרוגים מאז אוקטובר 2023."
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T04:06:32.577400+00:00",
+  "updated": "2026-09-06T04:38:16.532704+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -78,12 +78,14 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "2 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Kremlin aide describes Putin's talks with US envoys on Ukraine as 'constructive'.",
+      "summary_he": "עוזר בקרמלין תיאר את שיחותיו של פוטין עם שליחי ארה\"ב בנושא אוקראינה כ'קונסטרוקטיביות'."
     },
     {
       "rank": 2,
@@ -143,7 +145,9 @@
           "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
           "published": "2026-09-05T10:49:00+00:00"
         }
-      ]
+      ],
+      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי שקט בגדה המערבית."
     },
     {
       "rank": 3,
@@ -181,9 +185,17 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "1 , Iran, US trade fire after IRGC targets American warships over blockade",
+          "title": "1 , Iran, US trade fire after IRGC attacks American warships over blockade",
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "published": ""
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
           "published": ""
         },
         {
@@ -194,7 +206,9 @@
           "url": "https://iranintl.com/en/202609042909",
           "published": ""
         }
-      ]
+      ],
+      "summary": "IRGC Navy issues stark warning to vessels in Hormuz after reported tanker attacks.",
+      "summary_he": "חיל הים של משמרות המהפכה מפרסם אזהרה חמורה לכלי שיט במיצר הורמוז לאחר דיווחים על תקיפת מכליות."
     },
     {
       "rank": 4,
@@ -206,7 +220,7 @@
       "rep": {
         "source": "Kan 11",
         "category": "israeli",
-        "title": "The IDF announced that Hezbollah launched two explosive drones towards forces in southern Lebanon, and the…",
+        "title": "The Israeli military reported that Hezbollah launched two explosive drones towards forces in southern Lebanon.",
         "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
         "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
         "published": "2026-09-06T03:30:54+00:00"
@@ -215,7 +229,7 @@
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "The IDF announced that Hezbollah launched two explosive drones towards forces in southern Lebanon, and the…",
+          "title": "The Israeli military reported that Hezbollah launched two explosive drones towards forces in southern Lebanon.",
           "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
           "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
           "published": "2026-09-06T03:30:54+00:00"
@@ -224,27 +238,29 @@
           "source": "WAFA News",
           "category": "levant",
           "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "תקיפת רחפן ישראלית הרגה שניים בדרום לבנון",
+          "title_he": "",
           "url": "https://english.wafa.ps/Pages/Details/174375",
           "published": "2026-09-04T18:48:26+00:00"
         },
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "The \"Zionist occupation army\" continued its aggression on southern Lebanon, carrying out explosions and…",
+          "title": "The Israeli entity carried out several attacks in southern Lebanon, with warplanes targeting areas.",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1151682/",
+          "url": "https://www.almanar.com.lb/article/1152587/",
           "published": ""
         },
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "The \"Zionist enemy\" carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "title": "The Israeli occupation forces continued their aggression in southern Lebanon, with explosions and artillery…",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
+          "url": "https://www.almanar.com.lb/article/1151682/",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Israeli military reports Hezbollah launched two explosive drones towards forces in southern Lebanon.",
+      "summary_he": "צבא ישראל דיווח כי חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון."
     },
     {
       "rank": 5,
@@ -286,7 +302,9 @@
           "url": "https://english.wafa.ps/Pages/Details/174384",
           "published": "2026-09-05T15:41:26+00:00"
         }
-      ]
+      ],
+      "summary": "Gaza's health ministry reports the death toll has risen to 73,651 since October 2023.",
+      "summary_he": "משרד הבריאות בעזה מדווח כי מניין ההרוגים עלה ל-73,651 מאז אוקטובר 2023."
     }
   ]
 }

@@ -1,70 +1,10 @@
 {
-  "updated": "2026-09-06T01:26:40.123933+00:00",
+  "updated": "2026-09-06T01:59:37.865194+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 5,
-      "categories": [
-        "gulf",
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "Jordan Times",
-        "category": "levant",
-        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-        "title_he": "",
-        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-        "published": "2026-09-05T14:51:34+00:00"
-      },
-      "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T14:51:34+00:00"
-        },
-        {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "published": "2026-09-05T14:45:13+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
-          "published": "2026-09-05T12:51:00+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T10:49:00+00:00"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "outlets": 5,
+      "outlets": 6,
       "categories": [
         "panarab",
         "levant",
@@ -128,6 +68,14 @@
           "published": "2026-09-05T13:00:00+00:00"
         },
         {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Moscow has halted its attacks on Kyiv for three days and is urging Washington to consider the reality in any…",
+          "title_he": "",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
+        },
+        {
           "source": "Al Jazeera",
           "category": "panarab",
           "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
@@ -135,7 +83,71 @@
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Putin held 'constructive' talks with US envoys on Ukraine war, Kremlin says.",
+      "summary_he": "פוטין ערך שיחות 'קונסטרוקטיביות' עם שליחי ארה\"ב בנוגע למלחמת אוקראינה, כך מוסר הקרמלין."
+    },
+    {
+      "rank": 2,
+      "outlets": 5,
+      "categories": [
+        "gulf",
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+        "title_he": "",
+        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+        "published": "2026-09-05T14:56:07+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340625/",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "title_he": "",
+          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T14:56:07+00:00"
+        },
+        {
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
+          "published": "2026-09-05T14:45:13+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
+          "published": "2026-09-05T12:51:00+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T10:49:00+00:00"
+        }
+      ],
+      "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי שקט בגדה המערבית."
     },
     {
       "rank": 3,
@@ -186,7 +198,9 @@
           "url": "https://iranintl.com/en/202609042909",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Iran's IRGC Navy issues warning to vessels in the Strait of Hormuz.",
+      "summary_he": "חיל הים של משמרות המהפכה האיראניים מפרסם אזהרה לכלי שיט במצר הורמוז."
     },
     {
       "rank": 4,
@@ -228,41 +242,45 @@
           "url": "https://english.wafa.ps/Pages/Details/174384",
           "published": "2026-09-05T15:41:26+00:00"
         }
-      ]
+      ],
+      "summary": "Gaza death toll reaches 73,651 since October 2023, health ministry says.",
+      "summary_he": "משרד הבריאות בעזה מוסר כי מניין ההרוגים הגיע ל-73,651 מאז אוקטובר 2023."
     },
     {
       "rank": 5,
       "outlets": 2,
       "categories": [
-        "iranian",
-        "turkish"
+        "gulf",
+        "levant"
       ],
       "rep": {
-        "source": "IRNA",
-        "category": "iranian",
-        "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
         "title_he": "",
-        "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
-        "published": "2026-09-05T20:24:34+00:00"
+        "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
+        "published": "2026-09-05T23:02:37+00:00"
       },
       "members": [
         {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
           "title_he": "",
-          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
-          "published": "2026-09-05T20:24:34+00:00"
+          "url": "https://jordantimes.com/news/region/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
+          "published": "2026-09-05T23:02:37+00:00"
         },
         {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Yemeni army recaptures strategic positions from Houthis in Taiz",
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/82574a031fe2",
-          "published": "2026-09-05T11:34:51+00:00"
+          "url": "https://www.arabnews.com/middle-east/fresh-yemen-clashes-kill-more-than-60-military-medical-sources-3000584",
+          "published": "2026-09-05T11:05:51+00:00"
         }
-      ]
+      ],
+      "summary": "Fresh clashes in Yemen kill over 60, military and medical sources report.",
+      "summary_he": "עימותים חדשים בתימן גובים את חייהם של למעלה מ-60 בני אדם, מדווחים מקורות צבאיים ורפואיים."
     }
   ]
 }

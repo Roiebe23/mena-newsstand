@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T01:26:26.852441+00:00",
+  "updated": "2026-09-06T01:58:01.007990+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,22 +167,21 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-06T01:24:44.262461+00:00"
+      "headlines_updated": "2026-09-06T01:55:56.229156+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 11,
-        "title_snippet": 31,
-        "title_translated": 1,
-        "title_native": 87,
-        "dropped_no_english": 2,
+        "dropped_stale": 8,
+        "title_snippet": 34,
+        "title_translated": 2,
+        "title_native": 88,
         "in": 132,
-        "kept": 119
+        "kept": 124
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 33,
+        "requested": 34,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -194,23 +193,8 @@
           "reason": "stale (older than 48h)"
         },
         {
-          "source": "Al Mayadeen",
-          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Al Mayadeen",
-          "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
-          "reason": "stale (older than 48h)"
-        },
-        {
           "source": "Jordan Times",
           "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Jordan Times",
-          "title": "King receives letter from newly appointed chairman of joint chiefs of staff",
           "reason": "stale (older than 48h)"
         },
         {
@@ -242,47 +226,30 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Al Mayadeen",
-          "title": "فرنسا: تظاهرة في باريس تطالب بفرض عقوبات على \"إسرائيل\"",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
-          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 119,
-      "kept": 66,
+      "in": 124,
+      "kept": 68,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Train traffic between Tel Aviv Savidor Center and Netanya has been temporarily suspended due to damage to the…",
+          "title": "Train traffic between Tel Aviv Savidor Center and Netanya has been temporarily halted due to damage to the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "Members of Knesset Moshe Gafni and Uri Maklev have been removed from the Degel HaTorah party by party…",
+          "title": "Members of Knesset Moshe Gafni and Uri Maklev have been removed from the Degel HaTorah party.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "The lists for the Yesh Atid party have been revealed, with the third position following Lapid and Bennett to…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Kan 11",
-          "title": "A projectile was launched in the Eshkol Regional Council area due to a false identification.",
+          "title": "The list for the Yesh Atid party has been revealed, with the top positions indicating the emerging Be-Yachad…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -296,35 +263,35 @@
         },
         {
           "source": "Channel 13",
-          "title": "This entry appears to be a placeholder or error and contains no new information.",
+          "title": "This entry refers to a specific episode of the reality TV show \"The Voice.\"",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "The semi-final performance by Emma Ziza Cohen received praise, with comments suggesting she is deserving of a…",
+          "title": "This entry highlights a performance by Emma Ziza Cohen during the semi-finals of a competition, with a quote…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Tair Amram Shmuel's semi-final performance was noted for her commitment to her own truth throughout the…",
+          "title": "This entry features a performance by Tair Amram Shmuel during the semi-finals, accompanied by a quote about…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Tamir Sari's semi-final performance was described as being of international standard.",
+          "title": "This entry showcases a semi-final performance by Tamir Sari, described with a quote indicating its high…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "5 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "6 , Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -365,15 +332,29 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "IRNA",
-          "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
+          "source": "Al Mayadeen",
+          "title": "Midnight Bulletin",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Mehr News",
-          "title": "Iran warns US citizens against debt recruitment",
+          "source": "Al Mayadeen",
+          "title": "Bloomberg reports that US Treasury bonds are on their worst trajectory since 2006.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "The article questions whether Arab powers and Iran can overcome their differences to confront hegemonic…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "IRNA",
+          "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -396,7 +377,7 @@
           "source": "Iran International",
           "title": "ANALYSIS 'If I'm not happy, they'll execute me': Iran's new grammar of dissent",
           "sec": 0,
-          "off": 1,
+          "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -464,7 +445,7 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "The Chinese President intends to accompany businessmen to Washington.",
+          "title": "The Chinese President intends to bring businessmen to Washington.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -478,14 +459,14 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "Local elections in Germany signal an early end to Merz's era.",
+          "title": "Local elections in Germany may signal an early end to Merz's term.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Lebanese MP Ibrahim Al-Mousawi commented on points sent by the Ministry of Foreign Affairs regarding a…",
+          "title": "Member of the Lebanese Parliament's Foreign Affairs Committee, Ibrahim Al-Mousawi, made a statement regarding…",
           "sec": 0,
           "off": 1,
           "reason": "no security/geopolitics signal"
@@ -513,6 +494,13 @@
         },
         {
           "source": "Falastin al-Youm",
+          "title": "The Palestinian team is close to achieving historic qualification for the U20 Asian Cup.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Falastin al-Youm",
           "title": "The European Union rejects any demographic or territorial changes in Gaza.",
           "sec": 0,
           "off": 0,
@@ -520,14 +508,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "The kidnapping of Arabeed is described as a security operation turning into a battle of consciousness and…",
+          "title": "The article discusses the kidnapping of Arabid, framing it as a security operation that has become a battle…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "Agricultural oversight indicates that the quantities of vegetables and fruits arriving are insufficient for…",
+          "title": "The Agricultural Inspection states that the quantities of vegetables and fruits arriving are insufficient for…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -554,8 +542,15 @@
           "reason": "no security/geopolitics signal"
         },
         {
+          "source": "Gulf News",
+          "title": "Always one step ahead: Deepti Sharma ahead of India-Pakistan clash",
+          "sec": 1,
+          "off": 2,
+          "reason": "off-topic signals outweigh security signals"
+        },
+        {
           "source": "Al-Masirah",
-          "title": "The article discusses how to build a generation that does not accept humiliation and does not justify tyranny.",
+          "title": "The article poses the question of how to build a generation that does not accept humiliation or justify…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -571,7 +566,7 @@
           "source": "Daily Sabah",
           "title": "Robert Pattinson plays creepy TV host in ‘Primetime’ at Venice",
           "sec": 0,
-          "off": 1,
+          "off": 2,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -634,9 +629,9 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 42,
+      "clusters": 44,
       "sizes": [
-        7,
+        8,
         5,
         4,
         3,
@@ -647,7 +642,9 @@
         2,
         2,
         2,
-        2,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -687,6 +684,64 @@
       "candidates": [
         {
           "selected_rank": 1,
+          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "rank_key": {
+            "outlets": 6,
+            "camps": 3,
+            "newest": "2026-09-05T23:46+00:00"
+          },
+          "outlet_names": [
+            "Al Jazeera",
+            "Al-Akhbar",
+            "Anadolu Agency",
+            "Daily Sabah",
+            "SANA",
+            "TRT World"
+          ],
+          "camps": [
+            "panarab",
+            "levant",
+            "turkish"
+          ],
+          "members": 8,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "TRT World",
+            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (ukraine)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Jazeera",
+                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Al-Akhbar",
+                "title": "Moscow has halted its attacks on Kyiv for three days and is urging Washington to",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Anadolu Agency",
+                "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Daily Sabah",
+                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 2,
           "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
           "rank_key": {
             "outlets": 5,
@@ -733,63 +788,6 @@
               {
                 "source": "Daily Sabah",
                 "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": 2,
-          "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-          "rank_key": {
-            "outlets": 5,
-            "camps": 3,
-            "newest": "2026-09-05T23:46+00:00"
-          },
-          "outlet_names": [
-            "Al Jazeera",
-            "Anadolu Agency",
-            "Daily Sabah",
-            "SANA",
-            "TRT World"
-          ],
-          "camps": [
-            "panarab",
-            "levant",
-            "turkish"
-          ],
-          "members": 7,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "TRT World",
-            "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (ukraine)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Jazeera",
-                "title": "3 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Anadolu Agency",
-                "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Daily Sabah",
-                "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "TRT World",
-                "title": "US envoys in Moscow as Russia, Ukraine vow not to hit capitals during talks",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -876,6 +874,44 @@
         },
         {
           "selected_rank": 5,
+          "headline": "Fresh Yemen clashes kill more than 60- military, medical sources",
+          "rank_key": {
+            "outlets": 2,
+            "camps": 2,
+            "newest": "2026-09-05T23:02+00:00"
+          },
+          "outlet_names": [
+            "Arab News",
+            "Jordan Times"
+          ],
+          "camps": [
+            "gulf",
+            "levant"
+          ],
+          "members": 2,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "Jordan Times",
+            "title": "Fresh Yemen clashes kill more than 60- military, medical sources",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (yemen)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Arab News",
+                "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": null,
           "headline": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
           "rank_key": {
             "outlets": 2,
@@ -1013,36 +1049,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "Border Guard soldier David Houvier Amrani, who served in the Judea and Samaria Border Police, was ki",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": "2026-09-05T19:58+00:00"
-          },
-          "outlet_names": [
-            "Kan 11",
-            "N12"
-          ],
-          "camps": [
-            "israeli"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "N12",
-            "title": "Border Guard soldier David Houvier Amrani, who served in the Judea and Samaria Border Police, was killed in…",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": []
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
           "rank_key": {
             "outlets": 2,
@@ -1071,7 +1077,7 @@
             "passed_over": [
               {
                 "source": "Al-Akhbar",
-                "title": "Hezbollah stated that the enemy is trampling the 'framework' of authority, and t",
+                "title": "Hezbollah stated that the enemy is disregarding the framework of authority, and ",
                 "rejected_by": "loaded/partisan wording"
               }
             ]
@@ -1108,16 +1114,52 @@
             "passed_over": [
               {
                 "source": "Al Manar",
-                "title": "The Israeli entity reportedly carried out several attacks in southern Lebanon, t",
+                "title": "The Israeli enemy carried out several attacks in southern Lebanon, with reports ",
                 "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Al Manar",
-                "title": "The Israeli occupation army continued its aggression on southern Lebanon with ex",
+                "title": "The Israeli occupation forces' aggression on southern Lebanon continues with exp",
                 "rejected_by": "loaded/partisan wording"
               }
             ]
           }
+        },
+        {
+          "selected_rank": null,
+          "headline": "The IRGC has warned US warships, stating that their strikes will be more severe than before.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T01:51+00:00"
+          },
+          "outlet_names": [
+            "Al Mayadeen"
+          ],
+          "camps": [
+            "panarab"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "A motorcyclist, approximately 20 years old, was seriously injured while riding at the Kfar Saba-Ra'a",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T01:29+00:00"
+          },
+          "outlet_names": [
+            "Kan 11"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
@@ -1157,7 +1199,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Eitan Davidi, chairman of the Margaliot settlement committee, is described as a prominent voice rega",
+          "headline": "Eitan Davidi, chairman of the Margaliot moshav, is described as a prominent voice in the northern co",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1165,6 +1207,24 @@
           },
           "outlet_names": [
             "N12"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "A Border Police officer, David Hovir Amrani, aged 20, was killed in Netanya.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T19:58+00:00"
+          },
+          "outlet_names": [
+            "Kan 11"
           ],
           "camps": [
             "israeli"
@@ -1193,11 +1253,11 @@
         },
         {
           "selected_rank": null,
-          "headline": "Khatam al-Anbiya has issued a warning to American warships, stating that their strikes will be more ",
+          "headline": "Kallas stated that over 10 European countries are prepared to participate in a new mission to train ",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T19:27+00:00"
+            "newest": "2026-09-05T18:54+00:00"
           },
           "outlet_names": [
             "Al Mayadeen"
@@ -1229,7 +1289,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Prior to a military operation, Winter met with Netanyahu in a hidden apartment and warned of \"15,000",
+          "headline": "Prior to a military operation, a secret meeting occurred between Winter and Netanyahu in a hideout w",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1247,7 +1307,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Iran claims to have struck three oil tankers linked to the United States.",
+          "headline": "Iran claims to have hit three oil tankers linked to the United States.",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1258,24 +1318,6 @@
           ],
           "camps": [
             "israeli"
-          ],
-          "members": 2,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Iran's military, through the Khatam al-Anbiya headquarters, warned that its armed forces' strikes ag",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T17:39+00:00"
-          },
-          "outlet_names": [
-            "Al Mayadeen"
-          ],
-          "camps": [
-            "panarab"
           ],
           "members": 1,
           "qualified": false,
@@ -1300,43 +1342,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "selected_rank": null,
-          "headline": "IRGC denies reports of attack on nuclear facilities in Isfahan",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T14:36+00:00"
-          },
-          "outlet_names": [
-            "IRNA"
-          ],
-          "camps": [
-            "iranian"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Mladic's return to Serbia draws condemnation across Balkans",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T13:13+00:00"
-          },
-          "outlet_names": [
-            "Daily Sabah"
-          ],
-          "camps": [
-            "turkish"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "note": "19 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "21 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1354,7 +1360,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T01:26:40.125437+00:00",
+    "last_success": "2026-09-06T01:59:37.868327+00:00",
     "last_failure": null
   },
   "ok": true

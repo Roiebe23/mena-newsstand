@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T23:29:23.035249+00:00",
+  "updated": "2026-09-06T00:01:18.916798+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,27 +167,32 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-05T23:27:32.663506+00:00"
+      "headlines_updated": "2026-09-05T23:59:33.910511+00:00"
     },
     "normalize": {
       "stats": {
         "dropped_stale": 12,
-        "title_snippet": 32,
+        "title_snippet": 29,
+        "dropped_no_english": 4,
         "title_translated": 1,
-        "dropped_no_english": 2,
-        "title_native": 85,
+        "title_native": 86,
         "in": 132,
-        "kept": 118
+        "kept": 116
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 34,
+        "requested": 33,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
       },
       "dropped": [
+        {
+          "source": "Al Mayadeen",
+          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
+          "reason": "stale (older than 48h)"
+        },
         {
           "source": "Al Mayadeen",
           "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
@@ -229,11 +234,6 @@
           "reason": "stale (older than 48h)"
         },
         {
-          "source": "Arab News",
-          "title": "Trump floats renaming Strait of Hormuz as ‘Trump Strait’",
-          "reason": "stale (older than 48h)"
-        },
-        {
           "source": "Gulf News",
           "title": "Trump boasts ‘unlimited’ US ammunition, warns of more strikes as clashes with Iran flare up again",
           "reason": "stale (older than 48h)"
@@ -249,19 +249,29 @@
           "reason": "stale (older than 48h)"
         },
         {
+          "source": "Kan 11",
+          "title": "בשל נזק לתשתית החשמול: הופסקה זמנית תנועת הרכבות בין ת\"א סבידור מרכז לנתניה",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
           "source": "Channel 13",
-          "title": "\"אתה ראוי ואתה חייב להיות בגמר\": ביצוע חצי הגמר של נאור דואני",
+          "title": "\"ביצוע ברמה של חו\"ל\": ביצוע חצי הגמר של תמיר סרי",
           "reason": "no English text obtainable (title/translation/snippet)"
         },
         {
           "source": "Al Mayadeen",
           "title": "\"خاتم الأنبياء\" محذراً السفن الحربية الأميركية: ضرباتنا ستكون أشد من السابق",
           "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "الرقابة الزراعية: كميات الخضار والفواكه الواردة لا تكفي احتياجات السكان",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 118,
+      "in": 116,
       "kept": 67,
       "dropped": [
         {
@@ -308,14 +318,14 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "4 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "3 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "5 , How big is Africa really? Why the UN voted to change the world map",
+          "title": "6 , Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -343,7 +353,7 @@
         },
         {
           "source": "The New Arab",
-          "title": "Resignations and protests as scandal hits Reform UK conference",
+          "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -360,13 +370,6 @@
           "title": "INSIGHT Xi snub reignites Iran’s doubts about China",
           "sec": 0,
           "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Iran International",
-          "title": "INSIGHT Five years ago, Iran’s planners put today’s crisis on paper",
-          "sec": 0,
-          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -482,6 +485,13 @@
           "reason": "no security/geopolitics signal"
         },
         {
+          "source": "WAFA News",
+          "title": "Warnings over erosion of international legal order amid efforts to isolate ICC",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
           "source": "Falastin al-Youm",
           "title": "A bill is proposed to penalize American universities that boycott \"Israel\".",
           "sec": 0,
@@ -493,13 +503,6 @@
           "title": "Cuba's Foreign Ministry called on Israel to stop killing civilians in Lebanon.",
           "sec": 0,
           "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "The national football team, \"Al-Fida'i,\" is close to historic qualification for the U20 Asian Cup.",
-          "sec": 0,
-          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -547,13 +550,6 @@
         {
           "source": "Al-Masirah",
           "title": "The article discusses how to build a generation that does not accept humiliation or justify tyranny.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Anadolu Agency",
-          "title": "Thousands rally against far-right AfD party in Germany ahead of Saxony-Anhalt state elections",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -616,29 +612,26 @@
         },
         {
           "source": "TRT World",
-          "title": "Tropical cyclone Saudel triggers deadly mudslide in China",
+          "title": "Israel considers new 'security zone' up to 4 km inside Lebanon — report",
           "sec": 0,
           "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
+          "reason": "no security/geopolitics signal"
         }
       ]
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 48,
+      "clusters": 45,
       "sizes": [
+        7,
         6,
         5,
-        4,
         3,
         2,
         2,
         2,
         2,
         2,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -684,6 +677,65 @@
       "candidates": [
         {
           "selected_rank": 1,
+          "headline": "Israeli settlers attack Palestinian journalists",
+          "rank_key": {
+            "outlets": 7,
+            "camps": 4,
+            "newest": "2026-09-05T23:24+00:00"
+          },
+          "outlet_names": [
+            "Al Arabiya",
+            "Anadolu Agency",
+            "Arab News",
+            "Daily Sabah",
+            "Jordan Times",
+            "SANA",
+            "The New Arab"
+          ],
+          "camps": [
+            "gulf",
+            "panarab",
+            "levant",
+            "turkish"
+          ],
+          "members": 7,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "The New Arab",
+            "title": "Israeli settlers attack Palestinian journalists",
+            "title_source": "native",
+            "why": [
+              "names 1 of the story's dominant entities (westbank)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Arabiya",
+                "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Jordan Times",
+                "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "SANA",
+                "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+                "rejected_by": "loaded/partisan wording"
+              },
+              {
+                "source": "Arab News",
+                "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank viol",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 2,
           "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
           "rank_key": {
             "outlets": 6,
@@ -736,60 +788,62 @@
           }
         },
         {
-          "selected_rank": 2,
-          "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "selected_rank": 3,
+          "headline": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
           "rank_key": {
-            "outlets": 5,
-            "camps": 4,
-            "newest": "2026-09-05T19:35+00:00"
+            "outlets": 4,
+            "camps": 2,
+            "newest": "2026-09-05T03:46+00:00"
           },
           "outlet_names": [
-            "Al Arabiya",
+            "Al Manar",
             "Arab News",
-            "Daily Sabah",
-            "Jordan Times",
-            "SANA"
+            "L'Orient Today",
+            "WAFA News"
           ],
           "camps": [
             "gulf",
-            "panarab",
-            "levant",
-            "turkish"
+            "levant"
           ],
           "members": 5,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Jordan Times",
-            "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+            "source": "Arab News",
+            "title": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
             "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (westbank)",
+              "names 1 of the story's dominant entities (hezbollah_south)",
               "mainstream outlet phrasing",
               "outlet's own English headline"
             ],
             "passed_over": [
               {
-                "source": "Al Arabiya",
-                "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+                "source": "L'Orient Today",
+                "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Kat",
                 "rejected_by": "older than the story's newest wave"
               },
               {
-                "source": "SANA",
-                "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+                "source": "Al Manar",
+                "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes targ",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Al Manar",
+                "title": "The \"Zionist entity\" continued its aggression in southern Lebanon with explosion",
                 "rejected_by": "loaded/partisan wording"
               },
               {
-                "source": "Daily Sabah",
-                "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
+                "source": "WAFA News",
+                "title": "Israeli drone strike kills two in southern Lebanon",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
           }
         },
         {
-          "selected_rank": 3,
+          "selected_rank": 4,
           "headline": "Gaza death toll rises to 73,651 since October 2023",
           "rank_key": {
             "outlets": 3,
@@ -819,55 +873,6 @@
               "outlet's own English headline"
             ],
             "passed_over": []
-          }
-        },
-        {
-          "selected_rank": 4,
-          "headline": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
-          "rank_key": {
-            "outlets": 3,
-            "camps": 2,
-            "newest": "2026-09-05T03:46+00:00"
-          },
-          "outlet_names": [
-            "Al Manar",
-            "Arab News",
-            "L'Orient Today"
-          ],
-          "camps": [
-            "gulf",
-            "levant"
-          ],
-          "members": 4,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Arab News",
-            "title": "Has Israel’s claimed capture of Ali Al-Taher changed military equation in south Lebanon?",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah_south)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "L'Orient Today",
-                "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Kat",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Manar",
-                "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes targ",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Manar",
-                "title": "The \"Zionist entity\" continued its aggression in southern Lebanon with explosion",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
           }
         },
         {
@@ -910,6 +915,44 @@
         },
         {
           "selected_rank": null,
+          "headline": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
+          "rank_key": {
+            "outlets": 2,
+            "camps": 2,
+            "newest": "2026-09-05T20:08+00:00"
+          },
+          "outlet_names": [
+            "Anadolu Agency",
+            "Iran International"
+          ],
+          "camps": [
+            "iranian",
+            "turkish"
+          ],
+          "members": 2,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "Anadolu Agency",
+            "title": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (hormuz)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Iran International",
+                "title": "ANALYSIS Could Hormuz offer a way out of the US-Iran war?",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": null,
           "headline": "Sanctions or illusion? US claim on Iran’s financial lifeline",
           "rank_key": {
             "outlets": 2,
@@ -941,43 +984,6 @@
                 "source": "Al Arabiya",
                 "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline",
                 "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Israeli forces demolish Palestinian homes in West Bank",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-05T05:28+00:00"
-          },
-          "outlet_names": [
-            "The New Arab",
-            "WAFA News"
-          ],
-          "camps": [
-            "panarab",
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "The New Arab",
-            "title": "Israeli forces demolish Palestinian homes in West Bank",
-            "title_source": "native",
-            "why": [
-              "names 1 of the story's dominant entities (westbank)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "WAFA News",
-                "title": "Israeli forces detain Palestinian resident as colonist vandalizes property near ",
-                "rejected_by": "loaded/partisan wording"
               }
             ]
           }
@@ -1046,6 +1052,24 @@
         },
         {
           "selected_rank": null,
+          "headline": "Israel weighs new ‘security zone’ up to 4 kilometers inside Lebanon: Report",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T20:14+00:00"
+          },
+          "outlet_names": [
+            "Anadolu Agency"
+          ],
+          "camps": [
+            "turkish"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
           "headline": "An Israeli soldier opened fire on occupation police officers in Netanya.",
           "rank_key": {
             "outlets": 1,
@@ -1057,24 +1081,6 @@
           ],
           "camps": [
             "panarab"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Iran says it hit 3 oil tankers in Hormuz, 3 US-linked vessels in response to American attacks",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:08+00:00"
-          },
-          "outlet_names": [
-            "Anadolu Agency"
-          ],
-          "camps": [
-            "turkish"
           ],
           "members": 1,
           "qualified": false,
@@ -1226,17 +1232,17 @@
         },
         {
           "selected_rank": null,
-          "headline": "Israeli army raids central West Bank village as occupiers steal water tanks",
+          "headline": "Iran's military spokesperson warned that Iranian armed forces' strikes against US warships in the re",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T17:49+00:00"
+            "newest": "2026-09-05T17:39+00:00"
           },
           "outlet_names": [
-            "Anadolu Agency"
+            "Al Mayadeen"
           ],
           "camps": [
-            "turkish"
+            "panarab"
           ],
           "members": 1,
           "qualified": false,
@@ -1244,14 +1250,14 @@
         },
         {
           "selected_rank": null,
-          "headline": "Following American attacks, Iran has threatened to increase attacks against the United States if the",
+          "headline": "Sergeant David Hawayer Amrani, a Border Police fighter, was killed in an incident in Netanya.",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T17:47+00:00"
+            "newest": "2026-09-05T16:34+00:00"
           },
           "outlet_names": [
-            "Kan 11"
+            "N12"
           ],
           "camps": [
             "israeli"
@@ -1261,7 +1267,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "27 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "24 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1279,7 +1285,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-05T23:29:37.283505+00:00",
+    "last_success": "2026-09-06T00:01:47.969263+00:00",
     "last_failure": null
   },
   "ok": true

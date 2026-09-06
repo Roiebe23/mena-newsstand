@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:54:18.970651+00:00",
+  "updated": "2026-09-06T13:25:45.807839+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -23,7 +23,7 @@
         {
           "source": "N12",
           "category": "israeli",
-          "title": "The United States conducted a covert operation in the Strait of Hormuz to clear mines.",
+          "title": "The \"Financial Times\" revealed a complex operation led by the United States in the Strait of Hormuz in recent…",
           "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
           "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
           "published": "2026-09-06T11:40:00+00:00"
@@ -69,8 +69,8 @@
           "published": ""
         }
       ],
-      "summary": "United States conducted covert mine-clearing operation in Strait of Hormuz.",
-      "summary_he": "ארצות הברית ערכה מבצע חשאי לפינוי מוקשים במצר הורמוז."
+      "summary": "Iran attacked a US naval drone in the Strait of Hormuz.",
+      "summary_he": "איראן תקפה מל\"ט ימי אמריקאי במצר הורמוז."
     },
     {
       "rank": 2,
@@ -84,7 +84,7 @@
       "rep": {
         "source": "Falastin al-Youm",
         "category": "levant",
-        "title": "Settlers have stormed the Al-Aqsa Mosque.",
+        "title": "Settlers stormed the Al-Aqsa Mosque.",
         "title_he": "",
         "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
         "published": "2026-09-06T10:30:00+00:00"
@@ -93,7 +93,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Settlers have stormed the Al-Aqsa Mosque.",
+          "title": "Settlers stormed the Al-Aqsa Mosque.",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
           "published": "2026-09-06T10:30:00+00:00"
@@ -139,11 +139,63 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Settlers stormed Al-Aqsa Mosque.",
+      "summary": "Settlers stormed the Al-Aqsa Mosque.",
       "summary_he": "מתנחלים הסתערו על מסגד אל-אקצא."
     },
     {
       "rank": 3,
+      "outlets": 4,
+      "categories": [
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "TRT World",
+        "category": "turkish",
+        "title": "US envoys make first Kiev visit amid Ukraine war peace push",
+        "title_he": "",
+        "url": "https://www.trtworld.com/article/12a699504550",
+        "published": "2026-09-06T13:08:30+00:00"
+      },
+      "members": [
+        {
+          "source": "Egypt Independent",
+          "category": "levant",
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "title_he": "",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "published": "2026-09-06T13:20:46+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "US envoys make first Kiev visit amid Ukraine war peace push",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/12a699504550",
+          "published": "2026-09-06T13:08:30+00:00"
+        },
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+          "published": "2026-09-06T11:21:10+00:00"
+        },
+        {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Moscow has paused its attacks on Kyiv for three days and called on Washington to consider the reality in any…",
+          "title_he": "",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
+        }
+      ],
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for diplomacy.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לדיפלומטיה."
+    },
+    {
+      "rank": 4,
       "outlets": 3,
       "categories": [
         "panarab",
@@ -184,96 +236,52 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "Putin met US envoys for Ukraine war talks.",
-      "summary_he": "פוטין נפגש עם שליחים אמריקאים לשיחות על מלחמת אוקראינה."
-    },
-    {
-      "rank": 4,
-      "outlets": 3,
-      "categories": [
-        "iranian",
-        "turkish"
-      ],
-      "rep": {
-        "source": "TRT World",
-        "category": "turkish",
-        "title": "US blockade could cost Washington more than Iran, IRGC says",
-        "title_he": "",
-        "url": "https://www.trtworld.com/article/9e785eca8f2b",
-        "published": "2026-09-06T07:45:05+00:00"
-      },
-      "members": [
-        {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "US blockade could cost Washington more than Iran, IRGC says",
-          "title_he": "",
-          "url": "https://www.trtworld.com/article/9e785eca8f2b",
-          "published": "2026-09-06T07:45:05+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-us-economic-blockade-could-cost-washington-more-than-tehran/4048542",
-          "published": "2026-09-06T07:09:35+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "published": "2026-09-06T05:00:48+00:00"
-        }
-      ],
-      "summary": "Iran's IRGC says US blockade could cost Washington more than Iran.",
-      "summary_he": "משמרות המהפכה האיראניים אומרים כי מצור אמריקאי עלול לעלות לוושינגטון יותר מאשר לאיראן."
+      "summary": "Putin held Ukraine war talks with US envoys.",
+      "summary_he": "פוטין קיים שיחות מלחמה באוקראינה עם שליחי ארה\"ב."
     },
     {
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "iranian",
-        "levant"
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "SANA",
+        "source": "Egypt Independent",
         "category": "levant",
-        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
         "title_he": "",
-        "url": "https://sana.sy/en/middle-east/2340621/",
-        "published": "2026-09-05T19:22:55+00:00"
+        "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+        "published": "2026-09-06T13:02:11+00:00"
       },
       "members": [
         {
-          "source": "SANA",
+          "source": "Egypt Independent",
           "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
           "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340621/",
-          "published": "2026-09-05T19:22:55+00:00"
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+          "published": "2026-09-06T13:02:11+00:00"
         },
         {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Türkiye, 7 nations condemn Israeli ministers' calls to displace Palestinians from Gaza",
           "title_he": "",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "published": "2026-09-05T17:05:27+00:00"
+          "url": "https://www.aa.com.tr/en/turkiye/turkiye-7-nations-condemn-israeli-ministers-calls-to-displace-palestinians-from-gaza/4048804",
+          "published": "2026-09-06T11:17:57+00:00"
         },
         {
           "source": "WAFA News",
           "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
-          "published": "2026-09-05T15:41:26+00:00"
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "published": "2026-09-06T10:04:45+00:00"
         }
       ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023, health ministry says.",
-      "summary_he": "מניין ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023, לדברי משרד הבריאות."
+      "summary": "Eight countries condemn Israeli ministers' Gaza displacement proposals.",
+      "summary_he": "שמונה מדינות גינו הצעות של שרים ישראלים לעקירת תושבי עזה."
     }
   ]
 }

@@ -1,87 +1,9 @@
 {
-  "updated": "2026-09-06T00:01:47.968185+00:00",
+  "updated": "2026-09-06T00:24:24.535159+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 7,
-      "categories": [
-        "gulf",
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "The New Arab",
-        "category": "panarab",
-        "title": "Israeli settlers attack Palestinian journalists",
-        "title_he": "",
-        "url": "https://www.newarab.com/shorts-video/israeli-settlers-attack-palestinian-journalists",
-        "published": "2026-09-04T00:03:31+00:00"
-      },
-      "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Israeli occupiers attack journalists, Palestinian children at West Bank playground",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-journalists-palestinian-children-at-west-bank-playground/4048496",
-          "published": "2026-09-05T23:24:48+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340625/",
-          "published": "2026-09-05T19:35:16+00:00"
-        },
-        {
-          "source": "Jordan Times",
-          "category": "levant",
-          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-          "title_he": "",
-          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T14:51:34+00:00"
-        },
-        {
-          "source": "Arab News",
-          "category": "gulf",
-          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
-          "published": "2026-09-05T14:45:13+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
-          "published": "2026-09-05T12:51:00+00:00"
-        },
-        {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-          "title_he": "",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-          "published": "2026-09-05T10:49:00+00:00"
-        },
-        {
-          "source": "The New Arab",
-          "category": "panarab",
-          "title": "Israeli settlers attack Palestinian journalists",
-          "title_he": "",
-          "url": "https://www.newarab.com/shorts-video/israeli-settlers-attack-palestinian-journalists",
-          "published": "2026-09-04T00:03:31+00:00"
-        }
-      ],
-      "summary": "Israeli settlers attacked journalists and Palestinian children in a West Bank playground.",
-      "summary_he": "מתנחלים ישראלים תקפו עיתונאים וילדים פלסטינים בגן שעשועים בגדה המערבית."
-    },
-    {
-      "rank": 2,
       "outlets": 6,
       "categories": [
         "panarab",
@@ -132,7 +54,7 @@
         {
           "source": "Al-Akhbar",
           "category": "levant",
-          "title": "Moscow will halt attacks on Kyiv for three days and urges Washington to consider the reality in any…",
+          "title": "Moscow has halted attacks on Kyiv for three days and is urging Washington to consider the reality in any…",
           "title_he": "",
           "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
           "published": "2026-09-05T11:03:00+00:00"
@@ -145,9 +67,67 @@
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
+      ]
+    },
+    {
+      "rank": 2,
+      "outlets": 5,
+      "categories": [
+        "gulf",
+        "panarab",
+        "levant",
+        "turkish"
       ],
-      "summary": "Putin and US envoys discuss ceasefire efforts in sixth round of Ukraine talks.",
-      "summary_he": "פוטין ושליחי ארה\"ב דנים במאמצי הפסקת אש בסבב שיחות שישי באוקראינה."
+      "rep": {
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+        "title_he": "",
+        "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+        "published": "2026-09-05T14:51:34+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340625/",
+          "published": "2026-09-05T19:35:16+00:00"
+        },
+        {
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "title_he": "",
+          "url": "https://jordantimes.com/news/local/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T14:51:34+00:00"
+        },
+        {
+          "source": "Arab News",
+          "category": "gulf",
+          "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://www.arabnews.com/middle-east/us-ambassador-calls-for-israel-to-face-severe-consequences-over-west-bank-violence-3000575",
+          "published": "2026-09-05T14:45:13+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/mid-east/huckabee-urges-severe-consequences-over-west-bank-violence",
+          "published": "2026-09-05T12:51:00+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
+          "published": "2026-09-05T10:49:00+00:00"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -184,15 +164,15 @@
         {
           "source": "L'Orient Today",
           "category": "levant",
-          "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Katz declares",
+          "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil tankers after attacks on two US Navy ships | LIVE",
           "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546614/ali-taher-capture-buffer-zone-in-south-lebanon-is-complete-katz-declares.html",
+          "url": "https://today.lorientlejour.com/article/1546649/three-demolitions-in-mansouri-after-overnight-israeli-strikes-kill-and-wound-several-in-southern-lebanon-multiple-explosions-heard-near-kharg-island-l.html",
           "published": ""
         },
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, with warplanes targeting areas.",
           "title_he": "",
           "url": "https://www.almanar.com.lb/article/1152587/",
           "published": ""
@@ -200,14 +180,20 @@
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "The \"Zionist entity\" continued its aggression in southern Lebanon with explosions and artillery shelling…",
+          "title": "The Israeli occupation forces' aggression on southern Lebanon continues with explosions and artillery…",
           "title_he": "",
           "url": "https://www.almanar.com.lb/article/1151682/",
           "published": ""
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Katz declares",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546614/ali-taher-capture-buffer-zone-in-south-lebanon-is-complete-katz-declares.html",
+          "published": ""
         }
-      ],
-      "summary": "Israel claimed capture of Ali Al-Taher in south Lebanon.",
-      "summary_he": "ישראל טוענת כי לכדה את עלי א-טאהר בדרום לבנון."
+      ]
     },
     {
       "rank": 4,
@@ -249,9 +235,7 @@
           "url": "https://english.wafa.ps/Pages/Details/174384",
           "published": "2026-09-05T15:41:26+00:00"
         }
-      ],
-      "summary": "Gaza death toll rises to 73,651 since October 2023.",
-      "summary_he": "מספר ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023."
+      ]
     },
     {
       "rank": 5,
@@ -285,9 +269,7 @@
           "url": "https://www.trtworld.com/article/82574a031fe2",
           "published": "2026-09-05T11:34:51+00:00"
         }
-      ],
-      "summary": "Yemeni army launches drone attack in Taiz.",
-      "summary_he": "צבא תימן פתח במתקפת מזל\"טים בתיז."
+      ]
     }
   ]
 }

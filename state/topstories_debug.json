@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:01:18.916798+00:00",
+  "updated": "2026-09-06T00:24:11.146651+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -121,7 +121,7 @@
         "Syria Direct": {
           "headlines": 5,
           "lang": "en",
-          "stale": false,
+          "stale": true,
           "error": null
         },
         "Arab News": {
@@ -167,17 +167,16 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-05T23:59:33.910511+00:00"
+      "headlines_updated": "2026-09-06T00:22:31.495369+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 12,
-        "title_snippet": 29,
-        "dropped_no_english": 4,
+        "dropped_stale": 13,
+        "title_snippet": 33,
         "title_translated": 1,
-        "title_native": 86,
+        "title_native": 85,
         "in": 132,
-        "kept": 116
+        "kept": 119
       },
       "translator": {
         "configured": true,
@@ -188,6 +187,11 @@
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
       },
       "dropped": [
+        {
+          "source": "The New Arab",
+          "title": "Israeli forces demolish Palestinian homes in West Bank",
+          "reason": "stale (older than 48h)"
+        },
         {
           "source": "Al Mayadeen",
           "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
@@ -200,12 +204,12 @@
         },
         {
           "source": "Jordan Times",
-          "title": "RCJA warns Israeli curriculum threatens East Jerusalem’s Arab-Palestinian identity",
+          "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
           "reason": "stale (older than 48h)"
         },
         {
           "source": "Jordan Times",
-          "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
+          "title": "King receives letter from newly appointed chairman of joint chiefs of staff",
           "reason": "stale (older than 48h)"
         },
         {
@@ -247,43 +251,37 @@
           "source": "TRT World",
           "title": "US launches 'large and powerful' strikes as Trump warns Iran against retaliation",
           "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Kan 11",
-          "title": "בשל נזק לתשתית החשמול: הופסקה זמנית תנועת הרכבות בין ת\"א סבידור מרכז לנתניה",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Channel 13",
-          "title": "\"ביצוע ברמה של חו\"ל\": ביצוע חצי הגמר של תמיר סרי",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Al Mayadeen",
-          "title": "\"خاتم الأنبياء\" محذراً السفن الحربية الأميركية: ضرباتنا ستكون أشد من السابق",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "الرقابة الزراعية: كميات الخضار والفواكه الواردة لا تكفي احتياجات السكان",
-          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 116,
-      "kept": 67,
+      "in": 119,
+      "kept": 66,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Members of Knesset Moshe Gafni and Uri Maklev have been removed from the \"Degel HaTorah\" party by party…",
+          "title": "Sgt.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "Following Benjamin Netanyahu and Naftali Bennett, the third position on the \"Yash Atid\" list will be taken by…",
+          "title": "Train traffic between Tel Aviv Savidor Center and Netanya has been temporarily halted due to damage to the…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Kan 11",
+          "title": "Members of Knesset Moshe Gafni and Uri Maklev have been removed from the Degel HaTorah party by party…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Kan 11",
+          "title": "Following Benjamin Netanyahu and Naftali Bennett, the third position on the list will be from Bennett's list…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -297,35 +295,42 @@
         },
         {
           "source": "Channel 13",
-          "title": "This entry is a placeholder for The Voice, Season 6, Episode 25: The Final Event.",
+          "title": "The final event of \"The Voice,\" season 6, episode 25, is available for viewing.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Emma Ziza Cohen's semi-final performance on The Voice was described as worthy of the final.",
+          "title": "Emma Ziza Cohen's semi-final performance was praised, with comments stating she is worthy of being in the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "Tair Amram Shmuel's semi-final performance on The Voice was praised for her authenticity throughout the…",
+          "title": "Tair Amram Shmuel's semi-final performance was highlighted, noting she has stayed true to herself throughout…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Channel 13",
+          "title": "Tamar Sari's semi-final performance was described as being of international caliber.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "3 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+          "title": "4 , Iran President Pezeshkian calls for unity as US ramps up economic pressure",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "6 , Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+          "title": "6 , Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -354,6 +359,13 @@
         {
           "source": "The New Arab",
           "title": "Calls grow for Miliband to halt Israel arm sales after Gaza plea",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "The New Arab",
+          "title": "The Canary suspends operations after second bank account block",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -425,7 +437,7 @@
           "source": "Egypt Independent",
           "title": "Naglaa Fathi – The eternal sweetheart",
           "sec": 0,
-          "off": 0,
+          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -444,37 +456,30 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "The Chinese president intends to bring businessmen to Washington.",
+          "title": "The Chinese President intends to bring businessmen to Washington.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al-Akhbar",
-          "title": "An \"Israeli belt\" is reportedly stretching across Africa from Somaliland to Cameroon.",
+          "title": "An 'Israeli belt' is described as stretching across Africa, from Somaliland in the east to Cameroon in the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al-Akhbar",
-          "title": "Local elections in Germany signal an early end to the era of Friedrich Merz.",
+          "title": "The local elections in Germany signal an early end to Merz's era.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Lebanese MP Ibrahim Al-Moussawi commented on draft clauses sent by the Ministry of Foreign Affairs to the…",
+          "title": "Member of Parliament Dr.",
           "sec": 0,
           "off": 1,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al Manar",
-          "title": "In Gaza, Palestinians are attempting to cultivate land between tents and rubble to address wartime losses.",
-          "sec": 0,
-          "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -493,14 +498,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A bill is proposed to penalize American universities that boycott \"Israel\".",
+          "title": "A bill is being considered that would penalize American universities that boycott Israel.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "Cuba's Foreign Ministry called on Israel to stop killing civilians in Lebanon.",
+          "title": "Cuba's Ministry of Foreign Affairs calls on Israel to stop killing civilians in Lebanon.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -514,7 +519,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "The operation in Al-Arabeed is described as a security operation becoming a battle of awareness and will.",
+          "title": "The kidnapping of Ararid is framed as a security operation turning into a battle for consciousness and will.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "Agricultural supervision states that the quantities of vegetables and fruits received are insufficient to…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -535,13 +547,6 @@
         },
         {
           "source": "Gulf News",
-          "title": "India beat Pakistan in low-scoring Asia Cup clash in Dubai",
-          "sec": 1,
-          "off": 2,
-          "reason": "off-topic signals outweigh security signals"
-        },
-        {
-          "source": "Gulf News",
           "title": "Best travel pillows and flight comfort kit on amazon.ae 2026: 5 picks for long-haul flights",
           "sec": 0,
           "off": 0,
@@ -549,7 +554,14 @@
         },
         {
           "source": "Al-Masirah",
-          "title": "The article discusses how to build a generation that does not accept humiliation or justify tyranny.",
+          "title": "The article questions how to build a generation that does not accept humiliation and does not justify tyranny.",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Anadolu Agency",
+          "title": "Israel weighs new ‘security zone’ up to 4 kilometers inside Lebanon: Report",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -558,7 +570,7 @@
           "source": "Daily Sabah",
           "title": "Robert Pattinson plays creepy TV host in ‘Primetime’ at Venice",
           "sec": 0,
-          "off": 1,
+          "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -621,20 +633,18 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 45,
+      "clusters": 43,
       "sizes": [
-        7,
+        6,
         6,
         5,
+        3,
         3,
         2,
         2,
         2,
         2,
         2,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -677,65 +687,6 @@
       "candidates": [
         {
           "selected_rank": 1,
-          "headline": "Israeli settlers attack Palestinian journalists",
-          "rank_key": {
-            "outlets": 7,
-            "camps": 4,
-            "newest": "2026-09-05T23:24+00:00"
-          },
-          "outlet_names": [
-            "Al Arabiya",
-            "Anadolu Agency",
-            "Arab News",
-            "Daily Sabah",
-            "Jordan Times",
-            "SANA",
-            "The New Arab"
-          ],
-          "camps": [
-            "gulf",
-            "panarab",
-            "levant",
-            "turkish"
-          ],
-          "members": 7,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "The New Arab",
-            "title": "Israeli settlers attack Palestinian journalists",
-            "title_source": "native",
-            "why": [
-              "names 1 of the story's dominant entities (westbank)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Arabiya",
-                "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Jordan Times",
-                "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "SANA",
-                "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-                "rejected_by": "loaded/partisan wording"
-              },
-              {
-                "source": "Arab News",
-                "title": "US ambassador calls for Israel to face ‘severe consequences’ over West Bank viol",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": 2,
           "headline": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
           "rank_key": {
             "outlets": 6,
@@ -776,12 +727,65 @@
               },
               {
                 "source": "Al-Akhbar",
-                "title": "Moscow will halt attacks on Kyiv for three days and urges Washington to consider",
+                "title": "Moscow has halted attacks on Kyiv for three days and is urging Washington to con",
                 "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Daily Sabah",
                 "title": "Putin orders 72-hour halt to strikes on Kyiv as US envoys arrive",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 2,
+          "headline": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+          "rank_key": {
+            "outlets": 5,
+            "camps": 4,
+            "newest": "2026-09-05T19:35+00:00"
+          },
+          "outlet_names": [
+            "Al Arabiya",
+            "Arab News",
+            "Daily Sabah",
+            "Jordan Times",
+            "SANA"
+          ],
+          "camps": [
+            "gulf",
+            "panarab",
+            "levant",
+            "turkish"
+          ],
+          "members": 5,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "Jordan Times",
+            "title": "US ambassador calls for 'severe consequences' to stop West Bank violence",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (westbank)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Al Arabiya",
+                "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "SANA",
+                "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+                "rejected_by": "loaded/partisan wording"
+              },
+              {
+                "source": "Daily Sabah",
+                "title": "Huckabee urges ‘severe consequences’ over West Bank violence",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -805,7 +809,7 @@
             "gulf",
             "levant"
           ],
-          "members": 5,
+          "members": 6,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -821,17 +825,17 @@
             "passed_over": [
               {
                 "source": "L'Orient Today",
-                "title": "SOUTH LEBANON Ali Taher capture: 'Buffer zone' in south Lebanon is complete, Kat",
+                "title": "LIVE Explosions near Kharg Island: US military says it destroyed three IRGC oil ",
                 "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Al Manar",
-                "title": "The \"enemy\" carried out several attacks in southern Lebanon, with warplanes targ",
+                "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, w",
                 "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "Al Manar",
-                "title": "The \"Zionist entity\" continued its aggression in southern Lebanon with explosion",
+                "title": "The Israeli occupation forces' aggression on southern Lebanon continues with exp",
                 "rejected_by": "loaded/partisan wording"
               },
               {
@@ -953,6 +957,37 @@
         },
         {
           "selected_rank": null,
+          "headline": "Iran's military command warned that if the naval blockade continues, their attacks will be more seve",
+          "rank_key": {
+            "outlets": 2,
+            "camps": 2,
+            "newest": "2026-09-05T19:27+00:00"
+          },
+          "outlet_names": [
+            "Al Mayadeen",
+            "N12"
+          ],
+          "camps": [
+            "israeli",
+            "panarab"
+          ],
+          "members": 3,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "N12",
+            "title": "Iran's military command warned that if the naval blockade continues, their attacks will be more severe than…",
+            "title_source": "snippet",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "neutral-by-default outlet",
+              "derived from the outlet's English snippet"
+            ],
+            "passed_over": []
+          }
+        },
+        {
+          "selected_rank": null,
           "headline": "Sanctions or illusion? US claim on Iran’s financial lifeline",
           "rank_key": {
             "outlets": 2,
@@ -1052,35 +1087,17 @@
         },
         {
           "selected_rank": null,
-          "headline": "Israel weighs new ‘security zone’ up to 4 kilometers inside Lebanon: Report",
+          "headline": "Israeli occupiers attack journalists, Palestinian children at West Bank playground",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T20:14+00:00"
+            "newest": "2026-09-05T23:24+00:00"
           },
           "outlet_names": [
             "Anadolu Agency"
           ],
           "camps": [
             "turkish"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "An Israeli soldier opened fire on occupation police officers in Netanya.",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T20:09+00:00"
-          },
-          "outlet_names": [
-            "Al Mayadeen"
-          ],
-          "camps": [
-            "panarab"
           ],
           "members": 1,
           "qualified": false,
@@ -1096,24 +1113,6 @@
           },
           "outlet_names": [
             "N12"
-          ],
-          "camps": [
-            "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Sergeant David Hawayer Amrani, a 20-year-old Border Police fighter, was killed in Netanya after open",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T19:58+00:00"
-          },
-          "outlet_names": [
-            "Kan 11"
           ],
           "camps": [
             "israeli"
@@ -1142,6 +1141,24 @@
         },
         {
           "selected_rank": null,
+          "headline": "More than 10 European countries are prepared to participate in a new mission to train the Lebanese a",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T18:54+00:00"
+          },
+          "outlet_names": [
+            "Al Mayadeen"
+          ],
+          "camps": [
+            "panarab"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
           "headline": "US strikes three Iranian oil tankers after IRGC attack on naval ships",
           "rank_key": {
             "outlets": 1,
@@ -1160,7 +1177,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Steve Witkoff met with Benjamin Netanyahu in a secret location without his commanders' approval, war",
+          "headline": "Winter met with Netanyahu in a secret location and warned of \"15,000 dead\" and abducted soldiers.",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1196,25 +1213,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Iran claims to have hit three oil tankers linked to the United States.",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-05T18:01+00:00"
-          },
-          "outlet_names": [
-            "N12"
-          ],
-          "camps": [
-            "israeli"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "A missile was launched in the Eshkol Regional Council area due to a false identification.",
+          "headline": "An interceptor missile was launched in the Eshkol Regional Council area due to a false identificatio",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1232,17 +1231,17 @@
         },
         {
           "selected_rank": null,
-          "headline": "Iran's military spokesperson warned that Iranian armed forces' strikes against US warships in the re",
+          "headline": "India beat Pakistan in low-scoring Asia Cup clash in Dubai",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
-            "newest": "2026-09-05T17:39+00:00"
+            "newest": "2026-09-05T16:54+00:00"
           },
           "outlet_names": [
-            "Al Mayadeen"
+            "Gulf News"
           ],
           "camps": [
-            "panarab"
+            "gulf"
           ],
           "members": 1,
           "qualified": false,
@@ -1250,7 +1249,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Sergeant David Hawayer Amrani, a Border Police fighter, was killed in an incident in Netanya.",
+          "headline": "Border police officer David Hoayer Amrani, who served in the West Bank, was not known to his command",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1267,7 +1266,43 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "24 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "selected_rank": null,
+          "headline": "The United States attacked three Iranian oil tankers, releasing footage of the operation.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T16:30+00:00"
+          },
+          "outlet_names": [
+            "N12"
+          ],
+          "camps": [
+            "israeli"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-05T14:17+00:00"
+          },
+          "outlet_names": [
+            "Al Arabiya"
+          ],
+          "camps": [
+            "panarab"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "note": "21 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1285,7 +1320,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-06T00:01:47.969263+00:00",
+    "last_success": "2026-09-06T00:24:24.536334+00:00",
     "last_failure": null
   },
   "ok": true

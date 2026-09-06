@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T04:38:16.532704+00:00",
+  "updated": "2026-09-06T04:55:43.510955+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -11,22 +11,14 @@
         "turkish"
       ],
       "rep": {
-        "source": "TRT World",
+        "source": "Anadolu Agency",
         "category": "turkish",
-        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+        "title": "Putin begins Ukraine war talks with US envoys Witkoff, Kushner in Moscow",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
-        "published": "2026-09-05T22:56:52+00:00"
+        "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-begins-ukraine-war-talks-with-us-envoys-witkoff-kushner-in-moscow/4048365",
+        "published": "2026-09-05T17:37:45+00:00"
       },
       "members": [
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Putin's talks with US envoys ‘constructive’: Kremlin aide",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/world/putins-talks-with-us-envoys-constructive-kremlin-aide/4048498",
-          "published": "2026-09-05T23:46:44+00:00"
-        },
         {
           "source": "TRT World",
           "category": "turkish",
@@ -84,8 +76,8 @@
           "published": ""
         }
       ],
-      "summary": "Kremlin aide describes Putin's talks with US envoys on Ukraine as 'constructive'.",
-      "summary_he": "עוזר בקרמלין תיאר את שיחותיו של פוטין עם שליחי ארה\"ב בנושא אוקראינה כ'קונסטרוקטיביות'."
+      "summary": "Kremlin says Putin held 'extremely frank' talks with US envoys on Ukraine war.",
+      "summary_he": "הקרמלין מדווח כי פוטין קיים שיחות 'גלויות ביותר' עם שליחי ארה\"ב בנוגע למלחמת אוקראינה."
     },
     {
       "rank": 2,
@@ -147,7 +139,7 @@
         }
       ],
       "summary": "US ambassador calls violent Israeli settlers 'terrorists' amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'טרוריסטים' על רקע אי שקט בגדה המערבית."
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים 'מחבלים' על רקע המהומות בגדה המערבית."
     },
     {
       "rank": 3,
@@ -207,8 +199,8 @@
           "published": ""
         }
       ],
-      "summary": "IRGC Navy issues stark warning to vessels in Hormuz after reported tanker attacks.",
-      "summary_he": "חיל הים של משמרות המהפכה מפרסם אזהרה חמורה לכלי שיט במיצר הורמוז לאחר דיווחים על תקיפת מכליות."
+      "summary": "Iran's IRGC Navy issues stark warning to vessels in the Strait of Hormuz.",
+      "summary_he": "הצי של משמרות המהפכה האיראניים מפרסם אזהרה חמורה לכלי שיט במצר הורמוז."
     },
     {
       "rank": 4,
@@ -220,47 +212,47 @@
       "rep": {
         "source": "Kan 11",
         "category": "israeli",
-        "title": "The Israeli military reported that Hezbollah launched two explosive drones towards forces in southern Lebanon.",
-        "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
-        "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-        "published": "2026-09-06T03:30:54+00:00"
+        "title": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of the…",
+        "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
+        "url": "https://kan.org.il/content/kan-news/global/1096407/",
+        "published": "2026-09-06T04:48:20+00:00"
       },
       "members": [
         {
           "source": "Kan 11",
           "category": "israeli",
-          "title": "The Israeli military reported that Hezbollah launched two explosive drones towards forces in southern Lebanon.",
-          "title_he": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון, צה\"ל תוקף בתגובה",
-          "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-          "published": "2026-09-06T03:30:54+00:00"
+          "title": "A prominent Lebanese figure, Minister of Foreign Affairs Yousef Raji, who is a strong opponent of the…",
+          "title_he": "בכיר לבנוני המתנגד לחיזבאללה קיבל איומים: \"קיים חשש שינסו לפגוע בו\"",
+          "url": "https://kan.org.il/content/kan-news/global/1096407/",
+          "published": "2026-09-06T04:48:20+00:00"
         },
         {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:48:26+00:00"
+          "source": "Kan 11",
+          "category": "israeli",
+          "title": "Hezbollah is trying to downplay the importance of the Ali Taher ridge after Israel gained control.",
+          "title_he": "גורם פוליטי בלבנון: אובדן רכס עלי טאהר",
+          "url": "https://kan.org.il/content/kan-news/defense/1096321/",
+          "published": "2026-09-05T17:10:37+00:00"
         },
         {
-          "source": "Al Manar",
+          "source": "Al-Akhbar",
           "category": "levant",
-          "title": "The Israeli entity carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "title": "Hezbollah stated that the enemy is trampling the framework of authority, and releasing prisoners does not…",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
-          "published": ""
+          "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
+          "published": "2026-09-05T11:57:09+00:00"
         },
         {
-          "source": "Al Manar",
+          "source": "L'Orient Today",
           "category": "levant",
-          "title": "The Israeli occupation forces continued their aggression in southern Lebanon, with explosions and artillery…",
+          "title": "ANALYSIS When Hezbollah questions its decision to back Joseph Aoun for president",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1151682/",
+          "url": "https://today.lorientlejour.com/article/1546654/when-hezbollah-questions-its-decision-to-back-joseph-aoun-for-president.html",
           "published": ""
         }
       ],
-      "summary": "Israeli military reports Hezbollah launched two explosive drones towards forces in southern Lebanon.",
-      "summary_he": "צבא ישראל דיווח כי חיזבאללה שיגר שני רחפני נפץ לעבר כוחות בדרום לבנון."
+      "summary": "Hezbollah attempts to downplay Ali Taher ridge's importance after Israel gains control.",
+      "summary_he": "חיזבאללה מנסה למזער את חשיבות רכס עלי טאהר לאחר שישראל השיגה עליו שליטה."
     },
     {
       "rank": 5,
@@ -303,8 +295,8 @@
           "published": "2026-09-05T15:41:26+00:00"
         }
       ],
-      "summary": "Gaza's health ministry reports the death toll has risen to 73,651 since October 2023.",
-      "summary_he": "משרד הבריאות בעזה מדווח כי מניין ההרוגים עלה ל-73,651 מאז אוקטובר 2023."
+      "summary": "Gaza death toll rises to 73,651 since October 2023, health ministry says.",
+      "summary_he": "משרד הבריאות בעזה מדווח: מניין ההרוגים ברצועה עלה ל-73,651 מאז אוקטובר 2023."
     }
   ]
 }

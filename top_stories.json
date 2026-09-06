@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:56:01.393960+00:00",
+  "updated": "2026-09-06T16:27:35.110006+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -78,14 +78,12 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "5 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+          "title": "6 , US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
           "published": ""
         }
-      ],
-      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for the second leg of a diplomacy push.",
-      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לסבב השני של מאמץ דיפלומטי."
+      ]
     },
     {
       "rank": 2,
@@ -145,61 +143,49 @@
           "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
           "published": "2026-09-05T10:49:00+00:00"
         }
-      ],
-      "summary": "US ambassador labels violent Israeli settlers as ‘terrorists’ amid West Bank unrest.",
-      "summary_he": "שגריר ארה\"ב מכנה מתנחלים ישראלים אלימים \"מחבלים\" על רקע מהומות בגדה המערבית."
+      ]
     },
     {
       "rank": 3,
-      "outlets": 4,
+      "outlets": 3,
       "categories": [
         "israeli",
-        "iranian"
+        "levant"
       ],
       "rep": {
-        "source": "IRNA",
-        "category": "iranian",
-        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-        "title_he": "",
-        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-        "published": "2026-09-06T06:00:23+00:00"
+        "source": "N12",
+        "category": "israeli",
+        "title": "Hezbollah is reportedly attempting to project strength without escalating, but is facing criticism that…",
+        "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
+        "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+        "published": "2026-09-06T14:00:00+00:00"
       },
       "members": [
         {
           "source": "N12",
           "category": "israeli",
-          "title": "The Financial Times revealed a complex operation led by the United States in the Strait of Hormuz over recent…",
-          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
-          "published": "2026-09-06T11:40:00+00:00"
+          "title": "Hezbollah is reportedly attempting to project strength without escalating, but is facing criticism that…",
+          "title_he": "חיזבאללה מנסה להפגין כוח מבלי לשבור את הכלים",
+          "url": "https://www.mako.co.il/news-military/2026_q3/Article-2d40181a57670a1026.htm",
+          "published": "2026-09-06T14:00:00+00:00"
         },
         {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Hezbollah stated that the enemy is trampling the \"framework\" of authority, and prisoner releases do not…",
           "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
+          "url": "https://www.al-akhbar.com/news/lebanon/903375/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87--%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AF%D9%88%D8%B3--%D8%A5%D8%B7%D8%A7%D8%B1--%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9----%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B3%D8%B1%D9%89-%D9%84%D8%A7-%D9%8A%D8%A8",
+          "published": "2026-09-05T11:57:09+00:00"
         },
         {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "Hezbollah issued a statement saying the continuation of the authority's pursuit of an absurd, illegitimate…",
           "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
+          "url": "https://www.almanar.com.lb/article/1154622/",
           "published": ""
         }
-      ],
-      "summary": "Financial Times reveals a US-led complex operation in the Strait of Hormuz.",
-      "summary_he": "הפייננשל טיימס חושף מבצע מורכב בהובלת ארה\"ב במצר הורמוז."
+      ]
     },
     {
       "rank": 4,
@@ -241,9 +227,7 @@
           "url": "https://www.aa.com.tr/en/turkiye/turkiye-7-nations-condemn-israeli-ministers-calls-to-displace-palestinians-from-gaza/4048804",
           "published": "2026-09-06T11:17:57+00:00"
         }
-      ],
-      "summary": "Eight countries condemn Israeli ministers’ calls for displacement of Palestinians from Gaza.",
-      "summary_he": "שמונה מדינות מגנות קריאות שרים ישראלים לעקירת פלסטינים מעזה."
+      ]
     },
     {
       "rank": 5,
@@ -293,9 +277,7 @@
           "url": "https://english.wafa.ps/Pages/Details/174375",
           "published": "2026-09-04T18:52:39+00:00"
         }
-      ],
-      "summary": "Israeli strikes destroy a hospital in southern Lebanon, damaging the health sector.",
-      "summary_he": "תקיפות ישראליות הורסות בית חולים בדרום לבנון, פוגעות במערכת הבריאות."
+      ]
     }
   ]
 }

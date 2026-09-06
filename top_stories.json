@@ -1,154 +1,32 @@
 {
-  "updated": "2026-09-06T11:15:57.981647+00:00",
+  "updated": "2026-09-06T11:48:05.494192+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
       "outlets": 6,
       "categories": [
-        "israeli",
+        "panarab",
         "levant",
         "turkish"
       ],
       "rep": {
         "source": "Anadolu Agency",
         "category": "turkish",
-        "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+        "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
         "title_he": "",
-        "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
-        "published": "2026-09-06T08:03:53+00:00"
+        "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+        "published": "2026-09-06T11:21:10+00:00"
       },
       "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "published": "2026-09-06T10:52:43+00:00"
-        },
-        {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "Following two drone launches, the Israeli military attacked Hezbollah operatives in southern Lebanon.",
-          "title_he": "בתגובה לשיגור שני רחפני נפץ: צה\"ל תקף מחבלי חיזבאללה בדרום לבנון",
-          "url": "https://kan.org.il/content/kan-news/defense/live-1096390/",
-          "published": "2026-09-06T10:24:00+00:00"
-        },
-        {
-          "source": "Daily Sabah",
-          "category": "turkish",
-          "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
-          "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
-          "published": "2026-09-06T09:41:00+00:00"
-        },
         {
           "source": "Anadolu Agency",
           "category": "turkish",
-          "title": "4 killed, 20 injured in Israeli airstrikes in southern Lebanon despite US deal",
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal/4048587",
-          "published": "2026-09-06T08:03:53+00:00"
+          "url": "https://www.aa.com.tr/en/eurasia/us-envoys-witkoff-and-kushner-arrive-in-kyiv-for-ukraine-peace-talks/4048807",
+          "published": "2026-09-06T11:21:10+00:00"
         },
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "In response to a suicide drone launch, the Israeli military conducted strikes on Hezbollah weapons depots in…",
-          "title_he": "בית החולים שהפך למפקדת טרור: בתגובה לשיגור הרחפנים",
-          "url": "https://www.mako.co.il/news-military/2026_q3/Article-c98a12a53a270a1026.htm",
-          "published": "2026-09-06T03:00:00+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
-        }
-      ],
-      "summary": "Israeli strikes on southern Lebanon kill four and injure 20.",
-      "summary_he": "תקיפות ישראליות בדרום לבנון הרגו ארבעה ופצעו עשרים."
-    },
-    {
-      "rank": 2,
-      "outlets": 5,
-      "categories": [
-        "israeli",
-        "gulf",
-        "iranian"
-      ],
-      "rep": {
-        "source": "IRNA",
-        "category": "iranian",
-        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-        "title_he": "",
-        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-        "published": "2026-09-06T06:00:23+00:00"
-      },
-      "members": [
-        {
-          "source": "N12",
-          "category": "israeli",
-          "title": "The Financial Times revealed details of a covert US operation in the Strait of Hormuz aimed at clearing mines.",
-          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
-          "published": "2026-09-06T09:47:00+00:00"
-        },
-        {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-          "title_he": "",
-          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-          "published": "2026-09-06T06:00:23+00:00"
-        },
-        {
-          "source": "Gulf News",
-          "category": "gulf",
-          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz",
-          "title_he": "",
-          "url": "https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548",
-          "published": "2026-09-06T01:01:00+00:00"
-        },
-        {
-          "source": "Mehr News",
-          "category": "iranian",
-          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-          "title_he": "",
-          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-          "published": "2026-09-05T20:45:58+00:00"
-        },
-        {
-          "source": "Iran International",
-          "category": "iranian",
-          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "title_he": "",
-          "url": "https://iranintl.com/en/202609048845",
-          "published": ""
-        }
-      ],
-      "summary": "Financial Times revealed details of a covert US mine-clearing operation in Hormuz.",
-      "summary_he": "ה\"פייננשל טיימס\" חשף פרטים על מבצע אמריקני חשאי לפינוי מוקשים במצר הורמוז."
-    },
-    {
-      "rank": 3,
-      "outlets": 4,
-      "categories": [
-        "panarab",
-        "levant",
-        "turkish"
-      ],
-      "rep": {
-        "source": "TRT World",
-        "category": "turkish",
-        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
-        "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
-        "published": "2026-09-05T22:56:52+00:00"
-      },
-      "members": [
         {
           "source": "TRT World",
           "category": "turkish",
@@ -166,6 +44,14 @@
           "published": "2026-09-05T20:49:00+00:00"
         },
         {
+          "source": "Al-Akhbar",
+          "category": "levant",
+          "title": "Moscow has halted its attacks on Kyiv for three days and called on Washington to consider the reality in any…",
+          "title_he": "",
+          "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+          "published": "2026-09-05T11:03:00+00:00"
+        },
+        {
           "source": "Al Arabiya",
           "category": "panarab",
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -176,17 +62,77 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "4 , Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
+          "title": "5 , US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
           "title_he": "",
           "url": "https://aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
           "published": ""
         }
       ],
-      "summary": "Putin met US envoys for Ukraine war talks.",
-      "summary_he": "פוטין נפגש עם שליחים אמריקנים לשיחות על מלחמת אוקראינה."
+      "summary": "US envoys Witkoff and Kushner arrive in Kyiv for Ukraine peace talks.",
+      "summary_he": "שליחי ארה\"ב ויטקוף וקושנר הגיעו לקייב לשיחות שלום על אוקראינה."
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "outlets": 5,
+      "categories": [
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "SANA",
+        "category": "levant",
+        "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340780/",
+        "published": "2026-09-06T10:52:43+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
+          "source": "Daily Sabah",
+          "category": "turkish",
+          "title": "Israel kills 4, including 2 girls, in fresh S. Lebanon truce violation",
+          "title_he": "",
+          "url": "https://www.dailysabah.com/world/mid-east/israel-kills-4-including-2-girls-in-fresh-s-lebanon-truce-violation",
+          "published": "2026-09-06T09:41:00+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Israeli drone strike kills two in southern Lebanon",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174375",
+          "published": "2026-09-04T18:52:39+00:00"
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
+          "published": ""
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon, with warplanes targeting areas.",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1152587/",
+          "published": ""
+        }
+      ],
+      "summary": "Israeli strikes in Nabatieh, southern Lebanon kill four and injure 20.",
+      "summary_he": "תקיפות ישראליות בנבטיה, דרום לבנון, הרגו ארבעה ופצעו 20."
+    },
+    {
+      "rank": 3,
       "outlets": 4,
       "categories": [
         "gulf",
@@ -235,52 +181,104 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "US ambassador referred to violent Israeli settlers as terrorists.",
-      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים כטרוריסטים."
+      "summary": "US ambassador calls violent Israeli settlers \"terrorists\" amid West Bank unrest.",
+      "summary_he": "שגריר ארה\"ב כינה מתנחלים ישראלים אלימים \"מחבלים\" בתוך מהומות בגדה המערבית."
+    },
+    {
+      "rank": 4,
+      "outlets": 4,
+      "categories": [
+        "israeli",
+        "iranian"
+      ],
+      "rep": {
+        "source": "IRNA",
+        "category": "iranian",
+        "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+        "title_he": "",
+        "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+        "published": "2026-09-06T06:00:23+00:00"
+      },
+      "members": [
+        {
+          "source": "N12",
+          "category": "israeli",
+          "title": "A covert US operation in the Strait of Hormuz involving divers and advanced naval assets has been revealed.",
+          "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
+          "published": "2026-09-06T09:47:00+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
+          "published": "2026-09-06T06:00:23+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "IRGC Navy issues stark warning to vessels in Hormuz",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
+          "published": "2026-09-05T20:45:58+00:00"
+        },
+        {
+          "source": "Iran International",
+          "category": "iranian",
+          "title": "ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "title_he": "",
+          "url": "https://iranintl.com/en/202609048845",
+          "published": ""
+        }
+      ],
+      "summary": "A covert US operation involving divers in the Strait of Hormuz has been revealed.",
+      "summary_he": "נחשפה פעולה חשאית אמריקאית במצר הורמוז שכללה צוללנים."
     },
     {
       "rank": 5,
       "outlets": 3,
       "categories": [
-        "levant",
+        "iranian",
         "turkish"
       ],
       "rep": {
-        "source": "Daily Sabah",
+        "source": "TRT World",
         "category": "turkish",
-        "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
+        "title": "US blockade could cost Washington more than Iran, IRGC says",
         "title_he": "",
-        "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
-        "published": "2026-09-06T10:54:00+00:00"
+        "url": "https://www.trtworld.com/article/9e785eca8f2b",
+        "published": "2026-09-06T07:45:05+00:00"
       },
       "members": [
         {
-          "source": "Daily Sabah",
+          "source": "TRT World",
           "category": "turkish",
-          "title": "Gaza funeral mourns 100 crushed under homes destroyed by Israel",
+          "title": "US blockade could cost Washington more than Iran, IRGC says",
           "title_he": "",
-          "url": "https://www.dailysabah.com/world/mid-east/gaza-funeral-mourns-100-crushed-under-homes-destroyed-by-israel",
-          "published": "2026-09-06T10:54:00+00:00"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "The funeral of 100 martyrs whose bodies were recovered from under the rubble in the Zeitoun neighborhood took…",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/image/gallery/9926/%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%AC%D8%AB%D8%A7%D9%85%D9%8A%D9%86-100-%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%86%D8%AA-%D8%B4%D9%84%D8%AA",
-          "published": "2026-09-06T09:23:40+00:00"
+          "url": "https://www.trtworld.com/article/9e785eca8f2b",
+          "published": "2026-09-06T07:45:05+00:00"
         },
         {
           "source": "Anadolu Agency",
           "category": "turkish",
-          "title": "Gaza holds funeral for 100 Palestinians recovered from rubble of destroyed homes",
+          "title": "Iran's IRGC says US economic blockade could cost Washington more than Tehran",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
-          "published": "2026-09-06T09:06:08+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-us-economic-blockade-could-cost-washington-more-than-tehran/4048542",
+          "published": "2026-09-06T07:09:35+00:00"
+        },
+        {
+          "source": "Mehr News",
+          "category": "iranian",
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "title_he": "",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "published": "2026-09-06T05:00:48+00:00"
         }
       ],
-      "summary": "Gaza held a funeral for 100 people recovered from rubble.",
-      "summary_he": "עזה קיימה הלוויה למאה בני אדם שחולצו מההריסות."
+      "summary": "IRGC says a US blockade could cost Washington more than Iran.",
+      "summary_he": "משמרות המהפכה אומרים שמצור אמריקאי עלול לעלות לוושינגטון יותר מאיראן."
     }
   ]
 }

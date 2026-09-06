@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:44:17.180836+00:00",
+  "updated": "2026-09-06T20:15:47.574917+00:00",
   "regions": {
     "Israel": [
       {
@@ -9,11 +9,19 @@
         "url": "https://www.kan.org.il",
         "headlines": [
           {
-            "title": "הותר לפרסום: ‏סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה",
-            "url": "https://kan.org.il/content/kan-news/local/1096319/",
-            "published": "2026-09-05T19:58:45+00:00",
-            "snippet": "Sgt. David Hovir Amrani, a 20-year-old border police officer, was killed in Netanya after opening fire in the city streets with a long weapon. He was neutralized by police and succumbed to his wounds.",
-            "title_he": "הותר לפרסום: ‏סמל שני דוד הוייר עמרני, לוחם מג\"ב בן 20, הוא ההרוג בנתניה",
+            "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
+            "url": "https://kan.org.il/content/kan-news/local/1096412/",
+            "published": "2026-09-06T10:56:38+00:00",
+            "snippet": "יזדי, שהיה ראש קהילת \"עמודי השלום\", העביר שיעורי תורה לחוזרים בתשובה, ועל פי כתב האישום אמר לנשים שפנו אליו כי עליהן להשתעבד לרצונותיו ולמעשיו המיניים כדי לתקן \"ניצוצות של טומאה\".",
+            "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
+            "snippet_he": ""
+          },
+          {
+            "title": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
+            "url": "0e6349a2bb484c07869fa2bcb7399953",
+            "published": "2026-09-06T19:47:49+00:00",
+            "snippet": "",
+            "title_he": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
             "snippet_he": ""
           },
           {
@@ -39,14 +47,6 @@
             "snippet": "Five people, including a 9-year-old girl in serious condition, were injured in a road accident on Highway 99 near Kibbutz Snir in the Upper Galilee.",
             "title_he": "5 נפגעו, בהם בת 9 במצב קשה, בתאונת דרכים בכביש 99 סמוך לקיבוץ שניר שבאצבע הגליל",
             "snippet_he": ""
-          },
-          {
-            "title": "מפלגת \"אלטרנטיבה לגרמניה\" גרפה עד כה 48% מהקולות במחוז סקסוניה-אנהלט",
-            "url": "https://kan.org.il/content/kan-news/global/1096877/",
-            "published": "2026-09-06T18:14:54+00:00",
-            "snippet": "The far-right Alternative for Germany (AfD) party has garnered 48% of the votes in the state of Saxony-Anhalt according to exit polls. Israel's ambassador to Germany expressed concern for Jewish life due to the rise of extremist parties.",
-            "title_he": "מפלגת \"אלטרנטיבה לגרמניה\" גרפה עד כה 48% מהקולות במחוז סקסוניה-אנהלט",
-            "snippet_he": ""
           }
         ],
         "error": null,
@@ -58,14 +58,6 @@
         "lang": "he",
         "url": "https://www.mako.co.il",
         "headlines": [
-          {
-            "title": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה",
-            "url": "https://www.mako.co.il/news-israel/2026_q3/Article-11402b4107270a1026.htm",
-            "published": "2026-09-05T16:34:00+00:00",
-            "snippet": "Border Police officer David Hovir Amrani, who served in the West Bank, was killed in a shooting incident in Netanya. Friends reported he had shared difficulties he experienced during his service, and the background to the incident is under investigation.",
-            "title_he": "הותר לפרסום: לוחם מג\"ב דוד הוייר עמרני נהרג באירוע הירי בנתניה",
-            "snippet_he": ""
-          },
           {
             "title": "האסון שמטלטל את אלג'יריה: איוב בן ה-10 נפל לבור עמוק - ונמצא מת",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-d3917beddc670a1026.htm",
@@ -97,10 +89,18 @@
             "snippet": "23-year-old David Ben Lulu from Jerusalem was killed in a motorcycle accident in Vietnam. He held French citizenship, and efforts are underway to transport his body back to Israel for burial.",
             "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
             "snippet_he": ""
+          },
+          {
+            "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
+            "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
+            "published": "2026-09-06T14:42:00+00:00",
+            "snippet": "מיליי הכריז על סנקציות נגד חברות העוסקות בפרויקט נפט באזור, ובראשן חברות ישראליות • על רקע רמיזות מפתיעות מצידו של טראמפ, ניכר כי מיליי מנצל את הנקודה הרגישה לצרכים פוליטיים • \"ארגנטינה לא תשב בחיבוק ידיים\", הצהיר, ועורר זעם גדול בבריטניה",
+            "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
+            "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "coverage"
+        "rank_method": "latest"
       },
       {
         "source": "Channel 13",
@@ -108,6 +108,30 @@
         "lang": "he",
         "url": "https://13tv.co.il",
         "headlines": [
+          {
+            "title": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין",
+            "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/um905-905345828/",
+            "published": "2026-09-06T10:56:54+00:00",
+            "snippet": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין 13tv.co.il",
+            "title_he": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין",
+            "snippet_he": ""
+          },
+          {
+            "title": "מי יהיה הקול הבא של ישראל? כל העדכונים מהגמר הגדול של \"דה וויס\"",
+            "url": "https://13tv.co.il/item/entertainment/the-voice/season-06/articles/oyedk-905346329/",
+            "published": "2026-09-06T19:41:55+00:00",
+            "snippet": "מי יהיה הקול הבא של ישראל? כל העדכונים מהגמר הגדול של \"דה וויס\" 13tv.co.il",
+            "title_he": "מי יהיה הקול הבא של ישראל? כל העדכונים מהגמר הגדול של \"דה וויס\"",
+            "snippet_he": ""
+          },
+          {
+            "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
+            "url": "https://13tv.co.il/news/",
+            "published": "2026-09-06T19:11:45+00:00",
+            "snippet": "This is a general news feed from Channel 13.",
+            "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
+            "snippet_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם 13tv.co.il"
+          },
           {
             "title": "\"בחרנו באנשים שיתקנו\": בנט ולפיד הציגו את רשימת ביחד",
             "url": "https://13tv.co.il/item/news/politics/politics/bennet-905346173/",
@@ -117,40 +141,16 @@
             "snippet_he": ""
           },
           {
-            "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
-            "url": "https://13tv.co.il/news/",
-            "published": "2026-09-06T18:19:18+00:00",
-            "snippet": "This is a general news feed from Channel 13.",
-            "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
-            "snippet_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם 13tv.co.il"
-          },
-          {
             "title": "רבנים בדגל התורה מסרבים לחתום על מסמך ההדחה של גפני ומקלב",
             "url": "https://13tv.co.il/item/news/politics/politics/pi4g5-905346993/",
             "published": "2026-09-06T17:57:31+00:00",
             "snippet": "Rabbis from the Degel HaTorah party have refused to sign a document to depose Gafni and Maklev.",
             "title_he": "רבנים בדגל התורה מסרבים לחתום על מסמך ההדחה של גפני ומקלב",
             "snippet_he": ""
-          },
-          {
-            "title": "חוץ מזה לא צריך כלום: הדג נחש חגגה 30 במופע ענק של פעם בחיים",
-            "url": "https://13tv.co.il/item/entertainment/music/qqvk0-905346316/",
-            "published": "2026-09-06T14:33:36+00:00",
-            "snippet": "The band \"Hatlag Nachash\" band celebrated its 30th anniversary with a grand, once-in-a-lifetime concert.",
-            "title_he": "חוץ מזה לא צריך כלום: הדג נחש חגגה 30 במופע ענק של פעם בחיים",
-            "snippet_he": ""
-          },
-          {
-            "title": "רגע לפני הגמר – פיינליסטית \"דה וויס\" מתוודה: \"מטורף שאני בת 17 וחווה את כל זה עכשיו\"",
-            "url": "https://13tv.co.il/item/entertainment/the-voice/season-06/articles/xmioc-905346391/",
-            "published": "2026-09-06T14:17:08+00:00",
-            "snippet": "A finalist from \"The Voice\" expressed her amazement at experiencing so much at the age of 17, just before the finale.",
-            "title_he": "רגע לפני הגמר – פיינליסטית \"דה וויס\" מתוודה: \"מטורף שאני בת 17 וחווה את כל זה עכשיו\"",
-            "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "latest"
+        "rank_method": "coverage"
       }
     ],
     "Pan-Arab": [
@@ -169,34 +169,34 @@
             "snippet_he": ""
           },
           {
-            "title": "2 , Egyptian TV presenter sentenced to death in drugs case",
-            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
-            "published": "",
-            "snippet": "An Egyptian TV presenter, Sarah Khalifa, and 11 others have been sentenced to death in Cairo for involvement in a drug trafficking ring.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "3 , Iran touts military response as US maintains blockade, hits tankers",
-            "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
-            "published": "",
-            "snippet": "Tehran stated that the time for proportionate retaliation is over after a US strike on Iranian tankers inside a blockade line.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "4 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+            "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
             "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
             "published": "",
-            "snippet": "The far-right AfD party won the vote in Germany’s Saxony-Anhalt state, according to exit polls. The party hailed the 'historic' result, but forming a government remains unclear.",
+            "snippet": "Party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "5 , Can you guess the real size of each country on the new world map?",
+            "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
+            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
+            "published": "",
+            "snippet": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "4 , Can you guess the real size of each country on the new world map?",
             "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
             "published": "",
-            "snippet": "This feature allows users to guess the real size of countries on a new world map, comparing Mercator and Equal Earth projections.",
+            "snippet": "Pick which country is bigger, then watch it morph from Mercator to Equal Earth projection to see how close you were.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
+            "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
+            "published": "",
+            "snippet": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -269,18 +269,18 @@
             "snippet_he": ""
           },
           {
-            "title": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
-            "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/centcom-says-it-struck-three-iranian-oil-tankers-after-irgc-targeted-two-us-warships",
-            "published": "2026-09-05T14:17:00+00:00",
-            "snippet": "CENTCOM reported striking three Iranian oil tankers after the IRGC targeted two US warships.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Putin meets US envoys for Ukraine war talks",
             "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
             "published": "2026-09-05T08:39:00+00:00",
             "snippet": "Putin met with US envoys for talks regarding the Ukraine war.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
+            "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/centcom-says-it-struck-three-iranian-oil-tankers-after-irgc-targeted-two-us-warships",
+            "published": "2026-09-05T14:17:00+00:00",
+            "snippet": "CENTCOM reported striking three Iranian oil tankers after the IRGC targeted two US warships.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -293,10 +293,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-            "url": "https://english.alarabiya.net/amp/News/middle-east/2026/09/04/trump-says-us-may-hit-iran-s-pickaxe-mountain-soon",
-            "published": "2026-09-04T19:01:00+00:00",
-            "snippet": "Trump stated that the US may soon strike Iran's Pickaxe Mountain.",
+            "title": "Several Killed in Fire at Wedding Ceremony in DR Congo",
+            "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/several-killed-in-fire-at-wedding-ceremony-in-dr-congo",
+            "published": "2026-09-06T10:29:48+00:00",
+            "snippet": "Several Killed in Fire at Wedding Ceremony in DR Congo Al Arabiya English",
             "title_he": "",
             "snippet_he": ""
           }
@@ -369,14 +369,6 @@
             "snippet_he": ""
           },
           {
-            "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
-            "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
-            "published": "2026-09-06T15:26:38+00:00",
-            "snippet": "A member of the Israeli Knesset stated that Netanyahu's removal is an existential necessity for Israeli society.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
             "url": "https://www.almayadeen.net/news/politics/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8",
             "published": "2026-09-06T13:46:05+00:00",
@@ -397,6 +389,14 @@
             "url": "https://www.almayadeen.net/news/politics/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF-%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B5%D9%8A%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D9%82%D9%85%D8%A9",
             "published": "2026-09-06T11:34:26+00:00",
             "snippet": "Moscow does not rule out a trilateral US-Russia-China meeting during the APEC summit.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "\"هآرتس\": \"إسرائيل\" في زقاق مظلم",
+            "url": "https://www.almayadeen.net/press/-%D9%87%D8%A2%D8%B1%D8%AA%D8%B3----%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D9%81%D9%8A-%D8%B2%D9%82%D8%A7%D9%82-%D9%85%D8%B8%D9%84%D9%85",
+            "published": "2026-09-06T11:31:19+00:00",
+            "snippet": "\"هآرتس\": \"إسرائيل\" في زقاق مظلم almayadeen.net",
             "title_he": "",
             "snippet_he": ""
           }
@@ -429,14 +429,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Iran FM holds phone talks with Saudi, Turkish counterparts",
-            "url": "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
-            "published": "2026-09-06T06:30:29+00:00",
-            "snippet": "Iran's Foreign Minister held phone talks with his Saudi and Turkish counterparts to discuss regional developments and diplomatic efforts.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
             "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
             "published": "2026-09-06T05:53:41+00:00",
@@ -449,6 +441,14 @@
             "url": "https://en.irna.ir/news/86256598/Mexico-s-ambassador-welcomes-joint-trade-cooperation-committee",
             "published": "2026-09-06T13:11:02+00:00",
             "snippet": "Mexico’s ambassador welcomed the formation of a joint trade committee with Iran to expand relations, identifying health tourism and the automotive industry as potential areas.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
+            "url": "https://en.irna.ir/news/86256611/US-military-cannot-call-its-barbaric-crimes-against-civilians",
+            "published": "2026-09-06T13:03:38+00:00",
+            "snippet": "Tehran, IRNA –Iran’s mission to the Organization of Islamic Cooperation (OIC) has denounced the US military for proudly acknowledging yet another “cowardly and illegal attack” on an Iranian oil tanker, while evading responsibility for the killing of civilians.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -537,18 +537,18 @@
             "snippet_he": ""
           },
           {
-            "title": "4 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-            "url": "https://iranintl.com/en/202609048845",
+            "title": "4 INSIGHT Iran's appliance industry is collapsing, and so is the market it was built for",
+            "url": "https://iranintl.com/en/202609051934",
             "published": "",
-            "snippet": "A debate is growing in Tehran over whether Iran is exhausting its most powerful weapons against the United States, with warnings that the Strait of Hormuz could lose its effectiveness.",
+            "snippet": "When a refrigerator breaks in Iran now, the family often cannot replace it, and increasingly cannot afford to repair it either.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "5 INSIGHT Iran's appliance industry is collapsing, and so is the market it was built for",
-            "url": "https://iranintl.com/en/202609051934",
+            "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+            "url": "https://iranintl.com/en/202609048845",
             "published": "",
-            "snippet": "Iran's appliance industry is collapsing due to a lack of raw materials and customers, with industrial hubs also affected.",
+            "snippet": "A debate is widening in Tehran over whether Iran is exhausting one of its most powerful weapons against the United States, with growing warnings that the Strait of Hormuz could lose its effectiveness the longer restrictions continue.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -581,14 +581,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Safadi holds talks in Paris, The Hague on bilateral ties, regional developments",
-            "url": "https://jordantimes.com/news/local/safadi-holds-talks-in-paris-the-hague-on-bilateral-ties-regional-developments",
-            "published": "2026-09-05T23:44:27+00:00",
-            "snippet": "Safadi held talks in Paris and The Hague on bilateral ties and regional developments.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
             "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
             "published": "2026-09-05T14:47:31+00:00",
@@ -601,6 +593,14 @@
             "url": "https://jordantimes.com/news/local/digital-spokesperson-farah-to-offer-english-language-version",
             "published": "2026-09-04T15:45:00+00:00",
             "snippet": "The digital spokesperson 'Farah' will offer an English-language version.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
+            "url": "https://jordantimes.com/news/local/safadi-austrian-foreign-minister-discuss-bilateral-relations-regional-developments",
+            "published": "2026-09-03T18:44:36+00:00",
+            "snippet": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments Jordan Times",
             "title_he": "",
             "snippet_he": ""
           }
@@ -715,6 +715,14 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "صنعاء تعلن إسقاط طائرة «وينغ لونغ 2» واستهداف تحشيدات سعودية - Al Akhbar",
+            "url": "https://www.al-akhbar.com/news/arab/903444/%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B3%D9%82%D8%A7%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9--%D9%88%D9%8A%D9%86%D8%BA-%D9%84%D9%88%D9%86%D8%BA-2--%D9%88%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AA%D8%AD%D8%B4%D9%8A%D8%AF%D8%A7%D8%AA-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+            "published": "2026-09-06T17:33:22+00:00",
+            "snippet": "صنعاء تعلن إسقاط طائرة «وينغ لونغ 2» واستهداف تحشيدات سعودية Al Akhbar",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "عمّار: نمرّ بأزمة مركّبة... ولا ينفع مع العدو إلا لغة المقاومة - Al Akhbar",
             "url": "https://www.al-akhbar.com/news/lebanon/903394/%D8%B9%D9%85%D8%A7%D8%B1--%D9%86%D9%85%D8%B1-%D8%A8%D8%A3%D8%B2%D9%85%D8%A9-%D9%85%D8%B1%D9%83%D8%A8%D8%A9----%D9%88%D9%84%D8%A7-%D9%8A%D9%86%D9%81%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D8%A5%D9%84%D8%A7-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9",
             "published": "2026-09-06T09:44:03+00:00",
@@ -743,14 +751,6 @@
             "url": "https://www.al-akhbar.com/news/world/903368/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%AF%D8%B9%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D9%84%D9%89--%D9%85%D8%B1%D8%A7%D8%B9%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6--%D9%81%D9%8A-%D8%A3%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
             "published": "2026-09-05T11:03:00+00:00",
             "snippet": "Moscow has halted its attacks on Kyiv for three days and urged Washington to consider the reality in any settlement.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "من صوماليلاند شرقاً إلى الكاميرون غرباً: «حزام إسرائيلي» يشقّ أفريقيا - Al Akhbar",
-            "url": "https://www.al-akhbar.com/NewspaperArticles/world/903351/%D9%85%D9%86-%D8%B5%D9%88%D9%85%D8%A7%D9%84%D9%8A%D9%84%D8%A7%D9%86%D8%AF-%D8%B4%D8%B1%D9%82%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D9%88%D9%86-%D8%BA%D8%B1%D8%A8%D8%A7---%D8%AD%D8%B2%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A--%D9%8A%D8%B4%D9%82-%D8%A3",
-            "published": "2026-09-04T21:30:00+00:00",
-            "snippet": "An 'The Israeli presence in Africa stretches from Somaliland in the east to Cameroon in the west.',",
             "title_he": "",
             "snippet_he": ""
           }
@@ -915,42 +915,42 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
             "url": "https://sana.sy/en/middle-east/2340780/",
             "published": "2026-09-06T10:52:43+00:00",
-            "snippet": "Four people were killed and 20 injured in Israeli strikes on Nabatieh, southern Lebanon.",
+            "snippet": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon سانا",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
             "url": "https://sana.sy/en/international/2340834/",
             "published": "2026-09-06T13:36:50+00:00",
-            "snippet": "Israeli strikes destroyed a hospital in southern Lebanon, further damaging the health sector.",
+            "snippet": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector سانا",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
+            "title": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest - سانا",
             "url": "https://sana.sy/en/middle-east/2340625/",
             "published": "2026-09-05T19:35:16+00:00",
-            "snippet": "The US ambassador called violent Israeli settlers 'terrorists' amid West Bank unrest.",
+            "snippet": "US ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest سانا",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023",
+            "title": "Gaza death toll rises to 73,651 since October 2023 - سانا",
             "url": "https://sana.sy/en/middle-east/2340621/",
             "published": "2026-09-05T19:22:55+00:00",
-            "snippet": "The Gaza death toll has risen to 73,651 since October 2023.",
+            "snippet": "Gaza death toll rises to 73,651 since October 2023 سانا",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "US strikes three Iranian oil tankers after IRGC attack on naval ships",
-            "url": "https://sana.sy/en/international/2340612/",
-            "published": "2026-09-05T18:28:26+00:00",
-            "snippet": "The US military struck three Iranian oil tankers after the IRGC attacked naval ships.",
+            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue - سانا",
+            "url": "https://sana.sy/en/international/2340880/",
+            "published": "2026-09-06T18:44:00+00:00",
+            "snippet": "Death toll from Nepal floods rises to 1,341 as rescue operations continue سانا",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1025,14 +1025,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-            "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
-            "published": "2026-09-04T20:03:57+00:00",
-            "snippet": "Trump said the US may soon strike Iran’s Pickaxe Mountain.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Iran military vows ‘more severe’ reprisals if US attacks continue",
             "url": "https://www.arabnews.com/middle-east/iran-military-vows-more-severe-reprisals-if-us-attacks-continue-3000643",
             "published": "2026-09-06T00:22:09+00:00",
@@ -1045,6 +1037,14 @@
             "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
             "published": "2026-09-05T13:05:42+00:00",
             "snippet": "Lebanon reported four dead from overnight Israeli strikes.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+            "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+            "published": "2026-09-04T20:03:57+00:00",
+            "snippet": "Trump said the US may soon strike Iran’s Pickaxe Mountain.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1083,14 +1083,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Kerala singer known for 'Udit Narayan-like' voice dies suddenly in Dubai hours before Ajman show",
-            "url": "https://gulfnews.com/uae/kerala-singer-known-for-udit-narayan-like-voice-dies-suddenly-in-dubai-hours-before-ajman-show-1.500665026",
-            "published": "2026-09-06T13:45:43+00:00",
-            "snippet": "A Kerala singer, known for a voice similar to Udit Narayan's, died suddenly in Dubai hours before a scheduled show.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Royal Challengers Bengaluru name won’t change, Birla confirms",
             "url": "https://gulfnews.com/sport/cricket/ipl/royal-challengers-bengaluru-name-wont-change-birla-confirms-1.500664876",
             "published": "2026-09-06T09:42:42+00:00",
@@ -1103,6 +1095,14 @@
             "url": "https://gulfnews.com/sport/football/watch-ronaldinho-spotted-playing-footvolley-in-dubai-1.500664809",
             "published": "2026-09-06T08:16:28+00:00",
             "snippet": "Footballer Ronaldinho was spotted playing footvolley in Dubai.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Vaibhav Sooryavanshi’s fearless assault on Mohammed Siraj wows fans",
+            "url": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshis-fearless-assault-on-mohammed-siraj-wows-fans-1.500664763",
+            "published": "2026-09-06T07:07:39+00:00",
+            "snippet": "Vaibhav Sooryavanshi’s fearless assault on Mohammed Siraj wows fans Gulf News",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1341,6 +1341,5 @@
         "rank_method": "coverage"
       }
     ]
-  },
-  "titles_hash": "266fec5b19191f12"
+  }
 }

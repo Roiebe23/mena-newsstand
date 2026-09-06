@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:51:24.016240+00:00",
+  "updated": "2026-09-06T12:54:18.970651+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -23,7 +23,7 @@
         {
           "source": "N12",
           "category": "israeli",
-          "title": "The United States recently concluded a covert operation in the Strait of Hormuz focused on clearing naval…",
+          "title": "The United States conducted a covert operation in the Strait of Hormuz to clear mines.",
           "title_he": "דיווח: המבצע החשאי של ארה\"ב במצר הורמוז",
           "url": "https://www.mako.co.il/news-world/2026_q3/Article-66ce706a31670a1026.htm",
           "published": "2026-09-06T11:40:00+00:00"
@@ -69,8 +69,8 @@
           "published": ""
         }
       ],
-      "summary": "United States concludes covert naval operation in Strait of Hormuz after Iran hit a US drone.",
-      "summary_he": "ארצות הברית השלימה מבצע ימי חשאי במצר הורמוז לאחר שאיראן פגעה במל\"ט אמריקאי."
+      "summary": "United States conducted covert mine-clearing operation in Strait of Hormuz.",
+      "summary_he": "ארצות הברית ערכה מבצע חשאי לפינוי מוקשים במצר הורמוז."
     },
     {
       "rank": 2,
@@ -84,7 +84,7 @@
       "rep": {
         "source": "Falastin al-Youm",
         "category": "levant",
-        "title": "Settlers have raided the Al-Aqsa Mosque.",
+        "title": "Settlers have stormed the Al-Aqsa Mosque.",
         "title_he": "",
         "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
         "published": "2026-09-06T10:30:00+00:00"
@@ -93,7 +93,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Settlers have raided the Al-Aqsa Mosque.",
+          "title": "Settlers have stormed the Al-Aqsa Mosque.",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543630/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
           "published": "2026-09-06T10:30:00+00:00"
@@ -139,62 +139,11 @@
           "published": "2026-09-05T10:49:00+00:00"
         }
       ],
-      "summary": "Settlers raided Al-Aqsa Mosque.",
-      "summary_he": "מתנחלים פשטו על מסגד אל-אקצא."
+      "summary": "Settlers stormed Al-Aqsa Mosque.",
+      "summary_he": "מתנחלים הסתערו על מסגד אל-אקצא."
     },
     {
       "rank": 3,
-      "outlets": 4,
-      "categories": [
-        "levant"
-      ],
-      "rep": {
-        "source": "SANA",
-        "category": "levant",
-        "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
-        "title_he": "",
-        "url": "https://sana.sy/en/middle-east/2340780/",
-        "published": "2026-09-06T10:52:43+00:00"
-      },
-      "members": [
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "published": "2026-09-06T10:52:43+00:00"
-        },
-        {
-          "source": "WAFA News",
-          "category": "levant",
-          "title": "Israeli drone strike kills two in southern Lebanon",
-          "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174375",
-          "published": "2026-09-04T18:52:39+00:00"
-        },
-        {
-          "source": "L'Orient Today",
-          "category": "levant",
-          "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
-          "title_he": "",
-          "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
-          "published": ""
-        },
-        {
-          "source": "Al Manar",
-          "category": "levant",
-          "title": "The Israeli occupation forces carried out several attacks in southern Lebanon.",
-          "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1152587/",
-          "published": ""
-        }
-      ],
-      "summary": "Israeli strikes on Nabatieh, southern Lebanon, killed four and injured 20.",
-      "summary_he": "תקיפות ישראליות בנבטיה, דרום לבנון, הרגו ארבעה ופצעו 20."
-    },
-    {
-      "rank": 4,
       "outlets": 3,
       "categories": [
         "panarab",
@@ -235,11 +184,11 @@
           "published": "2026-09-05T08:39:00+00:00"
         }
       ],
-      "summary": "Putin held Ukraine war talks with US envoys.",
-      "summary_he": "פוטין קיים שיחות מלחמת אוקראינה עם שליחי ארה\"ב."
+      "summary": "Putin met US envoys for Ukraine war talks.",
+      "summary_he": "פוטין נפגש עם שליחים אמריקאים לשיחות על מלחמת אוקראינה."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "outlets": 3,
       "categories": [
         "iranian",
@@ -279,8 +228,52 @@
           "published": "2026-09-06T05:00:48+00:00"
         }
       ],
-      "summary": "Iran’s IRGC says US blockade could cost Washington more than Iran.",
-      "summary_he": "משמרות המהפכה של איראן טוענים כי מצור אמריקאי עלול לעלות לוושינגטון יותר מאיראן."
+      "summary": "Iran's IRGC says US blockade could cost Washington more than Iran.",
+      "summary_he": "משמרות המהפכה האיראניים אומרים כי מצור אמריקאי עלול לעלות לוושינגטון יותר מאשר לאיראן."
+    },
+    {
+      "rank": 5,
+      "outlets": 3,
+      "categories": [
+        "iranian",
+        "levant"
+      ],
+      "rep": {
+        "source": "SANA",
+        "category": "levant",
+        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "title_he": "",
+        "url": "https://sana.sy/en/middle-east/2340621/",
+        "published": "2026-09-05T19:22:55+00:00"
+      },
+      "members": [
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340621/",
+          "published": "2026-09-05T19:22:55+00:00"
+        },
+        {
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "title_he": "",
+          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+          "published": "2026-09-05T17:05:27+00:00"
+        },
+        {
+          "source": "WAFA News",
+          "category": "levant",
+          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title_he": "",
+          "url": "https://english.wafa.ps/Pages/Details/174384",
+          "published": "2026-09-05T15:41:26+00:00"
+        }
+      ],
+      "summary": "Gaza death toll rises to 73,651 since October 2023, health ministry says.",
+      "summary_he": "מניין ההרוגים בעזה עלה ל-73,651 מאז אוקטובר 2023, לדברי משרד הבריאות."
     }
   ]
 }

@@ -1,82 +1,47 @@
 {
-  "updated": "2026-09-06T22:20:35.033242+00:00",
+  "updated": "2026-09-06T22:52:02.821171+00:00",
   "method": "heuristic",
   "stories": [
     {
       "rank": 1,
-      "outlets": 4,
+      "outlets": 5,
       "categories": [
         "panarab",
-        "levant",
+        "iranian",
         "turkish"
       ],
       "rep": {
-        "source": "The New Arab",
+        "source": "Al Arabiya",
         "category": "panarab",
-        "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+        "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
         "title_he": "",
-        "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-        "published": "2026-09-06T12:16:22+00:00"
+        "url": "https://english.alarabiya.net/News/middle-east/2026/09/06/iran-says-new-strait-of-hormuz-corridor-agreement-to-be-signed-in-coming-days",
+        "published": "2026-09-06T19:39:00+00:00"
       },
       "members": [
         {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "Three martyrs were killed in an Israeli raid on southern Lebanon.",
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
           "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
-          "published": "2026-09-06T15:37:00+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
+          "published": "2026-09-06T22:31:12+00:00"
         },
         {
           "source": "TRT World",
           "category": "turkish",
-          "title": "Israeli air strikes completely destroy a hospital in southern Lebanon",
+          "title": "Iran says it will declare 'prohibited zone' near Strait of Hormuz in coming days",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/553369413bf7",
-          "published": "2026-09-06T13:42:38+00:00"
-        },
-        {
-          "source": "The New Arab",
-          "category": "panarab",
-          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
-          "title_he": "",
-          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-          "published": "2026-09-06T12:16:22+00:00"
+          "url": "https://www.trtworld.com/article/cd4f7f0ff72d",
+          "published": "2026-09-06T21:19:47+00:00"
         },
         {
           "source": "Al Arabiya",
           "category": "panarab",
-          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
           "title_he": "",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-          "published": "2026-09-06T09:30:08+00:00"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "outlets": 3,
-      "categories": [
-        "israeli",
-        "panarab",
-        "iranian"
-      ],
-      "rep": {
-        "source": "Kan 11",
-        "category": "israeli",
-        "title": "Iran announced it would declare a restricted shipping zone outside the Strait of Hormuz and impose sanctions…",
-        "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
-        "url": "25879e070efa4476b10ec7e5c810f9a7",
-        "published": "2026-09-06T19:13:12+00:00"
-      },
-      "members": [
-        {
-          "source": "Kan 11",
-          "category": "israeli",
-          "title": "Iran announced it would declare a restricted shipping zone outside the Strait of Hormuz and impose sanctions…",
-          "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
-          "url": "25879e070efa4476b10ec7e5c810f9a7",
-          "published": "2026-09-06T19:13:12+00:00"
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/06/iran-says-new-strait-of-hormuz-corridor-agreement-to-be-signed-in-coming-days",
+          "published": "2026-09-06T19:39:00+00:00"
         },
         {
           "source": "Mehr News",
@@ -97,6 +62,73 @@
       ]
     },
     {
+      "rank": 2,
+      "outlets": 5,
+      "categories": [
+        "panarab",
+        "levant",
+        "turkish"
+      ],
+      "rep": {
+        "source": "The New Arab",
+        "category": "panarab",
+        "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+        "title_he": "",
+        "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+        "published": "2026-09-06T12:16:22+00:00"
+      },
+      "members": [
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Three martyrs were reported due to an Israeli airstrike on southern Lebanon.",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
+          "published": "2026-09-06T15:37:00+00:00"
+        },
+        {
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israeli air strikes completely destroy a hospital in southern Lebanon",
+          "title_he": "",
+          "url": "https://www.trtworld.com/article/553369413bf7",
+          "published": "2026-09-06T13:42:38+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+          "title_he": "",
+          "url": "https://sana.sy/en/international/2340834/",
+          "published": "2026-09-06T13:36:50+00:00"
+        },
+        {
+          "source": "The New Arab",
+          "category": "panarab",
+          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+          "title_he": "",
+          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+          "published": "2026-09-06T12:16:22+00:00"
+        },
+        {
+          "source": "SANA",
+          "category": "levant",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "title_he": "",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "published": "2026-09-06T10:52:43+00:00"
+        },
+        {
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "title_he": "",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "published": "2026-09-06T09:30:08+00:00"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "outlets": 3,
       "categories": [
@@ -104,21 +136,21 @@
         "turkish"
       ],
       "rep": {
-        "source": "TRT World",
+        "source": "Anadolu Agency",
         "category": "turkish",
-        "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+        "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/521d65457169",
-        "published": "2026-09-06T16:13:34+00:00"
+        "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+        "published": "2026-09-06T17:28:50+00:00"
       },
       "members": [
         {
-          "source": "TRT World",
+          "source": "Anadolu Agency",
           "category": "turkish",
-          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+          "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/521d65457169",
-          "published": "2026-09-06T16:13:34+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+          "published": "2026-09-06T17:28:50+00:00"
         },
         {
           "source": "WAFA News",
@@ -131,18 +163,10 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Two martyrs, including a child, and several injured were reported in an Israeli shelling that targeted a car…",
+          "title": "Two martyrs, including a child, and several injured were reported in an Israeli bombing targeting a car west…",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
           "published": "2026-09-06T14:22:00+00:00"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "category": "levant",
-          "title": "The occupation forces targeted a house in the Shati camp, west of Gaza City.",
-          "title_he": "",
-          "url": "https://paltoday.ps/ar/post/543629/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85",
-          "published": "2026-09-06T10:21:00+00:00"
         }
       ]
     },
@@ -156,7 +180,7 @@
       "rep": {
         "source": "Al Mayadeen",
         "category": "panarab",
-        "title": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces will have multiple…",
+        "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces have open and multiple…",
         "title_he": "",
         "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
         "published": "2026-09-06T18:57:00+00:00"
@@ -165,7 +189,7 @@
         {
           "source": "Al Mayadeen",
           "category": "panarab",
-          "title": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces will have multiple…",
+          "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces have open and multiple…",
           "title_he": "",
           "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
           "published": "2026-09-06T18:57:00+00:00"
@@ -173,7 +197,7 @@
         {
           "source": "Al Manar",
           "category": "levant",
-          "title": "Yemeni military forces showcased footage of a precise missile strike targeting a meeting of Saudi-backed…",
+          "title": "Yemeni military forces displayed footage of a precise missile strike targeting a meeting of Saudi-led…",
           "title_he": "",
           "url": "https://www.almanar.com.lb/article/1156872/",
           "published": ""
@@ -184,33 +208,33 @@
       "rank": 5,
       "outlets": 2,
       "categories": [
-        "iranian",
+        "panarab",
         "levant"
       ],
       "rep": {
-        "source": "WAFA News",
-        "category": "levant",
-        "title": "Gaza death toll rises to 73,651 since October 2023",
+        "source": "The New Arab",
+        "category": "panarab",
+        "title": "Netanyahu orders removal of illegal West Bank settler outposts",
         "title_he": "",
-        "url": "https://english.wafa.ps/Pages/Details/174384",
-        "published": "2026-09-05T15:41:26+00:00"
+        "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+        "published": "2026-09-06T16:26:40+00:00"
       },
       "members": [
         {
-          "source": "IRNA",
-          "category": "iranian",
-          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "source": "The New Arab",
+          "category": "panarab",
+          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
           "title_he": "",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "published": "2026-09-05T17:05:27+00:00"
+          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
+          "published": "2026-09-06T16:26:40+00:00"
         },
         {
-          "source": "WAFA News",
+          "source": "SANA",
           "category": "levant",
-          "title": "Gaza death toll rises to 73,651 since October 2023",
+          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
           "title_he": "",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
-          "published": "2026-09-05T15:41:26+00:00"
+          "url": "https://sana.sy/en/international/2340763/",
+          "published": "2026-09-06T10:13:28+00:00"
         }
       ]
     }

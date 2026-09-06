@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:16:32.337135+00:00",
+  "updated": "2026-09-06T22:50:04.781389+00:00",
   "regions": {
     "Israel": [
       {
@@ -9,10 +9,18 @@
         "url": "https://www.kan.org.il",
         "headlines": [
           {
+            "title": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
+            "url": "https://kan.org.il/content/kan-news/local/1096412/",
+            "published": "2026-09-06T10:56:38+00:00",
+            "snippet": "Rabbi Moshe Yazdi, who led the \"Amudei HaShalom\" community and taught Torah to converts, was sentenced to 18 years in prison for sex offenses. He allegedly told women they must submit to his sexual desires and acts to atone for impurity. The judges noted his actions were exceptionally widespread, involving dozens or even hundreds of offenses against each complainant.",
+            "title_he": "18 שנות מאסר נגזרו על הרב משה יזדי שהורשע בעבירות מין",
+            "snippet_he": ""
+          },
+          {
             "title": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
             "url": "b00a8c7fdb884905b1f1f1635c39f95d",
             "published": "2026-09-06T21:40:18+00:00",
-            "snippet": "Five people were killed and five were injured in a cargo plane crash at Miami airport.",
+            "snippet": "An Amazon cargo plane crashed at Miami airport after overshooting the runway, resulting in five fatalities and five injuries. The aircraft caught fire after impacting several vehicles.",
             "title_he": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
             "snippet_he": ""
           },
@@ -20,7 +28,7 @@
             "title": "מחיר הדלק ירד בחצות בחצי שקל, ליטר בנזין 95 יעמוד על 7.75 שקלים",
             "url": "0a5927c7aaba4af4a48f6607c6980fac",
             "published": "2026-09-06T21:27:49+00:00",
-            "snippet": "The price of fuel dropped by half a shekel at midnight, with a liter of 95 octane gasoline costing 7.75 shekels.",
+            "snippet": "Fuel prices will decrease by half a shekel at midnight, bringing the price of a liter of 95 octane gasoline to 7.75 shekels.",
             "title_he": "מחיר הדלק ירד בחצות בחצי שקל, ליטר בנזין 95 יעמוד על 7.75 שקלים",
             "snippet_he": ""
           },
@@ -28,7 +36,7 @@
             "title": "לפחות 10 הרוגים ו-64 פצועים בפיצוץ זיקוקים בפסטיבל במקסיקו",
             "url": "302f01e7ec4b4b9f8bb663b18b4dcb2e",
             "published": "2026-09-06T21:14:26+00:00",
-            "snippet": "At least 10 people were killed and 64 were injured in a fireworks explosion at a festival in Mexico.",
+            "snippet": "A fireworks explosion at a festival in Mexico has caused at least 10 deaths and 64 injuries.",
             "title_he": "לפחות 10 הרוגים ו-64 פצועים בפיצוץ זיקוקים בפסטיבל במקסיקו",
             "snippet_he": ""
           },
@@ -36,21 +44,13 @@
             "title": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
             "url": "0e6349a2bb484c07869fa2bcb7399953",
             "published": "2026-09-06T19:47:49+00:00",
-            "snippet": "A cargo plane in the US failed to stop upon landing at Miami airport and crashed off the runway.",
+            "snippet": "In the United States, a cargo plane failed to stop upon landing at Miami airport and crashed off the runway.",
             "title_he": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
-            "snippet_he": ""
-          },
-          {
-            "title": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
-            "url": "25879e070efa4476b10ec7e5c810f9a7",
-            "published": "2026-09-06T19:13:12+00:00",
-            "snippet": "Iran announced it would declare a restricted shipping zone outside the Strait of Hormuz and impose sanctions on vessels entering it.",
-            "title_he": "איראן: \"נכריז על אזור מוגבל לשיט מחוץ למצר הורמוז, ונטיל סנקציות על ספינות שיכנסו אליו\"",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "latest"
+        "rank_method": "coverage"
       },
       {
         "source": "N12",
@@ -62,7 +62,7 @@
             "title": "האסון שמטלטל את אלג'יריה: איוב בן ה-10 נפל לבור עמוק - ונמצא מת",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-d3917beddc670a1026.htm",
             "published": "2026-09-06T18:03:00+00:00",
-            "snippet": "An Egyptian child named Ayoub, aged 10, tragically fell into a deep well and was found deceased after a nationwide effort to save him.",
+            "snippet": "A 10-year-old boy named Ayoub has died after falling into a deep well in Algeria. His rescue was the subject of national prayers for four days before he was found lifeless. This tragedy in Algeria brings to mind the incident involving Rayan in Morocco.",
             "title_he": "האסון שמטלטל את אלג'יריה: איוב בן ה-10 נפל לבור עמוק - ונמצא מת",
             "snippet_he": ""
           },
@@ -70,7 +70,7 @@
             "title": "תלמידה הותקפה בבית הספר - וטוענת: \"ההנהלה מנעה את חקירת המשטרה\"",
             "url": "https://www.mako.co.il/news-israel/2026_q3/Article-ec8fef3819670a1027.htm",
             "published": "2026-09-06T15:50:00+00:00",
-            "snippet": "A student in Kiryat Yam claims she was attacked at school, and that the administration prevented the police from investigating the incident.",
+            "snippet": "A high school student in Kiryat Yam claims she was attacked at school, and that the administration prevented a police investigation. She alleges that after calling the police, school officials told her the officer could not enter the premises. She and her father have filed a police complaint.",
             "title_he": "תלמידה הותקפה בבית הספר - וטוענת: \"ההנהלה מנעה את חקירת המשטרה\"",
             "snippet_he": ""
           },
@@ -78,7 +78,7 @@
             "title": "אימה באוויר: צעירה הותקפה מינית בזמן טיסה לאחר שאיבדה הכרה",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-eb457dbaf4770a1027.htm",
             "published": "2026-09-06T15:42:00+00:00",
-            "snippet": "A young woman was sexually assaulted during a flight from Malta to Nantes, France, after losing consciousness.",
+            "snippet": "A 22-year-old woman was sexually assaulted on a flight from Malta to Nantes, France, after losing consciousness. A 39-year-old man is suspected of taking advantage of her condition. He was arrested over a month later when he arrived in France on a different flight.",
             "title_he": "אימה באוויר: צעירה הותקפה מינית בזמן טיסה לאחר שאיבדה הכרה",
             "snippet_he": ""
           },
@@ -86,7 +86,7 @@
             "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
             "published": "2026-09-06T15:30:00+00:00",
-            "snippet": "A 23-year-old Israeli named David Ben Lulu from Jerusalem was killed in a motorcycle accident in Vietnam.",
+            "snippet": "Doud Ben Lulu, a 23-year-old from Jerusalem, has died in a motorcycle accident in Vietnam. He also held French citizenship. ZAKA is coordinating with the Paris Foreign Ministry and Vietnamese authorities to arrange for the transport of his body back to Israel.",
             "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
             "snippet_he": ""
           },
@@ -94,7 +94,7 @@
             "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
             "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
             "published": "2026-09-06T14:42:00+00:00",
-            "snippet": "Argentinian President Javier Milei has intensified his actions regarding the Falkland Islands, imposing sanctions on companies involved in oil projects in the region, including Israeli firms.",
+            "snippet": "Argentinian President Javier Milei has imposed sanctions on companies involved in an oil project in the Falklands region, including Israeli firms. Milei declared, \"Argentina will not stand idly by,\" drawing significant anger from Britain.",
             "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
             "snippet_he": ""
           }
@@ -112,31 +112,23 @@
             "title": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13",
             "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/um905-905345828/",
             "published": "2026-09-06T10:56:54+00:00",
-            "snippet": "The court sentenced Rabbi Moshe Yizdi to 18 years in prison after he was convicted of sex offenses.",
+            "snippet": "Rabbi Moshe Yazdi has been sentenced to 18 years in prison after being convicted of sex offenses.",
             "title_he": "ביהמ\"ש גזר 18 שנות מאסר על הרב משה יזדי, שהורשע בעבירות מין - רשת 13",
             "snippet_he": ""
           },
           {
             "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13",
             "url": "https://13tv.co.il/news/",
-            "published": "2026-09-06T19:11:45+00:00",
-            "snippet": "This is a placeholder for a news item.",
+            "published": "2026-09-06T21:20:18+00:00",
+            "snippet": "This is a news summary from Channel 13.",
             "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם - רשת 13",
             "snippet_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם רשת 13"
-          },
-          {
-            "title": "רבנים בדגל התורה מסרבים לחתום על מסמך ההדחה של גפני ומקלב - רשת 13",
-            "url": "https://13tv.co.il/item/news/politics/politics/pi4g5-905346993/",
-            "published": "2026-09-06T17:57:31+00:00",
-            "snippet": "Rabbis from Degel HaTorah are refusing to sign the removal document for Gafni and Makleb.",
-            "title_he": "רבנים בדגל התורה מסרבים לחתום על מסמך ההדחה של גפני ומקלב - רשת 13",
-            "snippet_he": ""
           },
           {
             "title": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\" - רשת 13",
             "url": "https://13tv.co.il/item/news/politics/politics/zulln-905346859/",
             "published": "2026-09-06T16:59:57+00:00",
-            "snippet": "This is a placeholder for a news item.",
+            "snippet": "This news item discusses an offer made by Netanyahu to Winter and a confrontation during a closed meeting where it was stated, \"The youth are not with you.\"",
             "title_he": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\" - רשת 13",
             "snippet_he": ""
           },
@@ -144,14 +136,20 @@
             "title": "שיחת היום 06.09.26 - התכנית המלאה לצפייה ישירה - - רשת 13",
             "url": "https://13tv.co.il/allshows/series/546/season/1/4564713/",
             "published": "2026-09-06T16:41:04+00:00",
-            "snippet": "This is a placeholder for a news item.",
+            "snippet": "This is a summary of the full \"Shihat Hayom\" program from September 06, 2026, available for direct viewing.",
             "title_he": "שיחת היום 06.09.26 - התכנית המלאה לצפייה ישירה - - רשת 13",
+            "snippet_he": ""
+          },
+          {
+            "title": "חוץ מזה לא צריך כלום: הדג נחש חגגה 30 במופע ענק של פעם בחיים - רשת 13",
+            "url": "https://13tv.co.il/item/entertainment/music/qqvk0-905346316/",
+            "published": "2026-09-06T14:33:36+00:00",
+            "snippet": "The band \"HaDag Nachash\" celebrated its 30th anniversary with a grand, once-in-a-lifetime performance.",
+            "title_he": "חוץ מזה לא צריך כלום: הדג נחש חגגה 30 במופע ענק של פעם בחיים - רשת 13",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       }
     ],
@@ -166,7 +164,7 @@
             "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
             "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
             "published": "",
-            "snippet": "Iran will declare a restricted zone outside the Strait of Hormuz in the coming days, including areas in the Gulf.",
+            "snippet": "Iran's Supreme National Security Council Secretary Mohsen Rezaei stated that a restricted zone will be announced outside the Strait of Hormuz in the coming days, including areas in the Gulf.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -174,7 +172,7 @@
             "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
             "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
             "published": "",
-            "snippet": "The far-right AfD party has won a vote in Germany’s Saxony-Anhalt state, though it is unclear if they can form a government.",
+            "snippet": "According to exit polls, the far-right AfD party has won an election in Germany's Saxony-Anhalt state. The party has hailed the result as 'historic,' though it is unclear if they can form a government.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -182,23 +180,23 @@
             "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
             "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
             "published": "",
-            "snippet": "An Egyptian TV presenter, Sarah Khalifa, and 11 others were sentenced to death for involvement in a drug trafficking ring.",
+            "snippet": "A Cairo court has sentenced Egyptian TV presenter Sarah Khalifa and 11 others to death for their involvement in a drug trafficking ring.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "4 , Can you guess the real size of each country on the new world map?",
-            "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
-            "published": "",
-            "snippet": "This interactive feature allows users to compare the real size of countries on a new world map projection.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
+            "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
             "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
             "published": "",
-            "snippet": "Iran stated that the time for proportionate retaliation is over after a US strike on Iranian tankers within a blockade line.",
+            "snippet": "Tehran claims the time for proportionate retaliation is over after a U.S. strike on Iranian tankers within a blockade line. Iran announced it would announce a restricted zone outside the Strait of Hormuz in the coming days.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "5 , Can you guess the real size of each country on the new world map?",
+            "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
+            "published": "",
+            "snippet": "This item describes a feature that allows users to guess the real size of countries on a new world map by comparing projections.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -216,7 +214,7 @@
             "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
             "url": "https://middleeasteye.net/trending/ben-gvir-deletes-ai-video-showing-emaciated-palestinian-prisoners-after-backlash",
             "published": "",
-            "snippet": "Israel's national security minister removed an AI video depicting emaciated Palestinian prisoners after it drew backlash.",
+            "snippet": "Israel's national security minister removed an AI-generated video depicting emaciated Palestinian prisoners following public backlash. The video had drawn comparisons to Nazi concentration camps.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -224,7 +222,7 @@
             "title": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online",
             "url": "https://middleeasteye.net/trending/israeli-soldiers-pose-next-blindfolded-palestinian",
             "published": "",
-            "snippet": "A photograph of Israeli soldiers posing next to blindfolded Palestinian detainees has fueled anger online.",
+            "snippet": "A photograph of Israeli soldiers posing with blindfolded Palestinian individuals has caused anger online. One social media user stated, \"The Israeli army revels in depravity and no one is holding Israel to account.\"",
             "title_he": "תמונה של חיילים ישראלים מצטלמים לצד פלסטינים עם עיניים מכוסות מזינה את הכעס ברשת",
             "snippet_he": "הצבא הישראלי 'נהנה מהשחיתות ואף אחד לא מחזיק את ישראל לדין,' אמר משתמש ברשתות החברתיות."
           },
@@ -232,7 +230,7 @@
             "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
             "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
             "published": "",
-            "snippet": "ICC member states are accused of facilitating Netanyahu’s flight to Washington, drawing rising anger.",
+            "snippet": "ICC member states are accused of facilitating Netanyahu's flight to Washington. The Israeli prime minister traveled through several ICC member states before arriving at the White House.",
             "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון",
             "snippet_he": "הכעס גובר כאשר מדינות ה-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון."
           },
@@ -240,7 +238,7 @@
             "title": "Israeli election campaign billboards in Cyprus spark debate",
             "url": "https://middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
             "published": "",
-            "snippet": "Israeli election campaign billboards in Cyprus have sparked debate, with criticism directed at Yashar party leader Gadi Eisenkot over growing Israeli presence.",
+            "snippet": "Election campaign billboards for the Yashar party in Cyprus have sparked debate. Leader Gadi Eisenkot faces criticism amidst growing concerns about an increased Israeli presence in Cyprus.",
             "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון",
             "snippet_he": "שלטי קמפיין הבחירות בישראל בקפריסין עוררו דיון, כאשר ביקורת הופנית כלפי מנהיג מפלגת יאשאר, גדי אייזנקוט, על רקע חששות מנוכחות ישראלית גוברת."
           },
@@ -248,7 +246,7 @@
             "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
             "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
             "published": "",
-            "snippet": "Palestinians have launched a campaign to counter the narrative surrounding a Gaza 'ceasefire', highlighting the ongoing situation in the besieged enclave.",
+            "snippet": "Palestinians have launched a campaign titled #TheyLiedtoYou to counter the narrative surrounding a Gaza ceasefire. Activists are highlighting the ongoing situation in the besieged enclave.",
             "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה",
             "snippet_he": "הפלסטינים השיקו קמפיין #TheyLiedtoYou לערעור על הנרטיב סביב 'הפסקת אש' בעזה. יוזמה זו שואפת להדגיש את מה שפעילים מתארים כרצח העם המתמשך של ישראל במובלעת הנצורה."
           }
@@ -266,7 +264,7 @@
             "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
             "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
             "published": "2026-09-06T09:30:08+00:00",
-            "snippet": "There was smoke and destruction in southern Lebanon following Israeli strikes.",
+            "snippet": "Following Israeli strikes in southern Lebanon, significant smoke and destruction were reported.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -274,15 +272,7 @@
             "title": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
             "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/centcom-says-it-struck-three-iranian-oil-tankers-after-irgc-targeted-two-us-warships",
             "published": "2026-09-05T14:17:00+00:00",
-            "snippet": "CENTCOM reported striking three Iranian oil tankers after the IRGC targeted two US warships.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "US ambassador calls for ‘severe consequences’ to stop West Bank violence",
-            "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence",
-            "published": "2026-09-05T10:49:00+00:00",
-            "snippet": "The US ambassador has called for severe consequences to halt violence in the West Bank.",
+            "snippet": "CENTCOM confirmed striking three Iranian oil tankers after the IRGC targeted two U.S. warships.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -290,22 +280,28 @@
             "title": "Putin meets US envoys for Ukraine war talks",
             "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
             "published": "2026-09-05T08:39:00+00:00",
-            "snippet": "Putin met with US envoys for talks regarding the war in Ukraine.",
+            "snippet": "Putin has met with U.S. envoys for discussions regarding the war in Ukraine.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Greek air force jet crashes at annual aerial show",
-            "url": "https://english.alarabiya.net/News/world/2026/09/05/greek-air-force-jet-crashes-at-annual-aerial-show",
-            "published": "2026-09-05T12:35:00+00:00",
-            "snippet": "A Greek air force jet crashed during an annual aerial show.",
+            "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
+            "url": "https://english.alarabiya.net/News/middle-east/2026/09/06/iran-says-new-strait-of-hormuz-corridor-agreement-to-be-signed-in-coming-days",
+            "published": "2026-09-06T19:39:00+00:00",
+            "snippet": "Iran announced that a new agreement for a corridor near the Strait of Hormuz is set to be signed in the coming days.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Algerian boy trapped in well for days found dead",
+            "url": "https://english.alarabiya.net/amp/News/north-africa/2026/09/06/algerian-boy-trapped-in-well-for-days-found-dead",
+            "published": "2026-09-06T05:53:00+00:00",
+            "snippet": "An Algerian boy who was trapped in a well for several days has been found dead.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -318,7 +314,7 @@
             "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
             "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
             "published": "2026-09-06T12:16:22+00:00",
-            "snippet": "Israeli strikes in southern Lebanon resulted in four deaths and the destruction of a hospital.",
+            "snippet": "Israeli strikes in southern Lebanon have resulted in four deaths and the destruction of a hospital.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -326,7 +322,7 @@
             "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
             "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
             "published": "2026-09-04T10:51:13+00:00",
-            "snippet": "Israel handed over five Lebanese civilians it had abducted, facilitated by the ICRC.",
+            "snippet": "Israel has handed over five civilians to Lebanon via the ICRC, whom Israel had abducted.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -350,14 +346,12 @@
             "title": "Netanyahu orders removal of illegal West Bank settler outposts",
             "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
             "published": "2026-09-06T16:26:40+00:00",
-            "snippet": "Netanyahu ordered the removal of illegal settler outposts in the West Bank.",
+            "snippet": "Netanyahu has ordered the removal of illegal settler outposts in the West Bank.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -367,10 +361,18 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
-            "title": "مصدر يمني: حال قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
+            "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
+            "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
+            "published": "2026-09-03T20:59:45+00:00",
+            "snippet": "The U.S. House of Representatives has approved a bill to withhold aid from universities that boycott \"Israel.\"",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
             "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
             "published": "2026-09-06T18:57:00+00:00",
-            "snippet": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, Yemeni forces will have multiple open options.",
+            "snippet": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces have open and multiple options.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -378,7 +380,7 @@
             "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
             "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
             "published": "2026-09-06T15:26:38+00:00",
-            "snippet": "A member of the Israeli Knesset stated that the dismissal of Netanyahu is an existential necessity for Israeli society.",
+            "snippet": "A member of the Israeli Knesset believes that the removal of Netanyahu is an existential necessity for the \"Israeli society.\"",
             "title_he": "",
             "snippet_he": ""
           },
@@ -386,7 +388,7 @@
             "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
             "url": "https://www.almayadeen.net/news/politics/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8",
             "published": "2026-09-06T13:46:05+00:00",
-            "snippet": "Israeli media reported arrests and investigations in Gaza following the discovery of a cell linked to the abduction of Arbid.",
+            "snippet": "Israeli media reported arrests and investigations in Gaza following the discovery of a cell linked to the kidnapping of Arab detainees.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -394,23 +396,13 @@
             "title": "كتائب سيد الشهداء: تنظيم السلاح مرهون بالسيادة الشاملة للعراق",
             "url": "https://www.almayadeen.net/news/politics/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D8%B1%D9%87%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
             "published": "2026-09-06T13:13:17+00:00",
-            "snippet": "The Sayyid al-Shuhada Brigades stated that weapon organization is conditional on Iraq's comprehensive sovereignty.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "موسكو لا تستبعد عقد اجتماع ثلاثي روسي أميركي صيني خلال قمة \"أبيك\"",
-            "url": "https://www.almayadeen.net/news/politics/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF-%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B5%D9%8A%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D9%82%D9%85%D8%A9",
-            "published": "2026-09-06T11:34:26+00:00",
-            "snippet": "Moscow has not ruled out the possibility of holding a trilateral Russia-US-China meeting during the APEC summit.",
+            "snippet": "The Sayyid al-Shuhada Brigades stated that the regulation of weapons is conditional upon the comprehensive sovereignty of Iraq.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
-        "rank_method": "latest"
+        "rank_method": "coverage"
       }
     ],
     "Iran": [
@@ -421,10 +413,18 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Gaza death toll rises to 73,651, health ministry says",
+            "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+            "published": "2026-09-05T17:05:27+00:00",
+            "snippet": "The Gaza health ministry reported that the death toll from Israeli attacks has risen to 73,651, with 174,575 wounded.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Tehran, Baku stress expansion of infrastructure cooperation",
             "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
             "published": "2026-09-06T08:42:58+00:00",
-            "snippet": "Iran and Azerbaijan discussed expanding economic and transit cooperation, focusing on infrastructure.",
+            "snippet": "Tehran and Baku have emphasized the expansion of infrastructure cooperation. Iran's Minister of Roads and Urban Development and Azerbaijan's Deputy Prime Minister discussed economic and transit cooperation.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -432,15 +432,7 @@
             "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
             "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
             "published": "2026-09-06T05:53:41+00:00",
-            "snippet": "The IRGC announced it targeted a US aircraft carrier and destroyer with ballistic missiles during a maritime confrontation.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Gaza death toll rises to 73,651, health ministry says",
-            "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-            "published": "2026-09-05T17:05:27+00:00",
-            "snippet": "Gaza's health ministry reported that the death toll has risen to 73,651 people.",
+            "snippet": "The Islamic Revolution Guards Corps (IRGC) announced that its Aerospace Force targeted a U.S. aircraft carrier and a destroyer with ballistic missiles during a maritime confrontation.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -448,7 +440,7 @@
             "title": "Mexico’s ambassador welcomes joint trade cooperation committee with Iran",
             "url": "https://en.irna.ir/news/86256598/Mexico-s-ambassador-welcomes-joint-trade-cooperation-committee",
             "published": "2026-09-06T13:11:02+00:00",
-            "snippet": "Mexico's ambassador to Tehran welcomed the formation of a joint committee to expand trade relations between Mexico and Iran.",
+            "snippet": "Mexico's ambassador to Tehran, Guillermo Puente Ordorica, welcomed the formation of a joint Iran-Mexico committee to boost trade relations, identifying health tourism and the automotive industry as potential areas.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -456,7 +448,7 @@
             "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
             "url": "https://en.irna.ir/news/86256611/US-military-cannot-call-its-barbaric-crimes-against-civilians",
             "published": "2026-09-06T13:03:38+00:00",
-            "snippet": "Iran's mission to the OIC stated that the US military cannot label its actions against civilians as a 'mistake'.",
+            "snippet": "Iran's mission to the OIC denounced the U.S. military's acknowledgment of an attack on an Iranian oil tanker, criticizing it for evading responsibility for civilian deaths.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -474,7 +466,7 @@
             "title": "IRGC hits US aircraft carrier, destroyer with missiles",
             "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
             "published": "2026-09-06T04:03:54+00:00",
-            "snippet": "Iran's Islamic Revolutionary Guard Corps claimed to have targeted a U.S. aircraft carrier and destroyer with ballistic missiles, causing them to flee.",
+            "snippet": "Iran's Islamic Revolutionary Guard Corps stated it targeted a U.S. aircraft carrier and a destroyer with ballistic missiles, causing them to flee the conflict zone.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -482,7 +474,7 @@
             "title": "US aircraft carriers within Iran's reach",
             "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
             "published": "2026-09-06T09:09:15+00:00",
-            "snippet": "Iran's ballistic missile attack on US warships signifies a shift in regional deterrence and increases the cost of US naval presence.",
+            "snippet": "Iran's ballistic missile attack on a U.S. carrier and destroyer signals a shift in regional deterrence and increases the cost of America's naval presence.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -490,7 +482,7 @@
             "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
             "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
             "published": "2026-09-06T04:25:04+00:00",
-            "snippet": "The IRGC Navy released footage demonstrating its control and surveillance actions in the Strait of Hormuz.",
+            "snippet": "The Islamic Revolutionary Guard Corps Navy has released footage of its surveillance and actions against vessels in the Strait of Hormuz.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -498,7 +490,7 @@
             "title": "Economic pressure, blockade to cost US more than Iran",
             "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
             "published": "2026-09-06T05:00:48+00:00",
-            "snippet": "The IRGC spokesman asserted that the US economic blockade imposes greater costs on Washington than Tehran.",
+            "snippet": "The IRGC spokesman stated that the U.S. economic blockade against Iran imposes heavier costs on Washington than on Tehran.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -506,7 +498,7 @@
             "title": "Iran sets up economic war task force amid fighting with US",
             "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
             "published": "2026-09-06T07:11:39+00:00",
-            "snippet": "Iran's economy ministry has established a dedicated headquarters to address wartime disruptions and find solutions.",
+            "snippet": "Iran's economy ministry has established an economic war headquarters to manage wartime disruptions and implement solutions.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -524,23 +516,23 @@
             "title": "1 Alamolhoda seeking presidency of Iran’s Assembly of Experts - report",
             "url": "https://iranintl.com/en/202609056692",
             "published": "",
-            "snippet": "A report indicates that Alamolhoda is seeking the presidency of Iran’s Assembly of Experts.",
+            "snippet": "Senior cleric Ahmad Alamolhoda is reportedly seeking support to become president of Iran’s Assembly of Experts, a body responsible for overseeing the supreme leader.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "2 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
-            "url": "https://iranintl.com/en/202609054820",
-            "published": "",
-            "snippet": "This is an analysis of 'Pickaxe Mountain' and why Trump frequently mentions bombing it.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "3 EXCLUSIVE Satellite images show Iran’s key ports falling quiet under US blockade",
+            "title": "2 EXCLUSIVE Satellite images show Iran’s key ports falling quiet under US blockade",
             "url": "https://iranintl.com/en/202609056722",
             "published": "",
-            "snippet": "Satellite images show Iran’s key ports falling quiet under a US blockade.",
+            "snippet": "Satellite images show a significant decrease in shipping activity at Shahid Rajaee and Imam Khomeini ports since the U.S. naval blockade was reimposed.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "3 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
+            "url": "https://iranintl.com/en/202609054820",
+            "published": "",
+            "snippet": "Donald Trump has again mentioned that the United States may strike \"Pickaxe Mountain,\" an underground complex linked to Iran's nuclear program.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -548,7 +540,7 @@
             "title": "4 INSIGHT Iran's appliance industry is collapsing, and so is the market it was built for",
             "url": "https://iranintl.com/en/202609051934",
             "published": "",
-            "snippet": "This analysis discusses the collapse of Iran's appliance industry and its related market.",
+            "snippet": "Iran's appliance industry is struggling due to a lack of raw materials and declining customers, with industrial hubs also affected.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -556,14 +548,12 @@
             "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
             "url": "https://iranintl.com/en/202609048845",
             "published": "",
-            "snippet": "This analysis examines the debate over whether Iran is using its strongest card in Hormuz.",
+            "snippet": "A debate is growing in Tehran over whether Iran is weakening its leverage in Hormuz, with warnings that the Strait's effectiveness could diminish.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "most_read"
       }
     ],
@@ -578,7 +568,7 @@
             "title": "King accepts credentials of new ambassadors",
             "url": "https://jordantimes.com/news/local/king-accepts-credentials-of-new-ambassadors-1302334",
             "published": "2026-09-06T15:13:15+00:00",
-            "snippet": "The King accepted the credentials of new ambassadors.",
+            "snippet": "The King has accepted the credentials of new ambassadors.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -586,15 +576,7 @@
             "title": "Prime minister reviews measures to maintain supply chains amid regional tensions",
             "url": "https://jordantimes.com/news/local/prime-minister-reviews-measures-to-maintain-supply-chains-amid-regional-tensions",
             "published": "2026-09-06T13:34:59+00:00",
-            "snippet": "The Prime Minister reviewed measures to maintain supply chains amidst regional tensions.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
-            "url": "https://jordantimes.com/news/local/bodies-of-9-jordanians-killed-in-egypt-crash-arrive-in-kingdom",
-            "published": "2026-09-06T03:17:07+00:00",
-            "snippet": "The bodies of nine Jordanians killed in a crash in Egypt have arrived in the Kingdom.",
+            "snippet": "The prime minister reviewed measures to maintain supply chains amidst regional tensions.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -602,7 +584,7 @@
             "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
             "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
             "published": "2026-09-05T14:47:31+00:00",
-            "snippet": "Personal loans have driven a rise in individual debt to JD14.3 billion in the first quarter, according to the Central Bank of Jordan.",
+            "snippet": "Personal loans have driven individual debt to JD14.3 billion in the first quarter, according to the Central Bank of Jordan.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -613,11 +595,17 @@
             "snippet": "Safadi and the Austrian foreign minister discussed bilateral relations and regional developments.",
             "title_he": "",
             "snippet_he": ""
+          },
+          {
+            "title": "King receives letter from newly appointed chairman of joint chiefs of staff",
+            "url": "https://jordantimes.com/news/local/king-receives-letter-from-newly-appointed-chairman-of-joint-chiefs-of-staff",
+            "published": "2026-09-03T17:43:39+00:00",
+            "snippet": "The King received a letter from the newly appointed chairman of the joint chiefs of staff.",
+            "title_he": "",
+            "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "latest"
       },
       {
@@ -627,18 +615,18 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
-            "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
-            "url": "https://today.lorientlejour.com/article/1546646/military-operation-or-secret-arrangement-inside-israels-takeover-of-ali-taher.html",
+            "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
+            "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
             "published": "",
-            "snippet": "This focus explores the nature of Israel's 'takeover' of Ali Taher, questioning if it was a military operation or a secret arrangement.",
+            "snippet": "New Turkey-Hezbollah communication channels are under scrutiny, following U.S. Treasury sanctions against a network of couriers including several Turks.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
-            "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+            "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
+            "url": "https://today.lorientlejour.com/article/1546646/military-operation-or-secret-arrangement-inside-israels-takeover-of-ali-taher.html",
             "published": "",
-            "snippet": "Israeli strikes on the Nabatieh district killed eight people, destroyed Ghandour Hospital, and damaged the Finance Ministry building.",
+            "snippet": "Israel's announcement of taking over tunnels on Ali Taher hill remains unclear, with questions about whether it was a deal or a military operation.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -646,7 +634,7 @@
             "title": "FOCUS Israel’s new roads in south Lebanon fuel fears of a prolonged occupation",
             "url": "https://today.lorientlejour.com/article/1546658/israels-new-roads-in-south-lebanon-fuel-fears-of-a-prolonged-occupation.html",
             "published": "",
-            "snippet": "This focus examines new Israeli roads in south Lebanon, which fuel fears of a prolonged occupation.",
+            "snippet": "Reports indicate the Israeli army is building military roads in occupied areas of southern Lebanon, fueling fears of a prolonged occupation.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -654,7 +642,7 @@
             "title": "SOCIAL PROTECTION Crisis-era retirees: Proposal to restore 50% of end-of-service indemnities Stephanie Bechara",
             "url": "https://today.lorientlejour.com/article/1546619/crisis-era-retirees-proposal-to-restore-50-of-end-of-service-indemnities.html",
             "published": "",
-            "snippet": "A proposal aims to restore 50% of end-of-service indemnities for retirees during the crisis era.",
+            "snippet": "A proposal to partially restore end-of-service indemnities for employees who retired during Lebanon's crisis is under consideration.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -662,14 +650,12 @@
             "title": "ECONOMY In Lebanon, individual initiatives create an off-the-books Shein sales network Ghadir Hamadi",
             "url": "https://today.lorientlejour.com/article/1545425/in-lebanon-individual-initiatives-create-an-off-the-books-shein-sales-network.html",
             "published": "",
-            "snippet": "Individual initiatives in Lebanon have created an off-the-books sales network for the brand Shein.",
+            "snippet": "Individual initiatives in Lebanon are creating an off-the-books sales network for Shein.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "most_read"
       },
       {
@@ -679,10 +665,18 @@
         "url": "https://egyptindependent.com",
         "headlines": [
           {
+            "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+            "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+            "published": "2026-09-06T13:02:11+00:00",
+            "snippet": "Foreign ministers from Egypt, Qatar, Jordan, UAE, Indonesia, Pakistan, Turkey, and Saudi Arabia jointly condemned Israeli ministers' proposals for displacing Palestinians from Gaza.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Without Charlie Kirk, Turning Point is building a future for his movement — and for JD Vance",
             "url": "https://www.egyptindependent.com/without-charlie-kirk-turning-point-is-building-a-future-for-his-movement-and-for-jd-vance/",
             "published": "2026-09-06T13:40:26+00:00",
-            "snippet": "Without Charlie Kirk, Turning Point is building a future for his movement and for JD Vance.",
+            "snippet": "Charlie Kirk addressed an audience on building a business with a strong founder connection, while also warning about separating the brand from the founder.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -690,7 +684,7 @@
             "title": "Parents of San Diego mosque gunman say a mental health facility failed to heed FBI warning",
             "url": "https://www.egyptindependent.com/parents-of-san-diego-mosque-gunman-say-a-mental-health-facility-failed-to-heed-fbi-warning/",
             "published": "2026-09-06T13:27:09+00:00",
-            "snippet": "Parents of a San Diego mosque gunman allege that a mental health facility failed to heed an FBI warning.",
+            "snippet": "Parents of a San Diego mosque gunman claim a mental health facility failed to heed an FBI warning about their son's concerning comments.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -698,7 +692,7 @@
             "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
             "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
             "published": "2026-09-06T13:20:46+00:00",
-            "snippet": "US envoy Steve Witkoff and Jared Kushner arrived in Kyiv for diplomacy talks after meeting with Vladimir Putin in Moscow.",
+            "snippet": "US envoy Steve Witkoff and Jared Kushner arrived in Kyiv after talks with Putin in Moscow, continuing a U.S. diplomatic push to end the war in Ukraine.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -706,21 +700,13 @@
             "title": "The world is about to meet Apple’s new CEO. Here are his biggest challenges",
             "url": "https://www.egyptindependent.com/the-world-is-about-to-meet-apples-new-ceo-here-are-his-biggest-challenges/",
             "published": "2026-09-06T13:15:15+00:00",
-            "snippet": "John Ternus is set to debut as Apple’s new CEO, introducing the company’s latest products at the annual iPhone event.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-            "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-            "published": "2026-09-06T13:02:11+00:00",
-            "snippet": "Eight countries have jointly condemned Israeli ministers' proposals for the displacement of Palestinians from Gaza.",
+            "snippet": "John Ternus will debut as Apple's new chief executive at the company's September 9 iPhone event, with high expectations.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "latest"
+        "rank_method": "coverage"
       },
       {
         "source": "Al-Akhbar",
@@ -732,7 +718,7 @@
             "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان - Al Akhbar",
             "url": "https://www.al-akhbar.com/news/arab/903421/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%B1%D9%81%D8%A7%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
             "published": "2026-09-06T14:15:32+00:00",
-            "snippet": "There are warnings of the erasure of the remains of thousands of missing persons in Gaza amidst ongoing aggression.",
+            "snippet": "Human rights warnings have been issued regarding the potential erasure of evidence of genocide and the destruction of remains of thousands of missing persons under the rubble in Gaza.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -740,7 +726,7 @@
             "title": "خطر تمدّد الحرب شرقاً: البرهان يستعين بإريتريا... ضدّ إثيوبيا - Al Akhbar",
             "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903488/%D8%AE%D8%B7%D8%B1-%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B4%D8%B1%D9%82%D8%A7--%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A5%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A%D8%A7----%D8%B6%D8%AF-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7",
             "published": "2026-09-06T21:30:00+00:00",
-            "snippet": "There is a danger of the war expanding eastward, with Al-Burhan seeking Eritrean assistance against Ethiopia.",
+            "snippet": "Al-Burhan is reportedly seeking Eritrea's assistance against Ethiopia, raising concerns about the expansion of the war eastward.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -748,7 +734,15 @@
             "title": "غزة تحتضن ثالث جنازة جماعية في شهرَين - Al Akhbar",
             "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903487/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86",
             "published": "2026-09-06T21:30:00+00:00",
-            "snippet": "Gaza is hosting its third mass funeral in two months.",
+            "snippet": "Gaza is preparing for its third mass funeral in two months.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "تصاعد قرارات الاحتلال بإبعاد المقدسيين عن الأقصى قبيل الأعياد العبرية - Al Akhbar",
+            "url": "https://www.al-akhbar.com/news/arab/903423/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D9%8A%D9%8A%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%82%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%8A%D8%A7",
+            "published": "2026-09-06T19:35:13+00:00",
+            "snippet": "There is an increase in occupation decisions to bar Jerusalemites from Al-Aqsa Mosque ahead of Jewish holidays.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -756,22 +750,12 @@
             "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
             "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
             "published": "2026-09-06T18:33:54+00:00",
-            "snippet": "Netanyahu threatened Iran, stating 'Do not mess with us,' while the army tests its readiness for a surprise war.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "ويتكوف وكوشنر في كييف لاستئناف مفاوضات روسيا وأوكرانيا - Al Akhbar",
-            "url": "https://www.al-akhbar.com/news/world/903436/%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%81%D9%8A-%D9%83%D9%8A%D9%8A%D9%81-%D9%84%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-            "published": "2026-09-06T16:43:31+00:00",
-            "snippet": "Witkoff and Kushner are in Kyiv to resume Russia-Ukraine negotiations.",
+            "snippet": "Netanyahu has threatened Iran, stating, \"Do not mess with us,\" while the army tests its readiness for a surprise war.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -784,7 +768,7 @@
             "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:35",
             "url": "https://www.almanar.com.lb/article/1154622/",
             "published": "",
-            "snippet": "Hezbollah issued a statement regarding Israeli aggression on Lebanon, condemning the ongoing escalation.",
+            "snippet": "Hezbollah issued a statement condemning the ongoing Israeli aggression on Lebanon, stating the enemy continues to escalate its attacks.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -792,7 +776,7 @@
             "title": "تقارير خاصة | تلال علي الطاهر ورواية الاحتلال عن السيطرة لا تقنع الأوساط الصهيونية 13:26",
             "url": "https://www.almanar.com.lb/article/1154467/",
             "published": "",
-            "snippet": "Reports suggest that the Israeli narrative about controlling the Ali Taher hills in southern Lebanon is not convincing pro-Israel circles.",
+            "snippet": "Special reports question the Israeli account of controlling the Ali Taher hills, noting that Zionist circles are not convinced by the narrative.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -800,7 +784,7 @@
             "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
             "url": "https://www.almanar.com.lb/article/1156872/",
             "published": "",
-            "snippet": "Yemeni military forces showcased footage of a precise missile strike targeting a meeting of Saudi-backed mobilization leaders.",
+            "snippet": "Yemeni military forces displayed footage of a precise missile strike targeting a meeting of Saudi-led coalition leaders.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -808,15 +792,15 @@
             "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
             "url": "https://www.almanar.com.lb/article/1154792/",
             "published": "",
-            "snippet": "This special report analyzes the conflict over oil and gas corridors and attempts to redraw energy routes in the Middle East.",
+            "snippet": "Special reports examine the conflict over oil and gas corridors and attempts to redraw energy routes in the Middle East.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "العدو الاسرائيلي يواصل اعتداءاته على لبنان 14:00",
-            "url": "https://www.almanar.com.lb/article/1154512/",
+            "title": "قاليباف: كما هزمنا أميركا في الميدان العسكري والدبلوماسي سنفعل في الحرب الاقتصادية 13:04",
+            "url": "https://www.almanar.com.lb/article/1156602/",
             "published": "",
-            "snippet": "The Israeli occupation forces continue their attacks on Lebanon, violating international laws and sovereignty.",
+            "snippet": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf declared that Iran will defeat America in economic warfare, just as it did militarily and diplomatically.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -839,18 +823,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
-            "url": "https://english.wafa.ps/Pages/Details/174401",
-            "published": "2026-09-06T13:53:45+00:00",
-            "snippet": "Eight countries condemned Israeli ministers' calls for the displacement of Palestinians from Gaza.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Gaza death toll rises to 73,651 since October 2023 - WAFA Agency",
             "url": "https://english.wafa.ps/Pages/Details/174384",
             "published": "2026-09-05T15:41:26+00:00",
-            "snippet": "The death toll in Gaza has risen to 73,651 since October 2023.",
+            "snippet": "The Gaza death toll has reached 73,651 since October 2023.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -869,11 +845,17 @@
             "snippet": "Israeli aggression on Lebanon has resulted in 4,362 deaths and 12,378 injuries.",
             "title_he": "",
             "snippet_he": ""
+          },
+          {
+            "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/174401",
+            "published": "2026-09-06T13:53:45+00:00",
+            "snippet": "Eight countries have condemned Israeli ministers' calls for the displacement of Palestinians from Gaza.",
+            "title_he": "",
+            "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -886,15 +868,15 @@
             "title": "تحذيرات حقوقية من طمس أدلة الإبادة وتدمير رفات آلاف المفقودين تحت ركام غزة",
             "url": "https://paltoday.ps/ar/post/543644/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%A3%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%A5",
             "published": "2026-09-06T13:19:00+00:00",
-            "snippet": "There are human rights warnings about the erasure of evidence of genocide and the destruction of remains of thousands of missing persons under Gaza's rubble.",
+            "snippet": "Human rights organizations are warning of the destruction of evidence of genocide and the remains of thousands of missing individuals under the rubble in Gaza.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "الاحتلال يستهدف منزلا في مخيم الشاطئ غرب مدينة غزة",
-            "url": "https://paltoday.ps/ar/post/543629/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85",
-            "published": "2026-09-06T10:21:00+00:00",
-            "snippet": "The occupation forces targeted a house in the Shati camp, west of Gaza City.",
+            "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
+            "url": "https://paltoday.ps/ar/post/543573/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
+            "published": "2026-09-05T09:27:00+00:00",
+            "snippet": "A bill is being considered that would penalize American universities for boycotting \"Israel.\"",
             "title_he": "",
             "snippet_he": ""
           },
@@ -902,7 +884,7 @@
             "title": "3 شهداء جراء غارة إسرائيلية على جنوب لبنان",
             "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
             "published": "2026-09-06T15:37:00+00:00",
-            "snippet": "Three martyrs were killed in an Israeli raid on southern Lebanon.",
+            "snippet": "Three martyrs were reported due to an Israeli airstrike on southern Lebanon.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -910,7 +892,7 @@
             "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
             "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
             "published": "2026-09-06T14:22:00+00:00",
-            "snippet": "Two martyrs, including a child, and several injured were reported in an Israeli shelling that targeted a car west of Gaza.",
+            "snippet": "Two martyrs, including a child, and several injured were reported in an Israeli bombing targeting a car west of Gaza.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -918,14 +900,12 @@
             "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
             "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
             "published": "2026-09-06T13:46:00+00:00",
-            "snippet": "The Secretary-General of the Organization of Islamic Cooperation warned of schemes to displace Palestinians.",
+            "snippet": "The Secretary-General of the Organization of Islamic Cooperation has warned against plans to displace Palestinians.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -935,48 +915,48 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
-            "url": "https://sana.sy/en/syria/2332727/",
-            "published": "2026-07-28T14:07:05+00:00",
-            "snippet": "The Syrian Foreign Minister received the outgoing Omani ambassador in a farewell meeting.",
-            "title_he": "שר החוץ הסורי מקבל את שגריר עומאן היוצא",
+            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+            "url": "https://sana.sy/en/middle-east/2340780/",
+            "published": "2026-09-06T10:52:43+00:00",
+            "snippet": "Four people were killed and 20 injured in Israeli strikes on Nabatieh, southern Lebanon.",
+            "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli occupation forces carry out new incursion into western Daraa countryside",
-            "url": "https://sana.sy/en/syria/2332729/",
-            "published": "2026-07-28T14:06:35+00:00",
-            "snippet": "Israeli occupation forces conducted a new incursion into the western Daraa countryside in Syria.",
-            "title_he": "כוחות הכיבוש הישראליים מבצעים חדירה חדשה לאזור מערב דרעא",
+            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
+            "url": "https://sana.sy/en/international/2340834/",
+            "published": "2026-09-06T13:36:50+00:00",
+            "snippet": "Israeli strikes have destroyed a hospital in southern Lebanon, further damaging the health sector.",
+            "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Syria, South Korea sign education grant, media cooperation agreements",
-            "url": "https://sana.sy/en/politics/2332722/",
-            "published": "2026-07-28T13:47:16+00:00",
-            "snippet": "Syria and South Korea signed agreements on educational support and media cooperation.",
-            "title_he": "סוריה ודרום קוריאה חתמו על מענק חינוך והסכמי שיתוף פעולה בתקשורת",
+            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue - سانا",
+            "url": "https://sana.sy/en/international/2340880/",
+            "published": "2026-09-06T18:44:00+00:00",
+            "snippet": "The death toll from floods in Nepal has risen to 1,341 as rescue operations continue.",
+            "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
-            "url": "https://sana.sy/en/middle-east/2332715/",
-            "published": "2026-07-28T12:53:35+00:00",
-            "snippet": "Regional leaders discussed security and cooperation amid Middle East tensions, holding bilateral talks.",
-            "title_he": "מנהיגים אזוריים דנים בביטחון ובשיתוף פעולה על רקע המתיחות במזרח התיכון",
+            "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
+            "url": "https://sana.sy/en/international/2340763/",
+            "published": "2026-09-06T10:13:28+00:00",
+            "snippet": "Six Palestinians were injured in Israeli attacks on Gaza and the West Bank.",
+            "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
-            "url": "https://sana.sy/en/economic/2332713/",
-            "published": "2026-07-28T12:40:19+00:00",
-            "snippet": "Syria and Egypt discussed expanding economic ties and reviving their joint business council.",
-            "title_he": "סוריה ומצרים דנים בהרחבת הקשרים הכלכליים והחייאת מועצת העסקים המשותפת",
+            "title": "Putin, US envoys discuss ceasefire efforts in sixth round of Ukraine talks - سانا",
+            "url": "https://sana.sy/en/politics/2340663/",
+            "published": "2026-09-05T20:49:00+00:00",
+            "snippet": "Putin and U.S. envoys discussed ceasefire efforts in the sixth round of Ukraine talks.",
+            "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "latest"
+        "rank_method": "coverage"
       },
       {
         "source": "Syria Direct",
@@ -988,7 +968,7 @@
             "title": "The Libyan odyssey: For Syrians stranded in Libya, Assad’s fall has not ended their journey home",
             "url": "https://syriadirect.org/the-libyan-odyssey-for-syrians-stranded-in-libya-assads-fall-has-not-ended-their-journey-home/",
             "published": "2026-09-01T08:04:39+00:00",
-            "snippet": "Thousands of Syrians remain stranded in Libya, with families searching for loved ones after the fall of Assad.",
+            "snippet": "Thousands of Syrians remain stranded, detained, or missing in Libya, as families search for loved ones and Damascus struggles to repatriate its citizens.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -996,7 +976,7 @@
             "title": "New archaeological finds in Afrin amid reports of looting and vandalism",
             "url": "https://syriadirect.org/new-archaeological-finds-in-afrin-amid-reports-of-looting-and-vandalism/",
             "published": "2026-08-27T13:55:27+00:00",
-            "snippet": "New archaeological finds in Afrin reveal Roman-era funerary stones and a burial site, amid reports of looting.",
+            "snippet": "New archaeological finds in Afrin, including Roman-era funerary stones, offer insights into the region's past amidst reports of looting and vandalism.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1004,7 +984,7 @@
             "title": "Ties of blood: The afterlife of Syria’s jihadist networks from Aleppo to Berlin",
             "url": "https://syriadirect.org/ties-of-blood-the-afterlife-of-syrias-jihadist-networks-from-aleppo-to-berlin/",
             "published": "2026-08-20T09:44:13+00:00",
-            "snippet": "The story of Ballout reveals how Syria’s jihadist networks endure, affecting Europe and showing renewed interest in Islamic State in Syria.",
+            "snippet": "The story of Ballout reveals the endurance of Syria's jihadist networks across generations, as Europe confronts their legacy and Syria sees renewed interest from disaffected youth.",
             "title_he": "קשרי דם: החיים שלאחר המוות של רשתות הג'יהאדיסטים בסוריה מחלב ועד ברלין",
             "snippet_he": ""
           },
@@ -1012,7 +992,7 @@
             "title": "Syria’s wells run dry, old grievances run deep",
             "url": "https://syriadirect.org/syrias-wells-run-dry-old-grievances-run-deep/",
             "published": "2026-08-16T18:39:54+00:00",
-            "snippet": "Syria's wells are running dry due to worsening shortages and competing demands, testing the new authorities.",
+            "snippet": "Syria's water shortages are worsening, leading to disputes and testing new authorities as old grievances resurface.",
             "title_he": "בארות סוריה מתייבשות, הטענות הישנות עמוקות",
             "snippet_he": ""
           },
@@ -1020,7 +1000,7 @@
             "title": "Rushed justice won’t bury Syria’s past",
             "url": "https://syriadirect.org/rushed-justice-wont-bury-syrias-past/",
             "published": "2026-08-13T17:44:17+00:00",
-            "snippet": "Rushed death sentences in Syria may satisfy a thirst for justice but do not substitute for accountability or truth-telling.",
+            "snippet": "Syria's death sentences may address a desire for justice, but rushed verdicts cannot replace accountability or truth-telling about the Assad era's crimes.",
             "title_he": "צדק מזורז לא יקבור את עברה של סוריה",
             "snippet_he": ""
           }
@@ -1040,7 +1020,7 @@
             "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
             "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
             "published": "2026-09-05T14:56:43+00:00",
-            "snippet": "US military forces struck three Iranian oil tankers after stating Navy warships were targeted with missiles.",
+            "snippet": "The U.S. military struck three Iranian oil tankers after stating its Navy warships were targeted with missiles.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1048,7 +1028,7 @@
             "title": "Iran military vows ‘more severe’ reprisals if US attacks continue",
             "url": "https://www.arabnews.com/middle-east/iran-military-vows-more-severe-reprisals-if-us-attacks-continue-3000643",
             "published": "2026-09-06T00:22:09+00:00",
-            "snippet": "Iran's military vowed more severe reprisals if US attacks continue.",
+            "snippet": "Iran's military has vowed more severe reprisals if U.S. attacks continue.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1056,7 +1036,7 @@
             "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
             "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
             "published": "2026-09-05T13:05:42+00:00",
-            "snippet": "Lebanon raised the death toll to four from overnight Israeli strikes.",
+            "snippet": "Lebanon's death toll from overnight Israeli strikes has risen to four.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1064,7 +1044,7 @@
             "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
             "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
             "published": "2026-09-04T20:03:57+00:00",
-            "snippet": "Trump stated that the US may soon hit Iran’s Pickaxe Mountain.",
+            "snippet": "Trump stated that the U.S. may soon strike Iran's \"Pickaxe Mountain.\"",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1078,8 +1058,6 @@
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       },
       {
@@ -1092,7 +1070,7 @@
             "title": "EU backs US-led economic campaign to pressure Iran",
             "url": "https://gulfnews.com/world/americas/eu-backs-us-led-economic-campaign-to-pressure-iran-1.500662755",
             "published": "2026-09-04T03:11:20+00:00",
-            "snippet": "The EU is backing a US-led economic campaign to pressure Iran.",
+            "snippet": "The EU supports the U.S.-led economic campaign to pressure Iran.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1100,7 +1078,7 @@
             "title": "Is Iran planning an October 7-style multi-front attack on Israel?",
             "url": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041",
             "published": "2026-09-06T13:57:16+00:00",
-            "snippet": "An inquiry is being made into whether Iran is planning an October 7-style multi-front attack on Israel.",
+            "snippet": "A question is posed about whether Iran is planning an October 7-style multi-front attack on Israel.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1108,7 +1086,7 @@
             "title": "‘You are the spirit of the nation’: Mohammed bin Rashid opens new book with message to UAE President",
             "url": "https://gulfnews.com/uae/mohammed-bin-rashid-announces-new-book-opens-with-letter-to-mohamed-bin-zayed-1.500664885",
             "published": "2026-09-06T10:03:14+00:00",
-            "snippet": "Mohammed bin Rashid opened a new book with a message to the UAE President, calling him 'the spirit of the nation'.",
+            "snippet": "Mohammed bin Rashid opened a new book with a message to the UAE President, stating, \"You are the spirit of the nation.\"",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1130,8 +1108,6 @@
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       }
     ],
@@ -1146,7 +1122,7 @@
             "title": "كيف نبني جيلاً لا يقبل الذل ولا يبرر الطغيان؟",
             "url": "https://almasirah.net.ye/video?id",
             "published": "2026-09-04T03:20:10+00:00",
-            "snippet": "How can we build a generation that does not accept humiliation and does not justify tyranny?",
+            "snippet": "The article discusses how to build a generation that refuses humiliation and does not justify tyranny.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1154,14 +1130,12 @@
             "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
             "url": "https://almasirah.net.ye/program?id",
             "published": "2026-09-03T20:54:18+00:00",
-            "snippet": "Mushimish stated that the aggression against Iran threatens global stability and puts Europe and America on the brink of a major crisis.",
+            "snippet": "The statement warns that aggression against Iran threatens global stability and places Europe and America on the brink of a major crisis.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "latest"
       }
     ],
@@ -1176,15 +1150,23 @@
             "title": "Germany's right-wing AfD set for victory in Saxony-Anhalt with record vote",
             "url": "https://www.aa.com.tr/en/europe/germanys-right-wing-afd-set-for-victory-in-saxony-anhalt-with-record-vote/4048983",
             "published": "2026-09-06T16:44:15+00:00",
-            "snippet": "Germany's right-wing AfD party is projected to win in Saxony-Anhalt with a record vote share.",
+            "snippet": "Germany's far-right AfD party is poised for a victory in the Saxony-Anhalt election with a record vote share, while Chancellor Merz's CDU party has fallen to a historic low.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Amazon cargo plane catches fire after overrunning Miami runway, prompts ground stop",
-            "url": "https://www.aa.com.tr/en/americas/amazon-cargo-plane-catches-fire-after-overrunning-miami-runway-prompts-ground-stop/4049079",
-            "published": "2026-09-06T18:59:00+00:00",
-            "snippet": "An Amazon cargo plane caught fire after overrunning the runway at Miami airport, leading to a ground stop.",
+            "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
+            "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
+            "published": "2026-09-06T22:31:12+00:00",
+            "snippet": "Iran will declare a \"prohibited\" maritime zone beyond the Strait of Hormuz in the coming days, according to top security official Mohsen Rezaei. Vessels entering this zone will be placed on a sanctions list.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "5 killed, 5 injured after Amazon cargo plane overruns runway at Miami airport",
+            "url": "https://www.aa.com.tr/en/americas/5-killed-5-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport/4049164",
+            "published": "2026-09-06T22:29:36+00:00",
+            "snippet": "Five people were killed and five injured when an Amazon cargo plane overran the runway at Miami airport and caught fire after striking vehicles.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1192,23 +1174,15 @@
             "title": "AfD hails 'historic' Saxony-Anhalt election victory",
             "url": "https://www.aa.com.tr/en/europe/afd-hails-historic-saxony-anhalt-election-victory/4049075",
             "published": "2026-09-06T18:53:04+00:00",
-            "snippet": "The AfD hailed its 'historic' election victory in Saxony-Anhalt, with the leader stating it is a clear mandate to govern.",
+            "snippet": "The AfD party celebrated a 'historic' victory in the Saxony-Anhalt election, with its leader stating it is a 'very clear mandate to govern.'",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Trump administration asks Supreme Court to reinstate mail-in ballot rules",
-            "url": "https://www.aa.com.tr/en/americas/trump-administration-asks-supreme-court-to-reinstate-mail-in-ballot-rules/4048990",
-            "published": "2026-09-06T16:53:27+00:00",
-            "snippet": "The Trump administration is asking the Supreme Court to reinstate mail-in ballot rules.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Serbian derby begins with tribute to late convicted war criminal Ratko Mladic",
-            "url": "https://www.aa.com.tr/en/europe/serbian-derby-begins-with-tribute-to-late-convicted-war-criminal-ratko-mladic/4049161",
-            "published": "2026-09-06T21:55:06+00:00",
-            "snippet": "A Serbian derby began with a tribute to the late convicted war criminal Ratko Mladic.",
+            "title": "Child among 2 Palestinians killed in Israeli strike in Gaza despite ceasefire",
+            "url": "https://www.aa.com.tr/en/middle-east/child-among-2-palestinians-killed-in-israeli-strike-in-gaza-despite-ceasefire/4049012",
+            "published": "2026-09-06T17:28:50+00:00",
+            "snippet": "A child was among two Palestinians killed in an Israeli strike on a car in the Al-Nasr neighborhood, west of Gaza City, despite a ceasefire.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1226,7 +1200,7 @@
             "title": "Google's AI answer engine is quietly strangling open web",
             "url": "https://www.dailysabah.com/opinion/op-ed/googles-ai-answer-engine-is-quietly-strangling-open-web",
             "published": "2026-09-06T21:05:00+00:00",
-            "snippet": "Google's AI answer engine is reportedly negatively impacting the open web.",
+            "snippet": "Google's AI answer engine is being criticized for its impact on the open web, particularly a new 'Preferred Sources' feature.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1234,7 +1208,7 @@
             "title": "Women expose jobs-for-sex scheme of former CHP mayor in Türkiye’s Antalya",
             "url": "https://www.dailysabah.com/politics/women-expose-jobs-for-sex-scheme-of-former-chp-mayor-in-turkiyes-antalya/news",
             "published": "2026-09-06T13:51:00+00:00",
-            "snippet": "Women have exposed a jobs-for-sex scheme involving a former CHP mayor in Antalya, Turkey.",
+            "snippet": "Women have exposed a jobs-for-sex scheme involving a former CHP mayor in Antalya, Türkiye.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1242,7 +1216,7 @@
             "title": "OPEC+ keeps oil production goals for October unchanged",
             "url": "https://www.dailysabah.com/business/energy/opec-keeps-oil-production-goals-for-october-unchanged",
             "published": "2026-09-06T13:48:00+00:00",
-            "snippet": "OPEC+ decided to keep oil production goals unchanged for October.",
+            "snippet": "OPEC+ has decided to maintain its oil production targets for October unchanged.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1250,7 +1224,7 @@
             "title": "Patriarch prays for restoration of Turkish-Armenian ties",
             "url": "https://www.dailysabah.com/politics/patriarch-prays-for-restoration-of-turkish-armenian-ties/news",
             "published": "2026-09-06T13:26:00+00:00",
-            "snippet": "The Patriarch prayed for the restoration of Turkish-Armenian ties.",
+            "snippet": "The Patriarch has prayed for the restoration of Turkish-Armenian relations.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1258,14 +1232,12 @@
             "title": "Türkiye’s AK Party leads opinion polls 2 years before election",
             "url": "https://www.dailysabah.com/politics/elections/turkiyes-ak-party-leads-opinion-polls-2-years-before-election",
             "published": "2026-09-06T12:56:00+00:00",
-            "snippet": "Türkiye’s AK Party is leading in opinion polls two years before the next election.",
+            "snippet": "Türkiye's AK Party is leading in opinion polls two years before the next election.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "most_read"
       },
       {
@@ -1278,7 +1250,7 @@
             "title": "PHOTO Best restaurants in Istanbul, ranked",
             "url": "https://hurriyetdailynews.com/photo-best-restaurants-in-istanbul-ranked-by-turkeys-pearly-gastronomy-guide-135987",
             "published": "",
-            "snippet": "This is a ranked list of the best restaurants in Istanbul.",
+            "snippet": "This item highlights the \"Pearly Gastronomy Guide\" ranking the top 20 restaurants in Istanbul, according to a jury of experts from Hürriyet newspaper.",
             "title_he": "תמונה: המסעדות הטובות ביותר באיסטנבול, מדורגות",
             "snippet_he": "זוהי רשימה מדורגת של המסעדות הטובות ביותר באיסטנבול."
           },
@@ -1286,7 +1258,7 @@
             "title": "Top 29 must-try Turkish street foods Türkiye is frequently described as a paradise when it comes to cuisine.",
             "url": "https://hurriyetdailynews.com/photo-top-29-must-try-turkish-street-foods-135578",
             "published": "",
-            "snippet": "This list features 29 must-try Turkish street foods.",
+            "snippet": "This list presents the top 29 must-try Turkish street foods, selected by a gastronomy jury, ranging from \"wet\" burgers to roasted chestnuts.",
             "title_he": "29 מאכלי הרחוב הטורקיים שחובה לטעום – טורקיה מתוארת לעיתים קרובות כגן עדן בכל הנוגע למטבח.",
             "snippet_he": "רשומה זו מפרטת 29 מאכלי רחוב טורקיים שחובה לנסות, שנבחרו על ידי חבר שופטים בתחום הגסטרונומיה."
           },
@@ -1294,7 +1266,7 @@
             "title": "Top 20 museums in Türkiye As a historic home to great civilizations, Türkiye has some of the world’s best museums.",
             "url": "https://hurriyetdailynews.com/photo-top-20-museums-in-turkey-135892",
             "published": "",
-            "snippet": "This list covers the top 20 museums in Türkiye, highlighting its history.",
+            "snippet": "This item features a list of the top 20 museums in Türkiye, recognized for housing artifacts from great civilizations like the Roman and Ottoman empires.",
             "title_he": "20 המוזיאונים המובילים בטורקיה כבית היסטורי לציוויליזציות גדולות, לטורקיה יש כמה מהמוזיאונים הטובים בעולם.",
             "snippet_he": "טורקיה, בית היסטורי לציוויליזציות כמו האימפריה הרומית והעות'מאנית, מתהדרת בכמה מהמוזיאונים הטובים בעולם."
           },
@@ -1302,7 +1274,7 @@
             "title": "Best gifts and souvenirs to buy from Türkiye Best souvenirs to buy from 30 places in Türkiye.",
             "url": "https://hurriyetdailynews.com/best-souvenirs-to-buy-from-30-places-in-turkey-2617",
             "published": "",
-            "snippet": "This list provides the best gifts and souvenirs to buy from 30 places in Türkiye.",
+            "snippet": "This item provides a guide to the best gifts and souvenirs to buy from 30 different locations in Türkiye.",
             "title_he": "המתנות והמזכרות הטובות ביותר לקנייה מטורקיה המזכרות הטובות ביותר לרכישה מ-30 מקומות בטורקיה.",
             "snippet_he": "המזכרות הטובות ביותר לרכישה מ-30 מקומות בטורקיה."
           },
@@ -1310,14 +1282,12 @@
             "title": "15 best hotels of Türkiye in 2018 Click through for the top 15 hotels in Türkiye that won Travellers’ Choice 2018 awards.",
             "url": "https://hurriyetdailynews.com/photo-15-best-hotels-of-turkey-in-2018-according-to-tripadvisor-135490",
             "published": "",
-            "snippet": "This is a list of the 15 best hotels in Türkiye from 2018.",
+            "snippet": "This list showcases the top 15 hotels in Türkiye that received Travellers' Choice 2018 awards.",
             "title_he": "15 המלונות הטובים ביותר בטורקיה לשנת 2018 לחצו לרשימת 15 המלונות הטובים ביותר בטורקיה שזכו בפרסי בחירת המטיילים לשנת 2018.",
             "snippet_he": "הרשימה השנתית של Tripadvisor כוללת את 15 המלונות המובילים בטורקיה שזכו בפרסי בחירת המטיילים לשנת 2018."
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "most_read"
       },
       {
@@ -1330,7 +1300,15 @@
             "title": "Israeli air strikes completely destroy a hospital in southern Lebanon",
             "url": "https://www.trtworld.com/article/553369413bf7",
             "published": "2026-09-06T13:42:38+00:00",
-            "snippet": "Israeli air strikes completely destroyed a hospital in southern Lebanon.",
+            "snippet": "Israeli air strikes have completely destroyed a hospital in southern Lebanon.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Iran says it will declare 'prohibited zone' near Strait of Hormuz in coming days",
+            "url": "https://www.trtworld.com/article/cd4f7f0ff72d",
+            "published": "2026-09-06T21:19:47+00:00",
+            "snippet": "Iran has announced plans to declare a 'prohibited zone' near the Strait of Hormuz in the coming days.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1346,33 +1324,23 @@
             "title": "Germans vote in Saxony-Anhalt election that could bring far-right AfD to power",
             "url": "https://www.trtworld.com/article/f6c716fa3c52",
             "published": "2026-09-06T07:03:53+00:00",
-            "snippet": "Germans are voting in an election in Saxony-Anhalt that could bring the far-right AfD to power.",
+            "snippet": "Germans are voting in the Saxony-Anhalt election, which could potentially bring the far-right AfD party to power.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Cargo plane overruns runway at Miami airport, prompting ground stop",
+            "title": "Five dead in cargo plane crash at Miami airport: US officials",
             "url": "https://www.trtworld.com/article/8fecafbf7424",
-            "published": "2026-09-06T19:53:34+00:00",
-            "snippet": "A cargo plane overran the runway at Miami airport, prompting a ground stop.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
-            "url": "https://www.trtworld.com/article/521d65457169",
-            "published": "2026-09-06T16:13:34+00:00",
-            "snippet": "Israel killed two more Palestinians, including a child, in Gaza despite a ceasefire deal.",
+            "published": "2026-09-06T22:07:30+00:00",
+            "snippet": "Five people died in a cargo plane crash at Miami airport, according to U.S. officials.",
             "title_he": "",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "stale": true,
-        "stale_since": "2026-09-06T21:44:09.823981+00:00",
         "rank_method": "coverage"
       }
     ]
   },
-  "titles_hash": "00bbbb6aa69cf10b"
+  "titles_hash": "8b3bef246c908fd9"
 }

@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-07T01:01:20.370099+00:00",
-  "total_headlines": 133,
+  "updated": "2026-09-07T01:34:39.678497+00:00",
+  "total_headlines": 132,
   "terms": [
     {
       "term": "Israeli",
       "term_he": "ישראלי",
-      "count": 32,
+      "count": 30,
       "headlines": [
         {
           "title": "דיווח בלבנון: צה\"ל תקף בכפר דיר אלזהארני",
@@ -86,12 +86,6 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Gaza death toll rises to 73,651, health ministry says",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
           "title": "Israel army says striking southern Lebanon, urges evacuation",
           "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
           "source": "Jordan Times",
@@ -132,13 +126,19 @@
           "url": "https://english.wafa.ps/Pages/Details/174375",
           "source": "WAFA News",
           "region": "Levant"
+        },
+        {
+          "title": "Israeli aggression on Lebanon has so far killed 4,362 and injured 12,378 - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174417",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
     {
       "term": "Lebanon",
       "term_he": "לבנון",
-      "count": 17,
+      "count": 16,
       "headlines": [
         {
           "title": "דיווח בלבנון: צה\"ל תקף בכפר דיר אלזהארני",
@@ -215,18 +215,6 @@
           "region": "Levant"
         },
         {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
           "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
           "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
           "source": "Arab News",
@@ -239,6 +227,12 @@
           "region": "Gulf"
         },
         {
+          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
           "title": "Israeli air strikes completely destroy a hospital in southern Lebanon",
           "url": "https://www.trtworld.com/article/553369413bf7",
           "source": "TRT World",
@@ -249,7 +243,7 @@
     {
       "term": "Gaza",
       "term_he": "עזה",
-      "count": 15,
+      "count": 12,
       "headlines": [
         {
           "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
@@ -257,12 +251,6 @@
           "source": "Middle East Eye",
           "region": "Pan-Arab",
           "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
-        },
-        {
-          "title": "Gaza death toll rises to 73,651, health ministry says",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "source": "IRNA",
-          "region": "Iran"
         },
         {
           "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
@@ -310,86 +298,6 @@
           "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
           "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
           "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
-          "url": "https://sana.sy/en/middle-east/2340887/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-across-gaza-kill-5-palestinians-including-2-children/4049181",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Gaza mourns 100 Palestinians, including 60 children, recovered from rubble",
-          "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
-          "url": "https://www.trtworld.com/article/521d65457169",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Palestinians",
-      "term_he": "פלסטינים",
-      "count": 10,
-      "headlines": [
-        {
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
-        },
-        {
-          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174416",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174400",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174401",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
-          "url": "https://sana.sy/en/middle-east/2340887/",
-          "source": "SANA",
           "region": "Levant"
         },
         {
@@ -475,6 +383,62 @@
       ]
     },
     {
+      "term": "Palestinians",
+      "term_he": "פלסטינים",
+      "count": 8,
+      "headlines": [
+        {
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
+        },
+        {
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174400",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-across-gaza-kill-5-palestinians-including-2-children/4049181",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Gaza mourns 100 Palestinians, including 60 children, recovered from rubble",
+          "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
+          "source": "TRT World",
+          "region": "Turkey"
+        },
+        {
+          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+          "url": "https://www.trtworld.com/article/521d65457169",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "oil",
       "term_he": "נפט",
       "count": 7,
@@ -487,7 +451,7 @@
           "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
         },
         {
-          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
           "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -525,61 +489,12 @@
       ]
     },
     {
-      "term": "war",
-      "term_he": "היה",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Putin meets US envoys for Ukraine war talks",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran sets up economic war task force amid fighting with US",
-          "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "قاليباف: كما هزمنا أميركا في الميدان العسكري والدبلوماسي سنفعل في الحرب الاقتصادية 13:04",
-          "url": "https://www.almanar.com.lb/article/1156602/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Strait of Hormuz",
       "term_he": "מצר הורמוז",
       "count": 7,
       "headlines": [
         {
-          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
           "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -623,51 +538,51 @@
       ]
     },
     {
-      "term": "strikes",
-      "term_he": "שביתות",
+      "term": "war",
+      "term_he": "היה",
       "count": 7,
       "headlines": [
         {
-          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+          "title": "2 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "title": "Putin meets US envoys for Ukraine war talks",
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
-          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-          "source": "The New Arab",
+          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
-          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
-          "source": "L'Orient Today",
+          "title": "Iran sets up economic war task force amid fighting with US",
+          "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "source": "SANA",
+          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
+          "title": "قاليباف: كما هزمنا أميركا في الميدان العسكري والدبلوماسي سنفعل في الحرب الاقتصادية 13:04",
+          "url": "https://www.almanar.com.lb/article/1156602/",
+          "source": "Al Manar",
           "region": "Levant"
-        },
-        {
-          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
-          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },
@@ -677,7 +592,7 @@
       "count": 6,
       "headlines": [
         {
-          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
           "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -711,6 +626,92 @@
           "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
           "source": "Arab News",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "term_he": "טהראן",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "2 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Tehran, Baku stress expansion of infrastructure cooperation",
+          "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Mexico’s ambassador welcomes joint trade cooperation committee with Iran",
+          "url": "https://en.irna.ir/news/86256598/Mexico-s-ambassador-welcomes-joint-trade-cooperation-committee",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "url": "https://iranintl.com/en/202609048845",
+          "source": "Iran International",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "attack",
+      "term_he": "התקפה",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
+          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
+          "url": "https://en.irna.ir/news/86256611/US-military-cannot-call-its-barbaric-crimes-against-civilians",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "US aircraft carriers within Iran's reach",
+          "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Is Iran planning an October 7-style multi-front attack on Israel?",
+          "url": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -754,39 +755,39 @@
       ]
     },
     {
-      "term": "Tehran",
-      "term_he": "טהראן",
+      "term": "strikes",
+      "term_he": "שביתות",
       "count": 5,
       "headlines": [
         {
-          "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Tehran, Baku stress expansion of infrastructure cooperation",
-          "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Mexico’s ambassador welcomes joint trade cooperation committee with Iran",
-          "url": "https://en.irna.ir/news/86256598/Mexico-s-ambassador-welcomes-joint-trade-cooperation-committee",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
+          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "url": "https://iranintl.com/en/202609048845",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
+          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -866,109 +867,9 @@
       ]
     },
     {
-      "term": "attack",
-      "term_he": "התקפה",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
-          "url": "https://en.irna.ir/news/86256611/US-military-cannot-call-its-barbaric-crimes-against-civilians",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "US aircraft carriers within Iran's reach",
-          "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Is Iran planning an October 7-style multi-front attack on Israel?",
-          "url": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Saxony-Anhalt",
-      "term_he": "",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "3 , German far-right AfD wins Saxony-Anhalt election, falls short of majority",
-          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "What a Saxony-Anhalt AfD victory means for Germany's minorities",
-          "url": "https://www.newarab.com/news/what-saxony-anhalt-afd-victory-means-germanys-minorities",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "AfD hails 'historic' Saxony-Anhalt election victory",
-          "url": "https://www.aa.com.tr/en/europe/afd-hails-historic-saxony-anhalt-election-victory/4049075",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Germany's far-right AfD set for record win in Saxony-Anhalt vote",
-          "url": "https://www.trtworld.com/article/3f723051101e",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "election",
-      "term_he": "בחירה",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "3 , German far-right AfD wins Saxony-Anhalt election, falls short of majority",
-          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli election campaign billboards in Cyprus spark debate",
-          "url": "https://middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון"
-        },
-        {
-          "title": "AfD hails 'historic' Saxony-Anhalt election victory",
-          "url": "https://www.aa.com.tr/en/europe/afd-hails-historic-saxony-anhalt-election-victory/4049075",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Türkiye’s AK Party leads opinion polls 2 years before election",
-          "url": "https://www.dailysabah.com/politics/elections/turkiyes-ak-party-leads-opinion-polls-2-years-before-election",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "strike",
       "term_he": "שביתה",
-      "count": 4,
+      "count": 5,
       "headlines": [
         {
           "title": "Israeli strike destroys South Lebanon village",
@@ -993,6 +894,116 @@
           "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Damascus",
+      "term_he": "דמשק",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
+          "url": "https://sana.sy/en/syria/2332727/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "שר החוץ הסורי מקבל את שגריר עומאן היוצא"
+        },
+        {
+          "title": "Syria, South Korea sign education grant, media cooperation agreements",
+          "url": "https://sana.sy/en/politics/2332722/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "סוריה ודרום קוריאה חתמו על מענק חינוך והסכמי שיתוף פעולה בתקשורת"
+        },
+        {
+          "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
+          "url": "https://sana.sy/en/economic/2332713/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "סוריה ומצרים דנים בהרחבת הקשרים הכלכליים והחייאת מועצת העסקים המשותפת"
+        },
+        {
+          "title": "The Libyan odyssey: For Syrians stranded in Libya, Assad’s fall has not ended their journey home",
+          "url": "https://syriadirect.org/the-libyan-odyssey-for-syrians-stranded-in-libya-assads-fall-has-not-ended-their-journey-home/",
+          "source": "Syria Direct",
+          "region": "Levant"
+        },
+        {
+          "title": "Syria’s wells run dry, old grievances run deep",
+          "url": "https://syriadirect.org/syrias-wells-run-dry-old-grievances-run-deep/",
+          "source": "Syria Direct",
+          "region": "Levant",
+          "title_he": "בארות סוריה מתייבשות, הטענות הישנות עמוקות"
+        }
+      ]
+    },
+    {
+      "term": "talks",
+      "term_he": "שיחות",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Putin meets US envoys for Ukraine war talks",
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US Envoys Arrive in Kyiv to Revive Ukraine Peace Talks",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/us-envoys-arrive-in-kyiv-to-revive-ukraine-peace-talks",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
+          "url": "https://sana.sy/en/middle-east/2332715/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "מנהיגים אזוריים דנים בביטחון ובשיתוף פעולה על רקע המתיחות במזרח התיכון"
+        }
+      ]
+    },
+    {
+      "term": "Yemeni",
+      "term_he": "תימני",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
+          "url": "https://www.almanar.com.lb/article/1156872/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-recaptured-positions-in-taiz-and-al-hudaydah-amid-clashes-with-houthis/4049183",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -1019,6 +1030,57 @@
           "url": "https://iranintl.com/en/202609048845",
           "source": "Iran International",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Saxony-Anhalt",
+      "term_he": "",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "3 , German far-right AfD wins Saxony-Anhalt election, falls short of majority",
+          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What a Saxony-Anhalt AfD victory means for Germany's minorities",
+          "url": "https://www.newarab.com/news/what-saxony-anhalt-afd-victory-means-germanys-minorities",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Germany's far-right AfD set for record win in Saxony-Anhalt vote",
+          "url": "https://www.trtworld.com/article/3f723051101e",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "election",
+      "term_he": "בחירה",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "3 , German far-right AfD wins Saxony-Anhalt election, falls short of majority",
+          "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli election campaign billboards in Cyprus spark debate",
+          "url": "https://middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "שלטי חוצות בקמפיין הבחירות בישראל בקפריסין מעוררים דיון"
+        },
+        {
+          "title": "Türkiye’s AK Party leads opinion polls 2 years before election",
+          "url": "https://www.dailysabah.com/politics/elections/turkiyes-ak-party-leads-opinion-polls-2-years-before-election",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
@@ -1073,31 +1135,6 @@
       ]
     },
     {
-      "term": "talks",
-      "term_he": "שיחות",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Putin meets US envoys for Ukraine war talks",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US Envoys Arrive in Kyiv to Revive Ukraine Peace Talks",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/us-envoys-arrive-in-kyiv-to-revive-ukraine-peace-talks",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "conflict",
       "term_he": "סכסוך",
       "count": 3,
@@ -1123,25 +1160,51 @@
       ]
     },
     {
-      "term": "West Bank",
-      "term_he": "הגדה המערבית",
+      "term": "Saudi Arabia",
+      "term_he": "ערב הסעודית",
       "count": 3,
       "headlines": [
         {
-          "title": "Israeli forces demolish Palestinian homes in West Bank",
-          "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
-          "source": "The New Arab",
+          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
+          "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
+          "url": "https://sana.sy/en/middle-east/2332715/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "מנהיגים אזוריים דנים בביטחון ובשיתוף פעולה על רקע המתיחות במזרח התיכון"
+        }
+      ]
+    },
+    {
+      "term": "City",
+      "term_he": "עיר",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-across-gaza-kill-5-palestinians-including-2-children/4049181",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
@@ -1169,6 +1232,32 @@
           "url": "https://almasirah.net.ye/program?id",
           "source": "Al-Masirah",
           "region": "Yemen"
+        }
+      ]
+    },
+    {
+      "term": "ECONOMY",
+      "term_he": "",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran sets up economic war task force amid fighting with US",
+          "url": "https://en.mehrnews.com/news/247482/Iran-sets-up-economic-war-task-force-amid-fighting-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "ECONOMY In Lebanon, individual initiatives create an off-the-books Shein sales network Ghadir Hamadi",
+          "url": "https://today.lorientlejour.com/article/1545425/in-lebanon-individual-initiatives-create-an-off-the-books-shein-sales-network.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
+          "url": "https://sana.sy/en/economic/2332713/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "סוריה ומצרים דנים בהרחבת הקשרים הכלכליים והחייאת מועצת העסקים המשותפת"
         }
       ]
     },
@@ -1240,6 +1329,26 @@
       ]
     },
     {
+      "term": "clashes",
+      "term_he": "",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל",
+          "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096992/",
+          "source": "Kan 11",
+          "region": "Israel",
+          "title_he": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל"
+        },
+        {
+          "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-recaptured-positions-in-taiz-and-al-hudaydah-amid-clashes-with-houthis/4049183",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Hajja",
       "term_he": "",
       "count": 2,
@@ -1260,22 +1369,23 @@
       ]
     },
     {
-      "term": "Miami",
-      "term_he": "",
+      "term": "Affairs",
+      "term_he": "עניינים",
       "count": 2,
       "headlines": [
         {
-          "title": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
-          "url": "b00a8c7fdb884905b1f1f1635c39f95d",
-          "source": "Kan 11",
+          "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
+          "source": "N12",
           "region": "Israel",
-          "title_he": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי"
+          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע"
         },
         {
-          "title": "5 killed, 5 injured after Amazon cargo plane overruns runway at Miami airport",
-          "url": "https://www.aa.com.tr/en/world/5-killed-5-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport/4049164",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
+          "url": "https://sana.sy/en/syria/2332727/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "שר החוץ הסורי מקבל את שגריר עומאן היוצא"
         }
       ]
     },
@@ -1325,7 +1435,7 @@
       "count": 2,
       "headlines": [
         {
-          "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "2 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1335,6 +1445,26 @@
           "url": "https://iranintl.com/en/202609048845",
           "source": "Iran International",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Egyptian",
+      "term_he": "מצרים",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "4 , Egyptian TV presenter sentenced to death in drugs case",
+          "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
+          "url": "https://sana.sy/en/economic/2332713/",
+          "source": "SANA",
+          "region": "Levant",
+          "title_he": "סוריה ומצרים דנים בהרחבת הקשרים הכלכליים והחייאת מועצת העסקים המשותפת"
         }
       ]
     },
@@ -1457,6 +1587,25 @@
       ]
     },
     {
+      "term": "West Bank",
+      "term_he": "הגדה המערבית",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli forces demolish Palestinian homes in West Bank",
+          "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "missile",
       "term_he": "טיל",
       "count": 2,
@@ -1464,44 +1613,6 @@
         {
           "title": "رضائي يكشف عن منطقة محظورة خارج مضيق هرمز.. ويؤكد: اختبرنا صاروخاً مضاداً للمدمرات",
           "url": "https://www.almayadeen.net/news/politics/%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D8%AD%D8%B8%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2---%D9%88%D9%8A%D8%A4%D9%83%D8%AF--%D8%A7%D8%AE%D8%AA%D8%A8%D8%B1%D9%86%D8%A7-%D8%B5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
-          "url": "https://www.almanar.com.lb/article/1156872/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Saudi Arabia",
-      "term_he": "ערב הסעודית",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Yemeni",
-      "term_he": "תימני",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "مصدر يمني: إذا قررت السعودية الحرب الشاملة فإن خيارات القوات اليمنية مفتوحة ومتعددة",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -1529,101 +1640,6 @@
           "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "ballistic missile",
-      "term_he": "טיל בליסטי",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "US aircraft carriers within Iran's reach",
-          "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Islamic",
-      "term_he": "אסלאמי",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-          "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Corps",
-      "term_he": "קורפוס",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-          "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "missiles",
-      "term_he": "טילים",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-          "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Navy",
-      "term_he": "הצי",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
-          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     }

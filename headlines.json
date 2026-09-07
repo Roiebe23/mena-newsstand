@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:59:20.109965+00:00",
+  "updated": "2026-09-07T01:30:54.223980+00:00",
   "regions": {
     "Israel": [
       {
@@ -8,6 +8,14 @@
         "lang": "he",
         "url": "https://www.kan.org.il",
         "headlines": [
+          {
+            "title": "שר ההגנה של הפיליפינים: סין עלולה לנצל את צמצום התרגילים הצבאיים של ארה\"ב ודרום קוריאה",
+            "url": "471edf68d8284ae0979f0fa1c3cc5764",
+            "published": "2026-09-07T01:28:52+00:00",
+            "snippet": "",
+            "title_he": "שר ההגנה של הפיליפינים: סין עלולה לנצל את צמצום התרגילים הצבאיים של ארה\"ב ודרום קוריאה",
+            "snippet_he": ""
+          },
           {
             "title": "דיווח בלבנון: צה\"ל תקף בכפר דיר אלזהארני",
             "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096997/",
@@ -38,14 +46,6 @@
             "published": "2026-09-06T21:40:18+00:00",
             "snippet": "Five people were killed and five injured when a cargo plane crashed at Miami airport.",
             "title_he": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
-            "snippet_he": ""
-          },
-          {
-            "title": "מחיר הדלק ירד בחצות בחצי שקל, מחיר ליטר בנזין 95 יעמוד על 7.75 שקלים",
-            "url": "0a5927c7aaba4af4a48f6607c6980fac",
-            "published": "2026-09-06T21:27:49+00:00",
-            "snippet": "The price of fuel decreased by half a shekel at midnight, with a liter of 95 octane gasoline now costing 7.75 shekels.",
-            "title_he": "מחיר הדלק ירד בחצות בחצי שקל, מחיר ליטר בנזין 95 יעמוד על 7.75 שקלים",
             "snippet_he": ""
           }
         ],
@@ -150,6 +150,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "latest"
       }
     ],
@@ -161,18 +163,18 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-            "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+            "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+            "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
             "published": "",
-            "snippet": "This item details updates on the US-Iran war as of Sunday, September 6, 2026.",
+            "snippet": "Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
-            "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+            "title": "2 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+            "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
             "published": "",
-            "snippet": "Iran is preparing to announce a new shipping route in the Strait of Hormuz in the coming days, following warnings of severe responses to new attacks after U.S. strikes on Iranian oil tankers.",
+            "snippet": "These were the updates on the US-Israel war on Iran from Sunday, September 6, 2026.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -302,6 +304,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -352,6 +356,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -402,6 +408,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       }
     ],
@@ -429,10 +437,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Gaza death toll rises to 73,651, health ministry says",
-            "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-            "published": "2026-09-05T17:05:27+00:00",
-            "snippet": "The death toll from Israeli attacks on Gaza has risen to 73,651, with 174,575 wounded, according to Gaza's health ministry.",
+            "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+            "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+            "published": "2026-09-05T20:24:34+00:00",
+            "snippet": "Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -554,6 +562,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "most_read"
       }
     ],
@@ -606,6 +616,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -656,6 +668,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "most_read"
       },
       {
@@ -664,14 +678,6 @@
         "lang": "en",
         "url": "https://egyptindependent.com",
         "headlines": [
-          {
-            "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-            "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-            "published": "2026-09-06T13:02:11+00:00",
-            "snippet": "Foreign ministers from Egypt, Jordan, the UAE, Indonesia, Pakistan, Turkey, and Saudi Arabia jointly condemned Israeli ministers' proposals regarding the displacement of Palestinians from Gaza.",
-            "title_he": "",
-            "snippet_he": ""
-          },
           {
             "title": "Without Charlie Kirk, Turning Point is building a future for his movement — and for JD Vance",
             "url": "https://www.egyptindependent.com/without-charlie-kirk-turning-point-is-building-a-future-for-his-movement-and-for-jd-vance/",
@@ -703,10 +709,18 @@
             "snippet": "John Ternus will debut as Apple's new chief executive during the company's September 9 event, taking over from Tim Cook.",
             "title_he": "",
             "snippet_he": ""
+          },
+          {
+            "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+            "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+            "published": "2026-09-06T13:02:11+00:00",
+            "snippet": "Foreign ministers from Egypt, Jordan, the UAE, Indonesia, Pakistan, Turkey, and Saudi Arabia jointly condemned Israeli ministers' proposals regarding the displacement of Palestinians from Gaza.",
+            "title_he": "",
+            "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "coverage"
+        "rank_method": "latest"
       },
       {
         "source": "Al-Akhbar",
@@ -756,6 +770,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -856,6 +872,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -906,6 +924,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -915,48 +935,48 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
-            "url": "https://sana.sy/en/middle-east/2340780/",
-            "published": "2026-09-06T10:52:43+00:00",
-            "snippet": "Four people were killed and 20 injured in Israeli strikes on Nabatieh, southern Lebanon.",
-            "title_he": "",
-            "snippet_he": ""
+            "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
+            "url": "https://sana.sy/en/syria/2332727/",
+            "published": "2026-07-28T14:07:05+00:00",
+            "snippet": "Damascus, July 28 (SANA) Minister of Foreign Affairs and Expatriates Asaad Hassan al-Shaibani received Omani Ambassador Turki bin Mahmoud al-Busaidi in a farewell meeting marking the end of his diplomatic mission.",
+            "title_he": "שר החוץ הסורי מקבל את שגריר עומאן היוצא",
+            "snippet_he": "דמשק, 28 ביולי (סאנה) שר החוץ והזרים אסעד חסן אל-שייבאני, קיבל את שגריר עומאן טורקי בן מחמוד אל-בוסידי בפגישת פרידה שסימנה את סיום שליחותו הדיפלומטית."
           },
           {
-            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-            "url": "https://sana.sy/en/international/2340834/",
-            "published": "2026-09-06T13:36:50+00:00",
-            "snippet": "Israeli strikes have destroyed a hospital in southern Lebanon, further damaging the health sector.",
-            "title_he": "",
-            "snippet_he": ""
+            "title": "Israeli occupation forces carry out new incursion into western Daraa countryside",
+            "url": "https://sana.sy/en/syria/2332729/",
+            "published": "2026-07-28T14:06:35+00:00",
+            "snippet": "Daraa, July 28 (SANA) Israeli occupation forces carried out a new incursion into the outskirts of Wadi al-Raqad in the western Daraa countryside, southwestern Syria, on Tuesday, advancing from the Tal Abu al-Ghaithar area.",
+            "title_he": "כוחות הכיבוש הישראליים מבצעים חדירה חדשה לאזור מערב דרעא",
+            "snippet_he": "דרעא, 28 ביולי (סאנה) כוחות הכיבוש הישראליים ביצעו ביום שלישי חדירה חדשה לפרברי ואדי אל-רקאד בכפרי דרעא המערבי בדרום-מערב סוריה, כשהם מתקדמים מאזור תל אבו אל-ג'יתאר."
           },
           {
-            "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-            "url": "https://sana.sy/en/international/2340763/",
-            "published": "2026-09-06T10:13:28+00:00",
-            "snippet": "Six Palestinians were injured in Israeli attacks on Gaza and the West Bank.",
-            "title_he": "",
-            "snippet_he": ""
+            "title": "Syria, South Korea sign education grant, media cooperation agreements",
+            "url": "https://sana.sy/en/politics/2332722/",
+            "published": "2026-07-28T13:47:16+00:00",
+            "snippet": "Damascus, July 28 (SANA) Syria and South Korea signed two agreements on Tuesday covering educational support and media cooperation, expanding bilateral ties.",
+            "title_he": "סוריה ודרום קוריאה חתמו על מענק חינוך והסכמי שיתוף פעולה בתקשורת",
+            "snippet_he": "דמשק, 28 ביולי (סאנה) סוריה ודרום קוריאה חתמו ביום שלישי על שני הסכמים הכוללים תמיכה חינוכית ושיתוף פעולה תקשורתי, והרחיבו את הקשרים הבילטרליים."
           },
           {
-            "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
-            "url": "https://sana.sy/en/middle-east/2340887/",
-            "published": "2026-09-06T19:52:08+00:00",
-            "snippet": "Palestinians in Gaza are burying the remains of approximately 100 victims recovered from the rubble.",
-            "title_he": "",
-            "snippet_he": ""
+            "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
+            "url": "https://sana.sy/en/middle-east/2332715/",
+            "published": "2026-07-28T12:53:35+00:00",
+            "snippet": "Capitals, July 28 (SANA) Leaders of the United Arab Emirates, Kuwait, Egypt, Saudi Arabia and Jordan held separate bilateral talks on Tuesday to discuss regional developments, security issues and ways to strengthen cooperation amid heightened tensions in the Middle East.",
+            "title_he": "מנהיגים אזוריים דנים בביטחון ובשיתוף פעולה על רקע המתיחות במזרח התיכון",
+            "snippet_he": "בירות, 28 ביולי (סאנה) מנהיגי איחוד האמירויות הערביות, כווית, מצרים, ערב הסעודית וירדן קיימו ביום שלישי שיחות בילטרליות נפרדות כדי לדון בהתפתחויות אזוריות, סוגיות ביטחוניות ודרכים לחיזוק שיתוף הפעולה על רקע המתחים המוגברים במזרח התיכון."
           },
           {
-            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue - سانا",
-            "url": "https://sana.sy/en/international/2340880/",
-            "published": "2026-09-06T18:44:00+00:00",
-            "snippet": "The death toll from floods in Nepal has risen to 1,341 as rescue operations continue.",
-            "title_he": "",
+            "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
+            "url": "https://sana.sy/en/economic/2332713/",
+            "published": "2026-07-28T12:40:19+00:00",
+            "snippet": "Damascus, July 28 (SANA) Economy and Industry Minister Nidal Al-Shaar met Egyptian Chargé d’Affaires Mohamed el-Feki in Damascus to discuss ways to strengthen economic and trade cooperation, expand investment and deepen partnerships between the two countries, the ministry said.",
+            "title_he": "סוריה ומצרים דנים בהרחבת הקשרים הכלכליים והחייאת מועצת העסקים המשותפת",
             "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "coverage"
+        "rank_method": "latest"
       },
       {
         "source": "Syria Direct",
@@ -1006,6 +1026,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "latest"
       }
     ],
@@ -1058,6 +1080,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       },
       {
@@ -1108,6 +1132,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       }
     ],
@@ -1136,6 +1162,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "latest"
       }
     ],
@@ -1155,6 +1183,14 @@
             "snippet_he": ""
           },
           {
+            "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
+            "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-recaptured-positions-in-taiz-and-al-hudaydah-amid-clashes-with-houthis/4049183",
+            "published": "2026-09-07T01:04:16+00:00",
+            "snippet": "Army says more than 20 Houthi fighters killed or wounded as it reports advances and airstrikes on several fronts",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
             "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
             "published": "2026-09-07T00:52:56+00:00",
@@ -1163,10 +1199,10 @@
             "snippet_he": ""
           },
           {
-            "title": "AfD hails 'historic' Saxony-Anhalt election victory",
-            "url": "https://www.aa.com.tr/en/europe/afd-hails-historic-saxony-anhalt-election-victory/4049075",
-            "published": "2026-09-06T18:53:04+00:00",
-            "snippet": "The AfD party hailed its \"historic\" election victory in Saxony-Anhalt, with the party leader stating it is a clear mandate to govern.",
+            "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
+            "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
+            "published": "2026-09-07T00:02:38+00:00",
+            "snippet": "Residents of designated building and nearby structures told to move at least 984 feet away",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1175,14 +1211,6 @@
             "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
             "published": "2026-09-06T22:31:12+00:00",
             "snippet": "Iran is set to declare a 'restricted zone' near the Strait of Hormuz in the coming days, according to a top security official.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "5 killed, 5 injured after Amazon cargo plane overruns runway at Miami airport",
-            "url": "https://www.aa.com.tr/en/world/5-killed-5-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport/4049164",
-            "published": "2026-09-06T22:29:36+00:00",
-            "snippet": "Five people were killed and five injured after an Amazon cargo plane overran the runway at Miami airport, catching fire after striking vehicles.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1238,6 +1266,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "most_read"
       },
       {
@@ -1288,6 +1318,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "most_read"
       },
       {
@@ -1338,9 +1370,10 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T00:59:20.109965+00:00",
         "rank_method": "coverage"
       }
     ]
-  },
-  "titles_hash": "8a4ed292354e12a4"
+  }
 }

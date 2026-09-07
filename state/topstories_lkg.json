@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T01:01:42.265558+00:00",
+  "updated": "2026-09-07T01:35:13.890777+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -62,17 +62,17 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
           "title_he": "",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "published": ""
         },
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "title": "2 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "title_he": "",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
         },
         {
@@ -84,8 +84,8 @@
           "published": ""
         }
       ],
-      "summary": "Iran plans to declare a restricted maritime zone beyond the Strait of Hormuz.",
-      "summary_he": "איראן מתכננת להכריז על אזור ימי מוגבל מעבר למצר הורמוז."
+      "summary": "Iran's top security official says the country will declare a restricted maritime zone beyond the Strait of Hormuz.",
+      "summary_he": "בכיר ביטחוני איראני אומר שהמדינה תכריז על אזור ימי מוגבל מעבר למצרי הורמוז."
     },
     {
       "rank": 2,
@@ -104,6 +104,14 @@
         "published": "2026-09-06T22:59:19+00:00"
       },
       "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
+          "published": "2026-09-07T00:02:38+00:00"
+        },
         {
           "source": "Jordan Times",
           "category": "levant",
@@ -129,28 +137,12 @@
           "published": "2026-09-06T13:42:38+00:00"
         },
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
-          "title_he": "",
-          "url": "https://sana.sy/en/international/2340834/",
-          "published": "2026-09-06T13:36:50+00:00"
-        },
-        {
           "source": "The New Arab",
           "category": "panarab",
           "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
           "title_he": "",
           "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
           "published": "2026-09-06T12:16:22+00:00"
-        },
-        {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
-          "title_he": "",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "published": "2026-09-06T10:52:43+00:00"
         },
         {
           "source": "Al Arabiya",
@@ -161,8 +153,8 @@
           "published": "2026-09-06T09:30:08+00:00"
         }
       ],
-      "summary": "Israeli army says it is striking southern Lebanon and urges evacuation.",
-      "summary_he": "צה\"ל מדווח על תקיפות בדרום לבנון וקורא לפינוי."
+      "summary": "The Israeli army is striking southern Lebanon and issuing evacuation warnings to residents.",
+      "summary_he": "צבא ישראל תוקף בדרום לבנון ומפרסם אזהרות פינוי לתושבים."
     },
     {
       "rank": 3,
@@ -221,8 +213,8 @@
           "published": "2026-09-05T22:26:09+00:00"
         }
       ],
-      "summary": "Israeli attacks across Gaza kill five Palestinians, including two children.",
-      "summary_he": "תקיפות ישראליות ברחבי עזה הרגו חמישה פלסטינים, בהם שני ילדים."
+      "summary": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children.",
+      "summary_he": "תקיפות ישראליות ברחבי עזה הרגו 5 פלסטינים, בהם 2 ילדים."
     },
     {
       "rank": 4,
@@ -265,44 +257,44 @@
           "published": ""
         }
       ],
-      "summary": "Israeli army issued an evacuation alert for a southern village after a Hezbollah violation.",
-      "summary_he": "צה\"ל הוציא התרעת פינוי לכפר בדרום בעקבות הפרה של חיזבאללה."
+      "summary": "Following a Hezbollah violation, the Israeli army issued an evacuation alert for a southern village.",
+      "summary_he": "בעקבות הפרה של חיזבאללה, צבא ישראל פרסם התרעת פינוי לכפר בדרום."
     },
     {
       "rank": 5,
       "outlets": 2,
       "categories": [
-        "levant",
+        "iranian",
         "turkish"
       ],
       "rep": {
-        "source": "SANA",
-        "category": "levant",
-        "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
+        "source": "Anadolu Agency",
+        "category": "turkish",
+        "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
         "title_he": "",
-        "url": "https://sana.sy/en/international/2340763/",
-        "published": "2026-09-06T10:13:28+00:00"
+        "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-recaptured-positions-in-taiz-and-al-hudaydah-amid-clashes-with-houthis/4049183",
+        "published": "2026-09-07T01:04:16+00:00"
       },
       "members": [
         {
           "source": "Anadolu Agency",
           "category": "turkish",
-          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+          "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
           "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
-          "published": "2026-09-07T00:52:56+00:00"
+          "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-recaptured-positions-in-taiz-and-al-hudaydah-amid-clashes-with-houthis/4049183",
+          "published": "2026-09-07T01:04:16+00:00"
         },
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
+          "source": "IRNA",
+          "category": "iranian",
+          "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
           "title_he": "",
-          "url": "https://sana.sy/en/international/2340763/",
-          "published": "2026-09-06T10:13:28+00:00"
+          "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+          "published": "2026-09-05T20:24:34+00:00"
         }
       ],
-      "summary": "Israeli attacks in West Bank kill one Palestinian and injure three others.",
-      "summary_he": "תקיפות ישראליות בגדה המערבית הרגו פלסטיני אחד ופצעו שלושה נוספים."
+      "summary": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis.",
+      "summary_he": "הצבא התימני אומר כי כבש מחדש עמדות בתיז ואל-חודיידה בעיצומה של לחימה עם החות'ים."
     }
   ]
 }

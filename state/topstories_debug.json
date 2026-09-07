@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T03:09:35.931946+00:00",
+  "updated": "2026-09-07T03:42:53.729838+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,15 +167,16 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-07T03:07:53.759318+00:00"
+      "headlines_updated": "2026-09-07T03:41:13.566121+00:00"
     },
     "normalize": {
       "stats": {
         "dropped_stale": 14,
-        "title_snippet": 34,
+        "title_snippet": 33,
+        "dropped_no_english": 1,
         "title_native": 84,
         "in": 132,
-        "kept": 118
+        "kept": 117
       },
       "translator": {
         "configured": true,
@@ -255,74 +256,72 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "שיחת היום 06.09.26 - התכנית המלאה לצפייה ישירה -",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 118,
-      "kept": 68,
+      "in": 117,
+      "kept": 67,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "The far-right party Alternative for Germany won 44% of the votes in Saxony-Anhalt, securing 39 seats.",
+          "title": "The far-right Alternative for Germany (AfD) party secured 44% of the vote in Saxony-Anhalt, though this did…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A tragic incident has occurred in Algeria where a 10-year-old boy named Ayoub fell into a deep well and was…",
+          "title": "A 10-year-old boy named Ayyoub, who had fallen into a deep well in Algeria, was tragically found deceased.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A young woman was allegedly sexually assaulted during a flight from Malta to Nantes, France.",
+          "title": "A young woman was allegedly sexually assaulted during a flight from Malta to Nantes, France, after losing…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A 23-year-old Israeli man named David ben Lulu, a French citizen, has died in a motorcycle accident in…",
+          "title": "A 23-year-old Israeli national, David ben Lulu from Jerusalem, has died in a motorcycle accident in Vietnam.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This refers to the final performance of Renana Hovev, with a quote expressing strong admiration: \"I can…",
+          "title": "Renana Hovav delivered a final performance described by the source text as 'I can listen to her from morning…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This refers to the final performance of Tamir Sari, described with high praise: \"An amazing performance and…",
+          "title": "Tamar Sari's final performance was described as 'amazing and everyone here was on their feet.' This suggests…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This headline indicates concern over potential price drops, with the sentiment expressed as: \"They will do…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "This is a placeholder for a program titled \"The Day's Conversation,\" with the date 06.09.26, indicating it's…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "This announces a major 30th-anniversary concert by the band \"HaDag HaNachash,\" described as a…",
+          "title": "The band 'Hadag Nachash' celebrated its 30th anniversary with a large, one-time concert.",
           "sec": 0,
           "off": 1,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Channel 13",
+          "title": "A finalist from the reality show 'The Voice' expressed her astonishment at her current experience at the age…",
+          "sec": 0,
+          "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -369,14 +368,14 @@
         },
         {
           "source": "Al Mayadeen",
-          "title": "An Israeli poll indicates that 83% of respondents hold Benjamin Netanyahu responsible for the failures…",
+          "title": "An Israeli poll indicates that 83% of respondents hold Netanyahu responsible for the failures on October 7.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Mayadeen",
-          "title": "A member of the Israeli Knesset stated that removing Benjamin Netanyahu is an existential necessity for the…",
+          "title": "A member of the Knesset stated that the removal of Netanyahu is an existential necessity for 'Israeli…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -405,6 +404,13 @@
         {
           "source": "Iran International",
           "title": "INSIGHT Iran's appliance industry is collapsing, and so is the market it was built for",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Jordan Times",
+          "title": "King accepts credentials of new ambassadors",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -460,21 +466,21 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "A warning has been issued regarding the potential erasure of remains of thousands of missing persons in Gaza…",
+          "title": "There are warnings about the destruction of the remains of thousands of missing people in Gaza amidst ongoing…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Special reports discuss the Ali Taher hills and the Israeli narrative of control, which is reportedly not…",
+          "title": "Special reports question the Israeli narrative of control over the hills of Ali al-Taher in southern Lebanon…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "This special report analyzes the struggle for oil and gas corridors and attempts to redraw energy routes in…",
+          "title": "This report focuses on the conflict over oil and gas corridors and the attempt to redraw energy routes in the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -488,14 +494,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A draft law penalizing American universities that boycott \"Israel\" has been reported by paltoday.ps.",
+          "title": "A proposed bill aims to penalize American universities that boycott 'Israel'.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Falastin al-Youm",
-          "title": "An Israeli poll indicates that 83% hold Benjamin Netanyahu responsible for the failure on October 7th…",
+          "title": "An 'Israeli' poll indicates that 83% hold Netanyahu responsible for the failure on October 7.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -546,7 +552,7 @@
           "source": "Daily Sabah",
           "title": "Google's AI answer engine is quietly strangling open web",
           "sec": 0,
-          "off": 1,
+          "off": 2,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -616,18 +622,20 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 38,
+      "clusters": 40,
       "sizes": [
         11,
         8,
         5,
-        3,
-        3,
         2,
         2,
         2,
         2,
         2,
+        2,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -772,7 +780,7 @@
               },
               {
                 "source": "Falastin al-Youm",
-                "title": "Three martyrs were killed in an Israeli airstrike in southern Lebanon, according",
+                "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon, according",
                 "rejected_by": "loaded/partisan wording"
               },
               {
@@ -822,7 +830,7 @@
               },
               {
                 "source": "Falastin al-Youm",
-                "title": "Two martyrs, including a girl, and injuries were reported in an Israeli bombing ",
+                "title": "Two martyrs, including a child, were injured in an Israeli shelling that targete",
                 "rejected_by": "loaded/partisan wording"
               },
               {
@@ -835,44 +843,37 @@
         },
         {
           "selected_rank": 4,
-          "headline": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemen's armed forces have n",
+          "headline": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
           "rank_key": {
-            "outlets": 3,
-            "camps": 3,
-            "newest": "2026-09-06T18:57+00:00"
+            "outlets": 2,
+            "camps": 2,
+            "newest": "2026-09-07T01:04+00:00"
           },
           "outlet_names": [
-            "Al Manar",
-            "Al Mayadeen",
+            "Anadolu Agency",
             "IRNA"
           ],
           "camps": [
-            "panarab",
             "iranian",
-            "levant"
+            "turkish"
           ],
-          "members": 3,
+          "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Al Mayadeen",
-            "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemen's armed forces have numerous…",
-            "title_source": "snippet",
+            "source": "Anadolu Agency",
+            "title": "Yemeni army says it recaptured positions in Taiz and Al-Hudaydah amid clashes with Houthis",
+            "title_source": "native",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
               "names 1 of the story's dominant entities (yemen)",
-              "state/partisan outlet (last resort)",
-              "derived from the outlet's English snippet"
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
             ],
             "passed_over": [
               {
                 "source": "IRNA",
                 "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
-                "source": "Al Manar",
-                "title": "The Yemeni armed forces have released video footage showing a precise missile st",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
@@ -880,27 +881,26 @@
         },
         {
           "selected_rank": 5,
-          "headline": "Following a violation by Hezbollah, the Israeli military has issued a civilian evacuation alert for ",
+          "headline": "Following a violation attributed to Hezbollah, the Israeli army issued an evacuation alert for a vil",
           "rank_key": {
-            "outlets": 3,
+            "outlets": 2,
             "camps": 2,
             "newest": "2026-09-06T23:42+00:00"
           },
           "outlet_names": [
             "Al Manar",
-            "Kan 11",
-            "L'Orient Today"
+            "Kan 11"
           ],
           "camps": [
             "israeli",
             "levant"
           ],
-          "members": 3,
+          "members": 2,
           "qualified": true,
           "why_not": null,
           "representative": {
             "source": "Kan 11",
-            "title": "Following a violation by Hezbollah, the Israeli military has issued a civilian evacuation alert for a village…",
+            "title": "Following a violation attributed to Hezbollah, the Israeli army issued an evacuation alert for a village in…",
             "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -910,50 +910,8 @@
             ],
             "passed_over": [
               {
-                "source": "L'Orient Today",
-                "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
-                "rejected_by": "older than the story's newest wave"
-              },
-              {
                 "source": "Al Manar",
-                "title": "Hezbollah issued a statement criticizing the continuation of what it calls an ab",
-                "rejected_by": "older than the story's newest wave"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 2,
-            "newest": "2026-09-07T00:52+00:00"
-          },
-          "outlet_names": [
-            "Anadolu Agency",
-            "SANA"
-          ],
-          "camps": [
-            "levant",
-            "turkish"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "SANA",
-            "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
-            "title_source": "native",
-            "why": [
-              "names 2 of the story's dominant entities (gaza, westbank)",
-              "neutral-by-default outlet",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Anadolu Agency",
-                "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+                "title": "Hezbollah issued a statement regarding the ongoing Israeli aggression on Lebanon",
                 "rejected_by": "loaded/partisan wording"
               }
             ]
@@ -1091,7 +1049,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "The Philippines' Secretary of National Defense has expressed concern that China might exploit the re",
+          "headline": "The Philippines' Secretary of National Defense expressed concern that China might exploit the reduct",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1109,7 +1067,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Reports from Lebanon indicate that the Israeli military has conducted an airstrike in the village of",
+          "headline": "Reports from Lebanon indicate that the Israeli army conducted an airstrike in the village of Deir al",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1145,7 +1103,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Clashes have been reported in the village of Hajja, near Qalqilya.",
+          "headline": "Clashes erupted in the village of Haja, near Qalqilya, with Palestinian reports indicating that one ",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1181,7 +1139,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "There is a risk of the war expanding eastward, with reports suggesting that Al-Burhan is seeking Eri",
+          "headline": "Concerns are rising about the potential for the war to expand eastward, with reports that El-Burhan ",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1199,7 +1157,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "There has been an increase in Israeli decisions to ban Jerusalem residents from Al-Aqsa Mosque ahead",
+          "headline": "There is an escalation in Israeli decisions to ban Jerusalemites from accessing Al-Aqsa Mosque ahead",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1217,7 +1175,25 @@
         },
         {
           "selected_rank": null,
-          "headline": "Benjamin Netanyahu has threatened Iran, stating, \"Don't mess with us.\" The army is reportedly testin",
+          "headline": "A Yemeni source stated that if Saudi Arabia decides on a comprehensive war, the Yemeni forces' optio",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T18:57+00:00"
+          },
+          "outlet_names": [
+            "Al Mayadeen"
+          ],
+          "camps": [
+            "panarab"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "Netanyahu has issued a threat to Iran, stating 'Don't mess with us,' while the army is testing its r",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1235,7 +1211,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "A high school student in Kiryat Yam claims she was attacked at school and that the administration pr",
+          "headline": "A high school student in Kiryat Yam claims she was attacked at school and alleges that the school…",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1271,25 +1247,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "King accepts credentials of new ambassadors",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T15:13+00:00"
-          },
-          "outlet_names": [
-            "Jordan Times"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Argentina's president, Javier Milei, has escalated a dispute over the Falkland Islands by imposing s",
+          "headline": "Argentina's President Javier Milei has intensified efforts regarding the Falkland Islands dispute, a",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1306,7 +1264,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "16 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "19 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1324,7 +1282,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-07T03:09:59.363029+00:00",
+    "last_success": "2026-09-07T03:43:07.612944+00:00",
     "last_failure": null
   },
   "ok": true

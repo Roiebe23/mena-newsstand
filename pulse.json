@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-06T23:43:20.997117+00:00",
+  "updated": "2026-09-07T00:13:58.199882+00:00",
   "total_headlines": 133,
   "terms": [
     {
       "term": "Israeli",
       "term_he": "ישראלי",
-      "count": 23,
+      "count": 24,
       "headlines": [
         {
           "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
@@ -41,14 +41,14 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
-          "url": "https://www.almayadeen.net/latestnews/2026/9/4/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9--%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9--%D9%83%D9%88%D8%A7%D8%AF-%D9%83%D9%88%D8%A8%D8%AA%D8%B1",
-          "source": "Al Mayadeen",
+          "title": "Israeli strike destroys South Lebanon village",
+          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
-          "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
+          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
+          "url": "https://www.almayadeen.net/latestnews/2026/9/4/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9--%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9--%D9%83%D9%88%D8%A7%D8%AF-%D9%83%D9%88%D8%A8%D8%AA%D8%B1",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -107,6 +107,12 @@
           "region": "Levant"
         },
         {
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
           "title": "3 شهداء جراء غارة إسرائيلية على جنوب لبنان",
           "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
           "source": "Falastin al-Youm",
@@ -123,105 +129,13 @@
           "url": "https://sana.sy/en/middle-east/2340780/",
           "source": "SANA",
           "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "term_he": "עזה",
-      "count": 13,
-      "headlines": [
-        {
-          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
-        },
-        {
-          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
-          "url": "https://www.almayadeen.net/latestnews/2026/9/4/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9--%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9--%D9%83%D9%88%D8%A7%D8%AF-%D9%83%D9%88%D8%A8%D8%AA%D8%B1",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza death toll rises to 73,651, health ministry says",
-          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
-          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/arab/903421/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%B1%D9%81%D8%A7%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "غزة تحتضن ثالث جنازة جماعية في شهرَين - Al Akhbar",
-          "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903487/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174416",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174400",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Gaza death toll rises to 73,651 since October 2023 - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/174384",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "تحذيرات حقوقية من طمس أدلة الإبادة وتدمير رفات آلاف المفقودين تحت ركام غزة",
-          "url": "https://paltoday.ps/ar/post/543644/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%A3%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%A5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
-          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
-          "url": "https://sana.sy/en/middle-east/2340887/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
-          "region": "Levant"
         }
       ]
     },
     {
       "term": "Lebanon",
       "term_he": "לבנון",
-      "count": 13,
+      "count": 15,
       "headlines": [
         {
           "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
@@ -240,6 +154,18 @@
           "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
           "source": "The New Arab",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strike destroys South Lebanon village",
+          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel army says striking southern Lebanon, urges evacuation",
+          "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+          "source": "Jordan Times",
+          "region": "Levant"
         },
         {
           "title": "SOCIAL PROTECTION Crisis-era retirees: Proposal to restore 50% of end-of-service indemnities Stephanie Bechara",
@@ -304,9 +230,95 @@
       ]
     },
     {
+      "term": "Gaza",
+      "term_he": "עזה",
+      "count": 13,
+      "headlines": [
+        {
+          "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
+          "url": "https://middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הפלסטינים משיקים קמפיין #TheyLiedtoYou להפריך את נרטיב 'הפסקת האש' בעזה"
+        },
+        {
+          "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
+          "url": "https://www.almayadeen.net/latestnews/2026/9/4/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9--%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9--%D9%83%D9%88%D8%A7%D8%AF-%D9%83%D9%88%D8%A8%D8%AA%D8%B1",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Gaza death toll rises to 73,651, health ministry says",
+          "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
+          "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/arab/903421/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%B1%D9%81%D8%A7%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "غزة تحتضن ثالث جنازة جماعية في شهرَين - Al Akhbar",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903487/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174400",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "تحذيرات حقوقية من طمس أدلة الإبادة وتدمير رفات آلاف المفقودين تحت ركام غزة",
+          "url": "https://paltoday.ps/ar/post/543644/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%A3%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%A5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
+          "url": "https://sana.sy/en/middle-east/2340887/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
+          "url": "https://sana.sy/en/international/2340763/",
+          "source": "SANA",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Israel",
       "term_he": "ישראל",
-      "count": 10,
+      "count": 11,
       "headlines": [
         {
           "title": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
@@ -345,6 +357,12 @@
           "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel army says striking southern Lebanon, urges evacuation",
+          "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+          "source": "Jordan Times",
+          "region": "Levant"
         },
         {
           "title": "FOCUS Military operation or secret arrangement? Behind Israel's 'takeover' of Ali Taher",
@@ -452,9 +470,9 @@
           "region": "Levant"
         },
         {
-          "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
-          "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
-          "source": "Falastin al-Youm",
+          "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/174401",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
@@ -602,51 +620,12 @@
       ]
     },
     {
-      "term": "Netanyahu",
-      "term_he": "נתניהו",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\"",
-          "url": "https://13tv.co.il/item/news/politics/politics/zulln-905346859/",
-          "source": "Channel 13",
-          "region": "Israel",
-          "title_he": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\""
-        },
-        {
-          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
-          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
-        },
-        {
-          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
-          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
-          "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Saxony-Anhalt",
       "term_he": "",
       "count": 5,
       "headlines": [
         {
-          "title": "3 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
           "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -683,7 +662,7 @@
       "count": 5,
       "headlines": [
         {
-          "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
+          "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
           "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -715,12 +694,49 @@
       ]
     },
     {
+      "term": "strike",
+      "term_he": "שביתה",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
+          "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strike destroys South Lebanon village",
+          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "3 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
+          "url": "https://iranintl.com/en/202609054820",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
+          "url": "https://www.almanar.com.lb/article/1156872/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "Iranian",
       "term_he": "איראני",
       "count": 5,
       "headlines": [
         {
-          "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
+          "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
           "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -823,70 +839,6 @@
           "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Miami",
-      "term_he": "",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
-          "url": "b00a8c7fdb884905b1f1f1635c39f95d",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי"
-        },
-        {
-          "title": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
-          "url": "0e6349a2bb484c07869fa2bcb7399953",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול"
-        },
-        {
-          "title": "5 killed, 5 injured after Amazon cargo plane overruns runway at Miami airport",
-          "url": "https://www.aa.com.tr/en/world/5-killed-5-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport/4049164",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Amazon cargo plane catches fire after overrunning Miami runway, prompts ground stop",
-          "url": "https://www.aa.com.tr/en/americas/amazon-cargo-plane-catches-fire-after-overrunning-miami-runway-prompts-ground-stop/4049079",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "strike",
-      "term_he": "שביתה",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "3 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
-          "url": "https://iranintl.com/en/202609054820",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
-          "url": "https://www.almanar.com.lb/article/1156872/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },
@@ -1037,6 +989,59 @@
       ]
     },
     {
+      "term": "Miami",
+      "term_he": "",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי",
+          "url": "b00a8c7fdb884905b1f1f1635c39f95d",
+          "source": "Kan 11",
+          "region": "Israel",
+          "title_he": "חמישה הרוגים וחמישה פצועים בהתרסקות מטוס המטען בשדה התעופה במיאמי"
+        },
+        {
+          "title": "5 killed, 5 injured after Amazon cargo plane overruns runway at Miami airport",
+          "url": "https://www.aa.com.tr/en/world/5-killed-5-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport/4049164",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Amazon cargo plane catches fire after overrunning Miami runway, prompts ground stop",
+          "url": "https://www.aa.com.tr/en/americas/amazon-cargo-plane-catches-fire-after-overrunning-miami-runway-prompts-ground-stop/4049079",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Netanyahu",
+      "term_he": "נתניהו",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\"",
+          "url": "https://13tv.co.il/item/news/politics/politics/zulln-905346859/",
+          "source": "Channel 13",
+          "region": "Israel",
+          "title_he": "הצעת נתניהו לווינטר והעימות בשיחה הסגורה: \"הצעירים לא איתך\""
+        },
+        {
+          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
+          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
+        },
+        {
+          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Rezaei",
       "term_he": "",
       "count": 3,
@@ -1067,7 +1072,7 @@
       "count": 3,
       "headlines": [
         {
-          "title": "3 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
           "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1092,7 +1097,7 @@
       "count": 3,
       "headlines": [
         {
-          "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
+          "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
           "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1158,31 +1163,6 @@
           "url": "https://www.dailysabah.com/politics/women-expose-jobs-for-sex-scheme-of-former-chp-mayor-in-turkiyes-antalya/news",
           "source": "Daily Sabah",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Islamic",
-      "term_he": "אסלאמי",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-          "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
-          "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -1415,25 +1395,6 @@
       ]
     },
     {
-      "term": "West Bank",
-      "term_he": "הגדה המערבית",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
-          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "City",
       "term_he": "עיר",
       "count": 2,
@@ -1548,6 +1509,25 @@
       ]
     },
     {
+      "term": "Islamic",
+      "term_he": "אסלאמי",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
+          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "IRGC hits US aircraft carrier, destroyer with missiles",
+          "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Corps",
       "term_he": "קורפוס",
       "count": 2,
@@ -1574,6 +1554,25 @@
         {
           "title": "IRGC hits US aircraft carrier, destroyer with missiles",
           "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Navy",
+      "term_he": "הצי",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
+          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
           "source": "Mehr News",
           "region": "Iran"
         },

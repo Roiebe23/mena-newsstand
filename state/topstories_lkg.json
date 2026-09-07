@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:43:35.124783+00:00",
+  "updated": "2026-09-07T00:14:12.050133+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -79,21 +79,29 @@
     },
     {
       "rank": 2,
-      "outlets": 5,
+      "outlets": 6,
       "categories": [
         "panarab",
         "levant",
         "turkish"
       ],
       "rep": {
-        "source": "The New Arab",
-        "category": "panarab",
-        "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+        "source": "Jordan Times",
+        "category": "levant",
+        "title": "Israel army says striking southern Lebanon, urges evacuation",
         "title_he": "",
-        "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-        "published": "2026-09-06T12:16:22+00:00"
+        "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+        "published": "2026-09-06T22:59:19+00:00"
       },
       "members": [
+        {
+          "source": "Jordan Times",
+          "category": "levant",
+          "title": "Israel army says striking southern Lebanon, urges evacuation",
+          "title_he": "",
+          "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+          "published": "2026-09-06T22:59:19+00:00"
+        },
         {
           "source": "Falastin al-Youm",
           "category": "levant",
@@ -217,32 +225,32 @@
       "outlets": 2,
       "categories": [
         "panarab",
-        "levant"
+        "turkish"
       ],
       "rep": {
-        "source": "The New Arab",
-        "category": "panarab",
-        "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+        "source": "TRT World",
+        "category": "turkish",
+        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
         "title_he": "",
-        "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-        "published": "2026-09-06T16:26:40+00:00"
+        "url": "https://www.trtworld.com/article/bd664ce317c3",
+        "published": "2026-09-05T22:56:52+00:00"
       },
       "members": [
         {
-          "source": "The New Arab",
-          "category": "panarab",
-          "title": "Netanyahu orders removal of illegal West Bank settler outposts",
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "title_he": "",
-          "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-          "published": "2026-09-06T16:26:40+00:00"
+          "url": "https://www.trtworld.com/article/bd664ce317c3",
+          "published": "2026-09-05T22:56:52+00:00"
         },
         {
-          "source": "SANA",
-          "category": "levant",
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
+          "source": "Al Arabiya",
+          "category": "panarab",
+          "title": "Putin meets US envoys for Ukraine war talks",
           "title_he": "",
-          "url": "https://sana.sy/en/international/2340763/",
-          "published": "2026-09-06T10:13:28+00:00"
+          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
+          "published": "2026-09-05T08:39:00+00:00"
         }
       ]
     }

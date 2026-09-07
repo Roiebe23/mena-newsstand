@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:41:52.456533+00:00",
+  "updated": "2026-09-07T00:12:38.953055+00:00",
   "regions": {
     "Israel": [
       {
@@ -8,6 +8,14 @@
         "lang": "he",
         "url": "https://www.kan.org.il",
         "headlines": [
+          {
+            "title": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
+            "url": "22ad8f34a5b04fe2bf6a2e23ac8209e5",
+            "published": "2026-09-06T23:42:38+00:00",
+            "snippet": "",
+            "title_he": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
+            "snippet_he": ""
+          },
           {
             "title": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל",
             "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096992/",
@@ -38,14 +46,6 @@
             "published": "2026-09-06T21:14:26+00:00",
             "snippet": "At least 10 people were killed and 64 injured in a fireworks explosion at a festival in Mexico.",
             "title_he": "לפחות 10 הרוגים ו-64 פצועים בפיצוץ זיקוקים בפסטיבל במקסיקו",
-            "snippet_he": ""
-          },
-          {
-            "title": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
-            "url": "0e6349a2bb484c07869fa2bcb7399953",
-            "published": "2026-09-06T19:47:49+00:00",
-            "snippet": "In the US, a cargo plane failed to stop upon landing at Miami airport and crashed off the runway.",
-            "title_he": "ארה\"ב: מטוס מטען לא הצליח לעצור בנחיתתו בשדה התעופה במיאמי והתרסק מחוץ למסלול",
             "snippet_he": ""
           }
         ],
@@ -111,7 +111,7 @@
           {
             "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
             "url": "https://13tv.co.il/news/",
-            "published": "2026-09-06T21:20:18+00:00",
+            "published": "2026-09-06T22:07:04+00:00",
             "snippet": "This item provides news headlines and updates from Israel and around the world.",
             "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
             "snippet_he": ""
@@ -169,34 +169,34 @@
             "snippet_he": ""
           },
           {
-            "title": "2 , Egyptian TV presenter sentenced to death in drugs case",
-            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
-            "published": "",
-            "snippet": "A Cairo court has sentenced Egyptian TV host Sarah Khalifa and 11 others to death for their involvement in a drug trafficking ring.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "3 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+            "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
             "url": "https://aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls",
             "published": "",
-            "snippet": "The far-right AfD party has won a vote in Germany's Saxony-Anhalt state, according to exit polls. The party celebrated a 'historic' result, though it is unclear if they can form a government.",
+            "snippet": "Party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "4 , Iran touts military response as US maintains blockade, hits tankers",
-            "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
+            "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
+            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
             "published": "",
-            "snippet": "Tehran has indicated that the time for a proportionate military response is over following a US strike on Iranian tankers within a blockade line.",
+            "snippet": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "5 , Can you guess the real size of each country on the new world map?",
+            "title": "4 , Can you guess the real size of each country on the new world map?",
             "url": "https://aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
             "published": "",
-            "snippet": "This interactive feature allows users to guess the real size of countries on a new world map by comparing them in different projections.",
+            "snippet": "Pick which country is bigger, then watch it morph from Mercator to Equal Earth projection to see how close you were.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "5 , Iran touts military response as US maintains blockade, hits tankers",
+            "url": "https://aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers",
+            "published": "",
+            "snippet": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -327,6 +327,14 @@
             "snippet_he": ""
           },
           {
+            "title": "Israeli strike destroys South Lebanon village",
+            "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+            "published": "2026-09-04T00:03:35+00:00",
+            "snippet": "Israeli strike destroys South Lebanon village The New Arab",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "Once disgraced, twice-resigned, ex-PM Keir Starmer is now ex-MP",
             "url": "https://www.newarab.com/opinion/once-disgraced-twice-resigned-ex-pm-keir-starmer-now-ex-mp",
             "published": "2026-09-06T21:23:19+00:00",
@@ -341,14 +349,6 @@
             "snippet": "Turkey is promoting its KAAN stealth jet amid deepening tensions with Israel.",
             "title_he": "",
             "snippet_he": ""
-          },
-          {
-            "title": "Netanyahu orders removal of illegal West Bank settler outposts",
-            "url": "https://www.newarab.com/news/netanyahu-orders-removal-illegal-west-bank-settler-outposts",
-            "published": "2026-09-06T16:26:40+00:00",
-            "snippet": "Netanyahu has ordered the removal of illegal settler outposts in the West Bank.",
-            "title_he": "",
-            "snippet_he": ""
           }
         ],
         "error": null,
@@ -360,6 +360,14 @@
         "lang": "ar",
         "url": "https://www.almayadeen.net",
         "headlines": [
+          {
+            "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
+            "url": "https://www.almayadeen.net/news/politics/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A--83--%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D9%82-%D9%81%D9%8A-7-%D8%A3%D9%83",
+            "published": "2026-09-05T06:53:52+00:00",
+            "snippet": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر almayadeen.net",
+            "title_he": "",
+            "snippet_he": ""
+          },
           {
             "title": "فلسطين المحتلة: مراسل الميادين: مسيّرة إسرائيلية \"كواد كوبتر\" تطلق النار شرق حي الشيخ رضوان شمالي مدينة غزة",
             "url": "https://www.almayadeen.net/latestnews/2026/9/4/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9--%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9--%D9%83%D9%88%D8%A7%D8%AF-%D9%83%D9%88%D8%A8%D8%AA%D8%B1",
@@ -391,14 +399,6 @@
             "snippet": "A Yemeni source stated that if Saudi Arabia decides on comprehensive war, Yemeni forces have open and multiple options.",
             "title_he": "",
             "snippet_he": ""
-          },
-          {
-            "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
-            "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
-            "published": "2026-09-06T15:26:38+00:00",
-            "snippet": "A member of the Israeli Knesset stated that removing Netanyahu is an existential necessity for \"Israeli society.\"",
-            "title_he": "",
-            "snippet_he": ""
           }
         ],
         "error": null,
@@ -413,14 +413,6 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
-            "title": "Gaza death toll rises to 73,651, health ministry says",
-            "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-            "published": "2026-09-05T17:05:27+00:00",
-            "snippet": "Gaza's health ministry reported that the death toll from Israeli attacks has risen to 73,651.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Tehran, Baku stress expansion of infrastructure cooperation",
             "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
             "published": "2026-09-06T08:42:58+00:00",
@@ -433,6 +425,14 @@
             "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
             "published": "2026-09-06T05:53:41+00:00",
             "snippet": "The Islamic Revolution Guards Corps (IRGC) announced that its Aerospace Force targeted a US aircraft carrier and a destroyer with ballistic missiles during a maritime confrontation.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Gaza death toll rises to 73,651, health ministry says",
+            "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
+            "published": "2026-09-05T17:05:27+00:00",
+            "snippet": "Gaza's health ministry reported that the death toll from Israeli attacks has risen to 73,651.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -565,6 +565,14 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
+            "title": "Israel army says striking southern Lebanon, urges evacuation",
+            "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+            "published": "2026-09-06T22:59:19+00:00",
+            "snippet": "Israel army says striking southern Lebanon, urges evacuation jordantimes.com",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
             "title": "King accepts credentials of new ambassadors",
             "url": "https://jordantimes.com/news/local/king-accepts-credentials-of-new-ambassadors-1302334",
             "published": "2026-09-06T15:13:15+00:00",
@@ -595,18 +603,10 @@
             "snippet": "Personal loans are driving a rise in individual debt to JD14.3 billion in the first quarter, according to the Central Bank of Jordan.",
             "title_he": "",
             "snippet_he": ""
-          },
-          {
-            "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
-            "url": "https://jordantimes.com/news/local/safadi-austrian-foreign-minister-discuss-bilateral-relations-regional-developments",
-            "published": "2026-09-03T18:44:36+00:00",
-            "snippet": "Safadi and the Austrian foreign minister discussed bilateral relations and regional developments.",
-            "title_he": "",
-            "snippet_he": ""
           }
         ],
         "error": null,
-        "rank_method": "latest"
+        "rank_method": "coverage"
       },
       {
         "source": "L'Orient Today",
@@ -831,14 +831,6 @@
             "snippet_he": ""
           },
           {
-            "title": "Gaza death toll rises to 73,651 since October 2023 - WAFA Agency",
-            "url": "https://english.wafa.ps/Pages/Details/174384",
-            "published": "2026-09-05T15:41:26+00:00",
-            "snippet": "The death toll in Gaza has risen to 73,651 since October 2023.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Israeli drone strike kills two in southern Lebanon - WAFA Agency",
             "url": "https://english.wafa.ps/Pages/Details/174375",
             "published": "2026-09-04T18:52:39+00:00",
@@ -853,6 +845,14 @@
             "snippet": "Israeli aggression on Lebanon has resulted in 4,362 deaths and 12,378 injuries.",
             "title_he": "",
             "snippet_he": ""
+          },
+          {
+            "title": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/174401",
+            "published": "2026-09-06T13:53:45+00:00",
+            "snippet": "Eight countries condemn Israeli ministers' calls for displacement of Palestinians from Gaza WAFA Agency",
+            "title_he": "",
+            "snippet_he": ""
           }
         ],
         "error": null,
@@ -864,6 +864,14 @@
         "lang": "ar",
         "url": "https://paltoday.ps",
         "headlines": [
+          {
+            "title": "3 شهداء جراء غارة إسرائيلية على جنوب لبنان",
+            "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
+            "published": "2026-09-06T15:37:00+00:00",
+            "snippet": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
+            "title_he": "",
+            "snippet_he": ""
+          },
           {
             "title": "تحذيرات حقوقية من طمس أدلة الإبادة وتدمير رفات آلاف المفقودين تحت ركام غزة",
             "url": "https://paltoday.ps/ar/post/543644/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%A3%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%A5",
@@ -881,10 +889,10 @@
             "snippet_he": ""
           },
           {
-            "title": "3 شهداء جراء غارة إسرائيلية على جنوب لبنان",
-            "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
-            "published": "2026-09-06T15:37:00+00:00",
-            "snippet": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
+            "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
+            "url": "https://paltoday.ps/ar/post/543571/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-83-%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86",
+            "published": "2026-09-05T09:05:00+00:00",
+            "snippet": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر paltoday.ps",
             "title_he": "",
             "snippet_he": ""
           },
@@ -893,14 +901,6 @@
             "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
             "published": "2026-09-06T14:22:00+00:00",
             "snippet": "Two martyrs, including a child, and other injuries occurred in an Israeli bombing that targeted a car west of Gaza.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
-            "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
-            "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
-            "published": "2026-09-06T13:46:00+00:00",
-            "snippet": "The Secretary-General of the Organization of Islamic Cooperation has warned against plans to displace Palestinians.",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1341,6 +1341,5 @@
         "rank_method": "coverage"
       }
     ]
-  },
-  "titles_hash": "19422b95af780922"
+  }
 }

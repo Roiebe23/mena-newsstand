@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-07T02:06:26.014237+00:00",
+  "updated": "2026-09-07T02:38:33.199917+00:00",
   "total_headlines": 133,
   "terms": [
     {
       "term": "Israeli",
       "term_he": "ישראלי",
-      "count": 39,
+      "count": 35,
       "headlines": [
         {
           "title": "מפלגת \"אלטרנטיבה לגרמניה\" זכתה ב-44% מהקולות בסקסוניה-אנהלט, ללא רוב מוחלט",
@@ -76,27 +76,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
+          "title": "Five killed in Israeli attacks across southern, eastern Lebanon",
+          "url": "https://www.newarab.com/news/five-killed-israeli-attacks-across-southern-eastern-lebanon",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strike destroys South Lebanon village",
-          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+          "title": "Israeli strikes on Lebanon kill seven amid US-Iran escalation",
+          "url": "https://www.newarab.com/news/israeli-strikes-lebanon-kill-seven-amid-us-iran-escalation",
           "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces demolish Palestinian homes in West Bank",
-          "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A--83--%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D9%82-%D9%81%D9%8A-7-%D8%A3%D9%83",
-          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
@@ -134,13 +122,25 @@
           "url": "https://www.egyptindependent.com/egypt-and-seven-key-allies-condemn-israeli-ministers-gaza-displacement-proposals/",
           "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "تصاعد قرارات الاحتلال بإبعاد المقدسيين عن الأقصى قبيل الأعياد العبرية - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/arab/903423/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D9%8A%D9%8A%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%82%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%8A%D8%A7",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "حزب الله: استمرار السلطة في اللهاث خلف هذا المسار العبثي وغير الشرعي وغير الدستوري يعطي العدو غطاءً لاستمرار عدوانه 14:35",
+          "url": "https://www.almanar.com.lb/article/1154622/",
+          "source": "Al Manar",
+          "region": "Levant"
         }
       ]
     },
     {
       "term": "Lebanon",
       "term_he": "לבנון",
-      "count": 21,
+      "count": 20,
       "headlines": [
         {
           "title": "דיווח בלבנון: צה\"ל תקף בכפר דיר אלזהארני",
@@ -169,14 +169,14 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
+          "title": "Five killed in Israeli attacks across southern, eastern Lebanon",
+          "url": "https://www.newarab.com/news/five-killed-israeli-attacks-across-southern-eastern-lebanon",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strike destroys South Lebanon village",
-          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
+          "title": "Israeli strikes on Lebanon kill seven amid US-Iran escalation",
+          "url": "https://www.newarab.com/news/israeli-strikes-lebanon-kill-seven-amid-us-iran-escalation",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
@@ -229,13 +229,13 @@
           "region": "Levant"
         },
         {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
           "url": "https://sana.sy/en/middle-east/2340780/",
           "source": "SANA",
           "region": "Levant"
         },
         {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
           "url": "https://sana.sy/en/international/2340834/",
           "source": "SANA",
           "region": "Levant"
@@ -259,9 +259,9 @@
           "region": "Turkey"
         },
         {
-          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
-          "source": "Anadolu Agency",
+          "title": "Israeli air strikes completely destroy a hospital in southern Lebanon",
+          "url": "https://www.trtworld.com/article/553369413bf7",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -333,13 +333,13 @@
           "region": "Levant"
         },
         {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
+          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
           "url": "https://sana.sy/en/international/2340763/",
           "source": "SANA",
           "region": "Levant"
         },
         {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
           "url": "https://sana.sy/en/middle-east/2340887/",
           "source": "SANA",
           "region": "Levant"
@@ -361,7 +361,7 @@
     {
       "term": "conflict",
       "term_he": "סכסוך",
-      "count": 13,
+      "count": 12,
       "headlines": [
         {
           "title": "Putin meets US envoys for Ukraine war talks",
@@ -400,12 +400,6 @@
           "region": "Iran"
         },
         {
-          "title": "Prime minister reviews measures to maintain supply chains amid regional tensions",
-          "url": "https://jordantimes.com/news/local/prime-minister-reviews-measures-to-maintain-supply-chains-amid-regional-tensions",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
           "title": "خطر تمدّد الحرب شرقاً: البرهان يستعين بإريتريا... ضدّ إثيوبيا - Al Akhbar",
           "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903488/%D8%AE%D8%B7%D8%B1-%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B4%D8%B1%D9%82%D8%A7--%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A5%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A%D8%A7----%D8%B6%D8%AF-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7",
           "source": "Al-Akhbar",
@@ -439,6 +433,73 @@
           "title": "Gaza mourns 100 Palestinians, including 60 children, recovered from rubble",
           "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
           "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "strikes",
+      "term_he": "שביתות",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strikes on Lebanon kill seven amid US-Iran escalation",
+          "url": "https://www.newarab.com/news/israeli-strikes-lebanon-kill-seven-amid-us-iran-escalation",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel army says striking southern Lebanon, urges evacuation",
+          "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
+          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
+          "url": "https://sana.sy/en/middle-east/2340780/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
+          "url": "https://sana.sy/en/international/2340834/",
+          "source": "SANA",
+          "region": "Levant"
+        },
+        {
+          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
+          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-across-gaza-kill-5-palestinians-including-2-children/4049181",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
@@ -486,13 +547,13 @@
           "region": "Levant"
         },
         {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
+          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
           "url": "https://sana.sy/en/international/2340763/",
           "source": "SANA",
           "region": "Levant"
         },
         {
-          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
+          "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
           "url": "https://sana.sy/en/middle-east/2340887/",
           "source": "SANA",
           "region": "Levant"
@@ -579,73 +640,12 @@
       ]
     },
     {
-      "term": "strikes",
-      "term_he": "שביתות",
-      "count": 9,
-      "headlines": [
-        {
-          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Smoke, Destruction in Southern Lebanon After Israeli Strikes",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
-          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel army says striking southern Lebanon, urges evacuation",
-          "url": "https://jordantimes.com/news/local/israel-army-says-striking-southern-lebanon-urges-evacuation",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
-          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
-          "url": "https://sana.sy/en/middle-east/2340780/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Lebanon raises toll to 4 dead in overnight Israeli strikes",
-          "url": "https://www.arabnews.com/middle-east/lebanon-raises-toll-to-4-dead-in-overnight-israeli-strikes-3000550",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Israeli attacks across Gaza kill 5 Palestinians, including 2 children",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-across-gaza-kill-5-palestinians-including-2-children/4049181",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "war",
       "term_he": "היה",
       "count": 8,
       "headlines": [
         {
-          "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -695,9 +695,108 @@
       ]
     },
     {
+      "term": "oil",
+      "term_he": "נפט",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
+          "source": "N12",
+          "region": "Israel",
+          "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
+        },
+        {
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/centcom-says-it-struck-three-iranian-oil-tankers-after-irgc-targeted-two-us-warships",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "OPEC+ set to keep oil output policy unchanged on Sunday",
+          "url": "https://www.newarab.com/news/opec-set-keep-oil-output-policy-unchanged-sunday",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
+          "url": "https://www.almanar.com.lb/article/1154792/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "OPEC+ keeps oil production goals for October unchanged",
+          "url": "https://www.dailysabah.com/business/energy/opec-keeps-oil-production-goals-for-october-unchanged",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "term_he": "מצר הורמוז",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/09/06/iran-says-new-strait-of-hormuz-corridor-agreement-to-be-signed-in-coming-days",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "رضائي يكشف عن منطقة محظورة خارج مضيق هرمز.. ويؤكد: اختبرنا صاروخاً مضاداً للمدمرات",
+          "url": "https://www.almayadeen.net/news/politics/%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D8%AD%D8%B8%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2---%D9%88%D9%8A%D8%A4%D9%83%D8%AF--%D8%A7%D8%AE%D8%AA%D8%A8%D8%B1%D9%86%D8%A7-%D8%B5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
+          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
+          "url": "https://iranintl.com/en/202609048845",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Iran says it will declare 'prohibited zone' near Strait of Hormuz in coming days",
+          "url": "https://www.trtworld.com/article/cd4f7f0ff72d",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Israel",
       "term_he": "ישראל",
-      "count": 8,
+      "count": 7,
       "headlines": [
         {
           "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
@@ -711,12 +810,6 @@
           "source": "Middle East Eye",
           "region": "Pan-Arab",
           "title_he": "תמונה של חיילים ישראלים מצטלמים לצד פלסטינים עם עיניים מכוסות מזינה את הכעס ברשת"
-        },
-        {
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
         },
         {
           "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
@@ -751,102 +844,8 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "term_he": "מצר הורמוז",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/06/iran-says-new-strait-of-hormuz-corridor-agreement-to-be-signed-in-coming-days",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "رضائي يكشف عن منطقة محظورة خارج مضيق هرمز.. ويؤكد: اختبرنا صاروخاً مضاداً للمدمرات",
-          "url": "https://www.almayadeen.net/news/politics/%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D8%AD%D8%B8%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2---%D9%88%D9%8A%D8%A4%D9%83%D8%AF--%D8%A7%D8%AE%D8%AA%D8%A8%D8%B1%D9%86%D8%A7-%D8%B5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
-          "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "5 ANALYSIS Debate grows over whether Iran is burning its strongest card in Hormuz",
-          "url": "https://iranintl.com/en/202609048845",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran says it will declare 'prohibited zone' near Strait of Hormuz in coming days",
-          "url": "https://www.trtworld.com/article/cd4f7f0ff72d",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Palestinian",
-      "term_he": "פלסטיני",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל",
-          "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096992/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל"
-        },
-        {
-          "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
-          "url": "https://middleeasteye.net/trending/ben-gvir-deletes-ai-video-showing-emaciated-palestinian-prisoners-after-backlash",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online",
-          "url": "https://middleeasteye.net/trending/israeli-soldiers-pose-next-blindfolded-palestinian",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "תמונה של חיילים ישראלים מצטלמים לצד פלסטינים עם עיניים מכוסות מזינה את הכעס ברשת"
-        },
-        {
-          "title": "Israeli forces demolish Palestinian homes in West Bank",
-          "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Gaza mourns 100 Palestinians, including 60 children, recovered from rubble",
-          "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "oil",
-      "term_he": "נפט",
+      "term": "sanctions",
+      "term_he": "עונשים",
       "count": 6,
       "headlines": [
         {
@@ -857,75 +856,32 @@
           "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
         },
         {
-          "title": "1 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
-          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
-          "source": "Al Jazeera",
+          "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "CENTCOM says it struck three Iranian oil tankers after IRGC targeted two US warships",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/09/05/centcom-says-it-struck-three-iranian-oil-tankers-after-irgc-targeted-two-us-warships",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "خاص | الصراع على ممرات النفط والغاز: ومحاولة إعادة رسم طرق الطاقة في الشرق الأوسط 17:29",
-          "url": "https://www.almanar.com.lb/article/1154792/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "OPEC+ keeps oil production goals for October unchanged",
-          "url": "https://www.dailysabah.com/business/energy/opec-keeps-oil-production-goals-for-october-unchanged",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "strike",
-      "term_he": "שביתה",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Israeli strike destroys South Lebanon village",
-          "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "3 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
-          "url": "https://iranintl.com/en/202609054820",
-          "source": "Iran International",
+          "title": "Economic pressure, blockade to cost US more than Iran",
+          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
-          "url": "https://www.almanar.com.lb/article/1156872/",
-          "source": "Al Manar",
+          "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
+          "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
+          "url": "https://paltoday.ps/ar/post/543573/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         },
         {
-          "title": "1 killed, 2 injured in Israeli strike on ambulance in southern Lebanon",
-          "url": "https://www.aa.com.tr/en/middle-east/1-killed-2-injured-in-israeli-strike-on-ambulance-in-southern-lebanon/4049190",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
@@ -1008,40 +964,41 @@
       ]
     },
     {
-      "term": "sanctions",
-      "term_he": "עונשים",
+      "term": "Palestinian",
+      "term_he": "פלסטיני",
       "count": 5,
       "headlines": [
         {
-          "title": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-1b1af82395670a1026.htm",
-          "source": "N12",
+          "title": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל",
+          "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096992/",
+          "source": "Kan 11",
           "region": "Israel",
-          "title_he": "חברות ישראליות במוקד: נשיא ארגנטינה חאבייר מיליי מחריף את המאבק סביב איי פוקלנד"
+          "title_he": "עימותים בכפר חג'ה שליד קלקיליה, דיווח פלסטיני על הרוג מירי כוח צה\"ל"
         },
         {
-          "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
-          "source": "Al Mayadeen",
+          "title": "Ben Gvir deletes AI video showing emaciated Palestinian prisoners after backlash",
+          "url": "https://middleeasteye.net/trending/ben-gvir-deletes-ai-video-showing-emaciated-palestinian-prisoners-after-backlash",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Economic pressure, blockade to cost US more than Iran",
-          "url": "https://en.mehrnews.com/news/247474/Economic-pressure-blockade-to-cost-US-more-than-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online",
+          "url": "https://middleeasteye.net/trending/israeli-soldiers-pose-next-blindfolded-palestinian",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "תמונה של חיילים ישראלים מצטלמים לצד פלסטינים עם עיניים מכוסות מזינה את הכעס ברשת"
         },
         {
-          "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
-          "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         },
         {
-          "title": "مشروع قانون يعاقب الجامعات الأمريكية التي تقاطع \"إسرائيل\"",
-          "url": "https://paltoday.ps/ar/post/543573/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
+          "title": "Gaza mourns 100 Palestinians, including 60 children, recovered from rubble",
+          "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
+          "source": "TRT World",
+          "region": "Turkey"
         }
       ]
     },
@@ -1088,7 +1045,7 @@
       "count": 5,
       "headlines": [
         {
-          "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1116,44 +1073,6 @@
           "url": "https://iranintl.com/en/202609048845",
           "source": "Iran International",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Netanyahu",
-      "term_he": "נתניהו",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
-          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab",
-          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
-        },
-        {
-          "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-          "url": "https://www.almayadeen.net/news/politics/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A--83--%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D9%82-%D9%81%D9%8A-7-%D8%A3%D9%83",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
-          "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-          "url": "https://paltoday.ps/ar/post/543571/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-83-%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -1230,6 +1149,38 @@
           "source": "Hürriyet Daily News",
           "region": "Turkey",
           "title_he": "29 מאכלי הרחוב הטורקיים שחובה לטעום – טורקיה מתוארת לעיתים קרובות כגן עדן בכל הנוגע למטבח."
+        }
+      ]
+    },
+    {
+      "term": "escalation",
+      "term_he": "הסלמה",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
+          "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096994/",
+          "source": "Kan 11",
+          "region": "Israel",
+          "title_he": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון"
+        },
+        {
+          "title": "Israeli strikes on Lebanon kill seven amid US-Iran escalation",
+          "url": "https://www.newarab.com/news/israeli-strikes-lebanon-kill-seven-amid-us-iran-escalation",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
+          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran military vows ‘more severe’ reprisals if US attacks continue",
+          "url": "https://www.arabnews.com/middle-east/iran-military-vows-more-severe-reprisals-if-us-attacks-continue-3000643",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1391,6 +1342,37 @@
       ]
     },
     {
+      "term": "strike",
+      "term_he": "שביתה",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "3 INSIGHT What is Pickaxe Mountain, and why does Trump keep saying he will bomb it?",
+          "url": "https://iranintl.com/en/202609054820",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "بالفيديو | القوات المسلحة اليمنية تستهدف اجتماعاً لقيادات في التحشيدات السعودية 16:03",
+          "url": "https://www.almanar.com.lb/article/1156872/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
+          "url": "https://www.arabnews.com/middle-east/trump-says-us-may-hit-irans-pickaxe-mountain-soon-3000542",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "1 killed, 2 injured in Israeli strike on ambulance in southern Lebanon",
+          "url": "https://www.aa.com.tr/en/middle-east/1-killed-2-injured-in-israeli-strike-on-ambulance-in-southern-lebanon/4049190",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "United",
       "term_he": "יונייטד",
       "count": 3,
@@ -1469,28 +1451,28 @@
       ]
     },
     {
-      "term": "escalation",
-      "term_he": "הסלמה",
+      "term": "Netanyahu",
+      "term_he": "נתניהו",
       "count": 3,
       "headlines": [
         {
-          "title": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
-          "url": "https://kan.org.il/content/kan-news/defense/live-1096944/liveid-1096994/",
-          "source": "Kan 11",
-          "region": "Israel",
-          "title_he": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון"
+          "title": "Anger rises as ICC member states accused of facilitating Netanyahu’s flight to Washington",
+          "url": "https://middleeasteye.net/trending/anger-icc-member-states-accused-facilitating-netanyahus-flight-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab",
+          "title_he": "הכעס גובר כאשר מדינות החברות ב-ICC מואשמות בסיוע לבריחתו של נתניהו לוושינגטון"
         },
         {
-          "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-          "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "عضو في كنيست الاحتلال: إقالة نتنياهو حاجة وجودية لـ\"المجتمع الإسرائيلي\"",
+          "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Iran military vows ‘more severe’ reprisals if US attacks continue",
-          "url": "https://www.arabnews.com/middle-east/iran-military-vows-more-severe-reprisals-if-us-attacks-continue-3000643",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "نتنياهو يهدّد إيران: «لا تعبثوا معنا»... والجيش يختبر جاهزيته لحرب مفاجئة - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/lebanon/903460/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86---%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D8%AB%D9%88%D8%A7-%D9%85%D8%B9%D9%86%D8%A7-----%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         }
       ]
     },
@@ -1515,56 +1497,6 @@
           "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "url": "https://www.trtworld.com/article/bd664ce317c3",
           "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "humanitarian",
-      "term_he": "הומניטרי",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
-          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/arab/903421/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%B1%D9%81%D8%A7%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
-          "url": "https://sana.sy/en/international/2340834/",
-          "source": "SANA",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "West Bank",
-      "term_he": "הגדה המערבית",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli forces demolish Palestinian homes in West Bank",
-          "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
-          "url": "https://sana.sy/en/international/2340763/",
-          "source": "SANA",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
-          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
@@ -1656,7 +1588,7 @@
           "region": "Levant"
         },
         {
-          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+          "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
           "url": "https://sana.sy/en/middle-east/2340780/",
           "source": "SANA",
           "region": "Levant"
@@ -1788,7 +1720,7 @@
       "count": 2,
       "headlines": [
         {
-          "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1896,6 +1828,44 @@
           "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
           "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
           "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Kyiv",
+      "term_he": "קייב",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US Envoys Arrive in Kyiv to Revive Ukraine Peace Talks",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/us-envoys-arrive-in-kyiv-to-revive-ukraine-peace-talks",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-arrive-in-kyiv-for-second-leg-of-us-diplomacy-push/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "humanitarian",
+      "term_he": "הומניטרי",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli strikes kill four, destroy hospital in southern Lebanon",
+          "url": "https://www.newarab.com/news/israeli-strikes-kill-four-destroy-hospital-southern-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "تحذير من طمس رفات آلاف المفقودين في غزة وسط استمرار العدوان - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/arab/903421/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%B7%D9%85%D8%B3-%D8%B1%D9%81%D8%A7%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
+          "source": "Al-Akhbar",
           "region": "Levant"
         }
       ]

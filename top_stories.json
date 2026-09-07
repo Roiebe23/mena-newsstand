@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:07:45.783381+00:00",
+  "updated": "2026-09-07T02:38:48.965042+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -26,14 +26,6 @@
           "title_he": "",
           "url": "https://www.aa.com.tr/en/middle-east/1-killed-2-injured-in-israeli-strike-on-ambulance-in-southern-lebanon/4049190",
           "published": "2026-09-07T01:54:51+00:00"
-        },
-        {
-          "source": "Anadolu Agency",
-          "category": "turkish",
-          "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
-          "title_he": "",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
-          "published": "2026-09-07T00:02:38+00:00"
         },
         {
           "source": "Jordan Times",
@@ -91,11 +83,13 @@
           "url": "https://english.alarabiya.net/amp/webtv/media/2026/09/06/smoke-destruction-in-southern-lebanon-after-israeli-strikes",
           "published": "2026-09-06T09:30:08+00:00"
         }
-      ]
+      ],
+      "summary": "Israeli strike on ambulance in southern Lebanon kills one, injures two.",
+      "summary_he": "תקיפה ישראלית על אמבולנס בדרום לבנון הורגת אחד ופוצעת שניים."
     },
     {
       "rank": 2,
-      "outlets": 6,
+      "outlets": 7,
       "categories": [
         "panarab",
         "iranian",
@@ -110,6 +104,14 @@
         "published": "2026-09-06T19:39:00+00:00"
       },
       "members": [
+        {
+          "source": "Anadolu Agency",
+          "category": "turkish",
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
+          "title_he": "",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
+          "published": "2026-09-06T22:31:12+00:00"
+        },
         {
           "source": "TRT World",
           "category": "turkish",
@@ -153,7 +155,7 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+          "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
           "published": ""
@@ -166,7 +168,9 @@
           "url": "https://iranintl.com/en/202609048845",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Iran to declare restricted maritime zone beyond Strait of Hormuz.",
+      "summary_he": "איראן תכריז על אזור ימי מוגבל מעבר למצר הורמוז."
     },
     {
       "rank": 3,
@@ -216,7 +220,9 @@
           "url": "https://www.trtworld.com/article/cd9c8e2f14d6",
           "published": "2026-09-05T22:26:09+00:00"
         }
-      ]
+      ],
+      "summary": "Israeli attacks across Gaza kill five Palestinians, including two children.",
+      "summary_he": "תקיפות ישראליות ברחבי עזה הורגות חמישה פלסטינים, בהם שני ילדים."
     },
     {
       "rank": 4,
@@ -259,7 +265,9 @@
           "url": "https://www.almanar.com.lb/article/1156872/",
           "published": ""
         }
-      ]
+      ],
+      "summary": "Yemeni source warns of expanded options if Saudi Arabia launches comprehensive war.",
+      "summary_he": "מקור תימני מזהיר מאפשרויות מורחבות אם סעודיה תפתח במלחמה כוללת."
     },
     {
       "rank": 5,
@@ -293,7 +301,9 @@
           "url": "https://sana.sy/en/international/2340763/",
           "published": "2026-09-06T10:13:28+00:00"
         }
-      ]
+      ],
+      "summary": "Israeli attacks in West Bank kill one Palestinian, injure three.",
+      "summary_he": "תקיפות ישראליות בגדה המערבית הורגות פלסטיני אחד ופוצעות שלושה."
     }
   ]
 }

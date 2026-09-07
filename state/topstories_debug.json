@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:06:26.216151+00:00",
+  "updated": "2026-09-07T02:38:33.407515+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -121,7 +121,7 @@
         "Syria Direct": {
           "headlines": 5,
           "lang": "en",
-          "stale": false,
+          "stale": true,
           "error": null
         },
         "Arab News": {
@@ -167,21 +167,21 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-07T02:04:33.682163+00:00"
+      "headlines_updated": "2026-09-07T02:37:08.659910+00:00"
     },
     "normalize": {
       "stats": {
-        "dropped_stale": 14,
-        "title_snippet": 33,
-        "title_translated": 1,
-        "title_native": 84,
+        "dropped_stale": 12,
+        "title_snippet": 31,
+        "dropped_no_english": 3,
+        "title_native": 86,
         "in": 132,
-        "kept": 118
+        "kept": 117
       },
       "translator": {
         "configured": true,
         "region": "uaenorth",
-        "requested": 33,
+        "requested": 34,
         "translated": 0,
         "cached": 597,
         "error": "HTTP 401: {\"error\":{\"code\":401001,\"message\":\"The request is not authorized because credentials are missing or invalid.\"}}"
@@ -189,17 +189,7 @@
       "dropped": [
         {
           "source": "The New Arab",
-          "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "The New Arab",
-          "title": "Israeli strike destroys South Lebanon village",
-          "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "The New Arab",
-          "title": "Israeli forces demolish Palestinian homes in West Bank",
+          "title": "Five killed in Israeli attacks across southern, eastern Lebanon",
           "reason": "stale (older than 48h)"
         },
         {
@@ -256,12 +246,27 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Channel 13",
+          "title": "\"ביצוע מדהים וכולם פה היו על הרגליים\": ביצוע הגמר של תמיר סרי",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
+          "reason": "no English text obtainable (title/translation/snippet)"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
+          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 118,
-      "kept": 69,
+      "in": 117,
+      "kept": 70,
       "dropped": [
         {
           "source": "N12",
@@ -273,13 +278,6 @@
         {
           "source": "N12",
           "title": "A young woman was allegedly sexually assaulted on a flight from Malta to Nantes, France, after losing…",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "News 13 | News",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -321,7 +319,7 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "4 , Egyptian TV presenter sentenced to death in drugs case",
+          "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -355,10 +353,10 @@
           "reason": "no security/geopolitics signal"
         },
         {
-          "source": "Al Mayadeen",
-          "title": "An Israeli poll indicates that 83% of respondents hold Prime Minister Netanyahu responsible for the failures…",
+          "source": "The New Arab",
+          "title": "OPEC+ set to keep oil output policy unchanged on Sunday",
           "sec": 0,
-          "off": 0,
+          "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
@@ -398,17 +396,17 @@
         },
         {
           "source": "Jordan Times",
-          "title": "Prime minister reviews measures to maintain supply chains amid regional tensions",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Jordan Times",
           "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
           "sec": 1,
           "off": 0,
           "reason": "disaster/accident with no conflict dimension"
+        },
+        {
+          "source": "Jordan Times",
+          "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
         },
         {
           "source": "L'Orient Today",
@@ -469,13 +467,6 @@
         {
           "source": "WAFA News",
           "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "An \"Israeli\" poll indicates that 83% of respondents hold Prime Minister Netanyahu responsible for the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -610,10 +601,10 @@
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 44,
+      "clusters": 45,
       "sizes": [
-        9,
-        7,
+        8,
+        8,
         4,
         3,
         2,
@@ -622,6 +613,7 @@
         2,
         2,
         2,
+        1,
         1,
         1,
         1,
@@ -685,7 +677,7 @@
             "levant",
             "turkish"
           ],
-          "members": 9,
+          "members": 8,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -726,14 +718,15 @@
           "selected_rank": 2,
           "headline": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
           "rank_key": {
-            "outlets": 6,
+            "outlets": 7,
             "camps": 3,
-            "newest": "2026-09-06T21:19+00:00"
+            "newest": "2026-09-06T22:31+00:00"
           },
           "outlet_names": [
             "Al Arabiya",
             "Al Jazeera",
             "Al Mayadeen",
+            "Anadolu Agency",
             "Iran International",
             "Mehr News",
             "TRT World"
@@ -743,7 +736,7 @@
             "iranian",
             "turkish"
           ],
-          "members": 7,
+          "members": 8,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -764,7 +757,7 @@
               },
               {
                 "source": "Al Jazeera",
-                "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+                "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -1297,7 +1290,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "note": "22 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "23 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1315,7 +1308,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-07T02:07:45.784828+00:00",
+    "last_success": "2026-09-07T02:38:48.966154+00:00",
     "last_failure": null
   },
   "ok": true

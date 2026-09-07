@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:04:33.682163+00:00",
+  "updated": "2026-09-07T02:37:08.659910+00:00",
   "regions": {
     "Israel": [
       {
@@ -109,19 +109,19 @@
         "url": "https://13tv.co.il",
         "headlines": [
           {
-            "title": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
-            "url": "https://13tv.co.il/news/",
-            "published": "2026-09-06T23:05:32+00:00",
-            "snippet": "This item appears to be a generic news outlet title and does not contain specific news content to summarize.",
-            "title_he": "חדשות 13 | חדשות - כל החדשות והעדכונים מהארץ ומהעולם",
-            "snippet_he": ""
-          },
-          {
             "title": "\"אני יכול להקשיב לה מהבוקר ועד הלילה\": ביצוע הגמר של רננה חובב",
             "url": "https://13tv.co.il/item/entertainment/the-voice/season-06/all-clips/psyv6-905345599/",
             "published": "2026-09-06T20:08:30+00:00",
             "snippet": "This item appears to be a generic title for a performance clip and does not contain specific news content to summarize.",
             "title_he": "\"אני יכול להקשיב לה מהבוקר ועד הלילה\": ביצוע הגמר של רננה חובב",
+            "snippet_he": ""
+          },
+          {
+            "title": "\"ביצוע מדהים וכולם פה היו על הרגליים\": ביצוע הגמר של תמיר סרי",
+            "url": "https://13tv.co.il/item/entertainment/the-voice/season-06/all-clips/hm2t7-905345509/",
+            "published": "2026-09-06T20:01:24+00:00",
+            "snippet": "\"ביצוע מדהים וכולם פה היו על הרגליים\": ביצוע הגמר של תמיר סרי 13tv.co.il",
+            "title_he": "\"ביצוע מדהים וכולם פה היו על הרגליים\": ביצוע הגמר של תמיר סרי",
             "snippet_he": ""
           },
           {
@@ -177,18 +177,18 @@
             "snippet_he": ""
           },
           {
-            "title": "3 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-            "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+            "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
+            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
             "published": "",
-            "snippet": "This is an update on the war between the U.S. and Iran, reporting that Tehran will announce a restricted zone near the Strait of Hormuz. These updates cover events from Sunday, September 6, 2026.",
+            "snippet": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "4 , Egyptian TV presenter sentenced to death in drugs case",
-            "url": "https://aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
+            "title": "4 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+            "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
             "published": "",
-            "snippet": "A court in Cairo has sentenced Egyptian TV presenter Sarah Khalifa and eleven other individuals to death. The sentencing is related to their involvement in a drug trafficking ring.",
+            "snippet": "These were the updates on the US-Israel war on Iran from Sunday, September 6, 2026.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -327,26 +327,26 @@
             "snippet_he": ""
           },
           {
-            "title": "Israel hands Lebanon five civilians it had abducted, via ICRC",
-            "url": "https://www.newarab.com/news/israel-hands-lebanon-five-civilians-it-had-abducted-icrc",
-            "published": "2026-09-04T10:51:13+00:00",
-            "snippet": "Israel has handed over five civilians to Lebanon through the International Committee of the Red Cross (ICRC). These individuals had been previously abducted by Israeli forces.",
+            "title": "Five killed in Israeli attacks across southern, eastern Lebanon",
+            "url": "https://www.newarab.com/news/five-killed-israeli-attacks-across-southern-eastern-lebanon",
+            "published": "2026-09-04T21:52:07+00:00",
+            "snippet": "Five killed in Israeli attacks across southern, eastern Lebanon The New Arab",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli strike destroys South Lebanon village",
-            "url": "https://www.newarab.com/shorts-video/israeli-strike-destroys-south-lebanon-village",
-            "published": "2026-09-04T00:03:35+00:00",
-            "snippet": "An Israeli strike has reportedly destroyed an entire village in southern Lebanon. The extent of the destruction and the impact on the local population are significant.",
+            "title": "OPEC+ set to keep oil output policy unchanged on Sunday",
+            "url": "https://www.newarab.com/news/opec-set-keep-oil-output-policy-unchanged-sunday",
+            "published": "2026-09-06T11:15:00+00:00",
+            "snippet": "OPEC+ set to keep oil output policy unchanged on Sunday The New Arab",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli forces demolish Palestinian homes in West Bank",
-            "url": "https://www.newarab.com/shorts-video/israeli-forces-demolish-palestinian-homes-west-bank",
-            "published": "2026-09-04T00:03:33+00:00",
-            "snippet": "Israeli forces have demolished Palestinian homes in the West Bank. This action is part of ongoing developments in the region and has drawn international attention.",
+            "title": "Israeli strikes on Lebanon kill seven amid US-Iran escalation",
+            "url": "https://www.newarab.com/news/israeli-strikes-lebanon-kill-seven-amid-us-iran-escalation",
+            "published": "2026-09-06T11:05:52+00:00",
+            "snippet": "Israeli strikes on Lebanon kill seven amid US-Iran escalation The New Arab",
             "title_he": "",
             "snippet_he": ""
           }
@@ -360,14 +360,6 @@
         "lang": "ar",
         "url": "https://www.almayadeen.net",
         "headlines": [
-          {
-            "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-            "url": "https://www.almayadeen.net/news/politics/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A--83--%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D9%82-%D9%81%D9%8A-7-%D8%A3%D9%83",
-            "published": "2026-09-05T06:53:52+00:00",
-            "snippet": "An Israeli poll indicates that 83% of respondents hold Prime Minister Netanyahu responsible for the failures related to the October 7th events. The poll reflects public sentiment regarding the events and leadership.",
-            "title_he": "",
-            "snippet_he": ""
-          },
           {
             "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
             "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%84%D8%AD%D8%AC%D8%A8-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
@@ -397,6 +389,14 @@
             "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%B6%D9%88-%D9%81%D9%8A-%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84--%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
             "published": "2026-09-06T15:26:38+00:00",
             "snippet": "A member of the Israeli Knesset stated that the removal of Netanyahu is an existential necessity for \"Israeli society.\" This reflects internal political divisions and calls for leadership change.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد",
+            "url": "https://www.almayadeen.net/news/politics/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8",
+            "published": "2026-09-06T13:46:05+00:00",
+            "snippet": "إعلام إسرائيلي: توقيفات وتحقيقات في غزة بعد كشف خلية مرتبطة باختطاف العرابيد almayadeen.net",
             "title_he": "",
             "snippet_he": ""
           }
@@ -589,18 +589,18 @@
             "snippet_he": ""
           },
           {
-            "title": "Prime minister reviews measures to maintain supply chains amid regional tensions",
-            "url": "https://jordantimes.com/news/local/prime-minister-reviews-measures-to-maintain-supply-chains-amid-regional-tensions",
-            "published": "2026-09-06T13:34:59+00:00",
-            "snippet": "The prime minister reviewed measures to maintain supply chains amidst regional tensions. This indicates efforts to ensure economic stability and resource availability during periods of conflict.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
             "url": "https://jordantimes.com/news/local/bodies-of-9-jordanians-killed-in-egypt-crash-arrive-in-kingdom",
             "published": "2026-09-06T03:17:07+00:00",
             "snippet": "The bodies of nine Jordanians who died in a crash in Egypt have arrived in the Kingdom. This repatriation follows a tragic accident that claimed their lives.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
+            "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
+            "published": "2026-09-05T14:47:31+00:00",
+            "snippet": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ Jordan Times",
             "title_he": "",
             "snippet_he": ""
           }
@@ -615,18 +615,18 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
-            "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
-            "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
-            "published": "",
-            "snippet": "This article discusses the reach of new communication channels between Turkey and Hezbollah. It references U.S. Treasury Department sanctions against a network of couriers involved in financial transactions.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
             "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
             "published": "",
             "snippet": "Israeli strikes in the Nabatieh district have killed eight people and destroyed Ghandour Hospital. The Finance Ministry building was also damaged in the attacks.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
+            "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
+            "published": "",
+            "snippet": "This article discusses the reach of new communication channels between Turkey and Hezbollah. It references U.S. Treasury Department sanctions against a network of couriers involved in financial transactions.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -889,18 +889,18 @@
             "snippet_he": ""
           },
           {
-            "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-            "url": "https://paltoday.ps/ar/post/543571/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-83-%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%86%D8%AA%D9%86",
-            "published": "2026-09-05T09:05:00+00:00",
-            "snippet": "An \"Israeli\" poll indicates that 83% of respondents hold Prime Minister Netanyahu responsible for the failures on October 7th. This reflects public dissatisfaction with leadership.",
-            "title_he": "",
-            "snippet_he": ""
-          },
-          {
             "title": "شهيدان بينهما طفلة وإصابات في قصف إسرائيلي استهدف سيارة غرب غزة",
             "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
             "published": "2026-09-06T14:22:00+00:00",
             "snippet": "Two Palestinians, including a child, were killed and others injured in an Israeli shelling that targeted a car west of Gaza. The attack occurred in a residential area.",
+            "title_he": "",
+            "snippet_he": ""
+          },
+          {
+            "title": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين",
+            "url": "https://paltoday.ps/ar/post/543646/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84",
+            "published": "2026-09-06T13:46:00+00:00",
+            "snippet": "الأمين العام لمنظمة التعاون الإسلامي يحذر من مخططات تهجير الفلسطينيين paltoday.ps",
             "title_he": "",
             "snippet_he": ""
           }
@@ -915,42 +915,42 @@
         "url": "https://sana.sy/en",
         "headlines": [
           {
-            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon - سانا",
+            "title": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon",
             "url": "https://sana.sy/en/middle-east/2340780/",
             "published": "2026-09-06T10:52:43+00:00",
-            "snippet": "Four people were killed and twenty injured in Israeli strikes on Nabatieh in southern Lebanon. The attacks caused significant damage and casualties.",
+            "snippet": "Four killed, 20 injured in Israeli strikes on Nabatieh, southern Lebanon sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector - سانا",
+            "title": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector",
             "url": "https://sana.sy/en/international/2340834/",
             "published": "2026-09-06T13:36:50+00:00",
-            "snippet": "Israeli strikes have destroyed a hospital in southern Lebanon, further damaging the healthcare sector. This action exacerbates the humanitarian situation.",
+            "snippet": "Israeli strikes destroy hospital in southern Lebanon, deepening damage to health sector sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank - سانا",
+            "title": "Six Palestinians injured in Israeli attacks on Gaza, West Bank",
             "url": "https://sana.sy/en/international/2340763/",
             "published": "2026-09-06T10:13:28+00:00",
-            "snippet": "Six Palestinians were injured in Israeli attacks on Gaza and the West Bank. The incidents underscore the ongoing violence and its impact on civilians.",
+            "snippet": "Six Palestinians injured in Israeli attacks on Gaza, West Bank sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble - سانا",
+            "title": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble",
             "url": "https://sana.sy/en/middle-east/2340887/",
             "published": "2026-09-06T19:52:08+00:00",
-            "snippet": "Palestinians in Gaza are burying the remains of around 100 victims recovered from the rubble. This recovery effort continues amidst the challenging circumstances.",
+            "snippet": "Palestinians in Gaza bury remains of around 100 victims recovered from rubble sana.sy",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue - سانا",
+            "title": "Death toll from Nepal floods rises to 1,341 as rescue operations continue",
             "url": "https://sana.sy/en/international/2340880/",
             "published": "2026-09-06T18:44:00+00:00",
-            "snippet": "The death toll from floods in Nepal has risen to 1,341 as rescue operations continue. The natural disaster has caused widespread destruction and loss of life.",
+            "snippet": "Death toll from Nepal floods rises to 1,341 as rescue operations continue sana.sy",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1006,6 +1006,8 @@
           }
         ],
         "error": null,
+        "stale": true,
+        "stale_since": "2026-09-07T02:04:33.682163+00:00",
         "rank_method": "latest"
       }
     ],
@@ -1155,10 +1157,10 @@
             "snippet_he": ""
           },
           {
-            "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
-            "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
-            "published": "2026-09-07T00:52:56+00:00",
-            "snippet": "Israeli forces have killed one Palestinian and injured three others in attacks in the West Bank. The victim was shot in the head in Hajja village.",
+            "title": "1 killed, 2 injured in Israeli strike on ambulance in southern Lebanon",
+            "url": "https://www.aa.com.tr/en/middle-east/1-killed-2-injured-in-israeli-strike-on-ambulance-in-southern-lebanon/4049190",
+            "published": "2026-09-07T01:54:51+00:00",
+            "snippet": "One person was killed and two injured in an Israeli strike on an ambulance in southern Lebanon. The attack targeted a moving ambulance in the Nabatieh governorate.",
             "title_he": "",
             "snippet_he": ""
           },
@@ -1171,18 +1173,18 @@
             "snippet_he": ""
           },
           {
-            "title": "1 killed, 2 injured in Israeli strike on ambulance in southern Lebanon",
-            "url": "https://www.aa.com.tr/en/middle-east/1-killed-2-injured-in-israeli-strike-on-ambulance-in-southern-lebanon/4049190",
-            "published": "2026-09-07T01:54:51+00:00",
-            "snippet": "One person was killed and two injured in an Israeli strike on an ambulance in southern Lebanon. The attack targeted a moving ambulance in the Nabatieh governorate.",
+            "title": "Israeli occupiers kill Palestinian, injure 3 others in West Bank attacks",
+            "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-kill-palestinian-injure-3-others-in-west-bank-attacks/4049182",
+            "published": "2026-09-07T00:52:56+00:00",
+            "snippet": "Israeli forces have killed one Palestinian and injured three others in attacks in the West Bank. The victim was shot in the head in Hajja village.",
             "title_he": "",
             "snippet_he": ""
           },
           {
-            "title": "Israeli army issues evacuation warning to residents in south Lebanon ahead of planned strike",
-            "url": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-evacuation-warning-to-residents-in-south-lebanon-ahead-of-planned-strike/4049175",
-            "published": "2026-09-07T00:02:38+00:00",
-            "snippet": "The Israeli army has issued an evacuation warning to residents in southern Lebanon ahead of a planned strike. People in designated buildings and nearby areas are advised to move a significant distance away.",
+            "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official",
+            "url": "https://www.aa.com.tr/en/middle-east/iran-to-declare-restricted-maritime-zone-beyond-strait-of-hormuz-top-security-official/4049165",
+            "published": "2026-09-06T22:31:12+00:00",
+            "snippet": "Any vessel entering new zone will be placed on sanctions list, says Mohsen Rezaei",
             "title_he": "",
             "snippet_he": ""
           }
@@ -1341,6 +1343,5 @@
         "rank_method": "coverage"
       }
     ]
-  },
-  "titles_hash": "c325cd6852942984"
+  }
 }

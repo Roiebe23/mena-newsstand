@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:13:58.358274+00:00",
+  "updated": "2026-09-07T00:45:19.822136+00:00",
   "stages": {
     "fetch": {
       "items": 132,
@@ -167,17 +167,16 @@
           "error": null
         }
       },
-      "headlines_updated": "2026-09-07T00:12:38.953055+00:00"
+      "headlines_updated": "2026-09-07T00:43:30.936397+00:00"
     },
     "normalize": {
       "stats": {
         "dropped_stale": 14,
-        "dropped_no_english": 3,
-        "title_snippet": 29,
+        "title_snippet": 32,
         "title_translated": 1,
         "title_native": 85,
         "in": 132,
-        "kept": 115
+        "kept": 118
       },
       "translator": {
         "configured": true,
@@ -206,6 +205,11 @@
         {
           "source": "Al Mayadeen",
           "title": "مجلس النواب الأميركي يقر مشروع قانون لحجب مساعدات عن جامعات تقاطع \"إسرائيل\"",
+          "reason": "stale (older than 48h)"
+        },
+        {
+          "source": "Jordan Times",
+          "title": "Safadi, Austrian foreign minister discuss bilateral relations, regional developments",
           "reason": "stale (older than 48h)"
         },
         {
@@ -239,11 +243,6 @@
           "reason": "stale (older than 48h)"
         },
         {
-          "source": "Arab News",
-          "title": "Trump says US may hit Iran’s Pickaxe Mountain soon",
-          "reason": "stale (older than 48h)"
-        },
-        {
           "source": "Gulf News",
           "title": "EU backs US-led economic campaign to pressure Iran",
           "reason": "stale (older than 48h)"
@@ -257,108 +256,93 @@
           "source": "Al-Masirah",
           "title": "مشيمش: العدوان على إيران يهدد الاستقرار العالمي ويضع أوروبا وأمريكا على أبواب أزمة كبرى",
           "reason": "stale (older than 48h)"
-        },
-        {
-          "source": "Kan 11",
-          "title": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Al Mayadeen",
-          "title": "استطلاع إسرائيلي: 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-          "reason": "no English text obtainable (title/translation/snippet)"
-        },
-        {
-          "source": "Falastin al-Youm",
-          "title": "استطلاع \"اسرائيلي\" : 83% يحملون نتنياهو مسؤولية الإخفاق في 7 أكتوبر",
-          "reason": "no English text obtainable (title/translation/snippet)"
         }
       ]
     },
     "relevance": {
-      "in": 115,
-      "kept": 61,
+      "in": 118,
+      "kept": 65,
       "dropped": [
         {
           "source": "Kan 11",
-          "title": "Five people were killed and five injured in the crash of a cargo plane at Miami airport.",
-          "sec": 2,
+          "title": "A cargo plane crashed at Miami International Airport, resulting in five fatalities and five injuries.",
+          "sec": 0,
           "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
+          "reason": "no security/geopolitics signal"
         },
         {
           "source": "Kan 11",
-          "title": "The price of fuel dropped by half a shekel at midnight, with the price of a liter of 95 octane gasoline to be…",
+          "title": "The price of fuel decreased by half a shekel at midnight.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "The whole country prayed for the rescue of Ayub, who fell into a well about 80 meters deep.",
+          "title": "A 10-year-old boy named Ayoub has died after falling into a deep well in Algeria.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "N12",
-          "title": "A disturbing incident occurred on a flight from Malta to Nantes, France, where a 22-year-old woman was…",
+          "title": "A young woman was allegedly sexually assaulted during a flight from Malta to Nantes, France, after losing…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "N12",
+          "title": "A 23-year-old man from Jerusalem, David Ben Lulu, who also held French citizenship, died in a motorcycle…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "News 13 | News",
+          "title": "News 13 | News - All the news and updates from Israel and around the world",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This item discusses a proposal made by Netanyahu to Winter and a confrontation during a closed meeting, with…",
+          "title": "This entry is a reference to a specific program, 'Shiḥat ha-Yom' (The Day's Conversation), broadcast on…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This item is a link to the full program \"Shichat Hayom 06.09.26\" for direct viewing.",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Channel 13",
-          "title": "This item is about the band \"HaDag Nachash\" celebrating its 30th anniversary with a grand concert.",
+          "title": "This entry describes a 30th-anniversary concert by the band 'Hadag Nahash', framing it as a significant and…",
           "sec": 0,
           "off": 1,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Channel 13",
-          "title": "This item features a confession from a finalist of \"The Voice\" who expresses amazement at her age and current…",
+          "title": "This entry quotes a contestant from 'The Voice' expressing amazement at her experiences at 17 years old, just…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Channel 13",
+          "title": "This entry refers to politicians Naftali Bennett and Yair Lapid presenting their 'Beh-Yahad' (Together) list.",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "2 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "title": "3 , Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Jazeera",
-          "title": "3 , Egyptian TV presenter sentenced to death in drugs case",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "4 , Can you guess the real size of each country on the new world map?",
+          "title": "4 , Egyptian TV presenter sentenced to death in drugs case",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -379,14 +363,21 @@
         },
         {
           "source": "The New Arab",
-          "title": "Once disgraced, twice-resigned, ex-PM Keir Starmer is now ex-MP",
+          "title": "What a Saxony-Anhalt AfD victory means for Germany's minorities",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "The New Arab",
-          "title": "Turkey pushes KAAN stealth jet as tensions with Israel deepen",
+          "title": "Once disgraced, twice-resigned, ex-PM Keir Starmer is now ex-MP",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Al Mayadeen",
+          "title": "An Israeli Knesset member stated that the removal of Netanyahu is an existential necessity for 'Israeli…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -435,13 +426,6 @@
         },
         {
           "source": "Jordan Times",
-          "title": "Bodies of 9 Jordanians killed in Egypt crash arrive in Kingdom",
-          "sec": 1,
-          "off": 0,
-          "reason": "disaster/accident with no conflict dimension"
-        },
-        {
-          "source": "Jordan Times",
           "title": "Personal loans drive rise in individual debt to JD14.3 billion in Q1 — CBJ",
           "sec": 0,
           "off": 0,
@@ -484,21 +468,21 @@
         },
         {
           "source": "Al-Akhbar",
-          "title": "Al-Burhan is reportedly seeking Eritrea's assistance against Ethiopia, indicating a risk of the conflict…",
+          "title": "A warning has been issued regarding the potential erasure of the remains of thousands of missing persons in…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "This report discusses the conflict over oil and gas corridors and attempts to redraw energy routes in the…",
+          "title": "Reports suggest that the Israeli account of controlling the hills of Ali Taher is not convincing to Israeli…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
         },
         {
           "source": "Al Manar",
-          "title": "Iranian Parliament Speaker Gholamali Lajevardi announced that just as America was defeated militarily and…",
+          "title": "The conflict over oil and gas corridors is a significant aspect of attempts to redraw energy routes in the…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -512,7 +496,14 @@
         },
         {
           "source": "Falastin al-Youm",
-          "title": "A draft law is being considered to penalize American universities that boycott Israel.",
+          "title": "A proposed law aims to penalize American universities that boycott 'Israel.' This legislative initiative was…",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "title": "The Secretary-General of the Organization of Islamic Cooperation has warned against plans to displace…",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -561,21 +552,14 @@
         },
         {
           "source": "Anadolu Agency",
-          "title": "Germany's right-wing AfD set for victory in Saxony-Anhalt with record vote",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Anadolu Agency",
-          "title": "Amazon cargo plane catches fire after overrunning Miami runway, prompts ground stop",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "Anadolu Agency",
           "title": "AfD hails 'historic' Saxony-Anhalt election victory",
+          "sec": 0,
+          "off": 0,
+          "reason": "no security/geopolitics signal"
+        },
+        {
+          "source": "Anadolu Agency",
+          "title": "Germany's right-wing AfD set for victory in Saxony-Anhalt with record vote",
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
@@ -649,31 +633,25 @@
           "sec": 0,
           "off": 0,
           "reason": "no security/geopolitics signal"
-        },
-        {
-          "source": "TRT World",
-          "title": "Germans vote in Saxony-Anhalt election that could bring far-right AfD to power",
-          "sec": 0,
-          "off": 0,
-          "reason": "no security/geopolitics signal"
         }
       ]
     },
     "cluster": {
       "method": "heuristic",
-      "clusters": 40,
+      "clusters": 41,
       "sizes": [
+        8,
         7,
-        7,
+        4,
+        3,
         2,
         2,
         2,
         2,
         2,
         2,
-        2,
-        2,
-        2,
+        1,
+        1,
         1,
         1,
         1,
@@ -732,7 +710,7 @@
             "iranian",
             "turkish"
           ],
-          "members": 7,
+          "members": 8,
           "qualified": true,
           "why_not": null,
           "representative": {
@@ -748,7 +726,12 @@
             "passed_over": [
               {
                 "source": "Al Jazeera",
-                "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
+                "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Al Jazeera",
+                "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
                 "rejected_by": "older than the story's newest wave"
               },
               {
@@ -811,8 +794,8 @@
               },
               {
                 "source": "Falastin al-Youm",
-                "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
-                "rejected_by": "loaded/partisan wording"
+                "title": "Three people were killed in an Israeli airstrike on southern Lebanon.",
+                "rejected_by": "older than the story's newest wave"
               },
               {
                 "source": "SANA",
@@ -824,39 +807,95 @@
         },
         {
           "selected_rank": 3,
-          "headline": "Gaza is holding its third mass funeral in two months.",
+          "headline": "Hezbollah violated a ceasefire, prompting the Israeli military to issue an evacuation warning for a ",
           "rank_key": {
-            "outlets": 2,
+            "outlets": 3,
             "camps": 2,
-            "newest": "2026-09-06T21:30+00:00"
+            "newest": "2026-09-06T23:42+00:00"
           },
           "outlet_names": [
-            "Al-Akhbar",
-            "N12"
+            "Al Manar",
+            "Kan 11",
+            "L'Orient Today"
           ],
           "camps": [
             "israeli",
             "levant"
           ],
-          "members": 2,
+          "members": 4,
           "qualified": true,
           "why_not": null,
           "representative": {
-            "source": "Al-Akhbar",
-            "title": "Gaza is holding its third mass funeral in two months.",
+            "source": "Kan 11",
+            "title": "Hezbollah violated a ceasefire, prompting the Israeli military to issue an evacuation warning for a village…",
             "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
-              "names 2 of the story's dominant entities (funeral, gaza)",
+              "names 1 of the story's dominant entities (hezbollah)",
               "neutral-by-default outlet",
               "derived from the outlet's English snippet"
             ],
-            "passed_over": []
+            "passed_over": [
+              {
+                "source": "L'Orient Today",
+                "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "L'Orient Today",
+                "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage F",
+                "rejected_by": "older than the story's newest wave"
+              },
+              {
+                "source": "Al Manar",
+                "title": "Hezbollah issued a statement criticizing the continuation of what it described a",
+                "rejected_by": "older than the story's newest wave"
+              }
+            ]
           }
         },
         {
           "selected_rank": 4,
-          "headline": "A Yemeni source stated that if Saudi Arabia decides on comprehensive war, Yemeni forces have open an",
+          "headline": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+          "rank_key": {
+            "outlets": 3,
+            "camps": 2,
+            "newest": "2026-09-06T16:13+00:00"
+          },
+          "outlet_names": [
+            "Falastin al-Youm",
+            "TRT World",
+            "WAFA News"
+          ],
+          "camps": [
+            "levant",
+            "turkish"
+          ],
+          "members": 3,
+          "qualified": true,
+          "why_not": null,
+          "representative": {
+            "source": "TRT World",
+            "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
+            "title_source": "native",
+            "why": [
+              "passed every gate (neutral, current, fresh, not a stub)",
+              "names 1 of the story's dominant entities (gaza)",
+              "mainstream outlet phrasing",
+              "outlet's own English headline"
+            ],
+            "passed_over": [
+              {
+                "source": "Falastin al-Youm",
+                "title": "Two martyrs, including a child, and several injured were reported in an Israeli ",
+                "rejected_by": "loaded/partisan wording"
+              }
+            ]
+          }
+        },
+        {
+          "selected_rank": 5,
+          "headline": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces would have nu",
           "rank_key": {
             "outlets": 2,
             "camps": 2,
@@ -875,7 +914,7 @@
           "why_not": null,
           "representative": {
             "source": "Al Mayadeen",
-            "title": "A Yemeni source stated that if Saudi Arabia decides on comprehensive war, Yemeni forces have open and…",
+            "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces would have numerous…",
             "title_source": "snippet",
             "why": [
               "passed every gate (neutral, current, fresh, not a stub)",
@@ -886,14 +925,14 @@
             "passed_over": [
               {
                 "source": "Al Manar",
-                "title": "The Yemeni media center displayed footage of a precise missile strike targeting ",
+                "title": "The Yemeni Armed Forces released footage of a precise missile strike targeting a",
                 "rejected_by": "older than the story's newest wave"
               }
             ]
           }
         },
         {
-          "selected_rank": 5,
+          "selected_rank": null,
           "headline": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
           "rank_key": {
             "outlets": 2,
@@ -963,73 +1002,6 @@
         },
         {
           "selected_rank": null,
-          "headline": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood ",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": "2026-09-06T15:39+00:00"
-          },
-          "outlet_names": [
-            "Falastin al-Youm",
-            "WAFA News"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "WAFA News",
-            "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (gaza)",
-              "neutral-by-default outlet",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Falastin al-Youm",
-                "title": "Two martyrs, including a child, and other injuries occurred in an Israeli bombin",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Human rights organizations have issued warnings about the potential destruction of evidence of genoc",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": "2026-09-06T14:15+00:00"
-          },
-          "outlet_names": [
-            "Al-Akhbar",
-            "Falastin al-Youm"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "Al-Akhbar",
-            "title": "Human rights organizations have issued warnings about the potential destruction of evidence of genocide and…",
-            "title_source": "snippet",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "neutral-by-default outlet",
-              "derived from the outlet's English snippet"
-            ],
-            "passed_over": []
-          }
-        },
-        {
-          "selected_rank": null,
           "headline": "Egypt and seven key allies condemn Israeli ministers’ Gaza displacement proposals",
           "rank_key": {
             "outlets": 2,
@@ -1091,44 +1063,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
-          "rank_key": {
-            "outlets": 2,
-            "camps": 1,
-            "newest": null
-          },
-          "outlet_names": [
-            "Al Manar",
-            "L'Orient Today"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 2,
-          "qualified": true,
-          "why_not": null,
-          "representative": {
-            "source": "L'Orient Today",
-            "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
-            "title_source": "native",
-            "why": [
-              "passed every gate (neutral, current, fresh, not a stub)",
-              "names 1 of the story's dominant entities (hezbollah)",
-              "mainstream outlet phrasing",
-              "outlet's own English headline"
-            ],
-            "passed_over": [
-              {
-                "source": "Al Manar",
-                "title": "Hezbollah issued a statement regarding ongoing Israeli aggression, asserting tha",
-                "rejected_by": "loaded/partisan wording"
-              }
-            ]
-          }
-        },
-        {
-          "selected_rank": null,
-          "headline": "Clashes occurred in the village of Haja near Qalqilya, with Palestinian reports of one person killed",
+          "headline": "Clashes erupted in the village of Hajjah near Qalqilya, with Palestinian reports indicating a death ",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1158,13 +1093,49 @@
           "camps": [
             "turkish"
           ],
+          "members": 2,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "Gaza is preparing to hold its third mass funeral in two months.",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T21:30+00:00"
+          },
+          "outlet_names": [
+            "Al-Akhbar"
+          ],
+          "camps": [
+            "levant"
+          ],
           "members": 1,
           "qualified": false,
           "why_not": "only 1 outlet — needs 2"
         },
         {
           "selected_rank": null,
-          "headline": "At least 10 people were killed and 64 injured in a fireworks explosion at a festival in Mexico.",
+          "headline": "A potential expansion of the war eastward is a concern, with reports suggesting Al-Burhan is seeking",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T21:30+00:00"
+          },
+          "outlet_names": [
+            "Al-Akhbar"
+          ],
+          "camps": [
+            "levant"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "At least 10 people were killed and 64 injured in an explosion that occurred during a festival in Mex",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1182,7 +1153,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "There is a rise in Israeli decisions to ban Jerusalem residents from Al-Aqsa Mosque ahead of Jewish ",
+          "headline": "There has been an increase in Israeli decisions to ban Jerusalemites from Al-Aqsa Mosque in advance ",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1200,7 +1171,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Netanyahu has threatened Iran, stating \"Don't mess with us,\" while the army tests its readiness for ",
+          "headline": "Netanyahu has issued a threat to Iran, stating, 'Do not mess with us,' while the army tests its read",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1218,7 +1189,25 @@
         },
         {
           "selected_rank": null,
-          "headline": "A student claims she was attacked at school and that the management prevented a police investigation",
+          "headline": "French and Jordanian military chiefs discuss regional stability",
+          "rank_key": {
+            "outlets": 1,
+            "camps": 1,
+            "newest": "2026-09-06T17:25+00:00"
+          },
+          "outlet_names": [
+            "Arab News"
+          ],
+          "camps": [
+            "gulf"
+          ],
+          "members": 1,
+          "qualified": false,
+          "why_not": "only 1 outlet — needs 2"
+        },
+        {
+          "selected_rank": null,
+          "headline": "A high school student in Kiryat Yam claims she was attacked at school and that the administration pr",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1254,7 +1243,7 @@
         },
         {
           "selected_rank": null,
-          "headline": "Argentina's Javier Milei has imposed sanctions on companies, including Israeli ones, involved in an ",
+          "headline": "Argentinian President Javier Milei has announced sanctions against companies involved in an oil proj",
           "rank_key": {
             "outlets": 1,
             "camps": 1,
@@ -1289,61 +1278,7 @@
           "why_not": "only 1 outlet — needs 2"
         },
         {
-          "selected_rank": null,
-          "headline": "OPEC+ keeps oil production goals for October unchanged",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T13:48+00:00"
-          },
-          "outlet_names": [
-            "Daily Sabah"
-          ],
-          "camps": [
-            "turkish"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T13:20+00:00"
-          },
-          "outlet_names": [
-            "Egypt Independent"
-          ],
-          "camps": [
-            "levant"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "selected_rank": null,
-          "headline": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
-          "rank_key": {
-            "outlets": 1,
-            "camps": 1,
-            "newest": "2026-09-06T13:03+00:00"
-          },
-          "outlet_names": [
-            "IRNA"
-          ],
-          "camps": [
-            "iranian"
-          ],
-          "members": 1,
-          "qualified": false,
-          "why_not": "only 1 outlet — needs 2"
-        },
-        {
-          "note": "17 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
+          "note": "20 further single-outlet clusters omitted (cannot qualify; see the cluster stage for the full count)"
         }
       ]
     },
@@ -1361,7 +1296,7 @@
   },
   "health": {
     "consecutive_failures": 0,
-    "last_success": "2026-09-07T00:14:12.051061+00:00",
+    "last_success": "2026-09-07T00:46:44.010252+00:00",
     "last_failure": null
   },
   "ok": true

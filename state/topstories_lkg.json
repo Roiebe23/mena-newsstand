@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:14:12.050133+00:00",
+  "updated": "2026-09-07T00:46:44.009423+00:00",
   "method": "heuristic",
   "stories": [
     {
@@ -38,7 +38,7 @@
         {
           "source": "Al Mayadeen",
           "category": "panarab",
-          "title": "Rezaei revealed a restricted zone outside the Strait of Hormuz and confirmed the testing of an anti-destroyer…",
+          "title": "Mohsen Rezaei revealed a restricted zone outside the Strait of Hormuz and confirmed that a missile designed…",
           "title_he": "",
           "url": "https://www.almayadeen.net/news/politics/%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D8%AD%D8%B8%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2---%D9%88%D9%8A%D8%A4%D9%83%D8%AF--%D8%A7%D8%AE%D8%AA%D8%A8%D8%B1%D9%86%D8%A7-%D8%B5",
           "published": "2026-09-06T19:48:47+00:00"
@@ -62,9 +62,17 @@
         {
           "source": "Al Jazeera",
           "category": "panarab",
-          "title": "1 , Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
+          "title": "1 , Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
           "title_he": "",
           "url": "https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+          "published": ""
+        },
+        {
+          "source": "Al Jazeera",
+          "category": "panarab",
+          "title": "2 , Iran to announce new shipping route in Strait of Hormuz ‘in coming days’",
+          "title_he": "",
+          "url": "https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
           "published": ""
         },
         {
@@ -105,7 +113,7 @@
         {
           "source": "Falastin al-Youm",
           "category": "levant",
-          "title": "Three martyrs were killed in an Israeli airstrike on southern Lebanon.",
+          "title": "Three people were killed in an Israeli airstrike on southern Lebanon.",
           "title_he": "",
           "url": "https://paltoday.ps/ar/post/543649/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84",
           "published": "2026-09-06T15:37:00+00:00"
@@ -154,69 +162,93 @@
     },
     {
       "rank": 3,
-      "outlets": 2,
+      "outlets": 3,
       "categories": [
         "israeli",
         "levant"
       ],
       "rep": {
-        "source": "Al-Akhbar",
-        "category": "levant",
-        "title": "Gaza is holding its third mass funeral in two months.",
-        "title_he": "",
-        "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903487/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86",
-        "published": "2026-09-06T21:30:00+00:00"
+        "source": "Kan 11",
+        "category": "israeli",
+        "title": "Hezbollah violated a ceasefire, prompting the Israeli military to issue an evacuation warning for a village…",
+        "title_he": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
+        "url": "22ad8f34a5b04fe2bf6a2e23ac8209e5",
+        "published": "2026-09-06T23:42:38+00:00"
       },
       "members": [
         {
-          "source": "Al-Akhbar",
-          "category": "levant",
-          "title": "Gaza is holding its third mass funeral in two months.",
-          "title_he": "",
-          "url": "https://www.al-akhbar.com/NewspaperArticles/arab/903487/%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86",
-          "published": "2026-09-06T21:30:00+00:00"
+          "source": "Kan 11",
+          "category": "israeli",
+          "title": "Hezbollah violated a ceasefire, prompting the Israeli military to issue an evacuation warning for a village…",
+          "title_he": "בעקבות הפרה של חיזבאללה: צה\"ל פרסם התרעת פינוי לכפר בדרום לבנון",
+          "url": "22ad8f34a5b04fe2bf6a2e23ac8209e5",
+          "published": "2026-09-06T23:42:38+00:00"
         },
         {
-          "source": "N12",
-          "category": "israeli",
-          "title": "Doud Ben Lulu, a 23-year-old from Jerusalem with French citizenship, was killed in a motorcycle accident in…",
-          "title_he": "אסון בווייטנאם: דוד בן לולו בן ה-23 מירושלים נהרג בתאונת אופנוע",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-15ee7dbaf4770a1027.htm",
-          "published": "2026-09-06T15:30:00+00:00"
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "FOCUS How far do the new Turkey-Hezbollah communication channels reach?",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546692/how-far-do-the-new-turkey-hezbollah-communication-channels-reach.html",
+          "published": ""
+        },
+        {
+          "source": "L'Orient Today",
+          "category": "levant",
+          "title": "Israeli strikes on Nabatieh district kill 8, destroy Ghandour Hospital, damage Finance Ministry building",
+          "title_he": "",
+          "url": "https://today.lorientlejour.com/article/1546678/israeli-strikes-kill-2-women-in-arab-salim-destroy-ghandour-hospital-in-nabatieh.html",
+          "published": ""
+        },
+        {
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "Hezbollah issued a statement criticizing the continuation of what it described as an absurd, illegitimate…",
+          "title_he": "",
+          "url": "https://www.almanar.com.lb/article/1154622/",
+          "published": ""
         }
       ]
     },
     {
       "rank": 4,
-      "outlets": 2,
+      "outlets": 3,
       "categories": [
-        "panarab",
-        "levant"
+        "levant",
+        "turkish"
       ],
       "rep": {
-        "source": "Al Mayadeen",
-        "category": "panarab",
-        "title": "A Yemeni source stated that if Saudi Arabia decides on comprehensive war, Yemeni forces have open and…",
+        "source": "TRT World",
+        "category": "turkish",
+        "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
         "title_he": "",
-        "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
-        "published": "2026-09-06T18:57:00+00:00"
+        "url": "https://www.trtworld.com/article/521d65457169",
+        "published": "2026-09-06T16:13:34+00:00"
       },
       "members": [
         {
-          "source": "Al Mayadeen",
-          "category": "panarab",
-          "title": "A Yemeni source stated that if Saudi Arabia decides on comprehensive war, Yemeni forces have open and…",
+          "source": "TRT World",
+          "category": "turkish",
+          "title": "Israel kills two more Palestinians, including a child, in Gaza despite ceasefire deal",
           "title_he": "",
-          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
-          "published": "2026-09-06T18:57:00+00:00"
+          "url": "https://www.trtworld.com/article/521d65457169",
+          "published": "2026-09-06T16:13:34+00:00"
         },
         {
-          "source": "Al Manar",
+          "source": "WAFA News",
           "category": "levant",
-          "title": "The Yemeni media center displayed footage of a precise missile strike targeting a meeting of Saudi coalition…",
+          "title": "Two Palestinians, including a child, were killed in an Israeli airstrike on vehicle in neighborhood of western Gaza City",
           "title_he": "",
-          "url": "https://www.almanar.com.lb/article/1156872/",
-          "published": ""
+          "url": "https://english.wafa.ps/Pages/Details/174416",
+          "published": "2026-09-06T15:39:18+00:00"
+        },
+        {
+          "source": "Falastin al-Youm",
+          "category": "levant",
+          "title": "Two martyrs, including a child, and several injured were reported in an Israeli shelling that targeted a car…",
+          "title_he": "",
+          "url": "https://paltoday.ps/ar/post/543647/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A",
+          "published": "2026-09-06T14:22:00+00:00"
         }
       ]
     },
@@ -225,32 +257,32 @@
       "outlets": 2,
       "categories": [
         "panarab",
-        "turkish"
+        "levant"
       ],
       "rep": {
-        "source": "TRT World",
-        "category": "turkish",
-        "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+        "source": "Al Mayadeen",
+        "category": "panarab",
+        "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces would have numerous…",
         "title_he": "",
-        "url": "https://www.trtworld.com/article/bd664ce317c3",
-        "published": "2026-09-05T22:56:52+00:00"
+        "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+        "published": "2026-09-06T18:57:00+00:00"
       },
       "members": [
         {
-          "source": "TRT World",
-          "category": "turkish",
-          "title": "Putin held 'extremely frank' Ukraine war talks with US envoys, Kremlin says",
+          "source": "Al Mayadeen",
+          "category": "panarab",
+          "title": "A Yemeni source stated that if Saudi Arabia decides on a full-scale war, Yemeni forces would have numerous…",
           "title_he": "",
-          "url": "https://www.trtworld.com/article/bd664ce317c3",
-          "published": "2026-09-05T22:56:52+00:00"
+          "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%85%D9%86%D9%8A--%D8%AD%D8%A7%D9%84-%D9%82%D8%B1%D8%B1%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D8%A5%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA",
+          "published": "2026-09-06T18:57:00+00:00"
         },
         {
-          "source": "Al Arabiya",
-          "category": "panarab",
-          "title": "Putin meets US envoys for Ukraine war talks",
+          "source": "Al Manar",
+          "category": "levant",
+          "title": "The Yemeni Armed Forces released footage of a precise missile strike targeting a meeting of Saudi-aligned…",
           "title_he": "",
-          "url": "https://english.alarabiya.net/News/world/2026/09/05/plane-believed-to-be-carrying-us-envoys-witkoff-kushner-lands-in-moscow-report",
-          "published": "2026-09-05T08:39:00+00:00"
+          "url": "https://www.almanar.com.lb/article/1156872/",
+          "published": ""
         }
       ]
     }
